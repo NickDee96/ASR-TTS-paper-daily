@@ -211,7 +211,7 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
-    with open(filename,"r") as f:
+    with open(filename,"r", encoding='utf-8') as f:
         content = f.read()
         if not content:
             m = {}
@@ -259,14 +259,14 @@ def update_paper_links(filename):
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
         # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
+        with open(filename,"w", encoding='utf-8') as f:
+            json.dump(json_data,f, ensure_ascii=False, indent=2)
 
 def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
+    with open(filename,"r", encoding='utf-8') as f:
         content = f.read()
         if not content:
             m = {}
@@ -285,8 +285,8 @@ def update_json_file(filename,data_dict):
             else:
                 json_data[keyword] = papers
 
-    with open(filename,"w") as f:
-        json.dump(json_data,f)
+    with open(filename,"w", encoding='utf-8') as f:
+        json.dump(json_data,f, ensure_ascii=False, indent=2)
     
 def json_to_md(filename,md_filename,
                task = '',
@@ -313,12 +313,21 @@ def json_to_md(filename,md_filename,
         ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
         ret += s[math_end:]
         return ret
+    
+    def make_anchor(text: str) -> str:
+        """Convert text to GitHub-style anchor link"""
+        # Remove emojis and keep only the text part
+        # GitHub ignores emojis when creating anchors
+        text_only = re.sub(r'[^\w\s]', '', text).strip()
+        # Convert to lowercase and replace spaces with hyphens
+        anchor = text_only.lower().replace(' ', '-')
+        return anchor
   
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
     
-    with open(filename,"r") as f:
+    with open(filename,"r", encoding='utf-8') as f:
         content = f.read()
         if not content:
             data = {}
@@ -326,11 +335,11 @@ def json_to_md(filename,md_filename,
             data = json.loads(content)
 
     # clean README.md if daily already exist else create it
-    with open(md_filename,"w+") as f:
+    with open(md_filename,"w+", encoding='utf-8') as f:
         pass
 
     # write data into README.md
-    with open(md_filename,"a+") as f:
+    with open(md_filename,"a+", encoding='utf-8') as f:
 
         if (use_title == True) and (to_web == True):
             f.write("---\n" + "layout: default\n" + "---\n\n")
@@ -373,8 +382,6 @@ def json_to_md(filename,md_filename,
         #Add: table of contents
         if use_tc == True:
             f.write("## 📚 Table of Contents\n\n")
-            f.write("<details>\n")
-            f.write("  <summary>🔍 Click to expand sections</summary>\n\n")
             
             # Add category emojis
             category_emojis = {
@@ -391,10 +398,10 @@ def json_to_md(filename,md_filename,
                 if not day_content:
                     continue
                 emoji = category_emojis.get(keyword, "📄")
-                kw = keyword.replace(' ','-')      
-                f.write(f"  - {emoji} **[{keyword}](#{kw.lower()})**\n")
-            f.write("\n</details>\n\n")
-            f.write("---\n\n")
+                # Create consistent anchor link - GitHub automatically creates these
+                anchor = make_anchor(f"{emoji} {keyword}")
+                f.write(f"- {emoji} **[{keyword}](#{anchor})**\n")
+            f.write("\n---\n\n")
         
         # Category emojis for section headers
         category_emojis = {
@@ -445,7 +452,8 @@ def json_to_md(filename,md_filename,
             #Add: back to top with styling
             if use_b2t:
                 f.write("<div align=\"right\">\n\n")
-                f.write("*[⬆️ Back to Top](#-table-of-contents)*\n\n")
+                toc_anchor = make_anchor("📚 Table of Contents")
+                f.write(f"*[⬆️ Back to Top](#{toc_anchor})*\n\n")
                 f.write("</div>\n\n")
                 f.write("---\n\n")
             
