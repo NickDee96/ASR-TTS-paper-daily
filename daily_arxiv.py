@@ -20,6 +20,50 @@ base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 
+def _safe_json_loads(content: str) -> dict:
+    """
+    Safely load JSON content.
+    - If empty -> return {}
+    - If valid JSON -> return parsed object
+    - If concatenated JSON objects (Extra data) -> parse the first object and ignore the rest
+    - On any error -> log and return {}
+    """
+    if not content or content.strip() == "":
+        return {}
+    try:
+        data = json.loads(content)
+        if isinstance(data, dict):
+            return data
+        # If it's not a dict, return empty to keep expected shape
+        logging.warning("JSON root is not an object; resetting to empty dict.")
+        return {}
+    except json.JSONDecodeError as e:
+        # Try to decode the first JSON object if file contains concatenated JSON
+        try:
+            decoder = json.JSONDecoder()
+            obj, end = decoder.raw_decode(content)
+            if isinstance(obj, dict):
+                logging.warning(f"JSON contained extra data after first object at pos {end}; ignoring trailing content.")
+                return obj
+            logging.warning("First decoded JSON value is not an object; resetting to empty dict.")
+            return {}
+        except Exception:
+            logging.error(f"Failed to parse JSON file: {e}. Resetting to empty dict.")
+            return {}
+    except Exception as e:
+        logging.error(f"Unexpected error parsing JSON content: {e}. Resetting to empty dict.")
+        return {}
+
+def _read_json_file(path: str) -> dict:
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return _safe_json_loads(f.read())
+    except FileNotFoundError:
+        return {}
+    except Exception as e:
+        logging.error(f"Error reading JSON file '{path}': {e}")
+        return {}
+
 def load_config(config_file:str) -> dict:
     '''
     config_file: input config file path
@@ -82,7 +126,15 @@ def get_code_link(qword:str) -> str|None:
             "sort": "stars",
             "order": "desc"
         }
-        r = requests.get(github_url, params=params, timeout=10)
+        headers = {
+            "Accept": "application/vnd.github+json",
+            "User-Agent": "asr-tts-paper-daily-bot"
+        }
+        token = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
+        if token:
+            headers["Authorization"] = f"Bearer {token}"
+
+        r = requests.get(github_url, params=params, headers=headers, timeout=10)
         r.raise_for_status()  # Raise an exception for bad status codes
         results = r.json()
         code_link = None
@@ -211,68 +263,56 @@ def update_paper_links(filename):
         arxiv_id = re.sub(r'v\d+', '', arxiv_id)
         return date,title,authors,arxiv_id,code
 
-    with open(filename,"r", encoding='utf-8') as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-        json_data = m.copy() 
+    m = _read_json_file(filename)
+    json_data = m.copy()
 
-        for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
-                contents = str(contents)
+    for keywords, v in json_data.items():
+        logging.info(f'keywords = {keywords}')
+        for paper_id, contents in v.items():
+            contents = str(contents)
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+            update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
-                json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
-                
-                valid_link = False if '|null|' in contents else True
-                if valid_link:
-                    continue
+            contents = "|{}|{}|{}|{}|{}|\n".format(update_time, paper_title, paper_first_author, paper_url, code_url)
+            json_data[keywords][paper_id] = str(contents)
+            logging.info(f'paper_id = {paper_id}, contents = {contents}')
+
+            valid_link = False if '|null|' in contents else True
+            if valid_link:
+                continue
+            try:
+                code_url = base_url + paper_id  # TODO
+                repo_url = None
                 try:
-                    code_url = base_url + paper_id #TODO
-                    repo_url = None
+                    # First try with normal SSL verification
+                    r = requests.get(code_url, timeout=10).json()
+                    if "official" in r and r["official"]:
+                        repo_url = r["official"]["url"]
+                except (requests.exceptions.SSLError, requests.exceptions.ConnectionError):
+                    # Fallback: try without SSL verification
                     try:
-                        # First try with normal SSL verification
-                        r = requests.get(code_url, timeout=10).json()
+                        r = requests.get(code_url, timeout=10, verify=False).json()
                         if "official" in r and r["official"]:
                             repo_url = r["official"]["url"]
-                    except (requests.exceptions.SSLError, requests.exceptions.ConnectionError):
-                        # Fallback: try without SSL verification
-                        try:
-                            r = requests.get(code_url, timeout=10, verify=False).json()
-                            if "official" in r and r["official"]:
-                                repo_url = r["official"]["url"]
-                        except:
-                            pass  # Skip if both methods fail
-                    
-                    if repo_url is not None:
-                        new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                        logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                        json_data[keywords][paper_id] = str(new_cont)
+                    except:
+                        pass  # Skip if both methods fail
 
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
-        # dump to json file
-        with open(filename,"w", encoding='utf-8') as f:
-            json.dump(json_data,f, ensure_ascii=False, indent=2)
+                if repo_url is not None:
+                    new_cont = contents.replace('|null|', f'|**[link]({repo_url})**|')
+                    logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                    json_data[keywords][paper_id] = str(new_cont)
+
+            except Exception as e:
+                logging.error(f"exception: {e} with id: {paper_id}")
+    # dump to json file
+    with open(filename, "w", encoding='utf-8') as f:
+        json.dump(json_data, f, ensure_ascii=False, indent=2)
 
 def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r", encoding='utf-8') as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
+    m = _read_json_file(filename)
     json_data = m.copy() 
     
     # update papers in each keywords         
@@ -327,12 +367,7 @@ def json_to_md(filename,md_filename,
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
     
-    with open(filename,"r", encoding='utf-8') as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = _read_json_file(filename)
 
     # clean README.md if daily already exist else create it
     with open(md_filename,"w+", encoding='utf-8') as f:
