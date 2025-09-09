@@ -322,45 +322,94 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Contributors][contributors-shield]][contributors-url]\n")
             f.write(f"[![Forks][forks-shield]][forks-url]\n")
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
-            f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
+            f.write(f"[![Issues][issues-shield]][issues-url]\n")
+            f.write(f"[![GitHub Pages][pages-shield]][pages-url]\n\n")    
                 
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## Updated on " + DateNow + "\n")
+            if to_web == False:
+                # Enhanced README header
+                f.write("<div align=\"center\">\n\n")
+                f.write("# 🎯 ASR-TTS Paper Daily\n\n")
+                f.write("*Automatically curated collection of the latest research papers in Speech & Language Technology*\n\n")
+                f.write("📅 **Updated on " + DateNow + "**\n\n")
+                f.write("---\n\n")
+                f.write("</div>\n\n")
+            else:
+                f.write("# 🎯 ASR-TTS Paper Daily\n\n")
+                f.write("*Automatically curated collection of the latest research papers in Speech & Language Technology*\n\n")
+                f.write("📅 **Updated on " + DateNow + "**\n\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write("> 📅 Updated on " + DateNow + "\n")
 
-        # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
-        f.write("> This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)\n\n")
+        # Enhanced description
+        f.write("## 🌟 About This Repository\n\n")
+        f.write("This repository provides a **daily-updated collection** of the latest research papers from arXiv in the following domains:\n\n")
+        f.write("- 🎤 **Automatic Speech Recognition (ASR)**\n")
+        f.write("- 🗣️ **Text-to-Speech (TTS)**\n") 
+        f.write("- 🌐 **Machine Translation**\n")
+        f.write("- ⚡ **Small Language Models**\n")
+        f.write("- 🔄 **Data Augmentation**\n")
+        f.write("- 🎨 **Synthetic Generation**\n\n")
+        f.write("> 📖 Usage instructions: [here](./docs/README.md#usage) | 🌐 Web version: [GitHub Pages](https://nickdee96.github.io/ASR-TTS-paper-daily/)\n\n")
+        f.write("> 💡 This page is inspired by [cv-arxiv-daily](https://github.com/Vincentqyw/cv-arxiv-daily)\n\n")
 
         #Add: table of contents
         if use_tc == True:
+            f.write("## 📚 Table of Contents\n\n")
             f.write("<details>\n")
-            f.write("  <summary>Table of Contents</summary>\n")
-            f.write("  <ol>\n")
+            f.write("  <summary>🔍 Click to expand sections</summary>\n\n")
+            
+            # Add category emojis
+            category_emojis = {
+                "ASR": "🎤",
+                "TTS": "🗣️", 
+                "Machine Translation": "🌐",
+                "Small Language Models": "⚡",
+                "Data Augmentation": "🔄",
+                "Synthetic Generation": "🎨"
+            }
+            
             for keyword in data.keys():
                 day_content = data[keyword]
                 if not day_content:
                     continue
+                emoji = category_emojis.get(keyword, "📄")
                 kw = keyword.replace(' ','-')      
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
-            f.write("  </ol>\n")
-            f.write("</details>\n\n")
+                f.write(f"  - {emoji} **[{keyword}](#{kw.lower()})**\n")
+            f.write("\n</details>\n\n")
+            f.write("---\n\n")
+        
+        # Category emojis for section headers
+        category_emojis = {
+            "ASR": "🎤",
+            "TTS": "🗣️", 
+            "Machine Translation": "🌐",
+            "Small Language Models": "⚡",
+            "Data Augmentation": "🔄",
+            "Synthetic Generation": "🎨"
+        }
         
         for keyword in data.keys():
             day_content = data[keyword]
             if not day_content:
                 continue
-            # the head of each part
-            f.write(f"## {keyword}\n\n")
+            
+            # Enhanced section header with emoji and styling
+            emoji = category_emojis.get(keyword, "📄")
+            f.write(f"## {emoji} {keyword}\n\n")
+            
+            # Add paper count
+            paper_count = len(day_content)
+            f.write(f"*📊 {paper_count} papers*\n\n")
 
             if use_title == True :
                 if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
+                    # Enhanced table with better styling
+                    f.write("<div align=\"center\">\n\n")
+                    f.write("| 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |\n")
+                    f.write("|:---:|:---|:---:|:---:|:---:|\n")
                 else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
+                    f.write("| 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |\n")
                     f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
 
             # sort papers by date
@@ -370,32 +419,46 @@ def json_to_md(filename,md_filename,
                 if v is not None:
                     f.write(pretty_math(v)) # make latex pretty
 
-            f.write(f"\n")
+            # Close table div for non-web version
+            if use_title == True and to_web == False:
+                f.write("\n</div>\n\n")
+            else:
+                f.write(f"\n")
             
-            #Add: back to top
+            #Add: back to top with styling
             if use_b2t:
-                top_info = f"#Updated on {DateNow}"
-                top_info = top_info.replace(' ','-').replace('.','')
-                f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
+                f.write("<div align=\"right\">\n\n")
+                f.write("*[⬆️ Back to Top](#-table-of-contents)*\n\n")
+                f.write("</div>\n\n")
+                f.write("---\n\n")
             
         if show_badge == True:
-            # we don't like long string, break it!
+            # Add footer section
+            f.write("---\n\n")
+            f.write("## 🤝 Contributing\n\n")
+            f.write("Contributions are welcome! Please feel free to submit issues or pull requests.\n\n")
+            f.write("## ⭐ Star History\n\n")
+            f.write("If you find this repository useful, please consider giving it a star!\n\n")
+            
+            # Updated badge links for your repository
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
+                     f"contributors/nickdee96/ASR-TTS-paper-daily.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/nickdee96/"
+                     f"ASR-TTS-paper-daily/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/nickdee96/"
+                     f"ASR-TTS-paper-daily.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/nickdee96/"
+                     f"ASR-TTS-paper-daily/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/nickdee96/"
+                     f"ASR-TTS-paper-daily.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/nickdee96/"
+                     f"ASR-TTS-paper-daily/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/nickdee96/"
+                     f"ASR-TTS-paper-daily.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/nickdee96/"
+                     f"ASR-TTS-paper-daily/issues\n"))
+            f.write((f"[pages-shield]: https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?style=for-the-badge&logo=github\n"))
+            f.write((f"[pages-url]: https://nickdee96.github.io/ASR-TTS-paper-daily/\n\n"))
                 
     logging.info(f"{task} finished")        
 
