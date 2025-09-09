@@ -23,14 +23,50 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "ASR":
-        filters: ["ASR", "Speech Recognition", "Automatic Speech Recognition"]
+        filters: ["ASR", "Speech Recognition", "Automatic Speech Recognition", "STT"]
+        include:
+            any: ["ASR", "Speech Recognition", "Automatic Speech Recognition", "STT", "speech", "recognition", "transducer", "ctc"]
+            all: []
+        exclude: ["text-to-speech", "tts", "speech synthesis", "voice cloning", "speaker diarization", "speaker recognition", "emotion recognition", "speech enhancement"]
+        min_score: 2
+        title_weight: 2
     "TTS":
         filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis"]
+        include:
+            any: ["TTS", "Text-to-Speech", "Text to speech", "Speech Synthesis", "Voice Synthesis", "synthesis", "tts", "voice cloning"]
+            all: []
+        exclude: ["ASR", "STT", "speech recognition", "automatic speech recognition", "speaker diarization", "speaker recognition"]
+        min_score: 2
+        title_weight: 2
     "Machine Translation":
         filters: ["Machine Translation", "Neural Machine Translation", "NMT", "Translation Model", "Cross-lingual", "Multilingual Translation"]
+        include:
+            any: ["machine translation", "neural machine translation", "nmt", "translation", "cross-lingual", "multilingual", "mt"]
+            all: []
+        exclude: ["text-to-speech", "tts", "speech synthesis", "voice cloning", "speaker diarization"]
+        min_score: 2
+        title_weight: 2
     "Small Language Models":
         filters: ["Small Language Model", "Compact Language Model", "Efficient Language Model", "Lightweight LM", "Parameter-Efficient", "Model Compression", "Knowledge Distillation", "Pruning", "Quantization"]
+        include:
+            any: ["small language model", "compact", "efficient", "lightweight", "parameter-efficient", "distillation", "pruning", "quantization", "compression", "peft"]
+            all: []
+        exclude: ["text-to-speech", "tts", "speech synthesis", "speech recognition", "audio"]
+        min_score: 2
+        title_weight: 2
     "Data Augmentation":
         filters: ["Data Augmentation", "Text Augmentation", "Audio Augmentation", "Speech Augmentation", "Paraphrasing", "Back Translation", "Mixup", "CutMix", "SpecAugment", "Augmentation Strategy"]
+        include:
+            any: ["augmentation", "data augmentation", "text augmentation", "audio augmentation", "speech augmentation", "paraphrasing", "back translation", "mixup", "cutmix", "specaugment"]
+            all: []
+        exclude: ["voice cloning", "text-to-speech", "tts", "speech synthesis"]
+        min_score: 2
+        title_weight: 2
     "Synthetic Generation":
         filters: ["Synthetic Data Generation", "Text Generation", "Audio Generation", "Synthetic Speech", "Audio Synthesis", "Generative Model", "Data Synthesis", "Voice Cloning", "Speech Generation"]
+        include:
+            any: ["synthetic", "data synthesis", "synthetic data", "text generation", "audio generation", "speech generation", "voice cloning", "audio synthesis", "generative"]
+            all: []
+        exclude: ["augmentation", "mixup", "cutmix", "specaugment", "back translation", "paraphrasing"]
+        min_score: 2
+        title_weight: 2

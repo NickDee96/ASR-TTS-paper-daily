@@ -33,6 +33,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 *📊 100 papers*
 
+<div class="filter-bar">
+	<label><strong>Filter:</strong></label>
+	<input type="search" class="table-filter" placeholder="Type to filter by title or authors..." />
+	<small>Client-side filter — matches text in Title and Authors.</small>
+	<hr />
+</div>
+
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-08**|**ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data**|Vladislav Stankov et.al.|[2509.06675](http://arxiv.org/abs/2509.06675)|null|
@@ -139,6 +146,13 @@ This repository provides a **daily-updated collection** of the latest research p
 ## 🗣️ TTS
 
 *📊 100 papers*
+
+<div class="filter-bar">
+	<label><strong>Filter:</strong></label>
+	<input type="search" class="table-filter" placeholder="Type to filter by title or authors..." />
+	<small>Client-side filter — matches text in Title and Authors.</small>
+	<hr />
+</div>
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -247,6 +261,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 *📊 100 papers*
 
+<div class="filter-bar">
+	<label><strong>Filter:</strong></label>
+	<input type="search" class="table-filter" placeholder="Type to filter by title or authors..." />
+	<small>Client-side filter — matches text in Title and Authors.</small>
+	<hr />
+</div>
+
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-05**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|
@@ -354,6 +375,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 *📊 10 papers*
 
+<div class="filter-bar">
+	<label><strong>Filter:</strong></label>
+	<input type="search" class="table-filter" placeholder="Type to filter by title or authors..." />
+	<small>Client-side filter — matches text in Title and Authors.</small>
+	<hr />
+</div>
+
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-08**|**H $_{2}$ OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|
@@ -370,6 +398,13 @@ This repository provides a **daily-updated collection** of the latest research p
 ## 🔄 Data Augmentation
 
 *📊 100 papers*
+
+<div class="filter-bar">
+	<label><strong>Filter:</strong></label>
+	<input type="search" class="table-filter" placeholder="Type to filter by title or authors..." />
+	<small>Client-side filter — matches text in Title and Authors.</small>
+	<hr />
+</div>
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
