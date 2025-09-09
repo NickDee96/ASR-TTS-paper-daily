@@ -269,7 +269,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ⚡ Small Language Models {#small-language-models}
 
-*📊 10 papers*
+*📊 47 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -283,6 +283,43 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-08**|**LoaQ: Layer-wise Output Approximation Quantization**|Li Lin et.al.|[2509.06297](http://arxiv.org/abs/2509.06297)|null|
 |**2025-09-08**|**FineServe: Precision-Aware KV Slab and Two-Level Scheduling for Heterogeneous Precision LLM Serving**|Kyungmin Bin et.al.|[2509.06261](http://arxiv.org/abs/2509.06261)|null|
 |**2025-09-07**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
+|**2025-09-07**|**StripDet: Strip Attention-Based Lightweight 3D Object Detection from Point Cloud**|Weichao Wang et.al.|[2509.05954](http://arxiv.org/abs/2509.05954)|null|
+|**2025-09-07**|**Quantization of bounded symplectic domains associated with compact Lie groups**|Alexey A. Sharapov et.al.|[2509.05931](http://arxiv.org/abs/2509.05931)|null|
+|**2025-09-06**|**Batalin-Fradkin-Vilkovisky Quantization of FLPR model**|Ansha S. Nair et.al.|[2509.05632](http://arxiv.org/abs/2509.05632)|null|
+|**2025-09-06**|**Quantization of spin circular photogalvanic effect in altermagnetic Weyl semimetals**|Hiroki Yoshida et.al.|[2509.05620](http://arxiv.org/abs/2509.05620)|null|
+|**2025-09-06**|**SpecPrune-VLA: Accelerating Vision-Language-Action Models via Action-Aware Self-Speculative Pruning**|Hanzhen Wang et.al.|[2509.05614](http://arxiv.org/abs/2509.05614)|null|
+|**2025-09-06**|**Mitigating Spurious Correlations Between Question and Answer via Chain-of-Thought Correctness Perception Distillation**|Hongyan Xie et.al.|[2509.05602](http://arxiv.org/abs/2509.05602)|null|
+|**2025-09-06**|**ProfilingAgent: Profiling-Guided Agentic Reasoning for Adaptive Model Optimization**|Sadegh Jafari et.al.|[2509.05584](http://arxiv.org/abs/2509.05584)|null|
+|**2025-09-06**|**Sensitivity-Aware Post-Training Quantization for Deep Neural Networks**|Zekang Zheng et.al.|[2509.05576](http://arxiv.org/abs/2509.05576)|null|
+|**2025-09-05**|**SuperSNN: A Hardware-Aware Framework for Physically Realizable, High-Performance Superconducting Spiking Neural Network Chips**|Changxu Song et.al.|[2509.05532](http://arxiv.org/abs/2509.05532)|null|
+|**2025-09-05**|**Dynamic Sensitivity Filter Pruning using Multi-Agent Reinforcement Learning For DCNN's**|Iftekhar Haider Chowdhury et.al.|[2509.05446](http://arxiv.org/abs/2509.05446)|null|
+|**2025-09-05**|**Accuracy-Constrained CNN Pruning for Efficient and Reliable EEG-Based Seizure Detection**|Mounvik K et.al.|[2509.05190](http://arxiv.org/abs/2509.05190)|null|
+|**2025-09-05**|**FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies**|Moritz Reuss et.al.|[2509.04996](http://arxiv.org/abs/2509.04996)|null|
+|**2025-09-05**|**PLaMo 2 Technical Report**|Preferred Networks et.al.|[2509.04897](http://arxiv.org/abs/2509.04897)|null|
+|**2025-09-05**|**AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design**|Keqin Zhang et.al.|[2509.04805](http://arxiv.org/abs/2509.04805)|null|
+|**2025-09-05**|**STADI: Fine-Grained Step-Patch Diffusion Parallelism for Heterogeneous GPUs**|Han Liang et.al.|[2509.04719](http://arxiv.org/abs/2509.04719)|null|
+|**2025-09-03**|**Advancing SLM Tool-Use Capability using Reinforcement Learning**|Dhruvi Paprunia et.al.|[2509.04518](http://arxiv.org/abs/2509.04518)|null|
+|**2025-09-02**|**ProST: Progressive Sub-task Training for Pareto-Optimal Multi-agent Systems Using Small Language Models**|Biddut Sarker Bijoy et.al.|[2509.04508](http://arxiv.org/abs/2509.04508)|null|
+|**2025-09-04**|**PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference**|Krishna Teja Chitty-Venkata et.al.|[2509.04377](http://arxiv.org/abs/2509.04377)|null|
+|**2025-09-04**|**Integrating Pruning with Quantization for Efficient Deep Neural Networks Compression**|Sara Makenali et.al.|[2509.04244](http://arxiv.org/abs/2509.04244)|null|
+|**2025-09-04**|**Real Time FPGA Based Transformers & VLMs for Vision Tasks: SOTA Designs and Optimizations**|Safa Mohammed Sali et.al.|[2509.04162](http://arxiv.org/abs/2509.04162)|null|
+|**2025-09-04**|**Real Time FPGA Based CNNs for Detection, Classification, and Tracking in Autonomous Systems: State of the Art Designs and Optimizations**|Safa Mohammed Sali et.al.|[2509.04153](http://arxiv.org/abs/2509.04153)|null|
+|**2025-09-04**|**Duality between polyhedral approximation of value functions and optimal quantization of measures**|Abdellah Bulaich Mehamdi et.al.|[2509.04101](http://arxiv.org/abs/2509.04101)|null|
+|**2025-09-04**|**Robust MIMO Semantic Communication with Imperfect CSI via Knowledge Distillation**|Mingze Gong et.al.|[2509.04005](http://arxiv.org/abs/2509.04005)|null|
+|**2025-09-04**|**Data-Augmented Quantization-Aware Knowledge Distillation**|Justin Kur et.al.|[2509.03850](http://arxiv.org/abs/2509.03850)|null|
+|**2025-09-03**|**QuantV2X: A Fully Quantized Multi-Agent System for Cooperative Perception**|Seth Z. Zhao et.al.|[2509.03704](http://arxiv.org/abs/2509.03704)|null|
+|**2025-09-03**|**DPQuant: Efficient and Differentially-Private Model Training via Dynamic Quantization Scheduling**|Yubo Gao et.al.|[2509.03472](http://arxiv.org/abs/2509.03472)|null|
+|**2025-09-08**|**Amplifying Effective CXL Memory Bandwidth for LLM Inference via Transparent Near-Data Processing**|Rui Xie et.al.|[2509.03377](http://arxiv.org/abs/2509.03377)|null|
+|**2025-09-03**|**NeurStore: Efficient In-database Deep Learning Model Management System**|Siqi Xiang et.al.|[2509.03228](http://arxiv.org/abs/2509.03228)|null|
+|**2025-09-03**|**BAMG: A Block-Aware Monotonic Graph Index for Disk-Based Approximate Nearest Neighbor Search**|Huiling Li et.al.|[2509.03226](http://arxiv.org/abs/2509.03226)|null|
+|**2025-09-03**|**CapsBeam: Accelerating Capsule Network based Beamformer for Ultrasound Non-Steered Plane Wave Imaging on Field Programmable Gate Array**|Abdul Rahoof et.al.|[2509.03201](http://arxiv.org/abs/2509.03201)|null|
+|**2025-09-03**|**Deep Self-knowledge Distillation: A hierarchical supervised learning for coronary artery segmentation**|Mingfeng Lin et.al.|[2509.03173](http://arxiv.org/abs/2509.03173)|null|
+|**2025-09-03**|**FastCaps: A Design Methodology for Accelerating Capsule Network on Field Programmable Gate Arrays**|Abdul Rahoof et.al.|[2509.03103](http://arxiv.org/abs/2509.03103)|null|
+|**2025-09-03**|**Binary Quantization For LLMs Through Dynamic Grouping**|Xinzhe Zheng et.al.|[2509.03054](http://arxiv.org/abs/2509.03054)|null|
+|**2025-09-02**|**LExI: Layer-Adaptive Active Experts for Efficient MoE Model Inference**|Krishna Teja Chitty-Venkata et.al.|[2509.02753](http://arxiv.org/abs/2509.02753)|null|
+|**2025-09-02**|**A quantization of the $\operatorname{SL}_2(\mathbb{C})$ -Chern-Simons invariant of tangle exteriors**|Calvin McPhail-Snyder et.al.|[2509.02365](http://arxiv.org/abs/2509.02365)|null|
+|**2025-09-02**|**All-optical band structure reconstruction and onset of Landau quantization of Dirac fermions**|Josef Riepl et.al.|[2509.02362](http://arxiv.org/abs/2509.02362)|null|
+|**2025-09-02**|**Operator Algebras and Third Quantization**|Yidong Chen et.al.|[2509.02293](http://arxiv.org/abs/2509.02293)|null|
 
 ## 🔄 Data Augmentation {#data-augmentation}
 
@@ -291,7 +328,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|
-|**2025-09-08**|**Contrastive Self-Supervised Network Intrusion Detection using Augmented Negative Pairs**|Jack Wilkie et.al.|[2509.06550](http://arxiv.org/abs/2509.06550)|**[link](https://github.com/jackwilkie/CLAN)**|
+|**2025-09-08**|**Contrastive Self-Supervised Network Intrusion Detection using Augmented Negative Pairs**|Jack Wilkie et.al.|[2509.06550](http://arxiv.org/abs/2509.06550)|null|
 |**2025-09-08**|**IGAff: Benchmarking Adversarial Iterative and Genetic Affine Algorithms on Deep Neural Networks**|Sebastian-Vasile Echim et.al.|[2509.06459](http://arxiv.org/abs/2509.06459)|null|
 |**2025-09-08**|**CAPMix: Robust Time Series Anomaly Detection Based on Abnormal Assumptions with Dual-Space Mixup**|Xudong Mou et.al.|[2509.06419](http://arxiv.org/abs/2509.06419)|null|
 |**2025-09-08**|**PL-CA: A Parametric Legal Case Augmentation Framework**|Ao Chang et.al.|[2509.06356](http://arxiv.org/abs/2509.06356)|null|
@@ -362,7 +399,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 6 papers*
+*📊 36 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -372,6 +409,36 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-08**|**Text4Seg++: Advancing Image Segmentation via Generative Language Modeling**|Mengcheng Lan et.al.|[2509.06321](http://arxiv.org/abs/2509.06321)|null|
 |**2025-09-07**|**If generative AI is the answer, what is the question?**|Ambuj Tewari et.al.|[2509.06120](http://arxiv.org/abs/2509.06120)|null|
 |**2025-09-07**|**DreamAudio: Customized Text-to-Audio Generation with Diffusion Models**|Yi Yuan et.al.|[2509.06027](http://arxiv.org/abs/2509.06027)|null|
+|**2025-09-06**|**GUIDe: Generative and Uncertainty-Informed Inverse Design for On-Demand Nonlinear Functional Responses**|Haoxuan Dylan Mu et.al.|[2509.05641](http://arxiv.org/abs/2509.05641)|null|
+|**2025-09-04**|**SasAgent: Multi-Agent AI System for Small-Angle Scattering Data Analysis**|Lijie Ding et.al.|[2509.05363](http://arxiv.org/abs/2509.05363)|null|
+|**2025-09-02**|**Ensembling Membership Inference Attacks Against Tabular Generative Models**|Joshua Ward et.al.|[2509.05350](http://arxiv.org/abs/2509.05350)|null|
+|**2025-09-04**|**Improved 3D Scene Stylization via Text-Guided Generative Image Editing with Region-Based Control**|Haruo Fujiwara et.al.|[2509.05285](http://arxiv.org/abs/2509.05285)|null|
+|**2025-09-05**|**Recomposer: Event-roll-guided generative audio editing**|Daniel P. W. Ellis et.al.|[2509.05256](http://arxiv.org/abs/2509.05256)|null|
+|**2025-09-08**|**Probabilistic operator learning: generative modeling and uncertainty quantification for foundation models of differential equations**|Benjamin J. Zhang et.al.|[2509.05186](http://arxiv.org/abs/2509.05186)|null|
+|**2025-09-05**|**Painting the market: generative diffusion models for financial limit order book simulation and forecasting**|Alfred Backhouse et.al.|[2509.05107](http://arxiv.org/abs/2509.05107)|null|
+|**2025-09-05**|**QCA-MolGAN: Quantum Circuit Associative Molecular GAN with Multi-Agent Reinforcement Learning**|Aaron Mark Thomas et.al.|[2509.05051](http://arxiv.org/abs/2509.05051)|null|
+|**2025-09-05**|**Efficient Video-to-Audio Generation via Multiple Foundation Models Mapper**|Gehui Chen et.al.|[2509.04957](http://arxiv.org/abs/2509.04957)|null|
+|**2025-09-05**|**SynGen-Vision: Synthetic Data Generation for training industrial vision models**|Alpana Dubey et.al.|[2509.04894](http://arxiv.org/abs/2509.04894)|null|
+|**2025-09-04**|**Transition Models: Rethinking the Generative Learning Objective**|Zidong Wang et.al.|[2509.04394](http://arxiv.org/abs/2509.04394)|null|
+|**2025-09-04**|**AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds**|Qizhou Wang et.al.|[2509.04345](http://arxiv.org/abs/2509.04345)|null|
+|**2025-09-04**|**Synthetic Survival Data Generation for Heart Failure Prognosis Using Deep Generative Models**|Chanon Puttanawarut et.al.|[2509.04245](http://arxiv.org/abs/2509.04245)|null|
+|**2025-09-04**|**Synthesizing Sheet Music Problems for Evaluation and Reinforcement Learning**|Zhilin Wang et.al.|[2509.04059](http://arxiv.org/abs/2509.04059)|null|
+|**2025-09-04**|**An invertible generative model for forward and inverse problems**|Tristan van Leeuwen et.al.|[2509.03910](http://arxiv.org/abs/2509.03910)|null|
+|**2025-09-04**|**Diffusion Generative Models Meet Compressed Sensing, with Applications to Image Data and Financial Time Series**|Zhengyi Guo et.al.|[2509.03898](http://arxiv.org/abs/2509.03898)|null|
+|**2025-09-03**|**LuxDiT: Lighting Estimation with Video Diffusion Transformer**|Ruofan Liang et.al.|[2509.03680](http://arxiv.org/abs/2509.03680)|null|
+|**2025-09-05**|**CEHR-XGPT: A Scalable Multi-Task Foundation Model for Electronic Health Records**|Chao Pang et.al.|[2509.03643](http://arxiv.org/abs/2509.03643)|null|
+|**2025-09-03**|**Multi-level SSL Feature Gating for Audio Deepfake Detection**|Hoan My Tran et.al.|[2509.03409](http://arxiv.org/abs/2509.03409)|null|
+|**2025-09-03**|**Generative Auto-Bidding in Large-Scale Competitive Auctions via Diffusion Completer-Aligner**|Yewen Li et.al.|[2509.03348](http://arxiv.org/abs/2509.03348)|null|
+|**2025-09-03**|**A Comprehensive Guide to Differential Privacy: From Theory to User Expectations**|Napsu Karmitsa et.al.|[2509.03294](http://arxiv.org/abs/2509.03294)|null|
+|**2025-09-03**|**Improving Perceptual Audio Aesthetic Assessment via Triplet Loss and Self-Supervised Embeddings**|Dyah A. M. G. Wisnu et.al.|[2509.03292](http://arxiv.org/abs/2509.03292)|null|
+|**2025-09-03**|**RTGMFF: Enhanced fMRI-based Brain Disorder Diagnosis via ROI-driven Text Generation and Multimodal Feature Fusion**|Junhao Jia et.al.|[2509.03214](http://arxiv.org/abs/2509.03214)|null|
+|**2025-09-03**|**Eigendecompositions of temporal networks**|Lucas Lacasa et.al.|[2509.03135](http://arxiv.org/abs/2509.03135)|null|
+|**2025-09-03**|**Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers**|Xingyue Huang et.al.|[2509.03059](http://arxiv.org/abs/2509.03059)|null|
+|**2025-09-03**|**Scale-Adaptive Generative Flows for Multiscale Scientific Data**|Yifan Chen et.al.|[2509.02971](http://arxiv.org/abs/2509.02971)|null|
+|**2025-09-02**|**Generative AI for Crystal Structures: A Review**|Pierre-Paul De Breuck et.al.|[2509.02723](http://arxiv.org/abs/2509.02723)|null|
+|**2025-09-02**|**Top-H Decoding: Adapting the Creativity and Coherence with Bounded Entropy in Text Generation**|Erfan Baghaei Potraghloo et.al.|[2509.02510](http://arxiv.org/abs/2509.02510)|null|
+|**2025-09-02**|**Exploring Variational Graph Autoencoders for Distribution Grid Data Generation**|Syed Zain Abbas et.al.|[2509.02469](http://arxiv.org/abs/2509.02469)|null|
+|**2025-09-02**|**Exploring Diffusion Models for Generative Forecasting of Financial Charts**|Taegyeong Lee et.al.|[2509.02308](http://arxiv.org/abs/2509.02308)|null|
 
 ---
 
