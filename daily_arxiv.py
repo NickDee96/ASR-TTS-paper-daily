@@ -74,19 +74,24 @@ def get_code_link(qword:str) -> str|None:
     @param qword: query string, eg. arxiv ids and paper titles
     @return paper_code in github: string, if not found, return None
     """
-    # query = f"arxiv:{arxiv_id}"
-    query = f"{qword}"
-    params = {
-        "q": query,
-        "sort": "stars",
-        "order": "desc"
-    }
-    r = requests.get(github_url, params=params)
-    results = r.json()
-    code_link = None
-    if results["total_count"] > 0:
-        code_link = results["items"][0]["html_url"]
-    return code_link
+    try:
+        # query = f"arxiv:{arxiv_id}"
+        query = f"{qword}"
+        params = {
+            "q": query,
+            "sort": "stars",
+            "order": "desc"
+        }
+        r = requests.get(github_url, params=params, timeout=10)
+        r.raise_for_status()  # Raise an exception for bad status codes
+        results = r.json()
+        code_link = None
+        if "total_count" in results and results["total_count"] > 0:
+            code_link = results["items"][0]["html_url"]
+        return code_link
+    except Exception as e:
+        logging.warning(f"GitHub search failed for query '{qword}': {e}")
+        return None
   
 def get_daily_papers(topic,query="slam", max_results=2):
     """
@@ -98,83 +103,95 @@ def get_daily_papers(topic,query="slam", max_results=2):
     content = dict() 
     content_to_web = dict()
     
-    # Use the new Client API instead of deprecated Search
-    client = arxiv.Client()
-    search_engine = arxiv.Search(
-        query = query,
-        max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
-    )
+    try:
+        # Use the new Client API instead of deprecated Search
+        client = arxiv.Client()
+        search_engine = arxiv.Search(
+            query = query,
+            max_results = max_results,
+            sort_by = arxiv.SortCriterion.SubmittedDate
+        )
 
-    for result in client.results(search_engine):
+        paper_count = 0
+        for result in client.results(search_engine):
+            if paper_count >= max_results:
+                break
+            
+            paper_count += 1
 
-        paper_id            = result.get_short_id()
-        paper_title         = result.title
-        paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
-        paper_abstract      = result.summary.replace("\n"," ")
-        paper_authors       = get_authors(result.authors)
-        paper_first_author  = get_authors(result.authors,first_author = True)
-        primary_category    = result.primary_category
-        publish_time        = result.published.date()
-        update_time         = result.updated.date()
-        comments            = result.comment
+            paper_id            = result.get_short_id()
+            paper_title         = result.title
+            paper_url           = result.entry_id
+            code_url            = base_url + paper_id #TODO
+            paper_abstract      = result.summary.replace("\n"," ")
+            paper_authors       = get_authors(result.authors)
+            paper_first_author  = get_authors(result.authors,first_author = True)
+            primary_category    = result.primary_category
+            publish_time        = result.published.date()
+            update_time         = result.updated.date()
+            comments            = result.comment
 
-        logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
+            logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
-        # eg: 2108.09112v1 -> 2108.09112
-        ver_pos = paper_id.find('v')
-        if ver_pos == -1:
-            paper_key = paper_id
-        else:
-            paper_key = paper_id[0:ver_pos]    
-        paper_url = arxiv_url + 'abs/' + paper_key
-        
-        try:
-            # source code link with SSL verification and timeout
-            repo_url = None
+            # eg: 2108.09112v1 -> 2108.09112
+            ver_pos = paper_id.find('v')
+            if ver_pos == -1:
+                paper_key = paper_id
+            else:
+                paper_key = paper_id[0:ver_pos]    
+            paper_url = arxiv_url + 'abs/' + paper_key
+            
             try:
-                # First try with normal SSL verification
-                r = requests.get(code_url, timeout=10).json()
-                if "official" in r and r["official"]:
-                    repo_url = r["official"]["url"]
-            except (requests.exceptions.SSLError, requests.exceptions.ConnectionError):
-                # Fallback: try without SSL verification
+                # source code link with SSL verification and timeout
+                repo_url = None
                 try:
-                    r = requests.get(code_url, timeout=10, verify=False).json()
+                    # First try with normal SSL verification
+                    r = requests.get(code_url, timeout=10).json()
                     if "official" in r and r["official"]:
                         repo_url = r["official"]["url"]
+                except (requests.exceptions.SSLError, requests.exceptions.ConnectionError):
+                    # Fallback: try without SSL verification
+                    try:
+                        r = requests.get(code_url, timeout=10, verify=False).json()
+                        if "official" in r and r["official"]:
+                            repo_url = r["official"]["url"]
+                    except:
+                        # If paperswithcode fails, try GitHub search as fallback
+                        repo_url = get_code_link(paper_title)
+                        if repo_url is None:
+                            repo_url = get_code_link(paper_key)
                 except:
                     # If paperswithcode fails, try GitHub search as fallback
                     repo_url = get_code_link(paper_title)
                     if repo_url is None:
                         repo_url = get_code_link(paper_key)
-            except:
-                # If paperswithcode fails, try GitHub search as fallback
-                repo_url = get_code_link(paper_title)
-                if repo_url is None:
-                    repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+                        
+                if repo_url is not None:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
+                           update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
+                           update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
+                else:
+                    content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+                           update_time,paper_title,paper_first_author,paper_key,paper_url)
+                    content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+                           update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
+                # TODO: select useful comments
+                comments = None
+                if comments != None:
+                    content_to_web[paper_key] += f", {comments}\n"
+                else:
+                    content_to_web[paper_key] += f"\n"
 
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+            except Exception as e:
+                logging.error(f"exception: {e} with id: {paper_key}")
+                
+    except Exception as e:
+        logging.error(f"Error fetching papers for topic '{topic}': {e}")
+        # Return empty data if there's a complete failure
+        pass
 
     data = {topic:content}
     data_web = {topic:content_to_web}
