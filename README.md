@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-08**|**ParCzech4Speech: A New Speech Corpus Derived from Czech Parliamentary Data**|Vladislav Stankov et.al.|[2509.06675](http://arxiv.org/abs/2509.06675)|null|
+|**2025-09-08**|**Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks?**|Junjie Mu et.al.|[2509.06350](http://arxiv.org/abs/2509.06350)|null|
+|**2025-09-07**|**TSPC: A Two-Stage Phoneme-Centric Architecture for code-switching Vietnamese-English Speech Recognition**|Minh N. H. Nguyen et.al.|[2509.05983](http://arxiv.org/abs/2509.05983)|null|
+|**2025-09-07**|**Enhancing the Robustness of Contextual ASR to Varying Biasing Information Volumes Through Purified Semantic Correlation Joint Modeling**|Yue Gu et.al.|[2509.05908](http://arxiv.org/abs/2509.05908)|null|
+|**2025-09-06**|**New Insights into Optimal Alignment of Acoustic and Linguistic Representations for Knowledge Transfer in ASR**|Xugang Lu et.al.|[2509.05609](http://arxiv.org/abs/2509.05609)|null|
 |**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
 |**2025-07-23**|**Synthetic Voice Data for Automatic Speech Recognition in African Languages**|Brian DeRenzi et.al.|[2507.17578](http://arxiv.org/abs/2507.17578)|null|
 |**2025-07-23**|**BoSS: Beyond-Semantic Speech**|Qing Wang et.al.|[2507.17563](http://arxiv.org/abs/2507.17563)|null|
