@@ -416,7 +416,12 @@ def json_to_md(filename,md_filename,
 
         #Add: table of contents
         if use_tc == True:
-            f.write("## 📚 Table of Contents\n\n")
+            # Heading id only for GitHub Pages (kramdown). GitHub README ignores {#id}.
+            if to_web:
+                f.write("## 📚 Table of Contents {#table-of-contents}\n\n")
+            else:
+                # Use emoji-free heading in README to produce predictable anchors
+                f.write("## Table of Contents\n\n")
             
             # Add category emojis
             category_emojis = {
@@ -433,8 +438,12 @@ def json_to_md(filename,md_filename,
                 if not day_content:
                     continue
                 emoji = category_emojis.get(keyword, "📄")
-                # Create consistent anchor link - GitHub automatically creates these
-                anchor = make_anchor(f"{emoji} {keyword}")
+                # Create consistent anchor link
+                # For README (non-web), use emoji-free slug to satisfy linters
+                if to_web:
+                    anchor = make_anchor(f"{emoji} {keyword}")
+                else:
+                    anchor = make_anchor(f"{keyword}")
                 f.write(f"- {emoji} **[{keyword}](#{anchor})**\n")
             f.write("\n---\n\n")
         
@@ -455,7 +464,13 @@ def json_to_md(filename,md_filename,
             
             # Enhanced section header with emoji and styling
             emoji = category_emojis.get(keyword, "📄")
-            f.write(f"## {emoji} {keyword}\n\n")
+            if to_web:
+                # Explicit id for GitHub Pages (can include emoji in text)
+                anchor = make_anchor(f"{emoji} {keyword}")
+                f.write(f"## {emoji} {keyword} {{#{anchor}}}\n\n")
+            else:
+                # Emoji-free heading for GitHub README to ensure stable anchors and pass linters
+                f.write(f"## {keyword}\n\n")
             
             # Add paper count
             paper_count = len(day_content)
@@ -487,7 +502,10 @@ def json_to_md(filename,md_filename,
             #Add: back to top with styling
             if use_b2t:
                 f.write("<div align=\"right\">\n\n")
-                toc_anchor = make_anchor("📚 Table of Contents")
+                if to_web:
+                    toc_anchor = make_anchor("📚 Table of Contents")
+                else:
+                    toc_anchor = make_anchor("Table of Contents")
                 f.write(f"*[⬆️ Back to Top](#{toc_anchor})*\n\n")
                 f.write("</div>\n\n")
                 f.write("---\n\n")
