@@ -5,7 +5,7 @@ repo_name: "ASR-TTS-paper-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 100
+max_results: 50
 
 publish_readme: True
 publish_gitpage: True
@@ -23,6 +23,14 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "ASR":
-        filters: ["ASR", "Speech Recognition"]
+        filters: ["ASR", "Speech Recognition", "Automatic Speech Recognition"]
     "TTS":
-        filters: ["TTS", "Text to speech", "Speech Synthesis"]
+        filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis"]
+    "Machine Translation":
+        filters: ["Machine Translation", "Neural Machine Translation", "NMT", "Translation Model", "Cross-lingual", "Multilingual Translation"]
+    "Small Language Models":
+        filters: ["Small Language Model", "Compact Language Model", "Efficient Language Model", "Lightweight LM", "Parameter-Efficient", "Model Compression", "Knowledge Distillation", "Pruning", "Quantization"]
+    "Data Augmentation":
+        filters: ["Data Augmentation", "Text Augmentation", "Audio Augmentation", "Speech Augmentation", "Paraphrasing", "Back Translation", "Mixup", "CutMix", "SpecAugment", "Augmentation Strategy"]
+    "Synthetic Generation":
+        filters: ["Synthetic Data Generation", "Text Generation", "Audio Generation", "Synthetic Speech", "Audio Synthesis", "Generative Model", "Data Synthesis", "Voice Cloning", "Speech Generation"]
