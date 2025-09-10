@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.09**
+📅 **Updated on 2025.09.10**
 
 ## 🌟 About This Repository
 
@@ -298,7 +298,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-05**|**PLaMo 2 Technical Report**|Preferred Networks et.al.|[2509.04897](http://arxiv.org/abs/2509.04897)|null|
 |**2025-09-05**|**AI-Driven Fronthaul Link Compression in Wireless Communication Systems: Review and Method Design**|Keqin Zhang et.al.|[2509.04805](http://arxiv.org/abs/2509.04805)|null|
 |**2025-09-05**|**STADI: Fine-Grained Step-Patch Diffusion Parallelism for Heterogeneous GPUs**|Han Liang et.al.|[2509.04719](http://arxiv.org/abs/2509.04719)|null|
-|**2025-09-03**|**Advancing SLM Tool-Use Capability using Reinforcement Learning**|Dhruvi Paprunia et.al.|[2509.04518](http://arxiv.org/abs/2509.04518)|null|
+|**2025-09-08**|**Advancing SLM Tool-Use Capability using Reinforcement Learning**|Dhruvi Paprunia et.al.|[2509.04518](http://arxiv.org/abs/2509.04518)|null|
 |**2025-09-02**|**ProST: Progressive Sub-task Training for Pareto-Optimal Multi-agent Systems Using Small Language Models**|Biddut Sarker Bijoy et.al.|[2509.04508](http://arxiv.org/abs/2509.04508)|null|
 |**2025-09-04**|**PagedEviction: Structured Block-wise KV Cache Pruning for Efficient Large Language Model Inference**|Krishna Teja Chitty-Venkata et.al.|[2509.04377](http://arxiv.org/abs/2509.04377)|null|
 |**2025-09-04**|**Integrating Pruning with Quantization for Efficient Deep Neural Networks Compression**|Sara Makenali et.al.|[2509.04244](http://arxiv.org/abs/2509.04244)|null|
@@ -360,11 +360,11 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-02**|**Enhancing Machine Learning for Imbalanced Medical Data: A Quantum-Inspired Approach to Synthetic Oversampling (QI-SMOTE)**|Vikas Kashtriya et.al.|[2509.02863](http://arxiv.org/abs/2509.02863)|null|
 |**2025-08-29**|**Foundation Model-Driven Classification of Atypical Mitotic Figures with Domain-Aware Training Strategies**|Piotr Giedziun et.al.|[2509.02601](http://arxiv.org/abs/2509.02601)|null|
 |**2025-09-02**|**PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture**|Fakhraddin Alwajih et.al.|[2509.02550](http://arxiv.org/abs/2509.02550)|null|
-|**2025-09-02**|**EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling**|Lingzhi Shen et.al.|[2509.02450](http://arxiv.org/abs/2509.02450)|null|
+|**2025-09-02**|**EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling**|Lingzhi Shen et.al.|[2509.02450](http://arxiv.org/abs/2509.02450)|**[link](https://github.com/slz0925/EmoPerso)**|
 |**2025-09-02**|**Improving Electroencephalogram-Based Deception Detection in Concealed Information Test under Low Stimulus Heterogeneity**|Suhye Kim et.al.|[2509.02234](http://arxiv.org/abs/2509.02234)|null|
 |**2025-09-02**|**Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data Generation: A Comparative Study with Image-To-Image Diffusion Models**|Pablo Ayuso-Albizu et.al.|[2509.02161](http://arxiv.org/abs/2509.02161)|null|
 |**2025-09-02**|**A Data-Centric Approach to Pedestrian Attribute Recognition: Synthetic Augmentation via Prompt-driven Diffusion Models**|Alejandro Alonso et.al.|[2509.02099](http://arxiv.org/abs/2509.02099)|null|
-|**2025-09-05**|**Abex-rat: Synergizing Abstractive Augmentation and Adversarial Training for Classification of Occupational Accident Reports**|Jian Chen et.al.|[2509.02072](http://arxiv.org/abs/2509.02072)|null|
+|**2025-09-05**|**Abex-rat: Synergizing Abstractive Augmentation and Adversarial Training for Classification of Occupational Accident Reports**|Jian Chen et.al.|[2509.02072](http://arxiv.org/abs/2509.02072)|**[link](https://github.com/nxcc-lab/ABEX-RAT)**|
 |**2025-09-01**|**CabinSep: IR-Augmented Mask-Based MVDR for Real-Time In-Car Speech Separation with Distributed Heterogeneous Arrays**|Runduo Han et.al.|[2509.01399](http://arxiv.org/abs/2509.01399)|null|
 |**2025-09-01**|**MARS: Modality-Aligned Retrieval for Sequence Augmented CTR Prediction**|Yutian Xiao et.al.|[2509.01184](http://arxiv.org/abs/2509.01184)|null|
 |**2025-08-31**|**A Unified Denoising and Adaptation Framework for Self-Supervised Bengali Dialectal ASR**|Swadhin Biswas et.al.|[2509.00988](http://arxiv.org/abs/2509.00988)|null|
