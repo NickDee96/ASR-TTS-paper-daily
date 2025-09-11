@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.10**
+📅 **Updated on 2025.09.11**
 
 ## 🌟 About This Repository
 
@@ -240,7 +240,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-07-31**|**Beyond the Cloud: Assessing the Benefits and Drawbacks of Local LLM Deployment for Translators**|Peter Sandrini et.al.|[2507.23399](http://arxiv.org/abs/2507.23399)|null|
 |**2025-07-29**|**RL from Teacher-Model Refinement: Gradual Imitation Learning for Machine Translation**|Dongyub Jude Lee et.al.|[2507.22219](http://arxiv.org/abs/2507.22219)|null|
 |**2025-07-31**|**Multi-Hypothesis Distillation of Multilingual Neural Translation Models for Low-Resource Languages**|Aarón Galiano-Jiménez et.al.|[2507.21568](http://arxiv.org/abs/2507.21568)|null|
-|**2025-07-07**|**iLSU-T: an Open Dataset for Uruguayan Sign Language Translation**|Ariel E. Stassi et.al.|[2507.21104](http://arxiv.org/abs/2507.21104)|null|
+|**2025-07-07**|**iLSU-T: an Open Dataset for Uruguayan Sign Language Translation**|Ariel E. Stassi et.al.|[2507.21104](http://arxiv.org/abs/2507.21104)|**[link](https://github.com/ariel-e-stassi/iLSU-T)**|
 |**2025-07-28**|**Multilingual Self-Taught Faithfulness Evaluators**|Carlo Alfano et.al.|[2507.20752](http://arxiv.org/abs/2507.20752)|null|
 |**2025-09-02**|**Advancing Dialectal Arabic to Modern Standard Arabic Machine Translation**|Abdullah Alabdullah et.al.|[2507.20301](http://arxiv.org/abs/2507.20301)|null|
 |**2025-07-29**|**Mind the Language Gap in Digital Humanities: LLM-Aided Translation of SKOS Thesauri**|Felix Kraus et.al.|[2507.19537](http://arxiv.org/abs/2507.19537)|null|
@@ -295,7 +295,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-08**|**H $_{2}$ OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|
 |**2025-09-08**|**COMPACT: Common-token Optimized Model Pruning Across Channels and Tokens**|Eugene Kwek et.al.|[2509.06836](http://arxiv.org/abs/2509.06836)|null|
 |**2025-09-08**|**Tree of Agents: Improving Long-Context Capabilities of Large Language Models through Multi-Perspective Reasoning**|Song Yu et.al.|[2509.06436](http://arxiv.org/abs/2509.06436)|null|
-|**2025-09-08**|**Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models**|Jaemin Son et.al.|[2509.06415](http://arxiv.org/abs/2509.06415)|**[link](https://github.com/jaeminSon/index-preserving-lightweight-token-pruning)**|
+|**2025-09-08**|**Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models**|Jaemin Son et.al.|[2509.06415](http://arxiv.org/abs/2509.06415)|null|
 |**2025-09-08**|**3DOF+Quantization: 3DGS quantization for large scenes with limited Degrees of Freedom**|Matthieu Gendrin et.al.|[2509.06400](http://arxiv.org/abs/2509.06400)|null|
 |**2025-09-08**|**Variational Garrote for Statistical Physics-based Sparse and Robust Variable Selection**|Hyungjoon Soh et.al.|[2509.06383](http://arxiv.org/abs/2509.06383)|null|
 |**2025-09-08**|**Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks?**|Junjie Mu et.al.|[2509.06350](http://arxiv.org/abs/2509.06350)|null|
@@ -405,7 +405,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-28**|**KCS: Diversify Multi-hop Question Generation with Knowledge Composition Sampling**|Yangfan Wang et.al.|[2508.20567](http://arxiv.org/abs/2508.20567)|null|
 |**2025-08-28**|**Enhancing Health Fact-Checking with LLM-Generated Synthetic Data**|Jingze Zhang et.al.|[2508.20525](http://arxiv.org/abs/2508.20525)|null|
 |**2025-08-27**|**IELDG: Suppressing Domain-Specific Noise with Inverse Evolution Layers for Domain Generalized Semantic Segmentation**|Qizhe Fan et.al.|[2508.19604](http://arxiv.org/abs/2508.19604)|null|
-|**2025-08-27**|**Improving Recommendation Fairness via Graph Structure and Representation Augmentation**|Tongxin Xu et.al.|[2508.19547](http://arxiv.org/abs/2508.19547)|null|
+|**2025-08-27**|**Improving Recommendation Fairness via Graph Structure and Representation Augmentation**|Tongxin Xu et.al.|[2508.19547](http://arxiv.org/abs/2508.19547)|**[link](https://github.com/LokHsu/FairDDA)**|
 |**2025-08-26**|**Database Entity Recognition with Data Augmentation and Deep Learning**|Zikun Fu et.al.|[2508.19372](http://arxiv.org/abs/2508.19372)|null|
 |**2025-08-26**|**HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots**|Shipeng Lyu et.al.|[2508.19002](http://arxiv.org/abs/2508.19002)|null|
 |**2025-08-26**|**Enhancing compact convolutional transformers with super attention**|Simpenzwe Honore Leandre et.al.|[2508.18960](http://arxiv.org/abs/2508.18960)|null|
