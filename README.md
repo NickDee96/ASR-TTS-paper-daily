@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.11**
+📅 **Updated on 2025.09.12**
 
 ---
 
@@ -239,7 +239,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-28**|**Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark**|Chihiro Taguchi et.al.|[2508.20511](http://arxiv.org/abs/2508.20511)|null|
 |**2025-09-06**|**FlowMalTrans: Unsupervised Binary Code Translation for Malware Detection Using Flow-Adapter Architecture**|Minghao Hu et.al.|[2508.20212](http://arxiv.org/abs/2508.20212)|null|
 |**2025-08-26**|**Improving Low-Resource Translation with Dictionary-Guided Fine-Tuning and RL: A Spanish-to-Wayuunaiki Study**|Manuel Mosquera et.al.|[2508.19481](http://arxiv.org/abs/2508.19481)|null|
-|**2025-09-03**|**The Ramon Llull's Thinking Machine for Automated Ideation**|Xinran Zhao et.al.|[2508.19200](http://arxiv.org/abs/2508.19200)|null|
+|**2025-09-03**|**The Ramon Llull's Thinking Machine for Automated Ideation**|Xinran Zhao et.al.|[2508.19200](http://arxiv.org/abs/2508.19200)|**[link](https://github.com/colinzhaoust/ramon_llull_public)**|
 |**2025-08-26**|**LaTeXTrans: Structured LaTeX Translation with Multi-Agent Coordination**|Ziming Zhu et.al.|[2508.18791](http://arxiv.org/abs/2508.18791)|null|
 |**2025-08-26**|**A New NMT Model for Translating Clinical Texts from English to Spanish**|Rumeng Li et.al.|[2508.18607](http://arxiv.org/abs/2508.18607)|null|
 |**2025-08-25**|**COMET-poly: Machine Translation Metric Grounded in Other Candidates**|Maike Züfle et.al.|[2508.18549](http://arxiv.org/abs/2508.18549)|null|
@@ -313,7 +313,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-07-04**|**GRAFT: A Graph-based Flow-aware Agentic Framework for Document-level Machine Translation**|Himanshu Dutta et.al.|[2507.03311](http://arxiv.org/abs/2507.03311)|null|
 |**2025-07-01**|**TransLaw: Benchmarking Large Language Models in Multi-Agent Simulation of the Collaborative Translation**|Xi Xuan et.al.|[2507.00875](http://arxiv.org/abs/2507.00875)|null|
 |**2025-07-01**|**Neural translation for Stokes inversion and synthesis**|A. Asensio Ramos et.al.|[2507.00594](http://arxiv.org/abs/2507.00594)|null|
-|**2025-06-30**|**Natural language processing for African languages**|David Ifeoluwa Adelani et.al.|[2507.00297](http://arxiv.org/abs/2507.00297)|null|
+|**2025-06-30**|**Natural language processing for African languages**|David Ifeoluwa Adelani et.al.|[2507.00297](http://arxiv.org/abs/2507.00297)|**[link](https://github.com/Andrews2017/africanlp-public-datasets)**|
 |**2025-06-30**|**Bridging the Gap with Retrieval-Augmented Generation: Making Prosthetic Device User Manuals Available in Marginalised Languages**|Ikechukwu Ogbonna et.al.|[2506.23958](http://arxiv.org/abs/2506.23958)|null|
 |**2025-07-07**|**CycleVAR: Repurposing Autoregressive Model for Unsupervised One-Step Image Translation**|Yi Liu et.al.|[2506.23347](http://arxiv.org/abs/2506.23347)|null|
 
@@ -515,7 +515,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2025-09-10**|**GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts**|Jenna Kang et.al.|[2509.08818](http://arxiv.org/abs/2509.08818)|null|
-|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|**[link](https://github.com/vivekoommen/Gen4Turbulence)**|
+|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
 |**2025-09-10**|**Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design**|Yaohua Zang et.al.|[2509.08749](http://arxiv.org/abs/2509.08749)|null|
 |**2025-09-10**|**Generative Data Refinement: Just Ask for Better Data**|Minqi Jiang et.al.|[2509.08653](http://arxiv.org/abs/2509.08653)|null|
 |**2025-09-10**|**Variational Rank Reduction Autoencoders for Generative**|Alicia Tierz et.al.|[2509.08515](http://arxiv.org/abs/2509.08515)|null|
