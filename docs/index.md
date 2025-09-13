@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.12**
+📅 **Updated on 2025.09.13**
 
 ## 🌟 About This Repository
 
@@ -462,7 +462,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
 |**2025-09-10**|**Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design**|Yaohua Zang et.al.|[2509.08749](http://arxiv.org/abs/2509.08749)|null|
 |**2025-09-11**|**Generative Data Refinement: Just Ask for Better Data**|Minqi Jiang et.al.|[2509.08653](http://arxiv.org/abs/2509.08653)|null|
-|**2025-09-10**|**Variational Rank Reduction Autoencoders for Generative**|Alicia Tierz et.al.|[2509.08515](http://arxiv.org/abs/2509.08515)|null|
+|**2025-09-10**|**Variational Rank Reduction Autoencoders for Generative Thermal Design**|Alicia Tierz et.al.|[2509.08515](http://arxiv.org/abs/2509.08515)|null|
 |**2025-09-10**|**A Structured Review of Underwater Object Detection Challenges and Solutions: From Traditional to Large Vision Language Models**|Edwine Nabahirwa et.al.|[2509.08490](http://arxiv.org/abs/2509.08490)|null|
 |**2025-09-10**|**Joint Learning using Mixture-of-Expert-Based Representation for Enhanced Speech Generation and Robust Emotion Recognition**|Jing-Tong Tzeng et.al.|[2509.08470](http://arxiv.org/abs/2509.08470)|null|
 |**2025-09-10**|**LLM-Guided Ansätze Design for Quantum Circuit Born Machines in Financial Generative Modeling**|Yaswitha Gujju et.al.|[2509.08385](http://arxiv.org/abs/2509.08385)|null|
