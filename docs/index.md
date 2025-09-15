@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.14**
+📅 **Updated on 2025.09.15**
 
 ## 🌟 About This Repository
 
@@ -117,7 +117,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-11**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
 |**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
 |**2025-09-10**|**Accelerating Diffusion Transformer-Based Text-to-Speech with Transformer Layer Caching**|Siratish Sakpiboonchit et.al.|[2509.08696](http://arxiv.org/abs/2509.08696)|null|
 |**2025-09-09**|**Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis**|Yejin Jeon et.al.|[2509.07376](http://arxiv.org/abs/2509.07376)|null|
@@ -257,7 +257,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-07-24**|**Uncertainty Quantification for Evaluating Machine Translation Bias**|Ieva Raminta Staliūnaitė et.al.|[2507.18338](http://arxiv.org/abs/2507.18338)|null|
 |**2025-07-25**|**Natural Language Processing for Tigrinya: Current State and Future Directions**|Fitsum Gaim et.al.|[2507.17974](http://arxiv.org/abs/2507.17974)|null|
 |**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
-|**2025-07-22**|**Introducing Quality Estimation to Machine Translation Post-editing Workflow: An Empirical Study on Its Usefulness**|Siqi Liu et.al.|[2507.16515](http://arxiv.org/abs/2507.16515)|**[link](https://github.com/jam0127/QEresearch)**|
+|**2025-07-22**|**Introducing Quality Estimation to Machine Translation Post-editing Workflow: An Empirical Study on Its Usefulness**|Siqi Liu et.al.|[2507.16515](http://arxiv.org/abs/2507.16515)|null|
 |**2025-07-22**|**GG-BBQ: German Gender Bias Benchmark for Question Answering**|Shalaka Satheesh et.al.|[2507.16410](http://arxiv.org/abs/2507.16410)|null|
 |**2025-07-21**|**Evaluating Text Style Transfer: A Nine-Language Benchmark for Text Detoxification**|Vitaly Protasov et.al.|[2507.15557](http://arxiv.org/abs/2507.15557)|null|
 |**2025-07-20**|**A Case Against Implicit Standards: Homophone Normalization in Machine Translation for Languages that use the Ge'ez Script**|Hellina Hailu Nigatu et.al.|[2507.15142](http://arxiv.org/abs/2507.15142)|null|
@@ -298,7 +298,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-10**|**CSI Compression Beyond Latents: End-to-End Hybrid Attention-CNN Networks with Entropy Regularization**|Maryam Ansarifard et.al.|[2509.08776](http://arxiv.org/abs/2509.08776)|null|
 |**2025-09-10**|**Compressing CNN models for resource-constrained systems by channel and layer pruning**|Ahmed Sadaqa et.al.|[2509.08714](http://arxiv.org/abs/2509.08714)|null|
 |**2025-09-10**|**BitROM: Weight Reload-Free CiROM Architecture Towards Billion-Parameter 1.58-bit LLM Inference**|Wenlun Zhang et.al.|[2509.08542](http://arxiv.org/abs/2509.08542)|null|
-|**2025-09-10**|**SINDI: an Efficient Index for Approximate Maximum Inner Product Search on Sparse Vectors**|Ruoxuan Li et.al.|[2509.08395](http://arxiv.org/abs/2509.08395)|null|
+|**2025-09-12**|**SINDI: an Efficient Index for Approximate Maximum Inner Product Search on Sparse Vectors**|Ruoxuan Li et.al.|[2509.08395](http://arxiv.org/abs/2509.08395)|null|
 |**2025-09-10**|**Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning**|Wei Huang et.al.|[2509.08255](http://arxiv.org/abs/2509.08255)|null|
 |**2025-09-10**|**Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization**|Kai Yi et.al.|[2509.08233](http://arxiv.org/abs/2509.08233)|null|
 |**2025-09-09**|**Risk-Bounded Multi-Agent Visual Navigation via Dynamic Budget Allocation**|Viraj Parimi et.al.|[2509.08157](http://arxiv.org/abs/2509.08157)|null|
@@ -408,8 +408,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-03**|**Joint Training of Image Generator and Detector for Road Defect Detection**|Kuan-Chuan Peng et.al.|[2509.03465](http://arxiv.org/abs/2509.03465)|null|
 |**2025-09-02**|**Enhancing Machine Learning for Imbalanced Medical Data: A Quantum-Inspired Approach to Synthetic Oversampling (QI-SMOTE)**|Vikas Kashtriya et.al.|[2509.02863](http://arxiv.org/abs/2509.02863)|null|
 |**2025-08-29**|**Foundation Model-Driven Classification of Atypical Mitotic Figures with Domain-Aware Training Strategies**|Piotr Giedziun et.al.|[2509.02601](http://arxiv.org/abs/2509.02601)|null|
-|**2025-09-02**|**PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture**|Fakhraddin Alwajih et.al.|[2509.02550](http://arxiv.org/abs/2509.02550)|**[link](https://github.com/rafiulbiswas/PalmX)**|
-|**2025-09-02**|**EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling**|Lingzhi Shen et.al.|[2509.02450](http://arxiv.org/abs/2509.02450)|**[link](https://github.com/slz0925/EmoPerso)**|
+|**2025-09-02**|**PalmX 2025: The First Shared Task on Benchmarking LLMs on Arabic and Islamic Culture**|Fakhraddin Alwajih et.al.|[2509.02550](http://arxiv.org/abs/2509.02550)|null|
+|**2025-09-02**|**EmoPerso: Enhancing Personality Detection with Self-Supervised Emotion-Aware Modelling**|Lingzhi Shen et.al.|[2509.02450](http://arxiv.org/abs/2509.02450)|null|
 |**2025-09-02**|**Improving Electroencephalogram-Based Deception Detection in Concealed Information Test under Low Stimulus Heterogeneity**|Suhye Kim et.al.|[2509.02234](http://arxiv.org/abs/2509.02234)|null|
 |**2025-09-02**|**Enhancing Zero-Shot Pedestrian Attribute Recognition with Synthetic Data Generation: A Comparative Study with Image-To-Image Diffusion Models**|Pablo Ayuso-Albizu et.al.|[2509.02161](http://arxiv.org/abs/2509.02161)|null|
 |**2025-09-02**|**A Data-Centric Approach to Pedestrian Attribute Recognition: Synthetic Augmentation via Prompt-driven Diffusion Models**|Alejandro Alonso et.al.|[2509.02099](http://arxiv.org/abs/2509.02099)|null|
@@ -456,10 +456,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-11**|**Diabatic quantum annealing for training energy-based generative models**|Gilhan Kim et.al.|[2509.09374](http://arxiv.org/abs/2509.09374)|null|
 |**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
 |**2025-09-10**|**Generative quantum advantage for classical and quantum problems**|Hsin-Yuan Huang et.al.|[2509.09033](http://arxiv.org/abs/2509.09033)|null|
-|**2025-09-10**|**ForTIFAI: Fending Off Recursive Training Induced Failure for AI Models**|Soheil Zibakhsh Shabgahi et.al.|[2509.08972](http://arxiv.org/abs/2509.08972)|null|
+|**2025-09-12**|**ForTIFAI: Fending Off Recursive Training Induced Failure for AI Models**|Soheil Zibakhsh Shabgahi et.al.|[2509.08972](http://arxiv.org/abs/2509.08972)|null|
 |**2025-09-10**|**PromptGuard: An Orchestrated Prompting Framework for Principled Synthetic Text Generation for Vulnerable Populations using LLMs with Enhanced Safety, Fairness, and Controllability**|Tung Vu et.al.|[2509.08910](http://arxiv.org/abs/2509.08910)|null|
 |**2025-09-10**|**GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts**|Jenna Kang et.al.|[2509.08818](http://arxiv.org/abs/2509.08818)|null|
-|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|**[link](https://github.com/vivekoommen/Gen4Turbulence)**|
+|**2025-09-10**|**Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction**|Vivek Oommen et.al.|[2509.08752](http://arxiv.org/abs/2509.08752)|null|
 |**2025-09-10**|**Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design**|Yaohua Zang et.al.|[2509.08749](http://arxiv.org/abs/2509.08749)|null|
 |**2025-09-11**|**Generative Data Refinement: Just Ask for Better Data**|Minqi Jiang et.al.|[2509.08653](http://arxiv.org/abs/2509.08653)|null|
 |**2025-09-10**|**Variational Rank Reduction Autoencoders for Generative Thermal Design**|Alicia Tierz et.al.|[2509.08515](http://arxiv.org/abs/2509.08515)|null|
