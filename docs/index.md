@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.15**
+📅 **Updated on 2025.09.16**
 
 ## 🌟 About This Repository
 
@@ -127,10 +127,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
 |**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
 |**2025-09-10**|**Accelerating Diffusion Transformer-Based Text-to-Speech with Transformer Layer Caching**|Siratish Sakpiboonchit et.al.|[2509.08696](http://arxiv.org/abs/2509.08696)|null|
-|**2025-09-09**|**Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis**|Yejin Jeon et.al.|[2509.07376](http://arxiv.org/abs/2509.07376)|null|
+|**2025-09-14**|**Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis**|Yejin Jeon et.al.|[2509.07376](http://arxiv.org/abs/2509.07376)|null|
 |**2025-09-09**|**When Fine-Tuning is Not Enough: Lessons from HSAD on Hybrid and Adversarial Audio Spoof Detection**|Bin Hu et.al.|[2509.07323](http://arxiv.org/abs/2509.07323)|null|
 |**2025-09-08**|**Controllable Singing Voice Synthesis using Phoneme-Level Energy Sequence**|Yerin Ryu et.al.|[2509.07038](http://arxiv.org/abs/2509.07038)|null|
-|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|**[link](https://github.com/AI-S2-Lab/MFCIG-CSS)**|
+|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|
 |**2025-09-06**|**LatinX: Aligning a Multilingual TTS Model with Direct Preference Optimization**|Luis Felipe Chary et.al.|[2509.05863](http://arxiv.org/abs/2509.05863)|null|
 |**2025-09-08**|**Sticker-TTS: Learn to Utilize Historical Experience with a Sticker-driven Test-Time Scaling Framework**|Jie Chen et.al.|[2509.05007](http://arxiv.org/abs/2509.05007)|null|
 |**2025-09-04**|**Say More with Less: Variable-Frame-Rate Speech Tokenization via Adaptive Clustering and Implicit Duration Coding**|Rui-Chen Zheng et.al.|[2509.04685](http://arxiv.org/abs/2509.04685)|null|
@@ -339,7 +339,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-08**|**Variational Garrote for Statistical Physics-based Sparse and Robust Variable Selection**|Hyungjoon Soh et.al.|[2509.06383](http://arxiv.org/abs/2509.06383)|null|
 |**2025-09-08**|**Mask-GCG: Are All Tokens in Adversarial Suffixes Necessary for Jailbreak Attacks?**|Junjie Mu et.al.|[2509.06350](http://arxiv.org/abs/2509.06350)|null|
 |**2025-09-08**|**LoaQ: Layer-wise Output Approximation Quantization**|Li Lin et.al.|[2509.06297](http://arxiv.org/abs/2509.06297)|null|
-|**2025-09-08**|**FineServe: Precision-Aware KV Slab and Two-Level Scheduling for Heterogeneous Precision LLM Serving**|Kyungmin Bin et.al.|[2509.06261](http://arxiv.org/abs/2509.06261)|null|
+|**2025-09-15**|**FineServe: Precision-Aware KV Slab and Two-Level Scheduling for Heterogeneous Precision LLM Serving**|Kyungmin Bin et.al.|[2509.06261](http://arxiv.org/abs/2509.06261)|null|
 |**2025-09-10**|**BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models**|Yuming Li et.al.|[2509.06040](http://arxiv.org/abs/2509.06040)|null|
 |**2025-09-07**|**StripDet: Strip Attention-Based Lightweight 3D Object Detection from Point Cloud**|Weichao Wang et.al.|[2509.05954](http://arxiv.org/abs/2509.05954)|null|
 |**2025-09-07**|**Quantization of bounded symplectic domains associated with compact Lie groups**|Alexey A. Sharapov et.al.|[2509.05931](http://arxiv.org/abs/2509.05931)|null|
@@ -453,7 +453,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-28**|**KCS: Diversify Multi-hop Question Generation with Knowledge Composition Sampling**|Yangfan Wang et.al.|[2508.20567](http://arxiv.org/abs/2508.20567)|null|
 |**2025-08-28**|**Enhancing Health Fact-Checking with LLM-Generated Synthetic Data**|Jingze Zhang et.al.|[2508.20525](http://arxiv.org/abs/2508.20525)|null|
 |**2025-08-27**|**IELDG: Suppressing Domain-Specific Noise with Inverse Evolution Layers for Domain Generalized Semantic Segmentation**|Qizhe Fan et.al.|[2508.19604](http://arxiv.org/abs/2508.19604)|null|
-|**2025-08-27**|**Improving Recommendation Fairness via Graph Structure and Representation Augmentation**|Tongxin Xu et.al.|[2508.19547](http://arxiv.org/abs/2508.19547)|**[link](https://github.com/LokHsu/FairDDA)**|
+|**2025-08-27**|**Improving Recommendation Fairness via Graph Structure and Representation Augmentation**|Tongxin Xu et.al.|[2508.19547](http://arxiv.org/abs/2508.19547)|null|
 |**2025-08-26**|**Database Entity Recognition with Data Augmentation and Deep Learning**|Zikun Fu et.al.|[2508.19372](http://arxiv.org/abs/2508.19372)|null|
 |**2025-08-26**|**HuBE: Cross-Embodiment Human-like Behavior Execution for Humanoid Robots**|Shipeng Lyu et.al.|[2508.19002](http://arxiv.org/abs/2508.19002)|null|
 |**2025-08-26**|**Enhancing compact convolutional transformers with super attention**|Simpenzwe Honore Leandre et.al.|[2508.18960](http://arxiv.org/abs/2508.18960)|null|
@@ -495,7 +495,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-09**|**Performance Assessment Strategies for Generative AI Applications in Healthcare**|Victor Garcia et.al.|[2509.08087](http://arxiv.org/abs/2509.08087)|null|
 |**2025-09-09**|**One View, Many Worlds: Single-Image to 3D Object Meets Generative Domain Randomization for One-Shot 6D Pose Estimation**|Zheng Geng et.al.|[2509.07978](http://arxiv.org/abs/2509.07978)|null|
 |**2025-09-09**|**Enhancements in Score-based Channel Estimation for Real-Time Wireless Systems**|Florian Strasser et.al.|[2509.07839](http://arxiv.org/abs/2509.07839)|null|
-|**2025-09-09**|**A Generalisable Generative Model for Multi-Detector Calorimeter Simulation**|Piyush Raikwar et.al.|[2509.07700](http://arxiv.org/abs/2509.07700)|**[link](https://github.com/cargicar/CaloDitv2)**|
+|**2025-09-09**|**A Generalisable Generative Model for Multi-Detector Calorimeter Simulation**|Piyush Raikwar et.al.|[2509.07700](http://arxiv.org/abs/2509.07700)|null|
 |**2025-09-09**|**Spectral Masking and Interpolation Attack (SMIA): A Black-box Adversarial Attack against Voice Authentication and Anti-Spoofing Systems**|Kamel Kamel et.al.|[2509.07677](http://arxiv.org/abs/2509.07677)|null|
 |**2025-09-09**|**Target matching based generative model for speech enhancement**|Taihui Wang et.al.|[2509.07521](http://arxiv.org/abs/2509.07521)|null|
 |**2025-09-09**|**Synthetic Data Generation with Lorenzetti for Time Series Anomaly Detection in High-Energy Physics Calorimeters**|Laura Boggia et.al.|[2509.07451](http://arxiv.org/abs/2509.07451)|null|
@@ -504,7 +504,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-08**|**Neurocognitive Modeling for Text Generation: Deep Learning Architecture for EEG Data**|Khushiyant et.al.|[2509.07202](http://arxiv.org/abs/2509.07202)|null|
 |**2025-09-04**|**K-Syn: K-space Data Synthesis in Ultra Low-data Regimes**|Guan Yu et.al.|[2509.06997](http://arxiv.org/abs/2509.06997)|null|
 |**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|
-|**2025-09-08**|**A Statistical 3D Stomach Shape Model for Anatomical Analysis**|Erez Posner et.al.|[2509.06464](http://arxiv.org/abs/2509.06464)|null|
+|**2025-09-15**|**A Statistical 3D Stomach Shape Model for Anatomical Analysis**|Erez Posner et.al.|[2509.06464](http://arxiv.org/abs/2509.06464)|null|
 |**2025-09-08**|**MeanFlow-Accelerated Multimodal Video-to-Audio Synthesis via One-Step Generation**|Xiaoran Yang et.al.|[2509.06389](http://arxiv.org/abs/2509.06389)|null|
 |**2025-09-08**|**Text4Seg++: Advancing Image Segmentation via Generative Language Modeling**|Mengcheng Lan et.al.|[2509.06321](http://arxiv.org/abs/2509.06321)|null|
 |**2025-09-07**|**If generative AI is the answer, what is the question?**|Ambuj Tewari et.al.|[2509.06120](http://arxiv.org/abs/2509.06120)|null|
