@@ -44,12 +44,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ASR
 
-*📊 80 papers*
+*📊 81 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-09-15**|**In-domain SSL pre-training and streaming ASR**|Jarod Duret et.al.|[2509.12101](http://arxiv.org/abs/2509.12101)|null|
 |**2025-09-12**|**Improving Audio Event Recognition with Consistency Regularization**|Shanmuka Sadhu et.al.|[2509.10391](http://arxiv.org/abs/2509.10391)|null|
 |**2025-09-12**|**Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR**|Can Cui et.al.|[2509.10234](http://arxiv.org/abs/2509.10234)|null|
 |**2025-09-12**|**Prominence-aware automatic speech recognition for conversational speech**|Julian Linke et.al.|[2509.10116](http://arxiv.org/abs/2509.10116)|null|
@@ -143,12 +144,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## TTS
 
-*📊 68 papers*
+*📊 71 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-09-15**|**Preservation of Language Understanding Capabilities in Speech-aware Large Language Models**|Marek Kubis et.al.|[2509.12171](http://arxiv.org/abs/2509.12171)|null|
+|**2025-09-14**|**FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs**|Md Mubtasim Ahasan et.al.|[2509.11425](http://arxiv.org/abs/2509.11425)|null|
+|**2025-09-14**|**Length-Aware Rotary Position Embedding for Text-Speech Alignment**|Hyeongju Kim et.al.|[2509.11084](http://arxiv.org/abs/2509.11084)|null|
 |**2025-09-12**|**Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps**|Xin Wang et.al.|[2509.10086](http://arxiv.org/abs/2509.10086)|null|
 |**2025-09-11**|**DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration**|Yanru Huo et.al.|[2509.09748](http://arxiv.org/abs/2509.09748)|null|
 |**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
@@ -230,12 +234,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Machine Translation
 
-*📊 93 papers*
+*📊 94 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-09-15**|**XplaiNLP at CheckThat! 2025: Multilingual Subjectivity Detection with Finetuned Transformers and Prompt-Based Inference with Large Language Models**|Ariana Sahitaj et.al.|[2509.12130](http://arxiv.org/abs/2509.12130)|null|
 |**2025-09-04**|**Optimal Multi-Task Learning at Regularization Horizon for Speech Translation Task**|JungHo Jung et.al.|[2509.09701](http://arxiv.org/abs/2509.09701)|null|
 |**2025-09-11**|**Mitigating Language Barriers in Education: Developing Multilingual Digital Learning Materials with Machine Translation**|Lucie Poláková et.al.|[2509.09473](http://arxiv.org/abs/2509.09473)|null|
 |**2025-09-09**|**Small Open Models Achieve Near Parity with Large Models in Low Resource Literary Translation at a Fraction of the Cost**|Mihai Nadas et.al.|[2509.07829](http://arxiv.org/abs/2509.07829)|null|
@@ -342,12 +347,26 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 81 papers*
+*📊 95 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al.|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
+|**2025-09-15**|**AMQ: Enabling AutoML for Mixed-precision Weight-Only Quantization of Large Language Models**|Sangjun Lee et.al.|[2509.12019](http://arxiv.org/abs/2509.12019)|null|
+|**2025-09-15**|**CLAIRE: A Dual Encoder Network with RIFT Loss and Phi-3 Small Language Model Based Interpretability for Cross-Modality Synthetic Aperture Radar and Optical Land Cover Segmentation**|Debopom Sutradhar et.al.|[2509.11952](http://arxiv.org/abs/2509.11952)|null|
+|**2025-09-15**|**Enriched text-guided variational multimodal knowledge distillation network (VMD) for automated diagnosis of plaque vulnerability in 3D carotid artery MRI**|Bo Cao et.al.|[2509.11924](http://arxiv.org/abs/2509.11924)|null|
+|**2025-09-15**|**SpecVLM: Fast Speculative Decoding in Vision-Language Models**|Haiduo Huang et.al.|[2509.11815](http://arxiv.org/abs/2509.11815)|null|
+|**2025-09-15**|**Visualization and Analysis of the Loss Landscape in Graph Neural Networks**|Samir Moustafa et.al.|[2509.11792](http://arxiv.org/abs/2509.11792)|null|
+|**2025-09-15**|**Quantization Errors, Human--AI Interaction, and Approximate Fixed Points in $L^1(μ)$**|Faruk Alpay et.al.|[2509.11700](http://arxiv.org/abs/2509.11700)|null|
+|**2025-09-15**|**DARD: Dice Adversarial Robustness Distillation against Adversarial Attacks**|Jing Zou et.al.|[2509.11525](http://arxiv.org/abs/2509.11525)|null|
+|**2025-09-14**|**Knowledge Distillation for Sensing-Assisted Long-Term Beam Tracking in mmWave Communications**|Mengyuan Ma et.al.|[2509.11419](http://arxiv.org/abs/2509.11419)|null|
+|**2025-09-14**|**Investigating the Lottery Ticket Hypothesis for Variational Quantum Circuits**|Michael Kölle et.al.|[2509.11190](http://arxiv.org/abs/2509.11190)|null|
+|**2025-09-14**|**Optimal Brain Restoration for Joint Quantization and Sparsification of LLMs**|Hang Guo et.al.|[2509.11177](http://arxiv.org/abs/2509.11177)|null|
+|**2025-09-14**|**SVR-GS: Spatially Variant Regularization for Probabilistic Masks in 3D Gaussian Splatting**|Ashkan Taghipour et.al.|[2509.11116](http://arxiv.org/abs/2509.11116)|null|
+|**2025-09-13**|**GAPrune: Gradient-Alignment Pruning for Domain-Aware Embeddings**|Yixuan Tang et.al.|[2509.10844](http://arxiv.org/abs/2509.10844)|null|
+|**2025-09-12**|**Automated MCQA Benchmarking at Scale: Evaluating Reasoning Traces as Retrieval Sources for Domain Adaptation of Small Language Models**|Ozan Gokdemir et.al.|[2509.10744](http://arxiv.org/abs/2509.10744)|null|
 |**2025-09-12**|**Dropping Experts, Recombining Neurons: Retraining-Free Pruning for Sparse Mixture-of-Experts LLMs**|Yixiao Zhou et.al.|[2509.10377](http://arxiv.org/abs/2509.10377)|null|
 |**2025-09-12**|**Efficient Learned Image Compression Through Knowledge Distillation**|Fabien Allemand et.al.|[2509.10366](http://arxiv.org/abs/2509.10366)|null|
 |**2025-09-12**|**I-Segmenter: Integer-Only Vision Transformer for Efficient Semantic Segmentation**|Jordan Sassoon et.al.|[2509.10334](http://arxiv.org/abs/2509.10334)|null|
@@ -442,12 +461,21 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 81 papers*
+*📊 90 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-09-15**|**Robust Fetal Pose Estimation across Gestational Ages via Cross-Population Augmentation**|Sebastian Diaz et.al.|[2509.12062](http://arxiv.org/abs/2509.12062)|null|
+|**2025-09-15**|**Learning to Generate 4D LiDAR Sequences**|Ao Liang et.al.|[2509.11959](http://arxiv.org/abs/2509.11959)|null|
+|**2025-09-15**|**Automated training of neural-network interatomic potentials**|Davide Bidoggia et.al.|[2509.11703](http://arxiv.org/abs/2509.11703)|null|
+|**2025-09-15**|**DTGen: Generative Diffusion-Based Few-Shot Data Augmentation for Fine-Grained Dirty Tableware Recognition**|Lifei Hao et.al.|[2509.11661](http://arxiv.org/abs/2509.11661)|null|
+|**2025-09-15**|**Task Decoding based on Eye Movements using Synthetic Data Augmentation**|Shanmuka Sadhu et.al.|[2509.11547](http://arxiv.org/abs/2509.11547)|null|
+|**2025-09-14**|**An Entropy-Guided Curriculum Learning Strategy for Data-Efficient Acoustic Scene Classification under Domain Shift**|Peihong Zhang et.al.|[2509.11168](http://arxiv.org/abs/2509.11168)|null|
+|**2025-09-14**|**An Advanced Convolutional Neural Network for Bearing Fault Diagnosis under Limited Data**|Shengke Sun et.al.|[2509.11053](http://arxiv.org/abs/2509.11053)|null|
+|**2025-09-13**|**Point-Plane Projections for Accurate LiDAR Semantic Segmentation in Small Data Scenarios**|Simone Mosco et.al.|[2509.10841](http://arxiv.org/abs/2509.10841)|null|
+|**2025-09-01**|**MIDOG 2025 Track 2: A Deep Learning Model for Classification of Atypical and Normal Mitotic Figures under Class and Hardness Imbalances**|Sujatha Kotte et.al.|[2509.10502](http://arxiv.org/abs/2509.10502)|null|
 |**2025-09-12**|**Improving Audio Event Recognition with Consistency Regularization**|Shanmuka Sadhu et.al.|[2509.10391](http://arxiv.org/abs/2509.10391)|null|
 |**2025-09-12**|**Scaling Arabic Medical Chatbots Using Synthetic Data: Enhancing Generative AI with Synthetic Patient Records**|Abdulrahman Allam et.al.|[2509.10108](http://arxiv.org/abs/2509.10108)|null|
 |**2025-09-11**|**Combining Textual and Spectral Features for Robust Classification of Pilot Communications**|Abdullah All Tanvir et.al.|[2509.09752](http://arxiv.org/abs/2509.09752)|null|
@@ -542,12 +570,24 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 66 papers*
+*📊 78 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-09-15**|**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**|Yang Zhou et.al.|[2509.12201](http://arxiv.org/abs/2509.12201)|null|
+|**2025-09-15**|**Learning Majority-to-Minority Transformations with MMD and Triplet Loss for Imbalanced Classification**|Suman Cha et.al.|[2509.11511](http://arxiv.org/abs/2509.11511)|null|
+|**2025-09-14**|**Scaling Up Forest Vision with Synthetic Data**|Yihang She et.al.|[2509.11201](http://arxiv.org/abs/2509.11201)|null|
+|**2025-09-14**|**Differentially-private text generation degrades output language quality**|Erion Çano et.al.|[2509.11176](http://arxiv.org/abs/2509.11176)|null|
+|**2025-09-14**|**STASE: A spatialized text-to-audio synthesis engine for music generation**|Tutti Chi et.al.|[2509.11124](http://arxiv.org/abs/2509.11124)|null|
+|**2025-09-14**|**Filling the Gaps: A Multitask Hybrid Multiscale Generative Framework for Missing Modality in Remote Sensing Semantic Segmentation**|Nhi Kieu et.al.|[2509.11102](http://arxiv.org/abs/2509.11102)|null|
+|**2025-09-14**|**Patient-Zero: A Unified Framework for Real-Record-Free Patient Agent Generation**|Yunghwei Lai et.al.|[2509.11078](http://arxiv.org/abs/2509.11078)|null|
+|**2025-09-13**|**Term2Note: Synthesising Differentially Private Clinical Notes from Medical Terms**|Yuping Wu et.al.|[2509.10882](http://arxiv.org/abs/2509.10882)|null|
+|**2025-09-13**|**CogGNN: Cognitive Graph Neural Networks in Generative Connectomics**|Mayssa Soussia et.al.|[2509.10864](http://arxiv.org/abs/2509.10864)|null|
+|**2025-09-12**|**Struct-Bench: A Benchmark for Differentially Private Structured Text Generation**|Shuaiqi Wang et.al.|[2509.10696](http://arxiv.org/abs/2509.10696)|null|
+|**2025-09-12**|**Humanizing Automated Programming Feedback: Fine-Tuning Generative Models with Student-Written Feedback**|Victor-Alexandru Pădurean et.al.|[2509.10647](http://arxiv.org/abs/2509.10647)|null|
+|**2025-09-11**|**The Coding Limits of Robust Watermarking for Generative Models**|Danilo Francati et.al.|[2509.10577](http://arxiv.org/abs/2509.10577)|null|
 |**2025-09-12**|**Differentially Private Decentralized Dataset Synthesis Through Randomized Mixing with Correlated Noise**|Utsab Saha et.al.|[2509.10385](http://arxiv.org/abs/2509.10385)|null|
 |**2025-09-12**|**Merging Physics-Based Synthetic Data and Machine Learning for Thermal Monitoring of Lithium-ion Batteries: The Role of Data Fidelity**|Yusheng Zheng et.al.|[2509.10380](http://arxiv.org/abs/2509.10380)|null|
 |**2025-09-12**|**Arabic Large Language Models for Medical Text Generation**|Abdulrahman Allam et.al.|[2509.10095](http://arxiv.org/abs/2509.10095)|null|
