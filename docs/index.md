@@ -31,10 +31,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎤 ASR {#asr}
 
-*📊 81 papers*
+*📊 84 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**|Yujie Guo et.al.|[2509.13093](http://arxiv.org/abs/2509.13093)|null|
+|**2025-09-16**|**PAC: Pronunciation-Aware Contextualized Large Language Model-based Automatic Speech Recognition**|Li Fu et.al.|[2509.12647](http://arxiv.org/abs/2509.12647)|null|
+|**2025-09-15**|**FunAudio-ASR Technical Report**|Keyu An et.al.|[2509.12508](http://arxiv.org/abs/2509.12508)|null|
 |**2025-09-15**|**In-domain SSL pre-training and streaming ASR**|Jarod Duret et.al.|[2509.12101](http://arxiv.org/abs/2509.12101)|null|
 |**2025-09-12**|**Improving Audio Event Recognition with Consistency Regularization**|Shanmuka Sadhu et.al.|[2509.10391](http://arxiv.org/abs/2509.10391)|null|
 |**2025-09-12**|**Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR**|Can Cui et.al.|[2509.10234](http://arxiv.org/abs/2509.10234)|null|
@@ -119,10 +122,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🗣️ TTS {#tts}
 
-*📊 71 papers*
+*📊 76 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
+|**2025-09-16**|**LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning**|Jiaqi Wang et.al.|[2509.12875](http://arxiv.org/abs/2509.12875)|null|
+|**2025-09-16**|**Towards personalized, precise and survey-free environment recognition: AI-enhanced sensor fusion without pre-deployment**|Ruichen Wang et.al.|[2509.12870](http://arxiv.org/abs/2509.12870)|null|
+|**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
+|**2025-09-15**|**Building Coding Agents via Entropy-Enhanced Multi-Turn Preference Optimization**|Jiahao Yu et.al.|[2509.12434](http://arxiv.org/abs/2509.12434)|null|
 |**2025-09-15**|**Preservation of Language Understanding Capabilities in Speech-aware Large Language Models**|Marek Kubis et.al.|[2509.12171](http://arxiv.org/abs/2509.12171)|null|
 |**2025-09-14**|**FuseCodec: Semantic-Contextual Fusion and Supervision for Neural Codecs**|Md Mubtasim Ahasan et.al.|[2509.11425](http://arxiv.org/abs/2509.11425)|null|
 |**2025-09-14**|**Length-Aware Rotary Position Embedding for Text-Speech Alignment**|Hyeongju Kim et.al.|[2509.11084](http://arxiv.org/abs/2509.11084)|null|
@@ -197,10 +205,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🌐 Machine Translation {#machine-translation}
 
-*📊 94 papers*
+*📊 98 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Data Augmentation for Maltese NLP using Transliterated and Machine Translated Arabic Data**|Kurt Micallef et.al.|[2509.12853](http://arxiv.org/abs/2509.12853)|null|
+|**2025-09-16**|**Human + AI for Accelerating Ad Localization Evaluation**|Harshit Rajgarhia et.al.|[2509.12543](http://arxiv.org/abs/2509.12543)|null|
+|**2025-09-15**|**A comparison of pipelines for the translation of a low resource language based on transformers**|Chiara Bonfanti et.al.|[2509.12514](http://arxiv.org/abs/2509.12514)|null|
+|**2025-09-14**|**PATIMT-Bench: A Multi-Scenario Benchmark for Position-Aware Text Image Machine Translation in Large Vision-Language Models**|Wanru Zhuang et.al.|[2509.12278](http://arxiv.org/abs/2509.12278)|null|
 |**2025-09-15**|**XplaiNLP at CheckThat! 2025: Multilingual Subjectivity Detection with Finetuned Transformers and Prompt-Based Inference with Large Language Models**|Ariana Sahitaj et.al.|[2509.12130](http://arxiv.org/abs/2509.12130)|null|
 |**2025-09-04**|**Optimal Multi-Task Learning at Regularization Horizon for Speech Translation Task**|JungHo Jung et.al.|[2509.09701](http://arxiv.org/abs/2509.09701)|null|
 |**2025-09-11**|**Mitigating Language Barriers in Education: Developing Multilingual Digital Learning Materials with Machine Translation**|Lucie Poláková et.al.|[2509.09473](http://arxiv.org/abs/2509.09473)|null|
@@ -298,10 +310,20 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ⚡ Small Language Models {#small-language-models}
 
-*📊 95 papers*
+*📊 105 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**LLMs for energy and macronutrients estimation using only text data from 24-hour dietary recalls: a parameter-efficient fine-tuning experiment using a 10-shot prompt**|Rodrigo M Carrillo-Larco et.al.|[2509.13268](http://arxiv.org/abs/2509.13268)|null|
+|**2025-09-16**|**HAM: Hierarchical Adapter Merging for Scalable Continual Learning**|Eric Nuertey Coleman et.al.|[2509.13211](http://arxiv.org/abs/2509.13211)|null|
+|**2025-09-16**|**Vi-SAFE: A Spatial-Temporal Framework for Efficient Violence Detection in Public Surveillance**|Ligang Chang et.al.|[2509.13210](http://arxiv.org/abs/2509.13210)|null|
+|**2025-09-16**|**Multi-Model Synthetic Training for Mission-Critical Small Language Models**|Nolan Platt et.al.|[2509.13047](http://arxiv.org/abs/2509.13047)|null|
+|**2025-09-16**|**Investigating ReLoRA: Effects on the Learning Dynamics of Small Language Models**|Yuval Weiss et.al.|[2509.12960](http://arxiv.org/abs/2509.12960)|null|
+|**2025-09-16**|**A Novel Compression Framework for YOLOv8: Achiev-ing Real-Time Aerial Object Detection on Edge Devices via Structured Pruning and Channel-Wise Distillation**|Melika Sabaghian et.al.|[2509.12918](http://arxiv.org/abs/2509.12918)|null|
+|**2025-09-16**|**Energy-Efficient Quantized Federated Learning for Resource-constrained IoT devices**|Wilfrid Sougrinoma Compaoré et.al.|[2509.12814](http://arxiv.org/abs/2509.12814)|null|
+|**2025-09-16**|**NEFT: A Unified Transformer Framework for Efficient Near-Field CSI Feedback in XL-MIMO Systems**|Haiyang Li et.al.|[2509.12748](http://arxiv.org/abs/2509.12748)|null|
+|**2025-09-16**|**Effective Gaussian Management for High-fidelity Object Reconstruction**|Jiateng Liu et.al.|[2509.12742](http://arxiv.org/abs/2509.12742)|null|
+|**2025-09-16**|**ZTree: A Subgroup Identification Based Decision Tree Learning Framework**|Eric Cheng et.al.|[2509.12688](http://arxiv.org/abs/2509.12688)|null|
 |**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al.|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
 |**2025-09-15**|**AMQ: Enabling AutoML for Mixed-precision Weight-Only Quantization of Large Language Models**|Sangjun Lee et.al.|[2509.12019](http://arxiv.org/abs/2509.12019)|null|
 |**2025-09-15**|**CLAIRE: A Dual Encoder Network with RIFT Loss and Phi-3 Small Language Model Based Interpretability for Cross-Modality Synthetic Aperture Radar and Optical Land Cover Segmentation**|Debopom Sutradhar et.al.|[2509.11952](http://arxiv.org/abs/2509.11952)|null|
@@ -400,10 +422,16 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🔄 Data Augmentation {#data-augmentation}
 
-*📊 90 papers*
+*📊 96 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**Contrastive timbre representations for musical instrument and synthesizer retrieval**|Gwendal Le Vaillant et.al.|[2509.13285](http://arxiv.org/abs/2509.13285)|null|
+|**2025-09-16**|**Time-step Mixup for Efficient Spiking Knowledge Transfer from Appearance to Event Domain**|Yuqi Xie et.al.|[2509.12959](http://arxiv.org/abs/2509.12959)|null|
+|**2025-09-16**|**Synthetic Protein-Ligand Complex Generation for Deep Molecular Docking**|Sofiene Khiari et.al.|[2509.12915](http://arxiv.org/abs/2509.12915)|null|
+|**2025-09-16**|**Cumulative Consensus Score: Label-Free and Model-Agnostic Evaluation of Object Detectors in Deployment**|Avinaash Manoharan et.al.|[2509.12871](http://arxiv.org/abs/2509.12871)|null|
+|**2025-09-16**|**Data Augmentation for Maltese NLP using Transliterated and Machine Translated Arabic Data**|Kurt Micallef et.al.|[2509.12853](http://arxiv.org/abs/2509.12853)|null|
+|**2025-09-16**|**Double Helix Diffusion for Cross-Domain Anomaly Image Generation**|Linchun Wu et.al.|[2509.12787](http://arxiv.org/abs/2509.12787)|null|
 |**2025-09-15**|**Robust Fetal Pose Estimation across Gestational Ages via Cross-Population Augmentation**|Sebastian Diaz et.al.|[2509.12062](http://arxiv.org/abs/2509.12062)|null|
 |**2025-09-15**|**Learning to Generate 4D LiDAR Sequences**|Ao Liang et.al.|[2509.11959](http://arxiv.org/abs/2509.11959)|null|
 |**2025-09-15**|**Automated training of neural-network interatomic potentials**|Davide Bidoggia et.al.|[2509.11703](http://arxiv.org/abs/2509.11703)|null|
@@ -497,10 +525,22 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 78 papers*
+*📊 90 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-16**|**SURGIN: SURrogate-guided Generative INversion for subsurface multiphase flow with quantified uncertainty**|Zhao Feng et.al.|[2509.13189](http://arxiv.org/abs/2509.13189)|null|
+|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
+|**2025-09-16**|**A Synthetic Data Pipeline for Supporting Manufacturing SMEs in Visual Assembly Control**|Jonas Werheid et.al.|[2509.13089](http://arxiv.org/abs/2509.13089)|null|
+|**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
+|**2025-09-16**|**MIA-EPT: Membership Inference Attack via Error Prediction for Tabular Data**|Eyal German et.al.|[2509.13046](http://arxiv.org/abs/2509.13046)|null|
+|**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
+|**2025-09-16**|**ConvergeWriter: Data-Driven Bottom-Up Article Construction**|Binquan Ji et.al.|[2509.12811](http://arxiv.org/abs/2509.12811)|null|
+|**2025-09-16**|**Toward Ownership Understanding of Objects: Active Question Generation with Large Language Model and Probabilistic Generative Model**|Saki Hashimoto et.al.|[2509.12754](http://arxiv.org/abs/2509.12754)|null|
+|**2025-09-16**|**Chat-Driven Text Generation and Interaction for Person Retrieval**|Zequn Xie et.al.|[2509.12662](http://arxiv.org/abs/2509.12662)|null|
+|**2025-09-15**|**MTEB-NL and E5-NL: Embedding Benchmark and Models for Dutch**|Nikolay Banar et.al.|[2509.12340](http://arxiv.org/abs/2509.12340)|null|
+|**2025-09-15**|**VADER: A Variational Autoencoder to Infer Planetary Masses and Gas-Dust Disk Properties Around Young Stars**|Sayed Shafaat Mahmud et.al.|[2509.12324](http://arxiv.org/abs/2509.12324)|null|
+|**2025-09-14**|**Prediction of Stocks Index Price using Quantum GANs**|Sangram Deshpande et.al.|[2509.12286](http://arxiv.org/abs/2509.12286)|null|
 |**2025-09-15**|**OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling**|Yang Zhou et.al.|[2509.12201](http://arxiv.org/abs/2509.12201)|null|
 |**2025-09-15**|**Learning Majority-to-Minority Transformations with MMD and Triplet Loss for Imbalanced Classification**|Suman Cha et.al.|[2509.11511](http://arxiv.org/abs/2509.11511)|null|
 |**2025-09-14**|**Scaling Up Forest Vision with Synthetic Data**|Yihang She et.al.|[2509.11201](http://arxiv.org/abs/2509.11201)|null|
