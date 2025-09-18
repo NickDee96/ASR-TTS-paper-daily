@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.17**
+📅 **Updated on 2025.09.18**
 
 ## 🌟 About This Repository
 
@@ -310,20 +310,26 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ⚡ Small Language Models {#small-language-models}
 
-*📊 105 papers*
+*📊 111 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-16**|**LLMs for energy and macronutrients estimation using only text data from 24-hour dietary recalls: a parameter-efficient fine-tuning experiment using a 10-shot prompt**|Rodrigo M Carrillo-Larco et.al.|[2509.13268](http://arxiv.org/abs/2509.13268)|null|
-|**2025-09-16**|**HAM: Hierarchical Adapter Merging for Scalable Continual Learning**|Eric Nuertey Coleman et.al.|[2509.13211](http://arxiv.org/abs/2509.13211)|null|
+|**2025-09-17**|**HAM: Hierarchical Adapter Merging for Scalable Continual Learning**|Eric Nuertey Coleman et.al.|[2509.13211](http://arxiv.org/abs/2509.13211)|null|
 |**2025-09-16**|**Vi-SAFE: A Spatial-Temporal Framework for Efficient Violence Detection in Public Surveillance**|Ligang Chang et.al.|[2509.13210](http://arxiv.org/abs/2509.13210)|null|
 |**2025-09-16**|**Multi-Model Synthetic Training for Mission-Critical Small Language Models**|Nolan Platt et.al.|[2509.13047](http://arxiv.org/abs/2509.13047)|null|
 |**2025-09-16**|**Investigating ReLoRA: Effects on the Learning Dynamics of Small Language Models**|Yuval Weiss et.al.|[2509.12960](http://arxiv.org/abs/2509.12960)|null|
-|**2025-09-16**|**A Novel Compression Framework for YOLOv8: Achiev-ing Real-Time Aerial Object Detection on Edge Devices via Structured Pruning and Channel-Wise Distillation**|Melika Sabaghian et.al.|[2509.12918](http://arxiv.org/abs/2509.12918)|null|
+|**2025-09-17**|**A Novel Compression Framework for YOLOv8: Achieving Real-Time Aerial Object Detection on Edge Devices via Structured Pruning and Channel-Wise Distillation**|Melika Sabaghian et.al.|[2509.12918](http://arxiv.org/abs/2509.12918)|null|
 |**2025-09-16**|**Energy-Efficient Quantized Federated Learning for Resource-constrained IoT devices**|Wilfrid Sougrinoma Compaoré et.al.|[2509.12814](http://arxiv.org/abs/2509.12814)|null|
 |**2025-09-16**|**NEFT: A Unified Transformer Framework for Efficient Near-Field CSI Feedback in XL-MIMO Systems**|Haiyang Li et.al.|[2509.12748](http://arxiv.org/abs/2509.12748)|null|
 |**2025-09-16**|**Effective Gaussian Management for High-fidelity Object Reconstruction**|Jiateng Liu et.al.|[2509.12742](http://arxiv.org/abs/2509.12742)|null|
 |**2025-09-16**|**ZTree: A Subgroup Identification Based Decision Tree Learning Framework**|Eric Cheng et.al.|[2509.12688](http://arxiv.org/abs/2509.12688)|null|
+|**2025-09-16**|**The Better You Learn, The Smarter You Prune: Towards Efficient Vision-language-action Models via Differentiable Token Pruning**|Titong Jiang et.al.|[2509.12594](http://arxiv.org/abs/2509.12594)|null|
+|**2025-09-16**|**iCD: A Implicit Clustering Distillation Mathod for Structural Information Mining**|Xiang Xue et.al.|[2509.12553](http://arxiv.org/abs/2509.12553)|null|
+|**2025-09-16**|**LEAF: Knowledge Distillation of Text Embedding Models with Teacher-Aligned Representations**|Robin Vujanic et.al.|[2509.12539](http://arxiv.org/abs/2509.12539)|null|
+|**2025-09-15**|**Reasoning Models Can be Accurately Pruned Via Chain-of-Thought Reconstruction**|Ryan Lucas et.al.|[2509.12464](http://arxiv.org/abs/2509.12464)|null|
+|**2025-09-15**|**GhostNetV3-Small: A Tailored Architecture and Comparative Study of Distillation Strategies for Tiny Images**|Florian Zager et.al.|[2509.12380](http://arxiv.org/abs/2509.12380)|null|
+|**2025-09-15**|**Unsupervised Atomic Data Mining via Multi-Kernel Graph Autoencoders for Machine Learning Force Fields**|Hong Sun et.al.|[2509.12358](http://arxiv.org/abs/2509.12358)|null|
 |**2025-09-15**|**SAQ: Pushing the Limits of Vector Quantization through Code Adjustment and Dimension Segmentation**|Hui Li et.al.|[2509.12086](http://arxiv.org/abs/2509.12086)|null|
 |**2025-09-15**|**AMQ: Enabling AutoML for Mixed-precision Weight-Only Quantization of Large Language Models**|Sangjun Lee et.al.|[2509.12019](http://arxiv.org/abs/2509.12019)|null|
 |**2025-09-15**|**CLAIRE: A Dual Encoder Network with RIFT Loss and Phi-3 Small Language Model Based Interpretability for Cross-Modality Synthetic Aperture Radar and Optical Land Cover Segmentation**|Debopom Sutradhar et.al.|[2509.11952](http://arxiv.org/abs/2509.11952)|null|
@@ -350,7 +356,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-11**|**ButterflyQuant: Ultra-low-bit LLM Quantization through Learnable Orthogonal Butterfly Transforms**|Bingxin Xu et.al.|[2509.09679](http://arxiv.org/abs/2509.09679)|null|
 |**2025-09-11**|**ReBaNO: Reduced Basis Neural Operator Mitigating Generalization Gaps and Achieving Discretization Invariance**|Haolan Zheng et.al.|[2509.09611](http://arxiv.org/abs/2509.09611)|null|
 |**2025-09-11**|**Combating the Memory Walls: Optimization Pathways for Long-Context Agentic LLM Inference**|Haoran Wu et.al.|[2509.09505](http://arxiv.org/abs/2509.09505)|null|
-|**2025-09-11**|**Unified Start, Personalized End: Progressive Pruning for Efficient 3D Medical Image Segmentation**|Linhao Li et.al.|[2509.09267](http://arxiv.org/abs/2509.09267)|null|
+|**2025-09-11**|**Unified Start, Personalized End: Progressive Pruning for Efficient 3D Medical Image Segmentation**|Linhao Li et.al.|[2509.09267](http://arxiv.org/abs/2509.09267)|**[link](https://github.com/leoLilh/PSP-Seg)**|
 |**2025-09-11**|**Adaptive Knowledge Distillation using a Device-Aware Teacher for Low-Complexity Acoustic Scene Classification**|Seung Gyu Jeong et.al.|[2509.09262](http://arxiv.org/abs/2509.09262)|null|
 |**2025-09-11**|**SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models**|Hengyu Fang et.al.|[2509.09090](http://arxiv.org/abs/2509.09090)|null|
 |**2025-09-10**|**CSI Compression Beyond Latents: End-to-End Hybrid Attention-CNN Networks with Entropy Regularization**|Maryam Ansarifard et.al.|[2509.08776](http://arxiv.org/abs/2509.08776)|null|
@@ -530,7 +536,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-09-16**|**SURGIN: SURrogate-guided Generative INversion for subsurface multiphase flow with quantified uncertainty**|Zhao Feng et.al.|[2509.13189](http://arxiv.org/abs/2509.13189)|null|
-|**2025-09-16**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
+|**2025-09-17**|**TeraSim-World: Worldwide Safety-Critical Data Synthesis for End-to-End Autonomous Driving**|Jiawei Wang et.al.|[2509.13164](http://arxiv.org/abs/2509.13164)|null|
 |**2025-09-16**|**A Synthetic Data Pipeline for Supporting Manufacturing SMEs in Visual Assembly Control**|Jonas Werheid et.al.|[2509.13089](http://arxiv.org/abs/2509.13089)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
 |**2025-09-16**|**MIA-EPT: Membership Inference Attack via Error Prediction for Tabular Data**|Eyal German et.al.|[2509.13046](http://arxiv.org/abs/2509.13046)|null|
