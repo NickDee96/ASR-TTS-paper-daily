@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.18**
+📅 **Updated on 2025.09.19**
 
 ---
 
@@ -55,9 +55,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-17**|**Conducting Mission-Critical Voice Experiments with Automated Speech Recognition and Crowdsourcing**|Jan Janak et.al.|[2509.13724](http://arxiv.org/abs/2509.13724)|null|
 |**2025-09-16**|**Invisible Ears at Your Fingertips: Acoustic Eavesdropping via Mouse Sensors**|Mohamad Fakih et.al.|[2509.13581](http://arxiv.org/abs/2509.13581)|null|
 |**2025-09-16**|**TICL: Text-Embedding KNN For Speech In-Context Learning Unlocks Speech Recognition Abilities of Large Multimodal Models**|Haolong Zheng et.al.|[2509.13395](http://arxiv.org/abs/2509.13395)|null|
-|**2025-09-16**|**GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**|Yujie Guo et.al.|[2509.13093](http://arxiv.org/abs/2509.13093)|null|
+|**2025-09-18**|**GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**|Yujie Guo et.al.|[2509.13093](http://arxiv.org/abs/2509.13093)|null|
 |**2025-09-16**|**PAC: Pronunciation-Aware Contextualized Large Language Model-based Automatic Speech Recognition**|Li Fu et.al.|[2509.12647](http://arxiv.org/abs/2509.12647)|null|
-|**2025-09-15**|**FunAudio-ASR Technical Report**|Keyu An et.al.|[2509.12508](http://arxiv.org/abs/2509.12508)|null|
+|**2025-09-17**|**FunAudio-ASR Technical Report**|Keyu An et.al.|[2509.12508](http://arxiv.org/abs/2509.12508)|null|
 |**2025-09-15**|**In-domain SSL pre-training and streaming ASR**|Jarod Duret et.al.|[2509.12101](http://arxiv.org/abs/2509.12101)|null|
 |**2025-09-12**|**Improving Audio Event Recognition with Consistency Regularization**|Shanmuka Sadhu et.al.|[2509.10391](http://arxiv.org/abs/2509.10391)|null|
 |**2025-09-12**|**Data-independent Beamforming for End-to-end Multichannel Multi-speaker ASR**|Can Cui et.al.|[2509.10234](http://arxiv.org/abs/2509.10234)|null|
@@ -159,7 +159,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2025-09-17**|**Slim-SC: Thought Pruning for Efficient Scaling with Self-Consistency**|Colin Hong et.al.|[2509.13990](http://arxiv.org/abs/2509.13990)|null|
-|**2025-09-17**|**Do You Hear What I Mean? Quantifying the Instruction-Perception Gap in Instruction-Guided Expressive Text-To-Speech Systems**|Yi-Cheng Lin et.al.|[2509.13989](http://arxiv.org/abs/2509.13989)|null|
+|**2025-09-18**|**Do You Hear What I Mean? Quantifying the Instruction-Perception Gap in Instruction-Guided Expressive Text-To-Speech Systems**|Yi-Cheng Lin et.al.|[2509.13989](http://arxiv.org/abs/2509.13989)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
 |**2025-09-16**|**LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning**|Jiaqi Wang et.al.|[2509.12875](http://arxiv.org/abs/2509.12875)|null|
 |**2025-09-16**|**Towards personalized, precise and survey-free environment recognition: AI-enhanced sensor fusion without pre-deployment**|Ruichen Wang et.al.|[2509.12870](http://arxiv.org/abs/2509.12870)|null|
@@ -260,7 +260,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-17**|**Hala Technical Report: Building Arabic-Centric Instruction & Translation Models at Scale**|Hasan Abed Al Kader Hammoud et.al.|[2509.14008](http://arxiv.org/abs/2509.14008)|null|
 |**2025-09-17**|**Long-context Reference-based MT Quality Estimation**|Sami Ul Haq et.al.|[2509.13980](http://arxiv.org/abs/2509.13980)|null|
 |**2025-09-16**|**Data Augmentation for Maltese NLP using Transliterated and Machine Translated Arabic Data**|Kurt Micallef et.al.|[2509.12853](http://arxiv.org/abs/2509.12853)|null|
-|**2025-09-16**|**Human + AI for Accelerating Ad Localization Evaluation**|Harshit Rajgarhia et.al.|[2509.12543](http://arxiv.org/abs/2509.12543)|null|
+|**2025-09-17**|**Human + AI for Accelerating Ad Localization Evaluation**|Harshit Rajgarhia et.al.|[2509.12543](http://arxiv.org/abs/2509.12543)|null|
 |**2025-09-15**|**A comparison of pipelines for the translation of a low resource language based on transformers**|Chiara Bonfanti et.al.|[2509.12514](http://arxiv.org/abs/2509.12514)|null|
 |**2025-09-14**|**PATIMT-Bench: A Multi-Scenario Benchmark for Position-Aware Text Image Machine Translation in Large Vision-Language Models**|Wanru Zhuang et.al.|[2509.12278](http://arxiv.org/abs/2509.12278)|null|
 |**2025-09-15**|**XplaiNLP at CheckThat! 2025: Multilingual Subjectivity Detection with Finetuned Transformers and Prompt-Based Inference with Large Language Models**|Ariana Sahitaj et.al.|[2509.12130](http://arxiv.org/abs/2509.12130)|null|
@@ -275,7 +275,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-04**|**Align-then-Slide: A complete evaluation framework for Ultra-Long Document-Level Machine Translation**|Jiaxin Guo et.al.|[2509.03809](http://arxiv.org/abs/2509.03809)|null|
 |**2025-09-03**|**Expanding the WMT24++ Benchmark with Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran, Puter, and Vallader**|Jannis Vamvas et.al.|[2509.03148](http://arxiv.org/abs/2509.03148)|null|
 |**2025-09-02**|**The Forgotten Code: Validating a Century-Old Translation System with AI**|Jean-Marie Le Ray et.al.|[2509.02506](http://arxiv.org/abs/2509.02506)|null|
-|**2025-09-01**|**CSRM-LLM: Embracing Multilingual LLMs for Cold-Start Relevance Matching in Emerging E-commerce Markets**|Yujing Wang et.al.|[2509.01566](http://arxiv.org/abs/2509.01566)|null|
+|**2025-09-18**|**CSRM-LLM: Embracing Multilingual LLMs for Cold-Start Relevance Matching in Emerging E-commerce Markets**|Yujing Wang et.al.|[2509.01566](http://arxiv.org/abs/2509.01566)|null|
 |**2025-08-28**|**The Uneven Impact of Post-Training Quantization in Machine Translation**|Benjamin Marie et.al.|[2508.20893](http://arxiv.org/abs/2508.20893)|null|
 |**2025-08-28**|**Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark**|Chihiro Taguchi et.al.|[2508.20511](http://arxiv.org/abs/2508.20511)|null|
 |**2025-09-06**|**FlowMalTrans: Unsupervised Binary Code Translation for Malware Detection Using Flow-Adapter Architecture**|Minghao Hu et.al.|[2508.20212](http://arxiv.org/abs/2508.20212)|null|
@@ -383,13 +383,13 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-17**|**Asymptotic Analysis of Nonlinear One-Bit Precoding in Massive MIMO Systems via Approximate Message Passing**|Zheyu Wu et.al.|[2509.13955](http://arxiv.org/abs/2509.13955)|null|
 |**2025-09-17**|**Efficient Quantization-Aware Neural Receivers: Beyond Post-Training Quantization**|SaiKrishna Saketh Yellapragada et.al.|[2509.13786](http://arxiv.org/abs/2509.13786)|null|
 |**2025-09-17**|**TENET: An Efficient Sparsity-Aware LUT-Centric Architecture for Ternary LLM Inference On Edge**|Zhirui Huang et.al.|[2509.13765](http://arxiv.org/abs/2509.13765)|null|
-|**2025-09-17**|**DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning**|Yaxin Gao et.al.|[2509.13723](http://arxiv.org/abs/2509.13723)|null|
+|**2025-09-18**|**DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning**|Yaxin Gao et.al.|[2509.13723](http://arxiv.org/abs/2509.13723)|null|
 |**2025-09-17**|**InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management**|Liangtao Lin et.al.|[2509.13704](http://arxiv.org/abs/2509.13704)|null|
 |**2025-09-17**|**A High-Quality and Low-Complexity Streamable Neural Speech Codec with Knowledge Distillation**|En-Wei Zhang et.al.|[2509.13670](http://arxiv.org/abs/2509.13670)|null|
 |**2025-09-16**|**AQUA-LLM: Evaluating Accuracy, Quantization, and Adversarial Robustness Trade-offs in LLMs for Cybersecurity Question Answering**|Onat Gungor et.al.|[2509.13514](http://arxiv.org/abs/2509.13514)|null|
 |**2025-09-16**|**Improving 3D Gaussian Splatting Compression by Scene-Adaptive Lattice Vector Quantization**|Hao Xu et.al.|[2509.13482](http://arxiv.org/abs/2509.13482)|null|
 |**2025-09-16**|**LLMs for energy and macronutrients estimation using only text data from 24-hour dietary recalls: a parameter-efficient fine-tuning experiment using a 10-shot prompt**|Rodrigo M Carrillo-Larco et.al.|[2509.13268](http://arxiv.org/abs/2509.13268)|null|
-|**2025-09-17**|**HAM: Hierarchical Adapter Merging for Scalable Continual Learning**|Eric Nuertey Coleman et.al.|[2509.13211](http://arxiv.org/abs/2509.13211)|null|
+|**2025-09-18**|**HAM: Hierarchical Adapter Merging for Scalable Continual Learning**|Eric Nuertey Coleman et.al.|[2509.13211](http://arxiv.org/abs/2509.13211)|null|
 |**2025-09-16**|**Vi-SAFE: A Spatial-Temporal Framework for Efficient Violence Detection in Public Surveillance**|Ligang Chang et.al.|[2509.13210](http://arxiv.org/abs/2509.13210)|null|
 |**2025-09-16**|**Multi-Model Synthetic Training for Mission-Critical Small Language Models**|Nolan Platt et.al.|[2509.13047](http://arxiv.org/abs/2509.13047)|null|
 |**2025-09-16**|**Investigating ReLoRA: Effects on the Learning Dynamics of Small Language Models**|Yuval Weiss et.al.|[2509.12960](http://arxiv.org/abs/2509.12960)|null|
@@ -518,7 +518,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2025-09-17**|**Sequential Data Augmentation for Generative Recommendation**|Geon Lee et.al.|[2509.13648](http://arxiv.org/abs/2509.13648)|null|
+|**2025-09-17**|**Sequential Data Augmentation for Generative Recommendation**|Geon Lee et.al.|[2509.13648](http://arxiv.org/abs/2509.13648)|**[link](https://github.com/djdprogramming/adfa2)**|
 |**2025-09-17**|**Multimodal signal fusion for stress detection using deep neural networks: a novel approach for converting 1D signals to unified 2D images**|Yasin Hasanpoor et.al.|[2509.13636](http://arxiv.org/abs/2509.13636)|null|
 |**2025-09-16**|**Adversarial Appearance Learning in Augmented Cityscapes for Pedestrian Recognition in Autonomous Driving**|Artem Savkin et.al.|[2509.13507](http://arxiv.org/abs/2509.13507)|null|
 |**2025-09-16**|**Contrastive timbre representations for musical instrument and synthesizer retrieval**|Gwendal Le Vaillant et.al.|[2509.13285](http://arxiv.org/abs/2509.13285)|null|
