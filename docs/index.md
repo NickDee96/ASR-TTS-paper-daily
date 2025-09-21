@@ -271,10 +271,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-18**|**DocHPLT: A Massively Multilingual Document-Level Translation Dataset**|Dayyán O'Brien et.al.|[2508.13079](http://arxiv.org/abs/2508.13079)|null|
 |**2025-08-18**|**From SALAMANDRA to SALAMANDRATA: BSC Submission for WMT25 General Machine Translation Shared Task**|Javier Garcia Gilabert et.al.|[2508.12774](http://arxiv.org/abs/2508.12774)|null|
 |**2025-08-25**|**SEA-BED: Southeast Asia Embedding Benchmark**|Wuttikorn Ponwitayarat et.al.|[2508.12243](http://arxiv.org/abs/2508.12243)|null|
-|**2025-08-14**|**Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages**|Nasma Chaoui et.al.|[2508.10683](http://arxiv.org/abs/2508.10683)|null|
+|**2025-08-14**|**Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages**|Nasma Chaoui et.al.|[2508.10683](http://arxiv.org/abs/2508.10683)|**[link](https://github.com/chaouin/coptic-french-nmt)**|
 |**2025-08-14**|**Evaluating LLMs on Chinese Idiom Translation**|Cai Yang et.al.|[2508.10421](http://arxiv.org/abs/2508.10421)|null|
 |**2025-08-28**|**Estimating Machine Translation Difficulty**|Lorenzo Proietti et.al.|[2508.10175](http://arxiv.org/abs/2508.10175)|null|
-|**2025-08-12**|**TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine Translation**|Armel Zebaze et.al.|[2508.08680](http://arxiv.org/abs/2508.08680)|null|
+|**2025-08-12**|**TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine Translation**|Armel Zebaze et.al.|[2508.08680](http://arxiv.org/abs/2508.08680)|**[link](https://github.com/ArmelRandy/topxgen)**|
 |**2025-08-12**|**UWB at WASSA-2024 Shared Task 2: Cross-lingual Emotion Detection**|Jakub Šmíd et.al.|[2508.08650](http://arxiv.org/abs/2508.08650)|null|
 |**2025-08-11**|**Toward Machine Interpreting: Lessons from Human Interpreting Studies**|Matthias Sperber et.al.|[2508.07964](http://arxiv.org/abs/2508.07964)|null|
 |**2025-08-10**|**ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models**|Archchana Sindhujan et.al.|[2508.07484](http://arxiv.org/abs/2508.07484)|null|
@@ -594,7 +594,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-18**|**Learning Mechanistic Subtypes of Neurodegeneration with a Physics-Informed Variational Autoencoder Mixture Model**|Sanduni Pinnawala et.al.|[2509.15124](http://arxiv.org/abs/2509.15124)|null|
 |**2025-09-18**|**Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for Realistic Underwater Image Generation**|Vasiliki Ismiroglou et.al.|[2509.15011](http://arxiv.org/abs/2509.15011)|null|
 |**2025-09-18**|**SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding**|Bingsong Bai et.al.|[2509.14946](http://arxiv.org/abs/2509.14946)|null|
-|**2025-09-18**|**Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance**|Francisco Messina et.al.|[2509.14934](http://arxiv.org/abs/2509.14934)|null|
+|**2025-09-18**|**Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance**|Francisco Messina et.al.|[2509.14934](http://arxiv.org/abs/2509.14934)|**[link](https://github.com/polimi-ispl/anti-memorization-tta)**|
 |**2025-09-18**|**MeanFlowSE: one-step generative speech enhancement via conditional mean flow**|Duojia Li et.al.|[2509.14858](http://arxiv.org/abs/2509.14858)|null|
 |**2025-09-18**|**SynBench: A Benchmark for Differentially Private Text Generation**|Yidan Sun et.al.|[2509.14594](http://arxiv.org/abs/2509.14594)|null|
 |**2025-09-18**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
