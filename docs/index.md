@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.20**
+📅 **Updated on 2025.09.21**
 
 ## 🌟 About This Repository
 
