@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.21**
+📅 **Updated on 2025.09.22**
 
 ---
 
@@ -51,7 +51,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2025-09-18**|**Listening, Imagining \& Refining: A Heuristic Optimized ASR Correction Framework with LLMs**|Yutong Liu et.al.|[2509.15095](http://arxiv.org/abs/2509.15095)|null|
-|**2025-09-18**|**From Hype to Insight: Rethinking Large Language Model Integration in Visual Speech Recognition**|Rishabh Jain et.al.|[2509.14880](http://arxiv.org/abs/2509.14880)|null|
+|**2025-09-19**|**From Hype to Insight: Rethinking Large Language Model Integration in Visual Speech Recognition**|Rishabh Jain et.al.|[2509.14880](http://arxiv.org/abs/2509.14880)|null|
 |**2025-09-18**|**Towards Building Speech Large Language Models for Multitask Understanding in Low-Resource Languages**|Mingchen Shao et.al.|[2509.14804](http://arxiv.org/abs/2509.14804)|null|
 |**2025-09-18**|**UMA-Split: unimodal aggregation for both English and Mandarin non-autoregressive speech recognition**|Ying Fang et.al.|[2509.14653](http://arxiv.org/abs/2509.14653)|null|
 |**2025-09-17**|**Multi-Channel Differential ASR for Robust Wearer Speech Recognition on Smart Glasses**|Yufeng Yang et.al.|[2509.14430](http://arxiv.org/abs/2509.14430)|null|
@@ -300,7 +300,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-24**|**Evaluating the Impact of Verbal Multiword Expressions on Machine Translation**|Linfeng Liu et.al.|[2508.17458](http://arxiv.org/abs/2508.17458)|null|
 |**2025-08-22**|**Cetvel: A Unified Benchmark for Evaluating Language Understanding, Generation and Cultural Capacity of LLMs for Turkish**|Yakup Abrek Er et.al.|[2508.16431](http://arxiv.org/abs/2508.16431)|null|
 |**2025-08-22**|**The Mediomatix Corpus: Parallel Data for Romansh Idioms via Comparable Schoolbooks**|Zachary Hopton et.al.|[2508.16371](http://arxiv.org/abs/2508.16371)|null|
-|**2025-09-16**|**OpenWHO: A Document-Level Parallel Corpus for Health Translation in Low-Resource Languages**|Raphaël Merx et.al.|[2508.16048](http://arxiv.org/abs/2508.16048)|null|
+|**2025-09-19**|**OpenWHO: A Document-Level Parallel Corpus for Health Translation in Low-Resource Languages**|Raphaël Merx et.al.|[2508.16048](http://arxiv.org/abs/2508.16048)|null|
 |**2025-08-21**|**Confidence-Modulated Speculative Decoding for Large Language Models**|Jaydip Sen et.al.|[2508.15371](http://arxiv.org/abs/2508.15371)|null|
 |**2025-08-20**|**Improving LLMs for Machine Translation Using Synthetic Preference Data**|Dario Vajda et.al.|[2508.14951](http://arxiv.org/abs/2508.14951)|null|
 |**2025-08-24**|**Preliminary Ranking of WMT25 General Machine Translation Systems**|Tom Kocmi et.al.|[2508.14909](http://arxiv.org/abs/2508.14909)|null|
@@ -310,10 +310,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-18**|**DocHPLT: A Massively Multilingual Document-Level Translation Dataset**|Dayyán O'Brien et.al.|[2508.13079](http://arxiv.org/abs/2508.13079)|null|
 |**2025-08-18**|**From SALAMANDRA to SALAMANDRATA: BSC Submission for WMT25 General Machine Translation Shared Task**|Javier Garcia Gilabert et.al.|[2508.12774](http://arxiv.org/abs/2508.12774)|null|
 |**2025-08-25**|**SEA-BED: Southeast Asia Embedding Benchmark**|Wuttikorn Ponwitayarat et.al.|[2508.12243](http://arxiv.org/abs/2508.12243)|null|
-|**2025-08-14**|**Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages**|Nasma Chaoui et.al.|[2508.10683](http://arxiv.org/abs/2508.10683)|**[link](https://github.com/chaouin/coptic-french-nmt)**|
+|**2025-08-14**|**Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages**|Nasma Chaoui et.al.|[2508.10683](http://arxiv.org/abs/2508.10683)|null|
 |**2025-08-14**|**Evaluating LLMs on Chinese Idiom Translation**|Cai Yang et.al.|[2508.10421](http://arxiv.org/abs/2508.10421)|null|
 |**2025-08-28**|**Estimating Machine Translation Difficulty**|Lorenzo Proietti et.al.|[2508.10175](http://arxiv.org/abs/2508.10175)|null|
-|**2025-08-12**|**TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine Translation**|Armel Zebaze et.al.|[2508.08680](http://arxiv.org/abs/2508.08680)|**[link](https://github.com/ArmelRandy/topxgen)**|
+|**2025-08-12**|**TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine Translation**|Armel Zebaze et.al.|[2508.08680](http://arxiv.org/abs/2508.08680)|null|
 |**2025-08-12**|**UWB at WASSA-2024 Shared Task 2: Cross-lingual Emotion Detection**|Jakub Šmíd et.al.|[2508.08650](http://arxiv.org/abs/2508.08650)|null|
 |**2025-08-11**|**Toward Machine Interpreting: Lessons from Human Interpreting Studies**|Matthias Sperber et.al.|[2508.07964](http://arxiv.org/abs/2508.07964)|null|
 |**2025-08-10**|**ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models**|Archchana Sindhujan et.al.|[2508.07484](http://arxiv.org/abs/2508.07484)|null|
@@ -352,7 +352,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-21**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618](http://arxiv.org/abs/2507.13618)|null|
 |**2025-07-16**|**Mitigating Stylistic Biases of Machine Translation Systems via Monolingual Corpora Only**|Xuanqi Gao et.al.|[2507.13395](http://arxiv.org/abs/2507.13395)|null|
 |**2025-07-16**|**The first open machine translation system for the Chechen language**|Abu-Viskhan A. Umishov et.al.|[2507.12672](http://arxiv.org/abs/2507.12672)|null|
-|**2025-07-16**|**Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese**|Yikang Liu et.al.|[2507.12260](http://arxiv.org/abs/2507.12260)|null|
+|**2025-09-19**|**Translationese-index: Using Likelihood Ratios for Graded and Generalizable Measurement of Translationese**|Yikang Liu et.al.|[2507.12260](http://arxiv.org/abs/2507.12260)|null|
 |**2025-07-16**|**Marco-Bench-MIF: On Multilingual Instruction-Following Capability of Large Language Models**|Bo Zeng et.al.|[2507.11882](http://arxiv.org/abs/2507.11882)|null|
 |**2025-07-31**|**ILID: Native Script Language Identification for Indian Languages**|Yash Ingle et.al.|[2507.11832](http://arxiv.org/abs/2507.11832)|null|
 |**2025-08-30**|**How Important is `Perfect' English for Machine Translation Prompts?**|Patrícia Schmidtová et.al.|[2507.09509](http://arxiv.org/abs/2507.09509)|null|
@@ -392,14 +392,14 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-18**|**Fair-GPTQ: Bias-Aware Quantization for Large Language Models**|Irina Proskurina et.al.|[2509.15206](http://arxiv.org/abs/2509.15206)|null|
 |**2025-09-18**|**MaRVIn: A Cross-Layer Mixed-Precision RISC-V Framework for DNN Inference, from ISA Extension to Hardware Acceleration**|Giorgos Armeniakos et.al.|[2509.15187](http://arxiv.org/abs/2509.15187)|null|
 |**2025-09-18**|**No Modality Left Behind: Adapting to Missing Modalities via Knowledge Distillation for Brain Tumor Segmentation**|Shenghao Zhu et.al.|[2509.15017](http://arxiv.org/abs/2509.15017)|null|
-|**2025-09-18**|**MeanFlowSE: one-step generative speech enhancement via conditional mean flow**|Duojia Li et.al.|[2509.14858](http://arxiv.org/abs/2509.14858)|null|
+|**2025-09-19**|**MeanFlowSE: one-step generative speech enhancement via conditional mean flow**|Duojia Li et.al.|[2509.14858](http://arxiv.org/abs/2509.14858)|null|
 |**2025-09-18**|**Delta Knowledge Distillation for Large Language Models**|Yihan Cao et.al.|[2509.14526](http://arxiv.org/abs/2509.14526)|null|
 |**2025-09-17**|**NIRVANA: Structured pruning reimagined for large language models compression**|Mengting Ai et.al.|[2509.14230](http://arxiv.org/abs/2509.14230)|null|
 |**2025-09-17**|**Where Do Tokens Go? Understanding Pruning Behaviors in STEP at High Resolutions**|Michal Szczepanski et.al.|[2509.14165](http://arxiv.org/abs/2509.14165)|null|
 |**2025-09-17**|**SV-Mixer: Replacing the Transformer Encoder with Lightweight MLPs for Self-Supervised Model Compression in Speaker Verification**|Jungwoo Heo et.al.|[2509.14136](http://arxiv.org/abs/2509.14136)|null|
 |**2025-09-17**|**MOCHA: Multi-modal Objects-aware Cross-arcHitecture Alignment**|Elena Camuffo et.al.|[2509.14001](http://arxiv.org/abs/2509.14001)|null|
 |**2025-09-17**|**Asymptotic Analysis of Nonlinear One-Bit Precoding in Massive MIMO Systems via Approximate Message Passing**|Zheyu Wu et.al.|[2509.13955](http://arxiv.org/abs/2509.13955)|null|
-|**2025-09-17**|**Efficient Quantization-Aware Neural Receivers: Beyond Post-Training Quantization**|SaiKrishna Saketh Yellapragada et.al.|[2509.13786](http://arxiv.org/abs/2509.13786)|null|
+|**2025-09-19**|**Efficient Quantization-Aware Neural Receivers: Beyond Post-Training Quantization**|SaiKrishna Saketh Yellapragada et.al.|[2509.13786](http://arxiv.org/abs/2509.13786)|null|
 |**2025-09-17**|**TENET: An Efficient Sparsity-Aware LUT-Centric Architecture for Ternary LLM Inference On Edge**|Zhirui Huang et.al.|[2509.13765](http://arxiv.org/abs/2509.13765)|null|
 |**2025-09-18**|**DSPC: Dual-Stage Progressive Compression Framework for Efficient Long-Context Reasoning**|Yaxin Gao et.al.|[2509.13723](http://arxiv.org/abs/2509.13723)|null|
 |**2025-09-17**|**InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management**|Liangtao Lin et.al.|[2509.13704](http://arxiv.org/abs/2509.13704)|null|
@@ -568,7 +568,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-12**|**Improving Audio Event Recognition with Consistency Regularization**|Shanmuka Sadhu et.al.|[2509.10391](http://arxiv.org/abs/2509.10391)|null|
 |**2025-09-12**|**Scaling Arabic Medical Chatbots Using Synthetic Data: Enhancing Generative AI with Synthetic Patient Records**|Abdulrahman Allam et.al.|[2509.10108](http://arxiv.org/abs/2509.10108)|null|
 |**2025-09-11**|**Combining Textual and Spectral Features for Robust Classification of Pilot Communications**|Abdullah All Tanvir et.al.|[2509.09752](http://arxiv.org/abs/2509.09752)|null|
-|**2025-09-11**|**Structure Matters: Brain Graph Augmentation via Learnable Edge Masking for Data-efficient Psychiatric Diagnosis**|Mujie Liu et.al.|[2509.09744](http://arxiv.org/abs/2509.09744)|null|
+|**2025-09-19**|**Structure Matters: Brain Graph Augmentation via Learnable Edge Masking for Data-efficient Psychiatric Diagnosis**|Mujie Liu et.al.|[2509.09744](http://arxiv.org/abs/2509.09744)|null|
 |**2025-09-11**|**Virtual staining for 3D X-ray histology of bone implants**|Sarah C. Irvine et.al.|[2509.09235](http://arxiv.org/abs/2509.09235)|null|
 |**2025-09-11**|**Target-oriented Multimodal Sentiment Classification with Counterfactual-enhanced Debiasing**|Zhiyue Liu et.al.|[2509.09160](http://arxiv.org/abs/2509.09160)|null|
 |**2025-09-10**|**Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge**|Mohammad Saqib Hasan et.al.|[2509.08808](http://arxiv.org/abs/2509.08808)|null|
@@ -667,10 +667,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---:|:---|:---:|:---:|:---:|
 |**2025-09-18**|**Fair-GPTQ: Bias-Aware Quantization for Large Language Models**|Irina Proskurina et.al.|[2509.15206](http://arxiv.org/abs/2509.15206)|null|
 |**2025-09-18**|**Learning Mechanistic Subtypes of Neurodegeneration with a Physics-Informed Variational Autoencoder Mixture Model**|Sanduni Pinnawala et.al.|[2509.15124](http://arxiv.org/abs/2509.15124)|null|
-|**2025-09-18**|**Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for Realistic Underwater Image Generation**|Vasiliki Ismiroglou et.al.|[2509.15011](http://arxiv.org/abs/2509.15011)|null|
+|**2025-09-19**|**Sea-ing Through Scattered Rays: Revisiting the Image Formation Model for Realistic Underwater Image Generation**|Vasiliki Ismiroglou et.al.|[2509.15011](http://arxiv.org/abs/2509.15011)|null|
 |**2025-09-18**|**SynParaSpeech: Automated Synthesis of Paralinguistic Datasets for Speech Generation and Understanding**|Bingsong Bai et.al.|[2509.14946](http://arxiv.org/abs/2509.14946)|null|
-|**2025-09-18**|**Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance**|Francisco Messina et.al.|[2509.14934](http://arxiv.org/abs/2509.14934)|**[link](https://github.com/polimi-ispl/anti-memorization-tta)**|
-|**2025-09-18**|**MeanFlowSE: one-step generative speech enhancement via conditional mean flow**|Duojia Li et.al.|[2509.14858](http://arxiv.org/abs/2509.14858)|null|
+|**2025-09-18**|**Mitigating data replication in text-to-audio generative diffusion models through anti-memorization guidance**|Francisco Messina et.al.|[2509.14934](http://arxiv.org/abs/2509.14934)|null|
+|**2025-09-19**|**MeanFlowSE: one-step generative speech enhancement via conditional mean flow**|Duojia Li et.al.|[2509.14858](http://arxiv.org/abs/2509.14858)|null|
 |**2025-09-18**|**SynBench: A Benchmark for Differentially Private Text Generation**|Yidan Sun et.al.|[2509.14594](http://arxiv.org/abs/2509.14594)|null|
 |**2025-09-18**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
 |**2025-09-17**|**A generative model of function growth explains hidden self-similarities across biological and social systems**|James Holehouse et.al.|[2509.14468](http://arxiv.org/abs/2509.14468)|null|
