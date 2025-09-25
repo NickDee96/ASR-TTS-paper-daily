@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.24**
+📅 **Updated on 2025.09.25**
 
 ---
 
@@ -217,7 +217,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-14**|**Length-Aware Rotary Position Embedding for Text-Speech Alignment**|Hyeongju Kim et.al.|[2509.11084](http://arxiv.org/abs/2509.11084)|null|
 |**2025-09-12**|**Towards Data Drift Monitoring for Speech Deepfake Detection in the context of MLOps**|Xin Wang et.al.|[2509.10086](http://arxiv.org/abs/2509.10086)|null|
 |**2025-09-11**|**DiTReducio: A Training-Free Acceleration for DiT-Based TTS via Progressive Calibration**|Yanru Huo et.al.|[2509.09748](http://arxiv.org/abs/2509.09748)|null|
-|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|null|
+|**2025-09-12**|**DiFlow-TTS: Discrete Flow Matching with Factorized Speech Tokens for Low-Latency Zero-Shot Text-To-Speech**|Ngoc-Son Nguyen et.al.|[2509.09631](http://arxiv.org/abs/2509.09631)|**[link](https://github.com/DiFlow-TTS/DiFlow-TTS)**|
 |**2025-09-11**|**HISPASpoof: A New Dataset For Spanish Speech Forensics**|Maria Risques et.al.|[2509.09155](http://arxiv.org/abs/2509.09155)|null|
 |**2025-09-10**|**Accelerating Diffusion Transformer-Based Text-to-Speech with Transformer Layer Caching**|Siratish Sakpiboonchit et.al.|[2509.08696](http://arxiv.org/abs/2509.08696)|null|
 |**2025-09-14**|**Progressive Facial Granularity Aggregation with Bilateral Attribute-based Enhancement for Face-to-Speech Synthesis**|Yejin Jeon et.al.|[2509.07376](http://arxiv.org/abs/2509.07376)|null|
@@ -335,7 +335,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-03**|**Artificially Fluent: Swahili AI Performance Benchmarks Between English-Trained and Natively-Trained Datasets**|Sophie Jaffer et.al.|[2509.04516](http://arxiv.org/abs/2509.04516)|null|
 |**2025-09-04**|**Exploring NLP Benchmarks in an Extremely Low-Resource Setting**|Ulin Nuha et.al.|[2509.03962](http://arxiv.org/abs/2509.03962)|null|
 |**2025-09-04**|**Align-then-Slide: A complete evaluation framework for Ultra-Long Document-Level Machine Translation**|Jiaxin Guo et.al.|[2509.03809](http://arxiv.org/abs/2509.03809)|null|
-|**2025-09-03**|**Expanding the WMT24++ Benchmark with Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran, Puter, and Vallader**|Jannis Vamvas et.al.|[2509.03148](http://arxiv.org/abs/2509.03148)|null|
+|**2025-09-24**|**Expanding the WMT24++ Benchmark with Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran, Puter, and Vallader**|Jannis Vamvas et.al.|[2509.03148](http://arxiv.org/abs/2509.03148)|null|
 |**2025-09-02**|**The Forgotten Code: Validating a Century-Old Translation System with AI**|Jean-Marie Le Ray et.al.|[2509.02506](http://arxiv.org/abs/2509.02506)|null|
 |**2025-09-18**|**CSRM-LLM: Embracing Multilingual LLMs for Cold-Start Relevance Matching in Emerging E-commerce Markets**|Yujing Wang et.al.|[2509.01566](http://arxiv.org/abs/2509.01566)|null|
 |**2025-08-28**|**The Uneven Impact of Post-Training Quantization in Machine Translation**|Benjamin Marie et.al.|[2508.20893](http://arxiv.org/abs/2508.20893)|null|
@@ -689,7 +689,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-12**|**Improving Audio Event Recognition with Consistency Regularization**|Shanmuka Sadhu et.al.|[2509.10391](http://arxiv.org/abs/2509.10391)|null|
 |**2025-09-12**|**Scaling Arabic Medical Chatbots Using Synthetic Data: Enhancing Generative AI with Synthetic Patient Records**|Abdulrahman Allam et.al.|[2509.10108](http://arxiv.org/abs/2509.10108)|null|
 |**2025-09-11**|**Combining Textual and Spectral Features for Robust Classification of Pilot Communications**|Abdullah All Tanvir et.al.|[2509.09752](http://arxiv.org/abs/2509.09752)|null|
-|**2025-09-22**|**Structure Matters: Brain Graph Augmentation via Learnable Edge Masking for Data-efficient Psychiatric Diagnosis**|Mujie Liu et.al.|[2509.09744](http://arxiv.org/abs/2509.09744)|null|
+|**2025-09-24**|**Structure Matters: Brain Graph Augmentation via Learnable Edge Masking for Data-efficient Psychiatric Diagnosis**|Mujie Liu et.al.|[2509.09744](http://arxiv.org/abs/2509.09744)|null|
 |**2025-09-11**|**Virtual staining for 3D X-ray histology of bone implants**|Sarah C. Irvine et.al.|[2509.09235](http://arxiv.org/abs/2509.09235)|null|
 |**2025-09-11**|**Target-oriented Multimodal Sentiment Classification with Counterfactual-enhanced Debiasing**|Zhiyue Liu et.al.|[2509.09160](http://arxiv.org/abs/2509.09160)|null|
 |**2025-09-10**|**Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge**|Mohammad Saqib Hasan et.al.|[2509.08808](http://arxiv.org/abs/2509.08808)|null|
@@ -812,9 +812,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-23**|**Pain in 3D: Generating Controllable Synthetic Faces for Automated Pain Assessment**|Xin Lei Lin et.al.|[2509.16727](http://arxiv.org/abs/2509.16727)|null|
 |**2025-09-20**|**Semi-Supervised Synthetic Data Generation with Fine-Grained Relevance Control for Short Video Search Relevance Modeling**|Haoran Li et.al.|[2509.16717](http://arxiv.org/abs/2509.16717)|null|
 |**2025-09-20**|**An Octave-based Multi-Resolution CQT Architecture for Diffusion-based Audio Generation**|Maurício do V. M. da Costa et.al.|[2509.16603](http://arxiv.org/abs/2509.16603)|null|
-|**2025-09-20**|**A Novel Metric for Detecting Memorization in Generative Models for Brain MRI Synthesis**|Antonio Scardace et.al.|[2509.16582](http://arxiv.org/abs/2509.16582)|null|
-|**2025-09-20**|**SCAN: Self-Denoising Monte Carlo Annotation for Robust Process Reward Learning**|Yuyang Ding et.al.|[2509.16548](http://arxiv.org/abs/2509.16548)|null|
-|**2025-09-20**|**ChemOrch: Empowering LLMs with Chemical Intelligence via Synthetic Instructions**|Yue Huang et.al.|[2509.16543](http://arxiv.org/abs/2509.16543)|null|
+|**2025-09-20**|**A Novel Metric for Detecting Memorization in Generative Models for Brain MRI Synthesis**|Antonio Scardace et.al.|[2509.16582](http://arxiv.org/abs/2509.16582)|**[link](https://github.com/brAIn-science/DeepSSIM)**|
+|**2025-09-20**|**SCAN: Self-Denoising Monte Carlo Annotation for Robust Process Reward Learning**|Yuyang Ding et.al.|[2509.16548](http://arxiv.org/abs/2509.16548)|**[link](https://github.com/yyDing1/SCAN-PRM)**|
+|**2025-09-20**|**ChemOrch: Empowering LLMs with Chemical Intelligence via Synthetic Instructions**|Yue Huang et.al.|[2509.16543](http://arxiv.org/abs/2509.16543)|**[link](https://github.com/HowieHwong/ChemOrch)**|
 |**2025-09-20**|**mmExpert: Integrating Large Language Models for Comprehensive mmWave Data Synthesis and Understanding**|Yifan Yan et.al.|[2509.16521](http://arxiv.org/abs/2509.16521)|null|
 |**2025-09-20**|**RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation**|Tianyi Yan et.al.|[2509.16500](http://arxiv.org/abs/2509.16500)|null|
 |**2025-09-19**|**SynthIPD: assumption-lean synthetic individual patient data generation**|Zixuan Zhao et.al.|[2509.16466](http://arxiv.org/abs/2509.16466)|null|
