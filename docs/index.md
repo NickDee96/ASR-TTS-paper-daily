@@ -56,7 +56,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-20**|**Idiosyncratic Versus Normative Modeling of Atypical Speech Recognition: Dysarthric Case Studies**|Vishnu Raja et.al.|[2509.16718](http://arxiv.org/abs/2509.16718)|null|
 |**2025-09-20**|**Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing**|Mengqi Wang et.al.|[2509.16622](http://arxiv.org/abs/2509.16622)|null|
 |**2025-09-19**|**Whisper-UT: A Unified Translation Framework for Speech and Text**|Cihan Xiao et.al.|[2509.16375](http://arxiv.org/abs/2509.16375)|null|
-|**2025-09-19**|**GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition**|Tianyue Wang et.al.|[2509.16031](http://arxiv.org/abs/2509.16031)|**[link](https://github.com/Physicsmile/GLip)**|
+|**2025-09-19**|**GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition**|Tianyue Wang et.al.|[2509.16031](http://arxiv.org/abs/2509.16031)|null|
 |**2025-09-19**|**Session-Level Spoken Language Assessment with a Multimodal Foundation Model via Multi-Target Learning**|Hong-Yun Lin et.al.|[2509.16025](http://arxiv.org/abs/2509.16025)|null|
 |**2025-09-19**|**Interpreting the Role of Visemes in Audio-Visual Speech Recognition**|Aristeidis Papadopoulos et.al.|[2509.16023](http://arxiv.org/abs/2509.16023)|null|
 |**2025-09-19**|**VOX-KRIKRI: Unifying Speech and Language through Continuous Fusion**|Dimitrios Damianos et.al.|[2509.15667](http://arxiv.org/abs/2509.15667)|null|
@@ -449,7 +449,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-19**|**MMCD: Multi-Modal Collaborative Decision-Making for Connected Autonomy with Knowledge Distillation**|Rui Liu et.al.|[2509.18198](http://arxiv.org/abs/2509.18198)|null|
 |**2025-09-19**|**TinyEcoWeedNet: Edge Efficient Real-Time Aerial Agricultural Weed Detection**|Omar H. Khater et.al.|[2509.18193](http://arxiv.org/abs/2509.18193)|null|
 |**2025-09-22**|**Visual Detector Compression via Location-Aware Discriminant Analysis**|Qizhen Lan et.al.|[2509.17968](http://arxiv.org/abs/2509.17968)|null|
-|**2025-09-23**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|**[link](https://github.com/williamsiuhang/DiT-optimizations-benchmark)**|
+|**2025-09-23**|**Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark**|Siu Hang Ho et.al.|[2509.17894](http://arxiv.org/abs/2509.17894)|null|
 |**2025-09-23**|**Breaking Token Into Concepts: Exploring Extreme Compression in Token Representation Via Compositional Shared Semantics**|Kavin R V et.al.|[2509.17737](http://arxiv.org/abs/2509.17737)|null|
 |**2025-09-22**|**RCTDistill: Cross-Modal Knowledge Distillation Framework for Radar-Camera 3D Object Detection with Temporal Fusion**|Geonho Bang et.al.|[2509.17712](http://arxiv.org/abs/2509.17712)|null|
 |**2025-09-22**|**Stratification of the half-density quantization of the Jeffrey-Weitsman-Witten invariants**|Adrian Chitan et.al.|[2509.17656](http://arxiv.org/abs/2509.17656)|null|
