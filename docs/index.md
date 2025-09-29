@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.28**
+📅 **Updated on 2025.09.29**
 
 ## 🌟 About This Repository
 
@@ -335,10 +335,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-25**|**COMET-poly: Machine Translation Metric Grounded in Other Candidates**|Maike Züfle et.al.|[2508.18549](http://arxiv.org/abs/2508.18549)|null|
 |**2025-08-24**|**Evaluating the Impact of Verbal Multiword Expressions on Machine Translation**|Linfeng Liu et.al.|[2508.17458](http://arxiv.org/abs/2508.17458)|null|
 |**2025-08-22**|**Cetvel: A Unified Benchmark for Evaluating Language Understanding, Generation and Cultural Capacity of LLMs for Turkish**|Yakup Abrek Er et.al.|[2508.16431](http://arxiv.org/abs/2508.16431)|null|
-|**2025-08-22**|**The Mediomatix Corpus: Parallel Data for Romansh Idioms via Comparable Schoolbooks**|Zachary Hopton et.al.|[2508.16371](http://arxiv.org/abs/2508.16371)|null|
-|**2025-09-23**|**OpenWHO: A Document-Level Parallel Corpus for Health Translation in Low-Resource Languages**|Raphaël Merx et.al.|[2508.16048](http://arxiv.org/abs/2508.16048)|null|
+|**2025-08-22**|**The Mediomatix Corpus: Parallel Data for Romansh Idioms via Comparable Schoolbooks**|Zachary Hopton et.al.|[2508.16371](http://arxiv.org/abs/2508.16371)|**[link](https://github.com/ZurichNLP/mediomatix-code)**|
+|**2025-09-23**|**OpenWHO: A Document-Level Parallel Corpus for Health Translation in Low-Resource Languages**|Raphaël Merx et.al.|[2508.16048](http://arxiv.org/abs/2508.16048)|**[link](https://github.com/raphaelmerx/openwho-code)**|
 |**2025-08-21**|**Confidence-Modulated Speculative Decoding for Large Language Models**|Jaydip Sen et.al.|[2508.15371](http://arxiv.org/abs/2508.15371)|null|
-|**2025-08-20**|**Improving LLMs for Machine Translation Using Synthetic Preference Data**|Dario Vajda et.al.|[2508.14951](http://arxiv.org/abs/2508.14951)|null|
+|**2025-08-20**|**Improving LLMs for Machine Translation Using Synthetic Preference Data**|Dario Vajda et.al.|[2508.14951](http://arxiv.org/abs/2508.14951)|**[link](https://github.com/DarioVajda/povejmo_dpo)**|
 |**2025-08-24**|**Preliminary Ranking of WMT25 General Machine Translation Systems**|Tom Kocmi et.al.|[2508.14909](http://arxiv.org/abs/2508.14909)|null|
 |**2025-08-20**|**Filling the Gap for Uzbek: Creating Translation Resources for Southern Uzbek**|Mukhammadsaid Mamasaidov et.al.|[2508.14586](http://arxiv.org/abs/2508.14586)|null|
 |**2025-08-20**|**In2x at WMT25 Translation Task**|Lei Pang et.al.|[2508.14472](http://arxiv.org/abs/2508.14472)|null|
@@ -346,10 +346,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-08-18**|**DocHPLT: A Massively Multilingual Document-Level Translation Dataset**|Dayyán O'Brien et.al.|[2508.13079](http://arxiv.org/abs/2508.13079)|null|
 |**2025-08-18**|**From SALAMANDRA to SALAMANDRATA: BSC Submission for WMT25 General Machine Translation Shared Task**|Javier Garcia Gilabert et.al.|[2508.12774](http://arxiv.org/abs/2508.12774)|null|
 |**2025-08-25**|**SEA-BED: Southeast Asia Embedding Benchmark**|Wuttikorn Ponwitayarat et.al.|[2508.12243](http://arxiv.org/abs/2508.12243)|null|
-|**2025-08-14**|**Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages**|Nasma Chaoui et.al.|[2508.10683](http://arxiv.org/abs/2508.10683)|**[link](https://github.com/chaouin/coptic-french-nmt)**|
+|**2025-08-14**|**Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages**|Nasma Chaoui et.al.|[2508.10683](http://arxiv.org/abs/2508.10683)|null|
 |**2025-08-14**|**Evaluating LLMs on Chinese Idiom Translation**|Cai Yang et.al.|[2508.10421](http://arxiv.org/abs/2508.10421)|null|
 |**2025-08-28**|**Estimating Machine Translation Difficulty**|Lorenzo Proietti et.al.|[2508.10175](http://arxiv.org/abs/2508.10175)|null|
-|**2025-08-12**|**TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine Translation**|Armel Zebaze et.al.|[2508.08680](http://arxiv.org/abs/2508.08680)|**[link](https://github.com/ArmelRandy/topxgen)**|
+|**2025-08-12**|**TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine Translation**|Armel Zebaze et.al.|[2508.08680](http://arxiv.org/abs/2508.08680)|null|
 |**2025-08-12**|**UWB at WASSA-2024 Shared Task 2: Cross-lingual Emotion Detection**|Jakub Šmíd et.al.|[2508.08650](http://arxiv.org/abs/2508.08650)|null|
 |**2025-08-11**|**Toward Machine Interpreting: Lessons from Human Interpreting Studies**|Matthias Sperber et.al.|[2508.07964](http://arxiv.org/abs/2508.07964)|null|
 |**2025-08-10**|**ALOPE: Adaptive Layer Optimization for Translation Quality Estimation using Large Language Models**|Archchana Sindhujan et.al.|[2508.07484](http://arxiv.org/abs/2508.07484)|null|
@@ -423,7 +423,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-25**|**Fast-SEnSeI: Lightweight Sensor-Independent Cloud Masking for On-board Multispectral Sensors**|Jan Kněžík et.al.|[2509.20991](http://arxiv.org/abs/2509.20991)|null|
 |**2025-09-25**|**Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems**|Zhangchi Zhu et.al.|[2509.20989](http://arxiv.org/abs/2509.20989)|null|
 |**2025-09-25**|**Punching Above Precision: Small Quantized Model Distillation with Learnable Regularizer**|Abdur Rehman et.al.|[2509.20854](http://arxiv.org/abs/2509.20854)|null|
-|**2025-09-25**|**Real-Time Object Detection Meets DINOv3**|Shihua Huang et.al.|[2509.20787](http://arxiv.org/abs/2509.20787)|null|
+|**2025-09-26**|**Real-Time Object Detection Meets DINOv3**|Shihua Huang et.al.|[2509.20787](http://arxiv.org/abs/2509.20787)|null|
 |**2025-09-25**|**RAM-NAS: Resource-aware Multiobjective Neural Architecture Search Method for Robot Vision Tasks**|Shouren Mao et.al.|[2509.20688](http://arxiv.org/abs/2509.20688)|null|
 |**2025-09-24**|**Function Spaces Without Kernels: Learning Compact Hilbert Space Representations**|Su Ann Low et.al.|[2509.20605](http://arxiv.org/abs/2509.20605)|null|
 |**2025-09-24**|**Seedream 4.0: Toward Next-generation Multimodal Image Generation**|Team Seedream et.al.|[2509.20427](http://arxiv.org/abs/2509.20427)|null|
@@ -458,7 +458,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-22**|**Learning Dexterous Manipulation with Quantized Hand State**|Ying Feng et.al.|[2509.17450](http://arxiv.org/abs/2509.17450)|null|
 |**2025-09-23**|**QWHA: Quantization-Aware Walsh-Hadamard Adaptation for Parameter-Efficient Fine-Tuning on Large Language Models**|Hyesung Jeon et.al.|[2509.17428](http://arxiv.org/abs/2509.17428)|null|
 |**2025-09-22**|**Physics-Informed Operator Learning for Hemodynamic Modeling**|Ryan Chappell et.al.|[2509.17293](http://arxiv.org/abs/2509.17293)|null|
-|**2025-09-21**|**On the Quantization of the Electromagnetic Field with Magnetic Monopoles**|Kanan Anwar et.al.|[2509.17284](http://arxiv.org/abs/2509.17284)|null|
+|**2025-09-25**|**On the Quantization of the Electromagnetic Field with Magnetic Monopoles**|Kanan Anwar et.al.|[2509.17284](http://arxiv.org/abs/2509.17284)|null|
 |**2025-09-21**|**PTQTP: Post-Training Quantization to Trit-Planes for Large Language Models**|He Xiao et.al.|[2509.16989](http://arxiv.org/abs/2509.16989)|null|
 |**2025-09-24**|**Equip Pre-ranking with Target Attention by Residual Quantization**|Yutong Li et.al.|[2509.16931](http://arxiv.org/abs/2509.16931)|null|
 |**2025-09-21**|**PRISM: Precision-Recall Informed Data-Free Knowledge Distillation via Generative Diffusion**|Xuewan He et.al.|[2509.16897](http://arxiv.org/abs/2509.16897)|null|
@@ -630,7 +630,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-24**|**Z-Scores: A Metric for Linguistically Assessing Disfluency Removal**|Maria Teleki et.al.|[2509.20319](http://arxiv.org/abs/2509.20319)|null|
 |**2025-09-24**|**Enhancing Requirement Traceability through Data Augmentation Using Large Language Models**|Jianzhang Zhang et.al.|[2509.20149](http://arxiv.org/abs/2509.20149)|null|
 |**2025-09-24**|**A Simple Data Augmentation Strategy for Text-in-Image Scientific VQA**|Belal Shoer et.al.|[2509.20119](http://arxiv.org/abs/2509.20119)|null|
-|**2025-09-24**|**Diffusion-Augmented Contrastive Learning: A Noise-Robust Encoder for Biosignal Representations**|Rami Zewail et.al.|[2509.20048](http://arxiv.org/abs/2509.20048)|null|
+|**2025-09-25**|**Diffusion-Augmented Contrastive Learning: A Noise-Robust Encoder for Biosignal Representations**|Rami Zewail et.al.|[2509.20048](http://arxiv.org/abs/2509.20048)|null|
 |**2025-09-24**|**Rectified Decoupled Dataset Distillation: A Closer Look for Fair and Comprehensive Evaluation**|Xinhao Zhong et.al.|[2509.19743](http://arxiv.org/abs/2509.19743)|null|
 |**2025-09-23**|**Quantum Harmonic Analysis and the Structure in Data: Augmentation**|Monika Doerfler et.al.|[2509.19474](http://arxiv.org/abs/2509.19474)|null|
 |**2025-09-23**|**ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation**|Jason Chen et.al.|[2509.19454](http://arxiv.org/abs/2509.19454)|null|
@@ -788,7 +788,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-24**|**Generative Model Inversion Through the Lens of the Manifold Hypothesis**|Xiong Peng et.al.|[2509.20177](http://arxiv.org/abs/2509.20177)|null|
 |**2025-09-24**|**Discrete Diffusion for Generative Modeling of Text-Aligned Speech Tokens**|Pin-Jui Ku et.al.|[2509.20060](http://arxiv.org/abs/2509.20060)|null|
 |**2025-09-24**|**MultiSoundGen: Video-to-Audio Generation for Multi-Event Scenarios via SlowFast Contrastive Audio-Visual Pretraining and Direct Preference Optimization**|Jianxuan Yang et.al.|[2509.19999](http://arxiv.org/abs/2509.19999)|null|
-|**2025-09-24**|**Learnable Sampler Distillation for Discrete Diffusion Models**|Feiyang Fu et.al.|[2509.19962](http://arxiv.org/abs/2509.19962)|null|
+|**2025-09-24**|**Learnable Sampler Distillation for Discrete Diffusion Models**|Feiyang Fu et.al.|[2509.19962](http://arxiv.org/abs/2509.19962)|**[link](https://github.com/feiyangfu/LSD)**|
 |**2025-09-24**|**When Words Can't Capture It All: Towards Video-Based User Complaint Text Generation with Multimodal Video Complaint Dataset**|Sarmistha Das et.al.|[2509.19952](http://arxiv.org/abs/2509.19952)|null|
 |**2025-09-24**|**TABFAIRGDT: A Fast Fair Tabular Data Generator using Autoregressive Decision Trees**|Emmanouil Panagiotou et.al.|[2509.19927](http://arxiv.org/abs/2509.19927)|null|
 |**2025-09-25**|**MAGE: A Coarse-to-Fine Speech Enhancer with Masked Generative Model**|The Hieu Pham et.al.|[2509.19881](http://arxiv.org/abs/2509.19881)|null|
