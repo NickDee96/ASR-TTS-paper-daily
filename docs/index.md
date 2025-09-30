@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.09.29**
+📅 **Updated on 2025.09.30**
 
 ## 🌟 About This Repository
 
@@ -437,7 +437,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-26**|**Lightweight error mitigation strategies for post-training N:M activation sparsity in LLMs**|Shirin Alanova et.al.|[2509.22166](http://arxiv.org/abs/2509.22166)|null|
 |**2025-09-26**|**Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization**|Takashi Morita et.al.|[2509.22161](http://arxiv.org/abs/2509.22161)|null|
 |**2025-09-26**|**Joint graph entropy knowledge distillation for point cloud classification and robustness against corruptions**|Zhiqiang Tian et.al.|[2509.22150](http://arxiv.org/abs/2509.22150)|null|
-|**2025-09-26**|**Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation**|Xiaohuan Pei et.al.|[2509.22093](http://arxiv.org/abs/2509.22093)|null|
+|**2025-09-26**|**Action-aware Dynamic Pruning for Efficient Vision-Language-Action Manipulation**|Xiaohuan Pei et.al.|[2509.22093](http://arxiv.org/abs/2509.22093)|**[link](https://github.com/chen7086/VLA-ADP)**|
 |**2025-09-26**|**COSPADI: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning**|Dmitriy Shopkhoev et.al.|[2509.22075](http://arxiv.org/abs/2509.22075)|null|
 |**2025-09-26**|**Enriching Knowledge Distillation with Intra-Class Contrastive Learning**|Hua Yuan et.al.|[2509.22053](http://arxiv.org/abs/2509.22053)|null|
 |**2025-09-26**|**Multicollinearity-Aware Parameter-Free Strategy for Hyperspectral Band Selection: A Dependence Measures-Based Approach**|Dibyabha Deb et.al.|[2509.21973](http://arxiv.org/abs/2509.21973)|null|
