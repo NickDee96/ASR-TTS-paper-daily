@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.01**
+📅 **Updated on 2025.10.02**
 
 ## 🌟 About This Repository
 
@@ -60,7 +60,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-23**|**SloPalSpeech: A 2,8000-Hour Slovak Speech Corpus from Parliamentary Data**|Erik Božík et.al.|[2509.19270](http://arxiv.org/abs/2509.19270)|null|
 |**2025-09-23**|**LOTUSDIS: A Thai far-field meeting corpus for robust conversational ASR**|Pattara Tipaksorn et.al.|[2509.18722](http://arxiv.org/abs/2509.18722)|null|
 |**2025-09-22**|**Speech Vecalign: an Embedding-based Method for Aligning Parallel Speech Documents**|Chutong Meng et.al.|[2509.18360](http://arxiv.org/abs/2509.18360)|null|
-|**2025-09-20**|**Conversational Orientation Reasoning: Egocentric-to-Allocentric Navigation with Multimodal Chain-of-Thought**|Yu Ti Huang et.al.|[2509.18200](http://arxiv.org/abs/2509.18200)|null|
+|**2025-09-20**|**Conversational Orientation Reasoning: Egocentric-to-Allocentric Navigation with Multimodal Chain-of-Thought**|Yu Ti Huang et.al.|[2509.18200](http://arxiv.org/abs/2509.18200)|**[link](https://github.com/yu-ti-huang/Conversational-Orientation-Reasoning)**|
 |**2025-09-24**|**MNV-17: A High-Quality Performative Mandarin Dataset for Nonverbal Vocalization Recognition in Speech**|Jialong Mai et.al.|[2509.18196](http://arxiv.org/abs/2509.18196)|null|
 |**2025-09-22**|**Transformer-Encoder Trees for Efficient Multilingual Machine Translation and Speech Translation**|Yiwen Guan et.al.|[2509.17930](http://arxiv.org/abs/2509.17930)|null|
 |**2025-09-22**|**Qwen3-Omni Technical Report**|Jin Xu et.al.|[2509.17765](http://arxiv.org/abs/2509.17765)|null|
@@ -68,7 +68,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-20**|**Idiosyncratic Versus Normative Modeling of Atypical Speech Recognition: Dysarthric Case Studies**|Vishnu Raja et.al.|[2509.16718](http://arxiv.org/abs/2509.16718)|null|
 |**2025-09-20**|**Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing**|Mengqi Wang et.al.|[2509.16622](http://arxiv.org/abs/2509.16622)|null|
 |**2025-09-19**|**Whisper-UT: A Unified Translation Framework for Speech and Text**|Cihan Xiao et.al.|[2509.16375](http://arxiv.org/abs/2509.16375)|null|
-|**2025-09-26**|**GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition**|Tianyue Wang et.al.|[2509.16031](http://arxiv.org/abs/2509.16031)|null|
+|**2025-09-26**|**GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition**|Tianyue Wang et.al.|[2509.16031](http://arxiv.org/abs/2509.16031)|**[link](https://github.com/Physicsmile/GLip)**|
 |**2025-09-19**|**Session-Level Spoken Language Assessment with a Multimodal Foundation Model via Multi-Target Learning**|Hong-Yun Lin et.al.|[2509.16025](http://arxiv.org/abs/2509.16025)|null|
 |**2025-09-19**|**Interpreting the Role of Visemes in Audio-Visual Speech Recognition**|Aristeidis Papadopoulos et.al.|[2509.16023](http://arxiv.org/abs/2509.16023)|null|
 |**2025-09-19**|**VOX-KRIKRI: Unifying Speech and Language through Continuous Fusion**|Dimitrios Damianos et.al.|[2509.15667](http://arxiv.org/abs/2509.15667)|null|
@@ -320,9 +320,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-30**|**Generating Difficult-to-Translate Texts**|Vilém Zouhar et.al.|[2509.26592](http://arxiv.org/abs/2509.26592)|null|
 |**2025-09-29**|**Don't Sweat the Small Stuff: Segment-Level Meta-Evaluation Based on Pairwise Difference Correlation**|Colten DiIanni et.al.|[2509.25546](http://arxiv.org/abs/2509.25546)|null|
 |**2025-09-29**|**Aligning Multilingual Reasoning with Verifiable Semantics from a High-Resource Expert Model**|Fahim Faisal et.al.|[2509.25543](http://arxiv.org/abs/2509.25543)|null|
-|**2025-09-29**|**ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation**|Jiuhong Xiao et.al.|[2509.24878](http://arxiv.org/abs/2509.24878)|null|
+|**2025-09-29**|**ThermalGen: Style-Disentangled Flow-Based Generative Models for RGB-to-Thermal Image Translation**|Jiuhong Xiao et.al.|[2509.24878](http://arxiv.org/abs/2509.24878)|**[link](https://github.com/arplaboratory/ThermalGen)**|
 |**2025-09-28**|**The Hidden Costs of Translation Accuracy: Distillation, Quantization, and Environmental Impact**|Dhaathri Vijay et.al.|[2509.23990](http://arxiv.org/abs/2509.23990)|null|
-|**2025-09-27**|**Liaozhai through the Looking-Glass: On Paratextual Explicitation of Culture-Bound Terms in Machine Translation**|Sherrie Shen et.al.|[2509.23395](http://arxiv.org/abs/2509.23395)|null|
+|**2025-09-27**|**Liaozhai through the Looking-Glass: On Paratextual Explicitation of Culture-Bound Terms in Machine Translation**|Sherrie Shen et.al.|[2509.23395](http://arxiv.org/abs/2509.23395)|**[link](https://github.com/sherrieshen/liaozhai)**|
 |**2025-09-26**|**From tests to effect sizes: Quantifying uncertainty and statistical variability in multilingual and multitask NLP evaluation benchmarks**|Jonne Sälevä et.al.|[2509.22612](http://arxiv.org/abs/2509.22612)|null|
 |**2025-09-26**|**JGU Mainz's Submission to the WMT25 Shared Task on LLMs with Limited Resources for Slavic Languages: MT and QA**|Hossain Shaikh Saadi et.al.|[2509.22490](http://arxiv.org/abs/2509.22490)|null|
 |**2025-09-26**|**MO-GRPO: Mitigating Reward Hacking of Group Relative Policy Optimization on Multi-Objective Problems**|Yuki Ichihara et.al.|[2509.22047](http://arxiv.org/abs/2509.22047)|null|
@@ -477,7 +477,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-29**|**Norm-Q: Effective Compression Method for Hidden Markov Models in Neuro-Symbolic Applications**|Hanyuan Gao et.al.|[2509.25439](http://arxiv.org/abs/2509.25439)|null|
 |**2025-09-29**|**Renormalization of Chern-Simons Wilson Loops via Flux Quantization in Cohomotopy**|Hisham Sati et.al.|[2509.25336](http://arxiv.org/abs/2509.25336)|null|
 |**2025-09-27**|**Knowledge distillation through geometry-aware representational alignment**|Prajjwal Bhattarai et.al.|[2509.25253](http://arxiv.org/abs/2509.25253)|null|
-|**2025-09-29**|**BALF: Budgeted Activation-Aware Low-Rank Factorization for Fine-Tuning-Free Model Compression**|David González Martínez et.al.|[2509.25136](http://arxiv.org/abs/2509.25136)|null|
+|**2025-09-29**|**BALF: Budgeted Activation-Aware Low-Rank Factorization for Fine-Tuning-Free Model Compression**|David González-Martínez et.al.|[2509.25136](http://arxiv.org/abs/2509.25136)|null|
 |**2025-09-29**|**Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs**|Akio Hayakawa et.al.|[2509.25086](http://arxiv.org/abs/2509.25086)|null|
 |**2025-09-29**|**Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes**|Yuhan Wang et.al.|[2509.24986](http://arxiv.org/abs/2509.24986)|null|
 |**2025-09-29**|**Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**|Youngeun Kim et.al.|[2509.24837](http://arxiv.org/abs/2509.24837)|null|
@@ -939,7 +939,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|null|
+|**2025-09-30**|**Video Object Segmentation-Aware Audio Generation**|Ilpo Viertola et.al.|[2509.26604](http://arxiv.org/abs/2509.26604)|**[link](https://github.com/ilpoviertola/SAGANet)**|
 |**2025-09-30**|**Learning from Hallucinating Critical Points for Navigation in Dynamic Environments**|Saad Abdul Ghani et.al.|[2509.26513](http://arxiv.org/abs/2509.26513)|null|
 |**2025-09-30**|**Data-to-Energy Stochastic Dynamics**|Kirill Tamogashev et.al.|[2509.26364](http://arxiv.org/abs/2509.26364)|null|
 |**2025-09-30**|**Reframing Generative Models for Physical Systems using Stochastic Interpolants**|Anthony Zhou et.al.|[2509.26282](http://arxiv.org/abs/2509.26282)|null|
@@ -962,7 +962,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-30**|**MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models**|Kacper Kapuśniak et.al.|[2509.24779](http://arxiv.org/abs/2509.24779)|null|
 |**2025-09-30**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2025-09-29**|**Socratic-Zero : Bootstrapping Reasoning via Data-Free Agent Co-evolution**|Shaobo Wang et.al.|[2509.24726](http://arxiv.org/abs/2509.24726)|null|
-|**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|null|
+|**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|**[link](https://github.com/OpenBMB/VoxCPM)**|
 |**2025-09-29**|**When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks**|Zeyu Xie et.al.|[2509.24635](http://arxiv.org/abs/2509.24635)|null|
 |**2025-09-29**|**Training-Free Multimodal Guidance for Video to Audio Generation**|Eleonora Grassucci et.al.|[2509.24550](http://arxiv.org/abs/2509.24550)|null|
 |**2025-09-29**|**Alternatives To Next Token Prediction In Text Generation -- A Survey**|Charlie Wyatt et.al.|[2509.24435](http://arxiv.org/abs/2509.24435)|null|
