@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.02**
+📅 **Updated on 2025.10.03**
 
 ---
 
@@ -257,7 +257,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-18**|**Real-Time Streaming Mel Vocoding with Generative Flow Matching**|Simon Welker et.al.|[2509.15085](http://arxiv.org/abs/2509.15085)|null|
 |**2025-09-18**|**DAIEN-TTS: Disentangled Audio Infilling for Environment-Aware Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2509.14684](http://arxiv.org/abs/2509.14684)|null|
 |**2025-09-20**|**Cross-Lingual F5-TTS: Towards Language-Agnostic Voice Cloning and Speech Synthesis**|Qingyu Liu et.al.|[2509.14579](http://arxiv.org/abs/2509.14579)|null|
-|**2025-09-15**|**SpeechWeave: Diverse Multilingual Synthetic Text & Audio Data Generation Pipeline for Training Text to Speech Models**|Karan Dua et.al.|[2509.14270](http://arxiv.org/abs/2509.14270)|null|
+|**2025-10-01**|**SpeechWeave: Diverse Multilingual Synthetic Text & Audio Data Generation Pipeline for Training Text to Speech Models**|Karan Dua et.al.|[2509.14270](http://arxiv.org/abs/2509.14270)|null|
 |**2025-09-17**|**Slim-SC: Thought Pruning for Efficient Scaling with Self-Consistency**|Colin Hong et.al.|[2509.13990](http://arxiv.org/abs/2509.13990)|null|
 |**2025-09-22**|**Do You Hear What I Mean? Quantifying the Instruction-Perception Gap in Instruction-Guided Expressive Text-To-Speech Systems**|Yi-Cheng Lin et.al.|[2509.13989](http://arxiv.org/abs/2509.13989)|null|
 |**2025-09-16**|**MSR-Codec: A Low-Bitrate Multi-Stream Residual Codec for High-Fidelity Speech Generation with Information Disentanglement**|Jingyu Li et.al.|[2509.13068](http://arxiv.org/abs/2509.13068)|null|
@@ -409,10 +409,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-02**|**The Forgotten Code: Validating a Century-Old Translation System with AI**|Jean-Marie Le Ray et.al.|[2509.02506](http://arxiv.org/abs/2509.02506)|null|
 |**2025-09-18**|**CSRM-LLM: Embracing Multilingual LLMs for Cold-Start Relevance Matching in Emerging E-commerce Markets**|Yujing Wang et.al.|[2509.01566](http://arxiv.org/abs/2509.01566)|null|
 |**2025-08-28**|**The Uneven Impact of Post-Training Quantization in Machine Translation**|Benjamin Marie et.al.|[2508.20893](http://arxiv.org/abs/2508.20893)|null|
-|**2025-08-28**|**Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark**|Chihiro Taguchi et.al.|[2508.20511](http://arxiv.org/abs/2508.20511)|null|
+|**2025-08-28**|**Languages Still Left Behind: Toward a Better Multilingual Machine Translation Benchmark**|Chihiro Taguchi et.al.|[2508.20511](http://arxiv.org/abs/2508.20511)|**[link](https://github.com/ctaguchi/LSLB)**|
 |**2025-09-06**|**FlowMalTrans: Unsupervised Binary Code Translation for Malware Detection Using Flow-Adapter Architecture**|Minghao Hu et.al.|[2508.20212](http://arxiv.org/abs/2508.20212)|null|
 |**2025-08-26**|**Improving Low-Resource Translation with Dictionary-Guided Fine-Tuning and RL: A Spanish-to-Wayuunaiki Study**|Manuel Mosquera et.al.|[2508.19481](http://arxiv.org/abs/2508.19481)|null|
-|**2025-09-03**|**The Ramon Llull's Thinking Machine for Automated Ideation**|Xinran Zhao et.al.|[2508.19200](http://arxiv.org/abs/2508.19200)|null|
+|**2025-09-03**|**The Ramon Llull's Thinking Machine for Automated Ideation**|Xinran Zhao et.al.|[2508.19200](http://arxiv.org/abs/2508.19200)|**[link](https://github.com/colinzhaoust/ramon_llull_public)**|
 |**2025-08-26**|**LaTeXTrans: Structured LaTeX Translation with Multi-Agent Coordination**|Ziming Zhu et.al.|[2508.18791](http://arxiv.org/abs/2508.18791)|null|
 |**2025-08-26**|**A New NMT Model for Translating Clinical Texts from English to Spanish**|Rumeng Li et.al.|[2508.18607](http://arxiv.org/abs/2508.18607)|null|
 |**2025-08-25**|**COMET-poly: Machine Translation Metric Grounded in Other Candidates**|Maike Züfle et.al.|[2508.18549](http://arxiv.org/abs/2508.18549)|null|
@@ -537,7 +537,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-29**|**Discrete Variational Autoencoding via Policy Search**|Michael Drolet et.al.|[2509.24716](http://arxiv.org/abs/2509.24716)|null|
 |**2025-09-29**|**Performance-Efficiency Trade-off for Fashion Image Retrieval**|Julio Hurtado et.al.|[2509.24477](http://arxiv.org/abs/2509.24477)|null|
 |**2025-09-29**|**Generalist Multi-Class Anomaly Detection via Distillation to Two Heterogeneous Student Networks**|Hangil Park et.al.|[2509.24448](http://arxiv.org/abs/2509.24448)|null|
-|**2025-09-29**|**Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh**|Yuanyuan Gao et.al.|[2509.24421](http://arxiv.org/abs/2509.24421)|null|
+|**2025-10-01**|**Proxy-GS: Efficient 3D Gaussian Splatting via Proxy Mesh**|Yuanyuan Gao et.al.|[2509.24421](http://arxiv.org/abs/2509.24421)|null|
 |**2025-09-29**|**CLQ: Cross-Layer Guided Orthogonal-based Quantization for Diffusion Transformers**|Kai Liu et.al.|[2509.24416](http://arxiv.org/abs/2509.24416)|null|
 |**2025-09-29**|**S $^2$ NN: Sub-bit Spiking Neural Networks**|Wenjie Wei et.al.|[2509.24266](http://arxiv.org/abs/2509.24266)|null|
 |**2025-09-28**|**A Second-Order Perspective on Pruning at Initialization and Knowledge Transfer**|Leonardo Iurada et.al.|[2509.24066](http://arxiv.org/abs/2509.24066)|null|
@@ -553,7 +553,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-30**|**QuantSparse: Comprehensively Compressing Video Diffusion Transformer with Model Quantization and Attention Sparsification**|Weilun Feng et.al.|[2509.23681](http://arxiv.org/abs/2509.23681)|null|
 |**2025-09-28**|**Why Alignment Must Precede Distillation: A Minimal Working Explanation**|Sungmin Cha et.al.|[2509.23667](http://arxiv.org/abs/2509.23667)|null|
 |**2025-09-28**|**HIVTP: A Training-Free Method to Improve VLMs Efficiency via Hierarchical Visual Token Pruning Using Middle-Layer-Based Importance Score**|Jingqi Xu et.al.|[2509.23663](http://arxiv.org/abs/2509.23663)|null|
-|**2025-09-28**|**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs**|Xiangyu Wen et.al.|[2509.23619](http://arxiv.org/abs/2509.23619)|null|
+|**2025-10-01**|**Reasoning Scaffolding: Distilling the Flow of Thought from LLMs**|Xiangyu Wen et.al.|[2509.23619](http://arxiv.org/abs/2509.23619)|null|
 |**2025-09-28**|**RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization**|Kaicheng Yang et.al.|[2509.23582](http://arxiv.org/abs/2509.23582)|null|
 |**2025-09-28**|**Towards Efficient CoT Distillation: Self-Guided Rationale Selector for Better Performance with Fewer Rationales**|Jianzhi Yan et.al.|[2509.23574](http://arxiv.org/abs/2509.23574)|null|
 |**2025-09-27**|**Bohr-Sommerfeld quantization conditions for Schrodinger operator: the Method of Microlocal Wronskian and Gram Matrix**|Abdelwaheb Ifa et.al.|[2509.23514](http://arxiv.org/abs/2509.23514)|null|
@@ -1037,7 +1037,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-30**|**MarS-FM: Generative Modeling of Molecular Dynamics via Markov State Models**|Kacper Kapuśniak et.al.|[2509.24779](http://arxiv.org/abs/2509.24779)|null|
 |**2025-09-30**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2025-09-29**|**Socratic-Zero : Bootstrapping Reasoning via Data-Free Agent Co-evolution**|Shaobo Wang et.al.|[2509.24726](http://arxiv.org/abs/2509.24726)|null|
-|**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|**[link](https://github.com/OpenBMB/VoxCPM)**|
+|**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|null|
 |**2025-09-29**|**When Audio Generators Become Good Listeners: Generative Features for Understanding Tasks**|Zeyu Xie et.al.|[2509.24635](http://arxiv.org/abs/2509.24635)|null|
 |**2025-09-29**|**Training-Free Multimodal Guidance for Video to Audio Generation**|Eleonora Grassucci et.al.|[2509.24550](http://arxiv.org/abs/2509.24550)|null|
 |**2025-09-29**|**Alternatives To Next Token Prediction In Text Generation -- A Survey**|Charlie Wyatt et.al.|[2509.24435](http://arxiv.org/abs/2509.24435)|null|
