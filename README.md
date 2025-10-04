@@ -226,7 +226,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-29**|**ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**|Haotian Zhang et.al.|[2509.24460](http://arxiv.org/abs/2509.24460)|null|
 |**2025-09-29**|**UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities**|Xuenan Xu et.al.|[2509.24391](http://arxiv.org/abs/2509.24391)|null|
 |**2025-09-28**|**Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment**|Pu Huang et.al.|[2509.23618](http://arxiv.org/abs/2509.23618)|null|
-|**2025-10-01**|**Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned**|Brandon Ong et.al.|[2509.23250](http://arxiv.org/abs/2509.23250)|**[link](https://github.com/theogbrand/vlprm)**|
+|**2025-10-01**|**Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned**|Brandon Ong et.al.|[2509.23250](http://arxiv.org/abs/2509.23250)|null|
 |**2025-09-27**|**BFA: Real-time Multilingual Text-to-speech Forced Alignment**|Abdul Rehman et.al.|[2509.23147](http://arxiv.org/abs/2509.23147)|null|
 |**2025-09-25**|**DiaMoE-TTS: A Unified IPA-Based Dialect TTS Framework with Mixture-of-Experts and Parameter-Efficient Zero-Shot Adaptation**|Ziqi Chen et.al.|[2509.22727](http://arxiv.org/abs/2509.22727)|null|
 |**2025-09-24**|**PerformSinger: Multimodal Singing Voice Synthesis Leveraging Synchronized Lip Cues from Singing Performance Videos**|Ke Gu et.al.|[2509.22718](http://arxiv.org/abs/2509.22718)|null|
@@ -563,7 +563,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-29**|**Renormalization of Chern-Simons Wilson Loops via Flux Quantization in Cohomotopy**|Hisham Sati et.al.|[2509.25336](http://arxiv.org/abs/2509.25336)|null|
 |**2025-09-27**|**Knowledge distillation through geometry-aware representational alignment**|Prajjwal Bhattarai et.al.|[2509.25253](http://arxiv.org/abs/2509.25253)|null|
 |**2025-09-29**|**BALF: Budgeted Activation-Aware Low-Rank Factorization for Fine-Tuning-Free Model Compression**|David González-Martínez et.al.|[2509.25136](http://arxiv.org/abs/2509.25136)|null|
-|**2025-09-29**|**Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs**|Akio Hayakawa et.al.|[2509.25086](http://arxiv.org/abs/2509.25086)|null|
+|**2025-09-29**|**Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs**|Akio Hayakawa et.al.|[2509.25086](http://arxiv.org/abs/2509.25086)|**[link](https://github.com/ahaya3776/safe-efficient-ls)**|
 |**2025-09-29**|**Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes**|Yuhan Wang et.al.|[2509.24986](http://arxiv.org/abs/2509.24986)|null|
 |**2025-09-29**|**Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**|Youngeun Kim et.al.|[2509.24837](http://arxiv.org/abs/2509.24837)|null|
 |**2025-09-29**|**ExGS: Extreme 3D Gaussian Compression with Diffusion Priors**|Jiaqi Chen et.al.|[2509.24758](http://arxiv.org/abs/2509.24758)|null|
