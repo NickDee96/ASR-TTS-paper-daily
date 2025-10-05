@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.04**
+📅 **Updated on 2025.10.05**
 
 ---
 
@@ -563,7 +563,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-29**|**Renormalization of Chern-Simons Wilson Loops via Flux Quantization in Cohomotopy**|Hisham Sati et.al.|[2509.25336](http://arxiv.org/abs/2509.25336)|null|
 |**2025-09-27**|**Knowledge distillation through geometry-aware representational alignment**|Prajjwal Bhattarai et.al.|[2509.25253](http://arxiv.org/abs/2509.25253)|null|
 |**2025-09-29**|**BALF: Budgeted Activation-Aware Low-Rank Factorization for Fine-Tuning-Free Model Compression**|David González-Martínez et.al.|[2509.25136](http://arxiv.org/abs/2509.25136)|null|
-|**2025-09-29**|**Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs**|Akio Hayakawa et.al.|[2509.25086](http://arxiv.org/abs/2509.25086)|**[link](https://github.com/ahaya3776/safe-efficient-ls)**|
+|**2025-09-29**|**Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs**|Akio Hayakawa et.al.|[2509.25086](http://arxiv.org/abs/2509.25086)|null|
 |**2025-09-29**|**Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes**|Yuhan Wang et.al.|[2509.24986](http://arxiv.org/abs/2509.24986)|null|
 |**2025-09-29**|**Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**|Youngeun Kim et.al.|[2509.24837](http://arxiv.org/abs/2509.24837)|null|
 |**2025-09-29**|**ExGS: Extreme 3D Gaussian Compression with Diffusion Priors**|Jiaqi Chen et.al.|[2509.24758](http://arxiv.org/abs/2509.24758)|null|
