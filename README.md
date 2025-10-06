@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.05**
+📅 **Updated on 2025.10.06**
 
 ---
 
@@ -566,7 +566,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-29**|**Towards Trustworthy Lexical Simplification: Exploring Safety and Efficiency with Small LLMs**|Akio Hayakawa et.al.|[2509.25086](http://arxiv.org/abs/2509.25086)|null|
 |**2025-09-29**|**Light-SQ: Structure-aware Shape Abstraction with Superquadrics for Generated Meshes**|Yuhan Wang et.al.|[2509.24986](http://arxiv.org/abs/2509.24986)|null|
 |**2025-09-29**|**Training-Free Token Pruning via Zeroth-Order Gradient Estimation in Vision-Language Models**|Youngeun Kim et.al.|[2509.24837](http://arxiv.org/abs/2509.24837)|null|
-|**2025-09-29**|**ExGS: Extreme 3D Gaussian Compression with Diffusion Priors**|Jiaqi Chen et.al.|[2509.24758](http://arxiv.org/abs/2509.24758)|null|
+|**2025-10-03**|**ExGS: Extreme 3D Gaussian Compression with Diffusion Priors**|Jiaqi Chen et.al.|[2509.24758](http://arxiv.org/abs/2509.24758)|null|
 |**2025-09-29**|**An asymptotic field approach for the control of dipole emission in integrated structures**|Vincenzo Macri' et.al.|[2509.24717](http://arxiv.org/abs/2509.24717)|null|
 |**2025-09-29**|**Discrete Variational Autoencoding via Policy Search**|Michael Drolet et.al.|[2509.24716](http://arxiv.org/abs/2509.24716)|null|
 |**2025-09-29**|**Performance-Efficiency Trade-off for Fashion Image Retrieval**|Julio Hurtado et.al.|[2509.24477](http://arxiv.org/abs/2509.24477)|null|
@@ -874,7 +874,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-30**|**ASR Under Noise: Exploring Robustness for Sundanese and Javanese**|Salsabila Zahirah Pranida et.al.|[2509.25878](http://arxiv.org/abs/2509.25878)|null|
 |**2025-09-30**|**MIDAS: Misalignment-based Data Augmentation Strategy for Imbalanced Multimodal Learning**|Seong-Hyeon Hwang et.al.|[2509.25831](http://arxiv.org/abs/2509.25831)|null|
 |**2025-09-30**|**Less is More: Towards Simple Graph Contrastive Learning**|Yanan Zhao et.al.|[2509.25742](http://arxiv.org/abs/2509.25742)|null|
-|**2025-09-30**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al.|[2509.25659](http://arxiv.org/abs/2509.25659)|null|
+|**2025-10-03**|**YOLO-Based Defect Detection for Metal Sheets**|Po-Heng Chou et.al.|[2509.25659](http://arxiv.org/abs/2509.25659)|null|
 |**2025-09-29**|**On-the-Fly Data Augmentation for Brain Tumor Segmentation**|Ishika Jain et.al.|[2509.24973](http://arxiv.org/abs/2509.24973)|null|
 |**2025-09-29**|**Adaptive Canonicalization with Application to Invariant Anisotropic Geometric Networks**|Ya-Wei Eileen Lin et.al.|[2509.24886](http://arxiv.org/abs/2509.24886)|null|
 |**2025-09-29**|**Intelligent Optimization of Wireless Access Point Deployment for Communication-Based Train Control Systems Using Deep Reinforcement Learning**|Kunyu Wu et.al.|[2509.24819](http://arxiv.org/abs/2509.24819)|null|
@@ -904,7 +904,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-25**|**LiLAW: Lightweight Learnable Adaptive Weighting to Meta-Learn Sample Difficulty and Improve Noisy Training**|Abhishek Moturu et.al.|[2509.20786](http://arxiv.org/abs/2509.20786)|null|
 |**2025-09-25**|**Addressing Gradient Misalignment in Data-Augmented Training for Robust Speech Deepfake Detection**|Duc-Tuan Truong et.al.|[2509.20682](http://arxiv.org/abs/2509.20682)|null|
 |**2025-09-24**|**Region-of-Interest Augmentation for Mammography Classification under Patient-Level Cross-Validation**|Farbod Bigdeli et.al.|[2509.20585](http://arxiv.org/abs/2509.20585)|null|
-|**2025-09-24**|**Feature Dynamics as Implicit Data Augmentation: A Depth-Decomposed View on Deep Neural Network Generalization**|Tianyu Ruan et.al.|[2509.20334](http://arxiv.org/abs/2509.20334)|null|
+|**2025-10-02**|**Feature Dynamics as Implicit Data Augmentation: A Depth-Decomposed View on Deep Neural Network Generalization**|Tianyu Ruan et.al.|[2509.20334](http://arxiv.org/abs/2509.20334)|null|
 |**2025-09-24**|**Z-Scores: A Metric for Linguistically Assessing Disfluency Removal**|Maria Teleki et.al.|[2509.20319](http://arxiv.org/abs/2509.20319)|null|
 |**2025-09-24**|**Enhancing Requirement Traceability through Data Augmentation Using Large Language Models**|Jianzhang Zhang et.al.|[2509.20149](http://arxiv.org/abs/2509.20149)|null|
 |**2025-09-24**|**A Simple Data Augmentation Strategy for Text-in-Image Scientific VQA**|Belal Shoer et.al.|[2509.20119](http://arxiv.org/abs/2509.20119)|null|
