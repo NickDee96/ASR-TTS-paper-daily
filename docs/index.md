@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.06**
+📅 **Updated on 2025.10.07**
 
 ## 🌟 About This Repository
 
@@ -380,10 +380,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-09**|**Small Open Models Achieve Near Parity with Large Models in Low Resource Literary Translation at a Fraction of the Cost**|Mihai Nadas et.al.|[2509.07829](http://arxiv.org/abs/2509.07829)|null|
 |**2025-09-09**|**From Scarcity to Efficiency: Investigating the Effects of Data Augmentation on African Machine Translation**|Mardiyyah Oduwole et.al.|[2509.07471](http://arxiv.org/abs/2509.07471)|null|
 |**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|
-|**2025-09-05**|**PRIM: Towards Practical In-Image Multilingual Machine Translation**|Yanzhi Tian et.al.|[2509.05146](http://arxiv.org/abs/2509.05146)|**[link](https://github.com/BITHLP/PRIM)**|
+|**2025-09-05**|**PRIM: Towards Practical In-Image Multilingual Machine Translation**|Yanzhi Tian et.al.|[2509.05146](http://arxiv.org/abs/2509.05146)|null|
 |**2025-09-28**|**Artificially Fluent: Swahili AI Performance Benchmarks Between English-Trained and Natively-Trained Datasets**|Sophie Jaffer et.al.|[2509.04516](http://arxiv.org/abs/2509.04516)|null|
 |**2025-09-04**|**Exploring NLP Benchmarks in an Extremely Low-Resource Setting**|Ulin Nuha et.al.|[2509.03962](http://arxiv.org/abs/2509.03962)|null|
-|**2025-09-04**|**Align-then-Slide: A complete evaluation framework for Ultra-Long Document-Level Machine Translation**|Jiaxin Guo et.al.|[2509.03809](http://arxiv.org/abs/2509.03809)|**[link](https://github.com/Jessee-G/Align-then-Slide)**|
+|**2025-09-04**|**Align-then-Slide: A complete evaluation framework for Ultra-Long Document-Level Machine Translation**|Jiaxin Guo et.al.|[2509.03809](http://arxiv.org/abs/2509.03809)|null|
 |**2025-09-24**|**Expanding the WMT24++ Benchmark with Rumantsch Grischun, Sursilvan, Sutsilvan, Surmiran, Puter, and Vallader**|Jannis Vamvas et.al.|[2509.03148](http://arxiv.org/abs/2509.03148)|null|
 |**2025-09-02**|**The Forgotten Code: Validating a Century-Old Translation System with AI**|Jean-Marie Le Ray et.al.|[2509.02506](http://arxiv.org/abs/2509.02506)|null|
 |**2025-09-18**|**CSRM-LLM: Embracing Multilingual LLMs for Cold-Start Relevance Matching in Emerging E-commerce Markets**|Yujing Wang et.al.|[2509.01566](http://arxiv.org/abs/2509.01566)|null|
@@ -408,7 +408,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-29**|**DocHPLT: A Massively Multilingual Document-Level Translation Dataset**|Dayyán O'Brien et.al.|[2508.13079](http://arxiv.org/abs/2508.13079)|null|
 |**2025-08-18**|**From SALAMANDRA to SALAMANDRATA: BSC Submission for WMT25 General Machine Translation Shared Task**|Javier Garcia Gilabert et.al.|[2508.12774](http://arxiv.org/abs/2508.12774)|null|
 |**2025-08-25**|**SEA-BED: Southeast Asia Embedding Benchmark**|Wuttikorn Ponwitayarat et.al.|[2508.12243](http://arxiv.org/abs/2508.12243)|null|
-|**2025-08-14**|**Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages**|Nasma Chaoui et.al.|[2508.10683](http://arxiv.org/abs/2508.10683)|**[link](https://github.com/chaouin/coptic-french-nmt)**|
+|**2025-08-14**|**Neural Machine Translation for Coptic-French: Strategies for Low-Resource Ancient Languages**|Nasma Chaoui et.al.|[2508.10683](http://arxiv.org/abs/2508.10683)|null|
 |**2025-08-14**|**Evaluating LLMs on Chinese Idiom Translation**|Cai Yang et.al.|[2508.10421](http://arxiv.org/abs/2508.10421)|null|
 |**2025-08-28**|**Estimating Machine Translation Difficulty**|Lorenzo Proietti et.al.|[2508.10175](http://arxiv.org/abs/2508.10175)|null|
 |**2025-08-12**|**TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine Translation**|Armel Zebaze et.al.|[2508.08680](http://arxiv.org/abs/2508.08680)|null|
@@ -524,9 +524,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-30**|**PerQ: Efficient Evaluation of Multilingual Text Personalization Quality**|Dominik Macko et.al.|[2509.25903](http://arxiv.org/abs/2509.25903)|null|
 |**2025-09-30**|**SAIL: SRAM-Accelerated LLM Inference System with Lookup-Table-based GEMV**|Jingyao Zhang et.al.|[2509.25853](http://arxiv.org/abs/2509.25853)|null|
 |**2025-09-30**|**Distillation of Large Language Models via Concrete Score Matching**|Yeongmin Kim et.al.|[2509.25837](http://arxiv.org/abs/2509.25837)|null|
-|**2025-09-30**|**Learning to Reason as Action Abstractions with Scalable Mid-Training RL**|Shenao Zhang et.al.|[2509.25810](http://arxiv.org/abs/2509.25810)|null|
+|**2025-10-03**|**Learning to Reason as Action Abstractions with Scalable Mid-Training RL**|Shenao Zhang et.al.|[2509.25810](http://arxiv.org/abs/2509.25810)|null|
 |**2025-09-30**|**Thinking Sparks!: Emergent Attention Heads in Reasoning Models During Post Training**|Yein Park et.al.|[2509.25758](http://arxiv.org/abs/2509.25758)|null|
-|**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|null|
+|**2025-09-30**|**Collaborative Compression for Large-Scale MoE Deployment on Edge**|Yixiao Chen et.al.|[2509.25689](http://arxiv.org/abs/2509.25689)|**[link](https://github.com/Bobchenyx/CC-MoE)**|
 |**2025-09-30**|**Growing Winning Subnetworks, Not Pruning Them: A Paradigm for Density Discovery in Sparse Neural Networks**|Qihang Yao et.al.|[2509.25665](http://arxiv.org/abs/2509.25665)|null|
 |**2025-09-30**|**Effective Model Pruning**|Yixuan Wang et.al.|[2509.25606](http://arxiv.org/abs/2509.25606)|null|
 |**2025-09-29**|**On-Premise AI for the Newsroom: Evaluating Small Language Models for Investigative Document Search**|Nick Hagar et.al.|[2509.25494](http://arxiv.org/abs/2509.25494)|null|
@@ -1011,7 +1011,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 285 papers*
+*📊 286 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1027,6 +1027,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-02**|**Study on LLMs for Promptagator-Style Dense Retriever Training**|Daniel Gwon et.al.|[2510.02241](http://arxiv.org/abs/2510.02241)|null|
 |**2025-10-02**|**FlexDoc: Parameterized Sampling for Diverse Multilingual Synthetic Documents for Training Document Understanding Models**|Karan Dua et.al.|[2510.02133](http://arxiv.org/abs/2510.02133)|null|
 |**2025-10-02**|**SoundReactor: Frame-level Online Video-to-Audio Generation**|Koichi Saito et.al.|[2510.02110](http://arxiv.org/abs/2510.02110)|null|
+|**2025-10-04**|**NGGAN: Noise Generation GAN Based on the Practical Measurement Dataset for Narrowband Powerline Communications**|Ying-Ren Chien et.al.|[2510.01850](http://arxiv.org/abs/2510.01850)|null|
 |**2025-10-02**|**Sensitivity, Specificity, and Consistency: A Tripartite Evaluation of Privacy Filters for Synthetic Data Generation**|Adil Koeken et.al.|[2510.01793](http://arxiv.org/abs/2510.01793)|null|
 |**2025-10-02**|**A Locally Executable AI System for Improving Preoperative Patient Communication: A Multi-Domain Clinical Evaluation**|Motoki Sato et.al.|[2510.01671](http://arxiv.org/abs/2510.01671)|null|
 |**2025-10-02**|**Demystifying Synthetic Data in LLM Pre-training: A Systematic Study of Scaling Laws, Benefits, and Pitfalls**|Feiyang Kang et.al.|[2510.01631](http://arxiv.org/abs/2510.01631)|null|
