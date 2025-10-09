@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.08**
+📅 **Updated on 2025.10.09**
 
 ## 🌟 About This Repository
 
@@ -1105,7 +1105,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-07**|**StereoSync: Spatially-Aware Stereo Audio Generation from Video**|Christian Marinoni et.al.|[2510.05828](http://arxiv.org/abs/2510.05828)|null|
 |**2025-10-07**|**Physicochemically Informed Dual-Conditioned Generative Model of T-Cell Receptor Variable Regions for Cellular Therapy**|Jiahao Ma et.al.|[2510.05747](http://arxiv.org/abs/2510.05747)|null|
 |**2025-10-07**|**Redefining Generalization in Visual Domains: A Two-Axis Framework for Fake Image Detection with FusionDetect**|Amirtaha Amanzadi et.al.|[2510.05740](http://arxiv.org/abs/2510.05740)|null|
-|**2025-10-06**|**Scalable In-context Ranking with Generative Models**|Nilesh Gupta et.al.|[2510.05396](http://arxiv.org/abs/2510.05396)|null|
+|**2025-10-08**|**Scalable In-context Ranking with Generative Models**|Nilesh Gupta et.al.|[2510.05396](http://arxiv.org/abs/2510.05396)|null|
 |**2025-10-06**|**Watch and Learn: Learning to Use Computers from Online Videos**|Chan Hee Song et.al.|[2510.04673](http://arxiv.org/abs/2510.04673)|null|
 |**2025-10-06**|**Forecasting-Based Biomedical Time-series Data Synthesis for Open Data and Robust AI**|Youngjoon Lee et.al.|[2510.04622](http://arxiv.org/abs/2510.04622)|null|
 |**2025-10-06**|**Language Model Based Text-to-Audio Generation: Anti-Causally Aligned Collaborative Residual Transformers**|Juncheng Wang et.al.|[2510.04577](http://arxiv.org/abs/2510.04577)|null|
@@ -1117,7 +1117,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-05**|**A Multilingual Framework for Dysarthria: Detection, Severity Classification, Speech-to-Text, and Clean Speech Generation**|Ananya Raghu et.al.|[2510.03986](http://arxiv.org/abs/2510.03986)|null|
 |**2025-10-04**|**Mirage: Unveiling Hidden Artifacts in Synthetic Images with Large Vision-Language Models**|Pranav Sharma et.al.|[2510.03840](http://arxiv.org/abs/2510.03840)|null|
 |**2025-10-07**|**Neon: Negative Extrapolation From Self-Training Improves Image Generation**|Sina Alemohammad et.al.|[2510.03597](http://arxiv.org/abs/2510.03597)|null|
-|**2025-10-03**|**Longitudinal Flow Matching for Trajectory Modeling**|Mohammad Mohaiminul Islam et.al.|[2510.03569](http://arxiv.org/abs/2510.03569)|null|
+|**2025-10-07**|**Longitudinal Flow Matching for Trajectory Modeling**|Mohammad Mohaiminul Islam et.al.|[2510.03569](http://arxiv.org/abs/2510.03569)|null|
 |**2025-10-07**|**Synthetic Audio Forensics Evaluation (SAFE) Challenge**|Kirill Trapeznikov et.al.|[2510.03387](http://arxiv.org/abs/2510.03387)|null|
 |**2025-10-03**|**Predicting cell-specific gene expression profile and knockout impact through deep learning**|Yongjian He et.al.|[2510.03359](http://arxiv.org/abs/2510.03359)|null|
 |**2025-10-03**|**Wave-GMS: Lightweight Multi-Scale Generative Model for Medical Image Segmentation**|Talha Ahmed et.al.|[2510.03216](http://arxiv.org/abs/2510.03216)|null|
