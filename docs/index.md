@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.09**
+📅 **Updated on 2025.10.10**
 
 ## 🌟 About This Repository
 
@@ -949,7 +949,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-30**|**Subjective quality evaluation of personalized own voice reconstruction systems**|Mattes Ohlenbusch et.al.|[2510.00256](http://arxiv.org/abs/2510.00256)|null|
 |**2025-09-26**|**Deep Learning-Based Pneumonia Detection from Chest X-ray Images: A CNN Approach with Performance Analysis and Clinical Implications**|P K Dutta et.al.|[2510.00035](http://arxiv.org/abs/2510.00035)|null|
 |**2025-09-25**|**Learning Inter-Atomic Potentials without Explicit Equivariance**|Ahmed A. Elhag et.al.|[2510.00027](http://arxiv.org/abs/2510.00027)|null|
-|**2025-09-30**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Lujie Yang et.al.|[2509.26633](http://arxiv.org/abs/2509.26633)|null|
+|**2025-10-08**|**OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction**|Lujie Yang et.al.|[2509.26633](http://arxiv.org/abs/2509.26633)|null|
 |**2025-09-30**|**Source Separation for A Cappella Music**|Luca A. Lanzendörfer et.al.|[2509.26580](http://arxiv.org/abs/2509.26580)|null|
 |**2025-09-30**|**GastroViT: A Vision Transformer Based Ensemble Learning Approach for Gastrointestinal Disease Classification with Grad CAM & SHAP Visualization**|Sumaiya Tabassum et.al.|[2509.26502](http://arxiv.org/abs/2509.26502)|null|
 |**2025-09-30**|**Limited Preference Data? Learning Better Reward Model with Latent Space Synthesis**|Leitian Tao et.al.|[2509.26074](http://arxiv.org/abs/2509.26074)|null|
