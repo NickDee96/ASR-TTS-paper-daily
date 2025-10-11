@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.10**
+📅 **Updated on 2025.10.11**
 
 ## 🌟 About This Repository
 
@@ -938,7 +938,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-09**|**Hyperspectral data augmentation with transformer-based diffusion models**|Mattia Ferrari et.al.|[2510.08363](http://arxiv.org/abs/2510.08363)|null|
 |**2025-10-09**|**A Multimodal Depth-Aware Method For Embodied Reference Understanding**|Fevziye Irem Eyiokur et.al.|[2510.08278](http://arxiv.org/abs/2510.08278)|null|
 |**2025-10-09**|**Robust Canonicalization through Bootstrapped Data Re-Alignment**|Johann Schmidt et.al.|[2510.08178](http://arxiv.org/abs/2510.08178)|null|
-|**2025-10-09**|**Long-tailed Recognition with Model Rebalancing**|Jiaan Luo et.al.|[2510.08177](http://arxiv.org/abs/2510.08177)|**[link](https://github.com/IMLSH/MORE)**|
+|**2025-10-09**|**Long-tailed Recognition with Model Rebalancing**|Jiaan Luo et.al.|[2510.08177](http://arxiv.org/abs/2510.08177)|null|
 |**2025-10-09**|**Self-Improving LLM Agents at Test-Time**|Emre Can Acikgoz et.al.|[2510.07841](http://arxiv.org/abs/2510.07841)|null|
 |**2025-10-09**|**Enhancing Visual Prompting through Expanded Transformation Space and Overfitting Mitigation**|Shohei Enomoto et.al.|[2510.07823](http://arxiv.org/abs/2510.07823)|null|
 |**2025-10-07**|**Enhancing Maritime Object Detection in Real-Time with RT-DETR and Data Augmentation**|Nader Nemati et.al.|[2510.07346](http://arxiv.org/abs/2510.07346)|null|
@@ -950,9 +950,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-06**|**NASP-T: A Fuzzy Neuro-Symbolic Transformer for Logic-Constrained Aviation Safety Report Classification**|Fadi Al Machot et.al.|[2510.05451](http://arxiv.org/abs/2510.05451)|null|
 |**2025-09-30**|**CARE: Cognitive-reasoning Augmented Reinforcement for Emotional Support Conversation**|Jie Zhu et.al.|[2510.05122](http://arxiv.org/abs/2510.05122)|null|
 |**2025-10-06**|**How does the optimizer implicitly bias the model merging loss landscape?**|Chenxiang Zhang et.al.|[2510.04686](http://arxiv.org/abs/2510.04686)|null|
-|**2025-10-05**|**RAP: 3D Rasterization Augmented End-to-End Planning**|Lan Feng et.al.|[2510.04333](http://arxiv.org/abs/2510.04333)|null|
+|**2025-10-05**|**RAP: 3D Rasterization Augmented End-to-End Planning**|Lan Feng et.al.|[2510.04333](http://arxiv.org/abs/2510.04333)|**[link](https://github.com/vita-epfl/RAP)**|
 |**2025-10-05**|**PABSA: Hybrid Framework for Persian Aspect-Based Sentiment Analysis**|Mehrzad Tareh et.al.|[2510.04291](http://arxiv.org/abs/2510.04291)|null|
-|**2025-10-05**|**Enhancing Fake News Video Detection via LLM-Driven Creative Process Simulation**|Yuyan Bu et.al.|[2510.04024](http://arxiv.org/abs/2510.04024)|null|
+|**2025-10-05**|**Enhancing Fake News Video Detection via LLM-Driven Creative Process Simulation**|Yuyan Bu et.al.|[2510.04024](http://arxiv.org/abs/2510.04024)|**[link](https://github.com/ICTMCG/AgentAug)**|
 |**2025-10-04**|**Exploring the Challenge and Value of Deep Learning in Automated Skin Disease Diagnosis**|Runhao Liu et.al.|[2510.03869](http://arxiv.org/abs/2510.03869)|null|
 |**2025-10-04**|**Cellular Learning: Scattered Data Regression in High Dimensions via Voronoi Cells**|Shankar Prasad Sastry et.al.|[2510.03810](http://arxiv.org/abs/2510.03810)|null|
 |**2025-10-09**|**From Moments to Models: Graphon Mixture-Aware Mixup and Contrastive Learning**|Ali Azizpour et.al.|[2510.03690](http://arxiv.org/abs/2510.03690)|null|
