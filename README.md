@@ -1013,9 +1013,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-06**|**NASP-T: A Fuzzy Neuro-Symbolic Transformer for Logic-Constrained Aviation Safety Report Classification**|Fadi Al Machot et.al.|[2510.05451](http://arxiv.org/abs/2510.05451)|null|
 |**2025-09-30**|**CARE: Cognitive-reasoning Augmented Reinforcement for Emotional Support Conversation**|Jie Zhu et.al.|[2510.05122](http://arxiv.org/abs/2510.05122)|null|
 |**2025-10-06**|**How does the optimizer implicitly bias the model merging loss landscape?**|Chenxiang Zhang et.al.|[2510.04686](http://arxiv.org/abs/2510.04686)|null|
-|**2025-10-05**|**RAP: 3D Rasterization Augmented End-to-End Planning**|Lan Feng et.al.|[2510.04333](http://arxiv.org/abs/2510.04333)|**[link](https://github.com/vita-epfl/RAP)**|
+|**2025-10-05**|**RAP: 3D Rasterization Augmented End-to-End Planning**|Lan Feng et.al.|[2510.04333](http://arxiv.org/abs/2510.04333)|null|
 |**2025-10-05**|**PABSA: Hybrid Framework for Persian Aspect-Based Sentiment Analysis**|Mehrzad Tareh et.al.|[2510.04291](http://arxiv.org/abs/2510.04291)|null|
-|**2025-10-05**|**Enhancing Fake News Video Detection via LLM-Driven Creative Process Simulation**|Yuyan Bu et.al.|[2510.04024](http://arxiv.org/abs/2510.04024)|**[link](https://github.com/ICTMCG/AgentAug)**|
+|**2025-10-05**|**Enhancing Fake News Video Detection via LLM-Driven Creative Process Simulation**|Yuyan Bu et.al.|[2510.04024](http://arxiv.org/abs/2510.04024)|null|
 |**2025-10-04**|**Exploring the Challenge and Value of Deep Learning in Automated Skin Disease Diagnosis**|Runhao Liu et.al.|[2510.03869](http://arxiv.org/abs/2510.03869)|null|
 |**2025-10-04**|**Cellular Learning: Scattered Data Regression in High Dimensions via Voronoi Cells**|Shankar Prasad Sastry et.al.|[2510.03810](http://arxiv.org/abs/2510.03810)|null|
 |**2025-10-09**|**From Moments to Models: Graphon Mixture-Aware Mixup and Contrastive Learning**|Ali Azizpour et.al.|[2510.03690](http://arxiv.org/abs/2510.03690)|null|
