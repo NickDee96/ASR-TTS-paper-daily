@@ -1248,7 +1248,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-09**|**IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation**|Wei Wang et.al.|[2510.07979](http://arxiv.org/abs/2510.07979)|null|
 |**2025-10-09**|**Comprehensiveness Metrics for Automatic Evaluation of Factual Recall in Text Generation**|Adam Dejl et.al.|[2510.07926](http://arxiv.org/abs/2510.07926)|null|
 |**2025-10-09**|**GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation**|Rongchao Xu et.al.|[2510.07735](http://arxiv.org/abs/2510.07735)|null|
-|**2025-10-09**|**SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction**|Wenyue Chen et.al.|[2510.07723](http://arxiv.org/abs/2510.07723)|null|
+|**2025-10-09**|**SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction**|Wenyue Chen et.al.|[2510.07723](http://arxiv.org/abs/2510.07723)|**[link](https://github.com/IGL-HKUST/SyncHuman)**|
 |**2025-10-08**|**Transferable Generative Models Bridge Femtosecond to Nanosecond Time-Step Molecular Dynamics**|Juan Viguera Diez et.al.|[2510.07589](http://arxiv.org/abs/2510.07589)|null|
 |**2025-10-07**|**Mitigating Surgical Data Imbalance with Dual-Prediction Video Diffusion Model**|Danush Kumar Venkatesh et.al.|[2510.07345](http://arxiv.org/abs/2510.07345)|null|
 |**2025-10-08**|**A Digital Twin Framework for Metamorphic Testing of Autonomous Driving Systems Using Generative Model**|Tony Zhang et.al.|[2510.07133](http://arxiv.org/abs/2510.07133)|null|
