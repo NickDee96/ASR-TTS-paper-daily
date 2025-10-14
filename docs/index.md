@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.13**
+📅 **Updated on 2025.10.14**
 
 ## 🌟 About This Repository
 
@@ -240,18 +240,18 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-02**|**On the Role of Temperature Sampling in Test-Time Scaling**|Yuheng Wu et.al.|[2510.02611](http://arxiv.org/abs/2510.02611)|null|
 |**2025-10-02**|**Emotional Text-To-Speech Based on Mutual-Information-Guided Emotion-Timbre Disentanglement**|Jianing Yang et.al.|[2510.01722](http://arxiv.org/abs/2510.01722)|null|
 |**2025-09-30**|**BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs**|Yue Wang et.al.|[2509.26514](http://arxiv.org/abs/2509.26514)|null|
-|**2025-09-30**|**Go with Your Gut: Scaling Confidence for Autoregressive Image Generation**|Harold Haodong Chen et.al.|[2509.26376](http://arxiv.org/abs/2509.26376)|null|
+|**2025-09-30**|**Go with Your Gut: Scaling Confidence for Autoregressive Image Generation**|Harold Haodong Chen et.al.|[2509.26376](http://arxiv.org/abs/2509.26376)|**[link](https://github.com/EnVision-Research/ScalingAR)**|
 |**2025-09-30**|**HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis**|Ziyu Zhang et.al.|[2509.25842](http://arxiv.org/abs/2509.25842)|null|
 |**2025-09-29**|**Emotion-Aligned Generation in Diffusion Text to Speech Models via Preference-Guided Optimization**|Jiacheng Shi et.al.|[2509.25416](http://arxiv.org/abs/2509.25416)|null|
 |**2025-09-29**|**Incentive-Aligned Multi-Source LLM Summaries**|Yanchen Jiang et.al.|[2509.25184](http://arxiv.org/abs/2509.25184)|null|
-|**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|null|
+|**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|**[link](https://github.com/dvlab-research/MGM-Omni)**|
 |**2025-09-29**|**LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space**|Guibin Zhang et.al.|[2509.24771](http://arxiv.org/abs/2509.24771)|null|
 |**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|null|
 |**2025-09-29**|**Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis**|Tianrui Wang et.al.|[2509.24629](http://arxiv.org/abs/2509.24629)|null|
 |**2025-09-29**|**ContextPRM: Leveraging Contextual Coherence for multi-domain Test-Time Scaling**|Haotian Zhang et.al.|[2509.24460](http://arxiv.org/abs/2509.24460)|null|
 |**2025-09-29**|**UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities**|Xuenan Xu et.al.|[2509.24391](http://arxiv.org/abs/2509.24391)|null|
 |**2025-09-28**|**Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment**|Pu Huang et.al.|[2509.23618](http://arxiv.org/abs/2509.23618)|null|
-|**2025-10-07**|**Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned**|Brandon Ong et.al.|[2509.23250](http://arxiv.org/abs/2509.23250)|**[link](https://github.com/theogbrand/vlprm)**|
+|**2025-10-07**|**Training Vision-Language Process Reward Models for Test-Time Scaling in Multimodal Reasoning: Key Insights and Lessons Learned**|Brandon Ong et.al.|[2509.23250](http://arxiv.org/abs/2509.23250)|null|
 |**2025-09-27**|**BFA: Real-time Multilingual Text-to-speech Forced Alignment**|Abdul Rehman et.al.|[2509.23147](http://arxiv.org/abs/2509.23147)|null|
 |**2025-09-25**|**DiaMoE-TTS: A Unified IPA-Based Dialect TTS Framework with Mixture-of-Experts and Parameter-Efficient Zero-Shot Adaptation**|Ziqi Chen et.al.|[2509.22727](http://arxiv.org/abs/2509.22727)|null|
 |**2025-09-24**|**PerformSinger: Multimodal Singing Voice Synthesis Leveraging Synchronized Lip Cues from Singing Performance Videos**|Ke Gu et.al.|[2509.22718](http://arxiv.org/abs/2509.22718)|null|
@@ -409,7 +409,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-24**|**Low-Resource English-Tigrinya MT: Leveraging Multilingual Models, Custom Tokenizers, and Clean Evaluation Benchmarks**|Hailay Kidu Teklehaymanot et.al.|[2509.20209](http://arxiv.org/abs/2509.20209)|null|
 |**2025-09-24**|**CorIL: Towards Enriching Indian Language to Indian Language Parallel Corpora and Machine Translation Systems**|Soham Bhattacharjee et.al.|[2509.19941](http://arxiv.org/abs/2509.19941)|null|
 |**2025-09-24**|**EnAnchored-X2X: English-Anchored Optimization for Many-to-Many Translation**|Sen Yang et.al.|[2509.19770](http://arxiv.org/abs/2509.19770)|null|
-|**2025-09-23**|**Evaluating Language Translation Models by Playing Telephone**|Syeda Jannatus Saba et.al.|[2509.19611](http://arxiv.org/abs/2509.19611)|**[link](https://github.com/saba-phoenix/language-translation-evaluation-by-playing-telephone)**|
+|**2025-09-23**|**Evaluating Language Translation Models by Playing Telephone**|Syeda Jannatus Saba et.al.|[2509.19611](http://arxiv.org/abs/2509.19611)|null|
 |**2025-09-22**|**Transformer-Encoder Trees for Efficient Multilingual Machine Translation and Speech Translation**|Yiwen Guan et.al.|[2509.17930](http://arxiv.org/abs/2509.17930)|null|
 |**2025-09-22**|**Specification-Aware Machine Translation and Evaluation for Purpose Alignment**|Yoko Kayano et.al.|[2509.17559](http://arxiv.org/abs/2509.17559)|null|
 |**2025-09-22**|**Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages**|Wenhao Zhuang et.al.|[2509.17493](http://arxiv.org/abs/2509.17493)|null|
@@ -1197,7 +1197,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 335 papers*
+*📊 342 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1205,7 +1205,14 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-10**|**Efficient Autoregressive Inference for Transformer Probabilistic Models**|Conor Hassan et.al.|[2510.09477](http://arxiv.org/abs/2510.09477)|null|
 |**2025-10-10**|**Failure Prediction at Runtime for Generative Robot Policies**|Ralf Römer et.al.|[2510.09459](http://arxiv.org/abs/2510.09459)|null|
 |**2025-10-10**|**A Biophysically-Conditioned Generative Framework for 3D Brain Tumor MRI Synthesis**|Valentin Biller et.al.|[2510.09365](http://arxiv.org/abs/2510.09365)|null|
-|**2025-10-09**|**MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization**|Xiangyu Zhao et.al.|[2510.08540](http://arxiv.org/abs/2510.08540)|null|
+|**2025-10-10**|**SOS: Synthetic Object Segments Improve Detection, Segmentation, and Grounding**|Weikai Huang et.al.|[2510.09110](http://arxiv.org/abs/2510.09110)|null|
+|**2025-10-10**|**MCMC: Bridging Rendering, Optimization and Generative AI**|Gurprit Singh et.al.|[2510.09078](http://arxiv.org/abs/2510.09078)|null|
+|**2025-10-10**|**MMAudioSep: Taming Video-to-Audio Generative Model Towards Video/Text-Queried Sound Separation**|Akira Takahashi et.al.|[2510.09065](http://arxiv.org/abs/2510.09065)|null|
+|**2025-10-10**|**O_O-VC: Synthetic Data-Driven One-to-One Alignment for Any-to-Any Voice Conversion**|Huu Tuong Tu et.al.|[2510.09061](http://arxiv.org/abs/2510.09061)|null|
+|**2025-10-10**|**Mirror Flow Matching with Heavy-Tailed Priors for Generative Modeling on Convex Domains**|Yunrui Guan et.al.|[2510.08929](http://arxiv.org/abs/2510.08929)|null|
+|**2025-10-10**|**ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling**|Yuxuan Jiang et.al.|[2510.08878](http://arxiv.org/abs/2510.08878)|null|
+|**2025-10-08**|**Next Semantic Scale Prediction via Hierarchical Diffusion Language Models**|Cai Zhou et.al.|[2510.08632](http://arxiv.org/abs/2510.08632)|null|
+|**2025-10-11**|**MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with Holistic Platform and Adaptive Hybrid Policy Optimization**|Xiangyu Zhao et.al.|[2510.08540](http://arxiv.org/abs/2510.08540)|null|
 |**2025-10-09**|**Universality and kernel-adaptive training for classically trained, quantum-deployed generative models**|Andrii Kurkin et.al.|[2510.08476](http://arxiv.org/abs/2510.08476)|null|
 |**2025-10-09**|**SummDiff: Generative Modeling of Video Summarization with Diffusion**|Kwanseok Kim et.al.|[2510.08458](http://arxiv.org/abs/2510.08458)|null|
 |**2025-10-09**|**ReasonEmbed: Enhanced Text Embeddings for Reasoning-Intensive Document Retrieval**|Jianlyu Chen et.al.|[2510.08252](http://arxiv.org/abs/2510.08252)|null|
@@ -1214,7 +1221,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-09**|**IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation**|Wei Wang et.al.|[2510.07979](http://arxiv.org/abs/2510.07979)|null|
 |**2025-10-09**|**Comprehensiveness Metrics for Automatic Evaluation of Factual Recall in Text Generation**|Adam Dejl et.al.|[2510.07926](http://arxiv.org/abs/2510.07926)|null|
 |**2025-10-09**|**GeoGen: A Two-stage Coarse-to-Fine Framework for Fine-grained Synthetic Location-based Social Network Trajectory Generation**|Rongchao Xu et.al.|[2510.07735](http://arxiv.org/abs/2510.07735)|null|
-|**2025-10-09**|**SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction**|Wenyue Chen et.al.|[2510.07723](http://arxiv.org/abs/2510.07723)|**[link](https://github.com/IGL-HKUST/SyncHuman)**|
+|**2025-10-09**|**SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view Human Reconstruction**|Wenyue Chen et.al.|[2510.07723](http://arxiv.org/abs/2510.07723)|null|
 |**2025-10-08**|**Transferable Generative Models Bridge Femtosecond to Nanosecond Time-Step Molecular Dynamics**|Juan Viguera Diez et.al.|[2510.07589](http://arxiv.org/abs/2510.07589)|null|
 |**2025-10-07**|**Mitigating Surgical Data Imbalance with Dual-Prediction Video Diffusion Model**|Danush Kumar Venkatesh et.al.|[2510.07345](http://arxiv.org/abs/2510.07345)|null|
 |**2025-10-08**|**A Digital Twin Framework for Metamorphic Testing of Autonomous Driving Systems Using Generative Model**|Tony Zhang et.al.|[2510.07133](http://arxiv.org/abs/2510.07133)|null|
