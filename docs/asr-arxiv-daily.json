@@ -337,7 +337,7 @@
     "2510.11646": "|**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|\n",
     "2510.11124": "|**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|\n",
     "2510.10774": "|**2025-10-12**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|\n",
-    "2510.10396": "|**2025-10-12**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|\n",
+    "2510.10396": "|**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|\n",
     "2510.09988": "|**2025-10-11**|**Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey**|Jiaqi Wei et.al.|[2510.09988](http://arxiv.org/abs/2510.09988)|null|\n"
   },
   "Machine Translation": {
@@ -891,7 +891,7 @@
     "2510.05180": "|**2025-10-05**|**OptiFLIDS: Optimized Federated Learning for Energy-Efficient Intrusion Detection in IoT**|Saida Elouardi et.al.|[2510.05180](http://arxiv.org/abs/2510.05180)|null|\n",
     "2510.05176": "|**2025-10-05**|**PatternKV: Flattening KV Representation Expands Quantization Headroom**|Ji Zhang et.al.|[2510.05176](http://arxiv.org/abs/2510.05176)|null|\n",
     "2510.05164": "|**2025-10-04**|**SATER: A Self-Aware and Token-Efficient Approach to Routing and Cascading**|Yuanzhe Shen et.al.|[2510.05164](http://arxiv.org/abs/2510.05164)|null|\n",
-    "2510.08483": "|**2025-10-09**|**DeepPrune: Parallel Scaling without Inter-trace Redundancy**|Shangqing Tu et.al.|[2510.08483](http://arxiv.org/abs/2510.08483)|**[link](https://github.com/THU-KEG/DeepPrune)**|\n",
+    "2510.08483": "|**2025-10-09**|**DeepPrune: Parallel Scaling without Inter-trace Redundancy**|Shangqing Tu et.al.|[2510.08483](http://arxiv.org/abs/2510.08483)|null|\n",
     "2510.08464": "|**2025-10-09**|**Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered**|Jason Jabbour et.al.|[2510.08464](http://arxiv.org/abs/2510.08464)|null|\n",
     "2510.08449": "|**2025-10-09**|**Hierarchical Spatial Algorithms for High-Resolution Image Quantization and Feature Extraction**|Noor Islam S. Mohammad et.al.|[2510.08449](http://arxiv.org/abs/2510.08449)|null|\n",
     "2510.08419": "|**2025-10-09**|**Continuous Variable Hamiltonian Learning at Heisenberg Limit via Displacement-Random Unitary Transformation**|Xi Huang et.al.|[2510.08419](http://arxiv.org/abs/2510.08419)|null|\n",
