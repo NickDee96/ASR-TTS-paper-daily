@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.15**
+📅 **Updated on 2025.10.16**
 
 ---
 
@@ -468,7 +468,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-24**|**Low-Resource English-Tigrinya MT: Leveraging Multilingual Models, Custom Tokenizers, and Clean Evaluation Benchmarks**|Hailay Kidu Teklehaymanot et.al.|[2509.20209](http://arxiv.org/abs/2509.20209)|null|
 |**2025-09-24**|**CorIL: Towards Enriching Indian Language to Indian Language Parallel Corpora and Machine Translation Systems**|Soham Bhattacharjee et.al.|[2509.19941](http://arxiv.org/abs/2509.19941)|null|
 |**2025-09-24**|**EnAnchored-X2X: English-Anchored Optimization for Many-to-Many Translation**|Sen Yang et.al.|[2509.19770](http://arxiv.org/abs/2509.19770)|null|
-|**2025-09-23**|**Evaluating Language Translation Models by Playing Telephone**|Syeda Jannatus Saba et.al.|[2509.19611](http://arxiv.org/abs/2509.19611)|null|
+|**2025-09-23**|**Evaluating Language Translation Models by Playing Telephone**|Syeda Jannatus Saba et.al.|[2509.19611](http://arxiv.org/abs/2509.19611)|**[link](https://github.com/saba-phoenix/language-translation-evaluation-by-playing-telephone)**|
 |**2025-09-22**|**Transformer-Encoder Trees for Efficient Multilingual Machine Translation and Speech Translation**|Yiwen Guan et.al.|[2509.17930](http://arxiv.org/abs/2509.17930)|null|
 |**2025-09-22**|**Specification-Aware Machine Translation and Evaluation for Purpose Alignment**|Yoko Kayano et.al.|[2509.17559](http://arxiv.org/abs/2509.17559)|null|
 |**2025-09-22**|**Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages**|Wenhao Zhuang et.al.|[2509.17493](http://arxiv.org/abs/2509.17493)|null|
@@ -476,7 +476,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-22**|**Scaling, Simplification, and Adaptation: Lessons from Pretraining on Machine-Translated Text**|Dan John Velasco et.al.|[2509.17317](http://arxiv.org/abs/2509.17317)|null|
 |**2025-09-22**|**JPResUnet: A Joint Probability Density Function Translation Model in Partially Premixed Flames**|Hanying Yang et.al.|[2509.17297](http://arxiv.org/abs/2509.17297)|null|
 |**2025-09-21**|**Extending Automatic Machine Translation Evaluation to Book-Length Documents**|Kuang-Da Wang et.al.|[2509.17249](http://arxiv.org/abs/2509.17249)|null|
-|**2025-09-21**|**CUTE: A Multilingual Dataset for Enhancing Cross-Lingual Knowledge Transfer in Low-Resource Languages**|Wenhao Zhuang et.al.|[2509.16914](http://arxiv.org/abs/2509.16914)|**[link](https://github.com/CMLI-NLP/CUTE)**|
+|**2025-09-21**|**CUTE: A Multilingual Dataset for Enhancing Cross-Lingual Knowledge Transfer in Low-Resource Languages**|Wenhao Zhuang et.al.|[2509.16914](http://arxiv.org/abs/2509.16914)|null|
 |**2025-09-20**|**Angular Dispersion Accelerates $k$ -Nearest Neighbors Machine Translation**|Evgeniia Tokarchuk et.al.|[2509.16729](http://arxiv.org/abs/2509.16729)|null|
 |**2025-09-19**|**Whisper-UT: A Unified Translation Framework for Speech and Text**|Cihan Xiao et.al.|[2509.16375](http://arxiv.org/abs/2509.16375)|null|
 |**2025-09-19**|**UPRPRC: Unified Pipeline for Reproducing Parallel Resources -- Corpus from the United Nations**|Qiuyang Lu et.al.|[2509.15789](http://arxiv.org/abs/2509.15789)|null|
@@ -1136,7 +1136,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-04**|**Exploring the Challenge and Value of Deep Learning in Automated Skin Disease Diagnosis**|Runhao Liu et.al.|[2510.03869](http://arxiv.org/abs/2510.03869)|null|
 |**2025-10-04**|**Cellular Learning: Scattered Data Regression in High Dimensions via Voronoi Cells**|Shankar Prasad Sastry et.al.|[2510.03810](http://arxiv.org/abs/2510.03810)|null|
 |**2025-10-09**|**From Moments to Models: Graphon Mixture-Aware Mixup and Contrastive Learning**|Ali Azizpour et.al.|[2510.03690](http://arxiv.org/abs/2510.03690)|null|
-|**2025-10-04**|**Diffusion-Classifier Synergy: Reward-Aligned Learning via Mutual Boosting Loop for FSCIL**|Ruitao Wu et.al.|[2510.03608](http://arxiv.org/abs/2510.03608)|null|
+|**2025-10-15**|**Diffusion-Classifier Synergy: Reward-Aligned Learning via Mutual Boosting Loop for FSCIL**|Ruitao Wu et.al.|[2510.03608](http://arxiv.org/abs/2510.03608)|null|
 |**2025-10-04**|**Exploring the Hierarchical Reasoning Model for Small Natural-Image Classification Without Augmentation**|Alexander V. Mantzaris et.al.|[2510.03598](http://arxiv.org/abs/2510.03598)|null|
 |**2025-10-09**|**How We Won BraTS-SSA 2025: Brain Tumor Segmentation in the Sub-Saharan African Population Using Segmentation-Aware Data Augmentation and Model Ensembling**|Claudia Takyi Ankomah et.al.|[2510.03568](http://arxiv.org/abs/2510.03568)|null|
 |**2025-10-03**|**InsideOut: An EfficientNetV2-S Based Deep Learning Framework for Robust Multi-Class Facial Emotion Recognition**|Ahsan Farabi et.al.|[2510.03066](http://arxiv.org/abs/2510.03066)|null|
@@ -1392,7 +1392,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-12**|**Reverse Supervision at Scale: Exponential Search Meets the Economics of Annotation**|Masoud Makrehchi et.al.|[2510.10446](http://arxiv.org/abs/2510.10446)|null|
 |**2025-10-11**|**Generative Modeling of Aerosol State Representations**|Ehsan Saleh et.al.|[2510.10361](http://arxiv.org/abs/2510.10361)|null|
 |**2025-10-11**|**LLM-Friendly Knowledge Representation for Customer Support**|Hanchen Su et.al.|[2510.10331](http://arxiv.org/abs/2510.10331)|null|
-|**2025-10-11**|**Calibrating Generative Models**|Henry D. Smith et.al.|[2510.10020](http://arxiv.org/abs/2510.10020)|null|
+|**2025-10-11**|**Calibrating Generative Models**|Henry D. Smith et.al.|[2510.10020](http://arxiv.org/abs/2510.10020)|**[link](https://github.com/smithhenryd/cgm)**|
 |**2025-10-11**|**Generative Latent Video Compression**|Zongyu Guo et.al.|[2510.09987](http://arxiv.org/abs/2510.09987)|null|
 |**2025-10-10**|**Augmenting generative models with biomedical knowledge graphs improves targeted drug discovery**|Aditya Malusare et.al.|[2510.09914](http://arxiv.org/abs/2510.09914)|null|
 |**2025-10-10**|**Domain Knowledge Infused Generative Models for Drug Discovery Synthetic Data**|Bing Hu et.al.|[2510.09837](http://arxiv.org/abs/2510.09837)|null|
