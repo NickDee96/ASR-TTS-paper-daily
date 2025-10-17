@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.16**
+📅 **Updated on 2025.10.17**
 
 ---
 
@@ -259,7 +259,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-15**|**Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models**|Yizhou Peng et.al.|[2510.13293](http://arxiv.org/abs/2510.13293)|null|
 |**2025-10-15**|**StressTransfer: Stress-Aware Speech-to-Speech Translation with Emphasis Preservation**|Xi Chen et.al.|[2510.13194](http://arxiv.org/abs/2510.13194)|null|
 |**2025-10-14**|**Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs**|Xinlu He et.al.|[2510.12995](http://arxiv.org/abs/2510.12995)|null|
-|**2025-10-14**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
+|**2025-10-15**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
 |**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
 |**2025-10-14**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
@@ -481,10 +481,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-24**|**Low-Resource English-Tigrinya MT: Leveraging Multilingual Models, Custom Tokenizers, and Clean Evaluation Benchmarks**|Hailay Kidu Teklehaymanot et.al.|[2509.20209](http://arxiv.org/abs/2509.20209)|null|
 |**2025-09-24**|**CorIL: Towards Enriching Indian Language to Indian Language Parallel Corpora and Machine Translation Systems**|Soham Bhattacharjee et.al.|[2509.19941](http://arxiv.org/abs/2509.19941)|null|
 |**2025-09-24**|**EnAnchored-X2X: English-Anchored Optimization for Many-to-Many Translation**|Sen Yang et.al.|[2509.19770](http://arxiv.org/abs/2509.19770)|null|
-|**2025-09-23**|**Evaluating Language Translation Models by Playing Telephone**|Syeda Jannatus Saba et.al.|[2509.19611](http://arxiv.org/abs/2509.19611)|**[link](https://github.com/saba-phoenix/language-translation-evaluation-by-playing-telephone)**|
+|**2025-09-23**|**Evaluating Language Translation Models by Playing Telephone**|Syeda Jannatus Saba et.al.|[2509.19611](http://arxiv.org/abs/2509.19611)|null|
 |**2025-09-22**|**Transformer-Encoder Trees for Efficient Multilingual Machine Translation and Speech Translation**|Yiwen Guan et.al.|[2509.17930](http://arxiv.org/abs/2509.17930)|null|
 |**2025-09-22**|**Specification-Aware Machine Translation and Evaluation for Purpose Alignment**|Yoko Kayano et.al.|[2509.17559](http://arxiv.org/abs/2509.17559)|null|
-|**2025-09-22**|**Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages**|Wenhao Zhuang et.al.|[2509.17493](http://arxiv.org/abs/2509.17493)|**[link](https://github.com/CMLI-NLP/HuffmanTranslit)**|
+|**2025-09-22**|**Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages**|Wenhao Zhuang et.al.|[2509.17493](http://arxiv.org/abs/2509.17493)|null|
 |**2025-10-10**|**Filling in the Clinical Gaps in Benchmark: Case for HealthBench for the Japanese medical system**|Shohei Hisada et.al.|[2509.17444](http://arxiv.org/abs/2509.17444)|null|
 |**2025-09-22**|**Scaling, Simplification, and Adaptation: Lessons from Pretraining on Machine-Translated Text**|Dan John Velasco et.al.|[2509.17317](http://arxiv.org/abs/2509.17317)|null|
 |**2025-09-22**|**JPResUnet: A Joint Probability Density Function Translation Model in Partially Premixed Flames**|Hanying Yang et.al.|[2509.17297](http://arxiv.org/abs/2509.17297)|null|
@@ -651,13 +651,13 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-13**|**G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation**|Yesung Cho et.al.|[2510.11176](http://arxiv.org/abs/2510.11176)|null|
 |**2025-10-13**|**Lightweight Facial Landmark Detection in Thermal Images via Multi-Level Cross-Modal Knowledge Transfer**|Qiyi Tong et.al.|[2510.11128](http://arxiv.org/abs/2510.11128)|null|
 |**2025-10-13**|**DITTO: A Spoofing Attack Framework on Watermarked LLMs via Knowledge Distillation**|Hyeseon Ahn et.al.|[2510.10987](http://arxiv.org/abs/2510.10987)|null|
-|**2025-10-13**|**Bit Allocation Transfer for Perceptual Quality Enhancement of VVC Intra Coding**|Runyu Yang et.al.|[2510.10970](http://arxiv.org/abs/2510.10970)|null|
+|**2025-10-15**|**Bit Allocation Transfer for Perceptual Quality Enhancement of VVC Intra Coding**|Runyu Yang et.al.|[2510.10970](http://arxiv.org/abs/2510.10970)|null|
 |**2025-10-13**|**Not All Bits Are Equal: Scale-Dependent Memory Optimization Strategies for Reasoning Models**|Junhyuck Kim et.al.|[2510.10964](http://arxiv.org/abs/2510.10964)|null|
 |**2025-10-13**|**MC#: Mixture Compressor for Mixture-of-Experts Large Models**|Wei Huang et.al.|[2510.10962](http://arxiv.org/abs/2510.10962)|null|
 |**2025-10-12**|**PruneGCRN: Minimizing and explaining spatio-temporal problems through node pruning**|Javier García-Sigüenza et.al.|[2510.10803](http://arxiv.org/abs/2510.10803)|null|
 |**2025-10-12**|**Bhasha-Rupantarika: Algorithm-Hardware Co-design approach for Multilingual Neural Machine Translation**|Mukul Lokhande et.al.|[2510.10676](http://arxiv.org/abs/2510.10676)|null|
 |**2025-10-12**|**ADiP: Adaptive Precision Systolic Array for Matrix Multiplication Acceleration**|Ahmed J. Abdelmaksoud et.al.|[2510.10623](http://arxiv.org/abs/2510.10623)|null|
-|**2025-10-12**|**Preserving LLM Capabilities through Calibration Data Curation: From Analysis to Optimization**|Bowei He et.al.|[2510.10618](http://arxiv.org/abs/2510.10618)|null|
+|**2025-10-12**|**Preserving LLM Capabilities through Calibration Data Curation: From Analysis to Optimization**|Bowei He et.al.|[2510.10618](http://arxiv.org/abs/2510.10618)|**[link](https://github.com/BokwaiHo/COLA)**|
 |**2025-10-12**|**BitMar: Low-Bit Multimodal Fusion with Episodic Memory for Edge Devices**|Euhid Aman et.al.|[2510.10560](http://arxiv.org/abs/2510.10560)|null|
 |**2025-10-12**|**MRS-YOLO Railroad Transmission Line Foreign Object Detection Based on Improved YOLO11 and Channel Pruning**|Siyuan Liu et.al.|[2510.10553](http://arxiv.org/abs/2510.10553)|null|
 |**2025-10-12**|**Preserving Core Structures of Social Networks via Information Guided Multi-Step Graph Pruning**|Yutong Hu et.al.|[2510.10499](http://arxiv.org/abs/2510.10499)|null|
@@ -1184,7 +1184,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-01**|**Towards Adversarial Training under Hyperspectral Images**|Weihua Zhang et.al.|[2510.01014](http://arxiv.org/abs/2510.01014)|null|
 |**2025-10-01**|**EvolProver: Advancing Automated Theorem Proving by Evolving Formalized Problems via Symmetry and Difficulty**|Yuchen Tian et.al.|[2510.00732](http://arxiv.org/abs/2510.00732)|null|
 |**2025-10-01**|**Disentangling Foreground and Background for vision-Language Navigation via Online Augmentation**|Yunbo Xu et.al.|[2510.00604](http://arxiv.org/abs/2510.00604)|null|
-|**2025-10-01**|**SAGE-LD: Towards Scalable and Generalizable End-to-End Language Diarization via Simulated Data Augmentation**|Sangmin Lee et.al.|[2510.00582](http://arxiv.org/abs/2510.00582)|**[link](https://github.com/sanghyang00/sage-ld)**|
+|**2025-10-01**|**SAGE-LD: Towards Scalable and Generalizable End-to-End Language Diarization via Simulated Data Augmentation**|Sangmin Lee et.al.|[2510.00582](http://arxiv.org/abs/2510.00582)|null|
 |**2025-10-01**|**On-the-Fly Data Augmentation via Gradient-Guided and Sample-Aware Influence Estimation**|Suorong Yang et.al.|[2510.00434](http://arxiv.org/abs/2510.00434)|null|
 |**2025-09-30**|**Subjective quality evaluation of personalized own voice reconstruction systems**|Mattes Ohlenbusch et.al.|[2510.00256](http://arxiv.org/abs/2510.00256)|null|
 |**2025-09-26**|**Deep Learning-Based Pneumonia Detection from Chest X-ray Images: A CNN Approach with Performance Analysis and Clinical Implications**|P K Dutta et.al.|[2510.00035](http://arxiv.org/abs/2510.00035)|null|
@@ -1401,7 +1401,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-14**|**Generative Diffusion Model DiffCrysGen Discovers Rare Earth-Free Magnetic Materials**|Sourav Mal et.al.|[2510.12329](http://arxiv.org/abs/2510.12329)|null|
 |**2025-10-14**|**Beating Harmful Stereotypes Through Facts: RAG-based Counter-speech Generation**|Greta Damo et.al.|[2510.12316](http://arxiv.org/abs/2510.12316)|null|
 |**2025-10-14**|**GOAT: A Training Framework for Goal-Oriented Agent with Tools**|Hyunji Min et.al.|[2510.12218](http://arxiv.org/abs/2510.12218)|null|
-|**2025-10-14**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
+|**2025-10-15**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
 |**2025-10-14**|**The Impact of Synthetic Data on Object Detection Model Performance: A Comparative Analysis with Real-World Data**|Muammer Bay et.al.|[2510.12208](http://arxiv.org/abs/2510.12208)|null|
 |**2025-10-14**|**Audio Palette: A Diffusion Transformer with Multi-Signal Conditioning for Controllable Foley Synthesis**|Junnuo Wang et.al.|[2510.12175](http://arxiv.org/abs/2510.12175)|null|
 |**2025-10-14**|**Precise Attribute Intensity Control in Large Language Models via Targeted Representation Editing**|Rongzhi Zhang et.al.|[2510.12121](http://arxiv.org/abs/2510.12121)|null|
