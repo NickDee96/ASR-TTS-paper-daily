@@ -1645,7 +1645,7 @@
     "2510.09987": "|**2025-10-11**|**Generative Latent Video Compression**|Zongyu Guo et.al.|[2510.09987](http://arxiv.org/abs/2510.09987)|null|\n",
     "2510.09914": "|**2025-10-10**|**Augmenting generative models with biomedical knowledge graphs improves targeted drug discovery**|Aditya Malusare et.al.|[2510.09914](http://arxiv.org/abs/2510.09914)|null|\n",
     "2510.09837": "|**2025-10-10**|**Domain Knowledge Infused Generative Models for Drug Discovery Synthetic Data**|Bing Hu et.al.|[2510.09837](http://arxiv.org/abs/2510.09837)|null|\n",
-    "2510.12636": "|**2025-10-14**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|\n",
+    "2510.12636": "|**2025-10-16**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|\n",
     "2510.12586": "|**2025-10-14**|**Advancing End-to-End Pixel Space Generative Modeling via Self-supervised Pre-training**|Jiachen Lei et.al.|[2510.12586](http://arxiv.org/abs/2510.12586)|null|\n",
     "2510.12497": "|**2025-10-14**|**Mitigating the Noise Shift for Denoising Generative Models via Noise Awareness Guidance**|Jincheng Zhong et.al.|[2510.12497](http://arxiv.org/abs/2510.12497)|null|\n",
     "2510.12405": "|**2025-10-14**|**Continuous Uniqueness and Novelty Metrics for Generative Modeling of Inorganic Crystals**|Masahiro Negishi et.al.|[2510.12405](http://arxiv.org/abs/2510.12405)|null|\n",
@@ -1678,6 +1678,8 @@
     "2510.14643": "|**2025-10-16**|**Generative Models From and For Sampling-Based MPC: A Bootstrapped Approach For Adaptive Contact-Rich Manipulation**|Lara Brudermüller et.al.|[2510.14643](http://arxiv.org/abs/2510.14643)|null|\n",
     "2510.14462": "|**2025-10-16**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al.|[2510.14462](http://arxiv.org/abs/2510.14462)|null|\n",
     "2510.14445": "|**2025-10-16**|**Towards geological inference with process-based and deep generative modeling, part 1: training on fluvial deposits**|Guillaume Rongier et.al.|[2510.14445](http://arxiv.org/abs/2510.14445)|null|\n",
-    "2510.14276": "|**2025-10-16**|**Qwen3Guard Technical Report**|Haiquan Zhao et.al.|[2510.14276](http://arxiv.org/abs/2510.14276)|null|\n"
+    "2510.14276": "|**2025-10-16**|**Qwen3Guard Technical Report**|Haiquan Zhao et.al.|[2510.14276](http://arxiv.org/abs/2510.14276)|null|\n",
+    "2510.13913": "|**2025-10-15**|**Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms**|Shrey Pandit et.al.|[2510.13913](http://arxiv.org/abs/2510.13913)|null|\n",
+    "2510.13872": "|**2025-10-13**|**Joint Discriminative-Generative Modeling via Dual Adversarial Training**|Xuwang Yin et.al.|[2510.13872](http://arxiv.org/abs/2510.13872)|null|\n"
   }
 }

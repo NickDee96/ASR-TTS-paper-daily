@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.17**
+📅 **Updated on 2025.10.18**
 
 ## 🌟 About This Repository
 
@@ -1338,7 +1338,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 397 papers*
+*📊 399 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1349,6 +1349,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-16**|**Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review**|Youwan Mahé et.al.|[2510.14462](http://arxiv.org/abs/2510.14462)|null|
 |**2025-10-16**|**Towards geological inference with process-based and deep generative modeling, part 1: training on fluvial deposits**|Guillaume Rongier et.al.|[2510.14445](http://arxiv.org/abs/2510.14445)|null|
 |**2025-10-16**|**Qwen3Guard Technical Report**|Haiquan Zhao et.al.|[2510.14276](http://arxiv.org/abs/2510.14276)|null|
+|**2025-10-15**|**Synthesizing Agentic Data for Web Agents with Progressive Difficulty Enhancement Mechanisms**|Shrey Pandit et.al.|[2510.13913](http://arxiv.org/abs/2510.13913)|null|
+|**2025-10-13**|**Joint Discriminative-Generative Modeling via Dual Adversarial Training**|Xuwang Yin et.al.|[2510.13872](http://arxiv.org/abs/2510.13872)|null|
 |**2025-10-15**|**Assessing the Geographic Generalization and Physical Consistency of Generative Models for Climate Downscaling**|Carlo Saccardi et.al.|[2510.13722](http://arxiv.org/abs/2510.13722)|null|
 |**2025-10-15**|**Manifold Decoders: A Framework for Generative Modeling from Nonlinear Embeddings**|Riddhish Thakare et.al.|[2510.13622](http://arxiv.org/abs/2510.13622)|null|
 |**2025-10-15**|**FreshTab: Sourcing Fresh Data for Table-to-Text Generation Evaluation**|Kristýna Onderková et.al.|[2510.13598](http://arxiv.org/abs/2510.13598)|null|
@@ -1357,7 +1359,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-15**|**Federated Conditional Conformal Prediction via Generative Models**|Rui Xu et.al.|[2510.13297](http://arxiv.org/abs/2510.13297)|null|
 |**2025-10-15**|**Generative model for information metamaterial design**|Jun Ming Hou et.al.|[2510.13264](http://arxiv.org/abs/2510.13264)|null|
 |**2025-10-15**|**NeuroRVQ: Multi-Scale EEG Tokenization for Generative Large Brainwave Models**|Konstantinos Barmpas et.al.|[2510.13068](http://arxiv.org/abs/2510.13068)|null|
-|**2025-10-14**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|
+|**2025-10-16**|**Adapting Noise to Data: Generative Flows from 1D Processes**|Jannis Chemseddine et.al.|[2510.12636](http://arxiv.org/abs/2510.12636)|null|
 |**2025-10-14**|**Advancing End-to-End Pixel Space Generative Modeling via Self-supervised Pre-training**|Jiachen Lei et.al.|[2510.12586](http://arxiv.org/abs/2510.12586)|null|
 |**2025-10-14**|**Mitigating the Noise Shift for Denoising Generative Models via Noise Awareness Guidance**|Jincheng Zhong et.al.|[2510.12497](http://arxiv.org/abs/2510.12497)|null|
 |**2025-10-14**|**Continuous Uniqueness and Novelty Metrics for Generative Modeling of Inorganic Crystals**|Masahiro Negishi et.al.|[2510.12405](http://arxiv.org/abs/2510.12405)|null|
