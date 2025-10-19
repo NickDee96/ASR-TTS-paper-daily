@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.18**
+📅 **Updated on 2025.10.19**
 
 ## 🌟 About This Repository
 
@@ -621,7 +621,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-13**|**MosaicDiff: Training-free Structural Pruning for Diffusion Model Acceleration Reflecting Pretraining Dynamics**|Bowei Guo et.al.|[2510.11962](http://arxiv.org/abs/2510.11962)|null|
 |**2025-10-13**|**Topological Vibration Analysis of Elastic Lattices via Bloch Sphere Mapping**|Kazi Tahsin Mahmood et.al.|[2510.11930](http://arxiv.org/abs/2510.11930)|null|
 |**2025-10-13**|**QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs**|Wei Huang et.al.|[2510.11696](http://arxiv.org/abs/2510.11696)|null|
-|**2025-10-13**|**LLM-Oriented Token-Adaptive Knowledge Distillation**|Xurong Xie et.al.|[2510.11615](http://arxiv.org/abs/2510.11615)|null|
+|**2025-10-13**|**LLM-Oriented Token-Adaptive Knowledge Distillation**|Xurong Xie et.al.|[2510.11615](http://arxiv.org/abs/2510.11615)|**[link](https://github.com/SassyRong/AdaKD)**|
 |**2025-10-14**|**AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model**|Zhiwei Jin et.al.|[2510.11496](http://arxiv.org/abs/2510.11496)|null|
 |**2025-10-13**|**Rescaling-Aware Training for Efficient Deployment of Deep Learning Models on Full-Integer Hardware**|Lion Mueller et.al.|[2510.11484](http://arxiv.org/abs/2510.11484)|null|
 |**2025-10-13**|**XQuant: Achieving Ultra-Low Bit KV Cache Quantization with Cross-Layer Compression**|Haoqi Yang et.al.|[2510.11236](http://arxiv.org/abs/2510.11236)|null|
@@ -1370,7 +1370,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-14**|**The Impact of Synthetic Data on Object Detection Model Performance: A Comparative Analysis with Real-World Data**|Muammer Bay et.al.|[2510.12208](http://arxiv.org/abs/2510.12208)|null|
 |**2025-10-14**|**Audio Palette: A Diffusion Transformer with Multi-Signal Conditioning for Controllable Foley Synthesis**|Junnuo Wang et.al.|[2510.12175](http://arxiv.org/abs/2510.12175)|null|
 |**2025-10-14**|**Precise Attribute Intensity Control in Large Language Models via Targeted Representation Editing**|Rongzhi Zhang et.al.|[2510.12121](http://arxiv.org/abs/2510.12121)|null|
-|**2025-10-14**|**G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior**|Junfeng Ni et.al.|[2510.12099](http://arxiv.org/abs/2510.12099)|**[link](https://github.com/DaLi-Jack/G4Splat)**|
+|**2025-10-14**|**G4Splat: Geometry-Guided Gaussian Splatting with Generative Prior**|Junfeng Ni et.al.|[2510.12099](http://arxiv.org/abs/2510.12099)|null|
 |**2025-10-14**|**Your VAR Model is Secretly an Efficient and Explainable Generative Classifier**|Yi-Chung Chen et.al.|[2510.12060](http://arxiv.org/abs/2510.12060)|null|
 |**2025-10-13**|**UALM: Unified Audio Language Model for Understanding, Generation and Reasoning**|Jinchuan Tian et.al.|[2510.12000](http://arxiv.org/abs/2510.12000)|null|
 |**2025-10-15**|**Y-shaped Generative Flows**|Arip Asadulaev et.al.|[2510.11955](http://arxiv.org/abs/2510.11955)|null|
