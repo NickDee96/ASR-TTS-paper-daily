@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.19**
+📅 **Updated on 2025.10.20**
 
 ---
 
@@ -82,7 +82,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-06**|**How I Built ASR for Endangered Languages with a Spoken Dictionary**|Christopher Bartley et.al.|[2510.04832](http://arxiv.org/abs/2510.04832)|null|
 |**2025-10-06**|**Evaluating Self-Supervised Speech Models via Text-Based LLMS**|Takashi Maekaku et.al.|[2510.04463](http://arxiv.org/abs/2510.04463)|null|
 |**2025-10-05**|**Probing Whisper for Dysarthric Speech in Detection and Assessment**|Zhengjun Yue et.al.|[2510.04219](http://arxiv.org/abs/2510.04219)|null|
-|**2025-10-05**|**Drax: Speech Recognition with Discrete Flow Matching**|Aviv Navon et.al.|[2510.04162](http://arxiv.org/abs/2510.04162)|null|
+|**2025-10-05**|**Drax: Speech Recognition with Discrete Flow Matching**|Aviv Navon et.al.|[2510.04162](http://arxiv.org/abs/2510.04162)|**[link](https://github.com/aiola-lab/drax)**|
 |**2025-10-05**|**MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2510.04136](http://arxiv.org/abs/2510.04136)|null|
 |**2025-10-04**|**Adapting Diarization-Conditioned Whisper for End-to-End Multi-Talker Speech Recognition**|Martin Kocour et.al.|[2510.03723](http://arxiv.org/abs/2510.03723)|null|
 |**2025-10-04**|**Towards Unsupervised Speech Recognition at the Syllable-Level**|Liming Wang et.al.|[2510.03639](http://arxiv.org/abs/2510.03639)|null|
@@ -91,7 +91,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-03**|**Revisiting Direct Speech-to-Text Translation with Speech LLMs: Better Scaling than CoT Prompting?**|Oriol Pareras et.al.|[2510.03093](http://arxiv.org/abs/2510.03093)|null|
 |**2025-10-03**|**Sequence-Preserving Dual-FoV Defense for Traffic Sign and Light Recognition in Autonomous Vehicles**|Abhishek Joshi et.al.|[2510.02642](http://arxiv.org/abs/2510.02642)|null|
 |**2025-10-02**|**A Physical Unclonable Function Based on Variations of Write Times in STT-MRAM due to Manufacturing Defects**|Jacob Huber et.al.|[2510.02574](http://arxiv.org/abs/2510.02574)|null|
-|**2025-10-02**|**Transcribe, Translate, or Transliterate: An Investigation of Intermediate Representations in Spoken Language Models**|Tolúl\d{o}pé Ògúnrèmí et.al.|[2510.02569](http://arxiv.org/abs/2510.02569)|null|
+|**2025-10-16**|**Transcribe, Translate, or Transliterate: An Investigation of Intermediate Representations in Spoken Language Models**|Tolúlopé Ògúnrèmí et.al.|[2510.02569](http://arxiv.org/abs/2510.02569)|null|
 |**2025-10-02**|**EvolveCaptions: Empowering DHH Users Through Real-Time Collaborative Captioning**|Liang-Yuan Wu et.al.|[2510.02181](http://arxiv.org/abs/2510.02181)|null|
 |**2025-09-30**|**An Analysis of the New EU AI Act and A Proposed Standardization Framework for Machine Learning Fairness**|Mike Teodorescu et.al.|[2510.01281](http://arxiv.org/abs/2510.01281)|null|
 |**2025-10-01**|**Automatic Speech Recognition (ASR) for African Low-Resource Languages: A Systematic Literature Review**|Sukairaj Hafiz Imam et.al.|[2510.01145](http://arxiv.org/abs/2510.01145)|null|
@@ -256,7 +256,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2025-10-15**|**Optimal Aggregation of LLM and PRM Signals for Efficient Test-Time Scaling**|Peng Kuang et.al.|[2510.13918](http://arxiv.org/abs/2510.13918)|null|
-|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
+|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|**[link](https://github.com/Cominclip/OmniVerifier)**|
 |**2025-10-15**|**Closing the Gap Between Text and Speech Understanding in LLMs**|Santiago Cuervo et.al.|[2510.13632](http://arxiv.org/abs/2510.13632)|null|
 |**2025-10-15**|**Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models**|Yizhou Peng et.al.|[2510.13293](http://arxiv.org/abs/2510.13293)|null|
 |**2025-10-15**|**StressTransfer: Stress-Aware Speech-to-Speech Translation with Emphasis Preservation**|Xi Chen et.al.|[2510.13194](http://arxiv.org/abs/2510.13194)|null|
@@ -265,7 +265,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
 |**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
 |**2025-10-14**|**ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2510.10774](http://arxiv.org/abs/2510.10774)|null|
-|**2025-10-14**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
+|**2025-10-17**|**MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations**|Wenxiang Guo et.al.|[2510.10396](http://arxiv.org/abs/2510.10396)|null|
 |**2025-10-11**|**Unifying Tree Search Algorithm and Reward Design for LLM Reasoning: A Survey**|Jiaqi Wei et.al.|[2510.09988](http://arxiv.org/abs/2510.09988)|null|
 |**2025-10-10**|**O_O-VC: Synthetic Data-Driven One-to-One Alignment for Any-to-Any Voice Conversion**|Huu Tuong Tu et.al.|[2510.09061](http://arxiv.org/abs/2510.09061)|null|
 |**2025-10-10**|**DiTSinger: Scaling Singing Voice Synthesis with Diffusion Transformer and Implicit Alignment**|Zongcai Du et.al.|[2510.09016](http://arxiv.org/abs/2510.09016)|null|
@@ -672,7 +672,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-13**|**MosaicDiff: Training-free Structural Pruning for Diffusion Model Acceleration Reflecting Pretraining Dynamics**|Bowei Guo et.al.|[2510.11962](http://arxiv.org/abs/2510.11962)|null|
 |**2025-10-13**|**Topological Vibration Analysis of Elastic Lattices via Bloch Sphere Mapping**|Kazi Tahsin Mahmood et.al.|[2510.11930](http://arxiv.org/abs/2510.11930)|null|
 |**2025-10-13**|**QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning for LLMs**|Wei Huang et.al.|[2510.11696](http://arxiv.org/abs/2510.11696)|null|
-|**2025-10-13**|**LLM-Oriented Token-Adaptive Knowledge Distillation**|Xurong Xie et.al.|[2510.11615](http://arxiv.org/abs/2510.11615)|**[link](https://github.com/SassyRong/AdaKD)**|
+|**2025-10-13**|**LLM-Oriented Token-Adaptive Knowledge Distillation**|Xurong Xie et.al.|[2510.11615](http://arxiv.org/abs/2510.11615)|null|
 |**2025-10-14**|**AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model**|Zhiwei Jin et.al.|[2510.11496](http://arxiv.org/abs/2510.11496)|null|
 |**2025-10-13**|**Rescaling-Aware Training for Efficient Deployment of Deep Learning Models on Full-Integer Hardware**|Lion Mueller et.al.|[2510.11484](http://arxiv.org/abs/2510.11484)|null|
 |**2025-10-13**|**XQuant: Achieving Ultra-Low Bit KV Cache Quantization with Cross-Layer Compression**|Haoqi Yang et.al.|[2510.11236](http://arxiv.org/abs/2510.11236)|null|
