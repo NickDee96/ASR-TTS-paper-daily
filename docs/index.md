@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.21**
+📅 **Updated on 2025.10.22**
 
 ## 🌟 About This Repository
 
@@ -237,7 +237,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-18**|**TrajSelector: Harnessing Latent Representations for Efficient and Effective Best-of-N in Large Reasoning Model**|Bin Yu et.al.|[2510.16449](http://arxiv.org/abs/2510.16449)|null|
 |**2025-10-17**|**VoiceMorph: How AI Voice Morphing Reveals the Boundaries of Auditory Self-Recognition**|Kye Shimizu et.al.|[2510.16192](http://arxiv.org/abs/2510.16192)|null|
 |**2025-10-15**|**Optimal Aggregation of LLM and PRM Signals for Efficient Test-Time Scaling**|Peng Kuang et.al.|[2510.13918](http://arxiv.org/abs/2510.13918)|null|
-|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|**[link](https://github.com/Cominclip/OmniVerifier)**|
+|**2025-10-15**|**Generative Universal Verifier as Multimodal Meta-Reasoner**|Xinchen Zhang et.al.|[2510.13804](http://arxiv.org/abs/2510.13804)|null|
 |**2025-10-15**|**Closing the Gap Between Text and Speech Understanding in LLMs**|Santiago Cuervo et.al.|[2510.13632](http://arxiv.org/abs/2510.13632)|null|
 |**2025-10-15**|**Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models**|Yizhou Peng et.al.|[2510.13293](http://arxiv.org/abs/2510.13293)|null|
 |**2025-10-15**|**StressTransfer: Stress-Aware Speech-to-Speech Translation with Emphasis Preservation**|Xi Chen et.al.|[2510.13194](http://arxiv.org/abs/2510.13194)|null|
@@ -627,7 +627,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-17**|**GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework**|Yijia Sun et.al.|[2510.15299](http://arxiv.org/abs/2510.15299)|null|
 |**2025-10-17**|**Exemplar-Guided Planing: Enhanced LLM Agent for KGQA**|Jingao Xu et.al.|[2510.15283](http://arxiv.org/abs/2510.15283)|null|
 |**2025-10-16**|**Dyadic microlocal partition for anisotropic metrics and uniform Weyl quantization**|Vicente Vergara et.al.|[2510.15183](http://arxiv.org/abs/2510.15183)|null|
-|**2025-10-16**|**SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images**|Jiaxin Guo et.al.|[2510.15072](http://arxiv.org/abs/2510.15072)|null|
+|**2025-10-16**|**SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images**|Jiaxin Guo et.al.|[2510.15072](http://arxiv.org/abs/2510.15072)|**[link](https://github.com/wrld/SaLon3R)**|
 |**2025-10-16**|**MOBIUS: Big-to-Mobile Universal Instance Segmentation via Multi-modal Bottleneck Fusion and Calibrated Decoder Pruning**|Mattia Segu et.al.|[2510.15026](http://arxiv.org/abs/2510.15026)|null|
 |**2025-10-16**|**TASLA: Text-Aligned Speech Tokens with Multiple Layer-Aggregation**|Ming-Hao Hsu et.al.|[2510.14934](http://arxiv.org/abs/2510.14934)|null|
 |**2025-10-16**|**Efficient and Robust Carathéodory-Steinitz Pruning of Positive Discrete Measures**|Filip Bělík et.al.|[2510.14916](http://arxiv.org/abs/2510.14916)|null|
@@ -1416,7 +1416,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 411 papers*
+*📊 417 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
@@ -1425,10 +1425,16 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-20**|**Integrating BIM and UAV-based photogrammetry for Automated 3D Structure Model Segmentation**|Siqi Chen et.al.|[2510.17609](http://arxiv.org/abs/2510.17609)|null|
 |**2025-10-20**|**Towards geological inference with process-based and deep generative modeling, part 2: inversion of fluvial deposits and latent-space disentanglement**|Guillaume Rongier et.al.|[2510.17478](http://arxiv.org/abs/2510.17478)|null|
 |**2025-10-20**|**Optimal transport by a Lagrangian dynamics of population distribution**|Babak Benam et.al.|[2510.17193](http://arxiv.org/abs/2510.17193)|null|
-|**2025-10-19**|**Hephaestus: Mixture Generative Modeling with Energy Guidance for Large-scale QoS Degradation**|Nguyen Do et.al.|[2510.17036](http://arxiv.org/abs/2510.17036)|**[link](https://github.com/PhongNguyen-RhineLab/Hephaestus_Algorithms)**|
+|**2025-10-19**|**Hephaestus: Mixture Generative Modeling with Energy Guidance for Large-scale QoS Degradation**|Nguyen Do et.al.|[2510.17036](http://arxiv.org/abs/2510.17036)|null|
 |**2025-10-19**|**Conditional Synthetic Live and Spoof Fingerprint Generation**|Syed Konain Abbas et.al.|[2510.17035](http://arxiv.org/abs/2510.17035)|null|
 |**2025-10-19**|**Towards Real-Time Generative Speech Restoration with Flow-Matching**|Tsun-An Hsieh et.al.|[2510.16997](http://arxiv.org/abs/2510.16997)|null|
 |**2025-10-19**|**Differentially Private Linear Regression and Synthetic Data Generation with Statistical Guarantees**|Shurong Lin et.al.|[2510.16974](http://arxiv.org/abs/2510.16974)|null|
+|**2025-10-19**|**Class-N-Diff: Classification-Induced Diffusion Model Can Make Fair Skin Cancer Diagnosis**|Nusrat Munia et.al.|[2510.16887](http://arxiv.org/abs/2510.16887)|null|
+|**2025-10-19**|**U-Codec: Ultra Low Frame-rate Neural Speech Codec for Fast High-fidelity Speech Generation**|Xusheng Yang et.al.|[2510.16718](http://arxiv.org/abs/2510.16718)|null|
+|**2025-10-18**|**Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence**|Bingji Yi et.al.|[2510.16657](http://arxiv.org/abs/2510.16657)|null|
+|**2025-10-18**|**Accelerated Learning on Large Scale Screens using Generative Library Models**|Eli N. Weinstein et.al.|[2510.16612](http://arxiv.org/abs/2510.16612)|null|
+|**2025-10-17**|**AtomBench: A Benchmark for Generative Atomic Structure Models using GPT, Diffusion, and Flow Architectures**|Charles Rhys Campbell et.al.|[2510.16165](http://arxiv.org/abs/2510.16165)|null|
+|**2025-10-16**|**Membership Inference over Diffusion-models-based Synthetic Tabular Data**|Peini Cheng et.al.|[2510.16037](http://arxiv.org/abs/2510.16037)|null|
 |**2025-10-17**|**GENESIS: A Generative Model of Episodic-Semantic Interaction**|Marco D'Alessandro et.al.|[2510.15828](http://arxiv.org/abs/2510.15828)|null|
 |**2025-10-16**|**Deep generative priors for 3D brain analysis**|Ana Lawry Aguila et.al.|[2510.15119](http://arxiv.org/abs/2510.15119)|null|
 |**2025-10-16**|**AlignFlow: Improving Flow-based Generative Models with Semi-Discrete Optimal Transport**|Lingkai Kong et.al.|[2510.15038](http://arxiv.org/abs/2510.15038)|null|
