@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.23**
+📅 **Updated on 2025.10.24**
 
 ## 🌟 About This Repository
 
@@ -1218,7 +1218,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-18**|**ViT-Transformer: Self-attention mechanism based constitutive modeling for nonlinear heterogeneous materials**|Yijing Zhou et.al.|[2510.16575](http://arxiv.org/abs/2510.16575)|null|
 |**2025-10-18**|**ReviewGuard: Enhancing Deficient Peer Review Detection via LLM-Driven Data Augmentation**|Haoxuan Zhang et.al.|[2510.16549](http://arxiv.org/abs/2510.16549)|null|
 |**2025-10-17**|**Data-Centric AI for Tropical Agricultural Mapping: Challenges, Strategies and Scalable Solutions**|Mateus Pinto da Silva et.al.|[2510.16207](http://arxiv.org/abs/2510.16207)|null|
-|**2025-10-17**|**Bridging Symmetry and Robustness: On the Role of Equivariance in Enhancing Adversarial Robustness**|Longwei Wang et.al.|[2510.16171](http://arxiv.org/abs/2510.16171)|null|
+|**2025-10-22**|**Bridging Symmetry and Robustness: On the Role of Equivariance in Enhancing Adversarial Robustness**|Longwei Wang et.al.|[2510.16171](http://arxiv.org/abs/2510.16171)|null|
 |**2025-10-17**|**Learning density ratios in causal inference using Bregman-Riesz regression**|Oliver J. Hines et.al.|[2510.16127](http://arxiv.org/abs/2510.16127)|null|
 |**2025-10-17**|**Data-Driven Analysis of Intersectional Bias in Image Classification: A Framework with Bias-Weighted Augmentation**|Farjana Yesmin et.al.|[2510.16072](http://arxiv.org/abs/2510.16072)|null|
 |**2025-10-13**|**Bolster Hallucination Detection via Prompt-Guided Data Augmentation**|Wenyun Li et.al.|[2510.15977](http://arxiv.org/abs/2510.15977)|null|
