@@ -1508,7 +1508,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|null|
-|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](http://arxiv.org/abs/2510.20217)|null|
+|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](http://arxiv.org/abs/2510.20217)|**[link](https://github.com/yx-chen-ust/EditInfinity)**|
 |**2025-10-22**|**Learning and Simulating Building Evacuation Patterns for Enhanced Safety Design Using Generative Models**|Jin Han et.al.|[2510.19623](http://arxiv.org/abs/2510.19623)|null|
 |**2025-10-22**|**The Intricate Dance of Prompt Complexity, Quality, Diversity, and Consistency in T2I Models**|Xiaofeng Zhang et.al.|[2510.19557](http://arxiv.org/abs/2510.19557)|null|
 |**2025-10-22**|**Predicting before Reconstruction: A generative prior framework for MRI acceleration**|Juhyung Park et.al.|[2510.19472](http://arxiv.org/abs/2510.19472)|null|
