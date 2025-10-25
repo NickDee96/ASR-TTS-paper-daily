@@ -1876,11 +1876,11 @@
     "2510.18053": "|**2025-10-20**|**Adaptive Divergence Regularized Policy Optimization for Fine-tuning Generative Models**|Jiajun Fan et.al.|[2510.18053](http://arxiv.org/abs/2510.18053)|null|\n",
     "2510.17928": "|**2025-10-20**|**EvoSyn: Generalizable Evolutionary Data Synthesis for Verifiable Learning**|He Du et.al.|[2510.17928](http://arxiv.org/abs/2510.17928)|null|\n",
     "2510.19623": "|**2025-10-22**|**Learning and Simulating Building Evacuation Patterns for Enhanced Safety Design Using Generative Models**|Jin Han et.al.|[2510.19623](http://arxiv.org/abs/2510.19623)|null|\n",
-    "2510.19557": "|**2025-10-22**|**The Intricate Dance of Prompt Complexity, Quality, Diversity, and Consistency in T2I Models**|Xiaofeng Zhang et.al.|[2510.19557](http://arxiv.org/abs/2510.19557)|**[link](https://github.com/facebookresearch/synthetic_data_utility_prompt_complexity)**|\n",
+    "2510.19557": "|**2025-10-22**|**The Intricate Dance of Prompt Complexity, Quality, Diversity, and Consistency in T2I Models**|Xiaofeng Zhang et.al.|[2510.19557](http://arxiv.org/abs/2510.19557)|null|\n",
     "2510.19472": "|**2025-10-22**|**Predicting before Reconstruction: A generative prior framework for MRI acceleration**|Juhyung Park et.al.|[2510.19472](http://arxiv.org/abs/2510.19472)|null|\n",
     "2510.19307": "|**2025-10-22**|**Unified Reinforcement and Imitation Learning for Vision-Language Models**|Byung-Kwan Lee et.al.|[2510.19307](http://arxiv.org/abs/2510.19307)|null|\n",
     "2510.19304": "|**2025-10-22**|**Loopholing Discrete Diffusion: Deterministic Bypass of the Sampling Wall**|Mingyu Jo et.al.|[2510.19304](http://arxiv.org/abs/2510.19304)|null|\n",
-    "2510.19195": "|**2025-10-22**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|**[link](https://github.com/wm-research/Dream4Drive)**|\n",
+    "2510.19195": "|**2025-10-22**|**Rethinking Driving World Model as Synthetic Data Generator for Perception Tasks**|Kai Zeng et.al.|[2510.19195](http://arxiv.org/abs/2510.19195)|null|\n",
     "2510.20776": "|**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|null|\n",
     "2510.20217": "|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](http://arxiv.org/abs/2510.20217)|null|\n"
   }
