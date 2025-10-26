@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.25**
+📅 **Updated on 2025.10.26**
 
 ---
 
@@ -1306,7 +1306,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-17**|**Learning density ratios in causal inference using Bregman-Riesz regression**|Oliver J. Hines et.al.|[2510.16127](http://arxiv.org/abs/2510.16127)|null|
 |**2025-10-17**|**Data-Driven Analysis of Intersectional Bias in Image Classification: A Framework with Bias-Weighted Augmentation**|Farjana Yesmin et.al.|[2510.16072](http://arxiv.org/abs/2510.16072)|null|
 |**2025-10-13**|**Bolster Hallucination Detection via Prompt-Guided Data Augmentation**|Wenyun Li et.al.|[2510.15977](http://arxiv.org/abs/2510.15977)|null|
-|**2025-10-17**|**ReCon: Region-Controllable Data Augmentation with Rectification and Alignment for Object Detection**|Haowei Zhu et.al.|[2510.15783](http://arxiv.org/abs/2510.15783)|null|
+|**2025-10-17**|**ReCon: Region-Controllable Data Augmentation with Rectification and Alignment for Object Detection**|Haowei Zhu et.al.|[2510.15783](http://arxiv.org/abs/2510.15783)|**[link](https://github.com/haoweiz23/ReCon)**|
 |**2025-10-17**|**SAMix: Calibrated and Accurate Continual Learning via Sphere-Adaptive Mixup and Neural Collapse**|Trung-Anh Dang et.al.|[2510.15751](http://arxiv.org/abs/2510.15751)|null|
 |**2025-10-17**|**Improving Micro-Expression Recognition with Phase-Aware Temporal Augmentation**|Vu Tram Anh Khuong et.al.|[2510.15466](http://arxiv.org/abs/2510.15466)|null|
 |**2025-10-17**|**Robust Optimization in Causal Models and G-Causal Normalizing Flows**|Gabriele Visentin et.al.|[2510.15458](http://arxiv.org/abs/2510.15458)|null|
@@ -1583,7 +1583,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2025-10-23**|**CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**|Binbin Huang et.al.|[2510.20776](http://arxiv.org/abs/2510.20776)|null|
-|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](http://arxiv.org/abs/2510.20217)|**[link](https://github.com/yx-chen-ust/EditInfinity)**|
+|**2025-10-23**|**EditInfinity: Image Editing with Binary-Quantized Generative Models**|Jiahuan Wang et.al.|[2510.20217](http://arxiv.org/abs/2510.20217)|null|
 |**2025-10-22**|**Learning and Simulating Building Evacuation Patterns for Enhanced Safety Design Using Generative Models**|Jin Han et.al.|[2510.19623](http://arxiv.org/abs/2510.19623)|null|
 |**2025-10-22**|**The Intricate Dance of Prompt Complexity, Quality, Diversity, and Consistency in T2I Models**|Xiaofeng Zhang et.al.|[2510.19557](http://arxiv.org/abs/2510.19557)|null|
 |**2025-10-22**|**Predicting before Reconstruction: A generative prior framework for MRI acceleration**|Juhyung Park et.al.|[2510.19472](http://arxiv.org/abs/2510.19472)|null|
