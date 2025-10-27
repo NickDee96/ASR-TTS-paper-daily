@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.26**
+📅 **Updated on 2025.10.27**
 
 ---
 
@@ -278,7 +278,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-15**|**Closing the Gap Between Text and Speech Understanding in LLMs**|Santiago Cuervo et.al.|[2510.13632](http://arxiv.org/abs/2510.13632)|null|
 |**2025-10-15**|**Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models**|Yizhou Peng et.al.|[2510.13293](http://arxiv.org/abs/2510.13293)|null|
 |**2025-10-15**|**StressTransfer: Stress-Aware Speech-to-Speech Translation with Emphasis Preservation**|Xi Chen et.al.|[2510.13194](http://arxiv.org/abs/2510.13194)|null|
-|**2025-10-14**|**Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs**|Xinlu He et.al.|[2510.12995](http://arxiv.org/abs/2510.12995)|null|
+|**2025-10-23**|**Continuous-Token Diffusion for Speaker-Referenced TTS in Multimodal LLMs**|Xinlu He et.al.|[2510.12995](http://arxiv.org/abs/2510.12995)|null|
 |**2025-10-15**|**DiSTAR: Diffusion over a Scalable Token Autoregressive Representation for Speech Generation**|Yakun Song et.al.|[2510.12210](http://arxiv.org/abs/2510.12210)|null|
 |**2025-10-13**|**BridgeCode: A Dual Speech Representation Paradigm for Autoregressive Zero-Shot Text-to-Speech Synthesis**|Jingyuan Xing et.al.|[2510.11646](http://arxiv.org/abs/2510.11646)|null|
 |**2025-10-13**|**Perturbation Self-Supervised Representations for Cross-Lingual Emotion TTS: Stage-Wise Modeling of Emotion and Speaker**|Cheng Gong et.al.|[2510.11124](http://arxiv.org/abs/2510.11124)|null|
@@ -678,7 +678,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-22**|**BLiSS 1.0: Evaluating Bilingual Learner Competence in Second Language Small Language Models**|Yuan Gao et.al.|[2510.19419](http://arxiv.org/abs/2510.19419)|null|
 |**2025-10-22**|**CPSVD: Enhancing Large Language Model Compression via Column-Preserving Singular Value Decomposition**|Lin Xv et.al.|[2510.19385](http://arxiv.org/abs/2510.19385)|null|
 |**2025-10-22**|**Multi-code rate Task-Oriented Communication for Multi-Edge Cooperative Inference**|Dongwon Kim et.al.|[2510.19360](http://arxiv.org/abs/2510.19360)|null|
-|**2025-10-22**|**Knowledge Distillation of Uncertainty using Deep Latent Factor Model**|Sehyun Park et.al.|[2510.19290](http://arxiv.org/abs/2510.19290)|null|
+|**2025-10-24**|**Knowledge Distillation of Uncertainty using Deep Latent Factor Model**|Sehyun Park et.al.|[2510.19290](http://arxiv.org/abs/2510.19290)|null|
 |**2025-10-22**|**MobiAct: Efficient MAV Action Recognition Using MobileNetV4 with Contrastive Learning and Knowledge Distillation**|Zhang Nengbo et.al.|[2510.19273](http://arxiv.org/abs/2510.19273)|null|
 |**2025-10-23**|**Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge**|Penghao Wang et.al.|[2510.19266](http://arxiv.org/abs/2510.19266)|null|
 |**2025-10-22**|**Res-DPU: Resource-shared Digital Processing-in-memory Unit for Edge-AI Workloads**|Mukul Lokhande et.al.|[2510.19260](http://arxiv.org/abs/2510.19260)|null|
