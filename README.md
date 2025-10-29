@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.28**
+📅 **Updated on 2025.10.29**
 
 ---
 
@@ -58,7 +58,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-26**|**A Sociophonetic Analysis of Racial Bias in Commercial ASR Systems Using the Pacific Northwest English Corpus**|Michael Scott et.al.|[2510.22495](http://arxiv.org/abs/2510.22495)|null|
 |**2025-10-26**|**The Limits of Data Scaling: Sub-token Utilization and Acoustic Saturation in Multilingual ASR**|Siyu Liang et.al.|[2510.22492](http://arxiv.org/abs/2510.22492)|null|
 |**2025-10-26**|**The Tonogenesis Continuum in Tibetan: A Computational Investigation**|Siyu Liang et.al.|[2510.22485](http://arxiv.org/abs/2510.22485)|null|
-|**2025-10-25**|**Bridging the Perceptual - Statistical Gap in Dysarthria Assessment: Why Machine Learning Still Falls Short**|Krishna Gurugubelli et.al.|[2510.22237](http://arxiv.org/abs/2510.22237)|null|
+|**2025-10-25**|**Bridging the Perceptual-Statistical Gap in Dysarthria Assessment: Why Machine Learning Still Falls Short**|Krishna Gurugubelli et.al.|[2510.22237](http://arxiv.org/abs/2510.22237)|null|
 |**2025-10-25**|**M-CIF: Multi-Scale Alignment For CIF-Based Non-Autoregressive ASR**|Ruixiang Mao et.al.|[2510.22172](http://arxiv.org/abs/2510.22172)|null|
 |**2025-10-27**|**ReFESS-QI: Reference-Free Evaluation For Speech Separation With Joint Quality And Intelligibility Scoring**|Ari Frummer et.al.|[2510.21014](http://arxiv.org/abs/2510.21014)|null|
 |**2025-10-21**|**Can large audio language models understand child stuttering speech? speech summarization, and source separation**|Chibuzor Okocha et.al.|[2510.20850](http://arxiv.org/abs/2510.20850)|null|
@@ -511,7 +511,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-11**|**End-to-end Automatic Speech Recognition and Speech Translation: Integration of Speech Foundational Models and LLMs**|Nam Luu et.al.|[2510.10329](http://arxiv.org/abs/2510.10329)|null|
 |**2025-10-11**|**Toward Machine Translation Literacy: How Lay Users Perceive and Rely on Imperfect Translations**|Yimin Xiao et.al.|[2510.09994](http://arxiv.org/abs/2510.09994)|null|
 |**2025-10-10**|**Evaluating Robustness of Large Language Models Against Multilingual Typographical Errors**|Yihong Liu et.al.|[2510.09536](http://arxiv.org/abs/2510.09536)|null|
-|**2025-10-13**|**DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation**|Enze Zhang et.al.|[2510.09116](http://arxiv.org/abs/2510.09116)|null|
+|**2025-10-13**|**DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation**|Enze Zhang et.al.|[2510.09116](http://arxiv.org/abs/2510.09116)|**[link](https://github.com/WHUNextGen/DITING)**|
 |**2025-10-10**|**Quality Estimation Reranking for Document-Level Translation**|Krzysztof Mrozinski et.al.|[2510.08870](http://arxiv.org/abs/2510.08870)|null|
 |**2025-10-09**|**Ready to Translate, Not to Represent? Bias and Performance Gaps in Multilingual LLMs Across Language Families and Domains**|Md. Faiyaz Abdullah Sayeedi et.al.|[2510.07877](http://arxiv.org/abs/2510.07877)|null|
 |**2025-10-08**|**LuxInstruct: A Cross-Lingual Instruction Tuning Dataset For Luxembourgish**|Fred Philippy et.al.|[2510.07074](http://arxiv.org/abs/2510.07074)|null|
@@ -675,7 +675,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 621 papers*
+*📊 633 papers*
 
 <div align="center">
 
@@ -693,9 +693,21 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-26**|**Iterative Layer Pruning for Efficient Translation Inference**|Yasmin Moslem et.al.|[2510.22763](http://arxiv.org/abs/2510.22763)|null|
 |**2025-10-26**|**TVMC: Time-Varying Mesh Compression via Multi-Stage Anchor Mesh Generation**|He Huang et.al.|[2510.22646](http://arxiv.org/abs/2510.22646)|null|
 |**2025-10-26**|**Bag-of-Word-Groups (BoWG): A Robust and Efficient Loop Closure Detection Method Under Perceptual Aliasing**|Xiang Fei et.al.|[2510.22529](http://arxiv.org/abs/2510.22529)|null|
+|**2025-10-26**|**Frustratingly Easy Task-aware Pruning for Large Language Models**|Yuanhe Tian et.al.|[2510.22489](http://arxiv.org/abs/2510.22489)|null|
+|**2025-10-26**|**Single-Teacher View Augmentation: Boosting Knowledge Distillation via Angular Diversity**|Seonghoon Yu et.al.|[2510.22480](http://arxiv.org/abs/2510.22480)|null|
+|**2025-10-25**|**GigaEmbeddings: Efficient Russian Language Embedding Model**|Egor Kolodin et.al.|[2510.22369](http://arxiv.org/abs/2510.22369)|null|
+|**2025-10-25**|**Real-Time Semantic Segmentation on FPGA for Autonomous Vehicles Using LMIINet with the CGRA4ML Framework**|Amir Mohammad Khadem Hosseini et.al.|[2510.22243](http://arxiv.org/abs/2510.22243)|null|
+|**2025-10-25**|**Synthetic-to-Real Transfer Learning for Chromatin-Sensitive PWS Microscopy**|Jahidul Arafat et.al.|[2510.22239](http://arxiv.org/abs/2510.22239)|null|
+|**2025-10-25**|**When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs**|Keyu Wang et.al.|[2510.22228](http://arxiv.org/abs/2510.22228)|null|
+|**2025-10-25**|**Scaling Up Efficient Small Language Models Serving and Deployment for Semantic Job Search**|Kayhan Behdin et.al.|[2510.22101](http://arxiv.org/abs/2510.22101)|null|
+|**2025-10-24**|**Pruning and Quantization Impact on Graph Neural Networks**|Khatoon Khedri et.al.|[2510.22058](http://arxiv.org/abs/2510.22058)|null|
+|**2025-10-24**|**Performance Trade-offs of Optimizing Small Language Models for E-Commerce**|Josip Tomo Licardo et.al.|[2510.21970](http://arxiv.org/abs/2510.21970)|null|
+|**2025-10-23**|**TernaryCLIP: Efficiently Compressing Vision-Language Models with Ternary Weights and Distilled Knowledge**|Shu-Hao Zhang et.al.|[2510.21879](http://arxiv.org/abs/2510.21879)|null|
+|**2025-10-22**|**KARIPAP: Quantum-Inspired Tensor Network Compression of Large Language Models Using Infinite Projected Entangled Pair States and Tensor Renormalization Group**|Azree Nazri et.al.|[2510.21844](http://arxiv.org/abs/2510.21844)|null|
+|**2025-10-22**|**Restoring Pruned Large Language Models via Lost Component Compensation**|Zijian Feng et.al.|[2510.21834](http://arxiv.org/abs/2510.21834)|null|
 |**2025-10-24**|**A Dynamic Knowledge Distillation Method Based on the Gompertz Curve**|Han Yang et.al.|[2510.21649](http://arxiv.org/abs/2510.21649)|null|
 |**2025-10-24**|**Few-Shot Knowledge Distillation of LLMs With Counterfactual Explanations**|Faisal Hamman et.al.|[2510.21631](http://arxiv.org/abs/2510.21631)|null|
-|**2025-10-24**|**Does Model Size Matter? A Comparison of Small and Large Language Models for Requirements Classification**|Mohammad Amin Zadenoori et.al.|[2510.21443](http://arxiv.org/abs/2510.21443)|**[link](https://github.com/aminzadenoori/A-Comparison-of-Small-and-Large-Language-Models-for-Requirements-Classification)**|
+|**2025-10-24**|**Does Model Size Matter? A Comparison of Small and Large Language Models for Requirements Classification**|Mohammad Amin Zadenoori et.al.|[2510.21443](http://arxiv.org/abs/2510.21443)|null|
 |**2025-10-24**|**A Convergence Analysis of Adaptive Optimizers under Floating-point Quantization**|Xuan Tang et.al.|[2510.21314](http://arxiv.org/abs/2510.21314)|null|
 |**2025-10-24**|**Correlation Dimension of Auto-Regressive Large Language Models**|Xin Du et.al.|[2510.21258](http://arxiv.org/abs/2510.21258)|null|
 |**2025-10-24**|**DictPFL: Efficient and Private Federated Learning on Encrypted Gradients**|Jiaqi Xue et.al.|[2510.21086](http://arxiv.org/abs/2510.21086)|null|
@@ -721,7 +733,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-22**|**ELUTQ: Efficient LUT-Aware Quantization for Deploying Large Language Models on Edge Devices**|Xin Nie et.al.|[2510.19482](http://arxiv.org/abs/2510.19482)|null|
 |**2025-10-22**|**BLiSS 1.0: Evaluating Bilingual Learner Competence in Second Language Small Language Models**|Yuan Gao et.al.|[2510.19419](http://arxiv.org/abs/2510.19419)|null|
 |**2025-10-22**|**CPSVD: Enhancing Large Language Model Compression via Column-Preserving Singular Value Decomposition**|Lin Xv et.al.|[2510.19385](http://arxiv.org/abs/2510.19385)|null|
-|**2025-10-22**|**Multi-code rate Task-Oriented Communication for Multi-Edge Cooperative Inference**|Dongwon Kim et.al.|[2510.19360](http://arxiv.org/abs/2510.19360)|null|
+|**2025-10-27**|**Multi-Rate Task-Oriented Communication for Multi-Edge Cooperative Inference**|Dongwon Kim et.al.|[2510.19360](http://arxiv.org/abs/2510.19360)|null|
 |**2025-10-24**|**Knowledge Distillation of Uncertainty using Deep Latent Factor Model**|Sehyun Park et.al.|[2510.19290](http://arxiv.org/abs/2510.19290)|null|
 |**2025-10-22**|**MobiAct: Efficient MAV Action Recognition Using MobileNetV4 with Contrastive Learning and Knowledge Distillation**|Zhang Nengbo et.al.|[2510.19273](http://arxiv.org/abs/2510.19273)|null|
 |**2025-10-23**|**Data Efficient Any Transformer-to-Mamba Distillation via Attention Bridge**|Penghao Wang et.al.|[2510.19266](http://arxiv.org/abs/2510.19266)|null|
@@ -1384,7 +1396,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-14**|**A Function Centric Perspective On Flat and Sharp Minima**|Israel Mason-Williams et.al.|[2510.12451](http://arxiv.org/abs/2510.12451)|null|
 |**2025-10-14**|**APGNet: Adaptive Prior-Guided for Underwater Camouflaged Object Detection**|Xinxin Huang et.al.|[2510.12056](http://arxiv.org/abs/2510.12056)|null|
 |**2025-10-13**|**MammoDINO: Anatomically Aware Self-Supervision for Mammographic Images**|Sicheng Zhou et.al.|[2510.11883](http://arxiv.org/abs/2510.11883)|null|
-|**2025-10-13**|**MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis**|Hongyu Zhu et.al.|[2510.11579](http://arxiv.org/abs/2510.11579)|**[link](https://github.com/HongyuZhu-s/MS-Mix)**|
+|**2025-10-13**|**MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis**|Hongyu Zhu et.al.|[2510.11579](http://arxiv.org/abs/2510.11579)|null|
 |**2025-10-13**|**DiffStyleTS: Diffusion Model for Style Transfer in Time Series**|Mayank Nagda et.al.|[2510.11335](http://arxiv.org/abs/2510.11335)|null|
 |**2025-10-13**|**LightPneumoNet: Lightweight Pneumonia Classifier**|Neilansh Chauhan et.al.|[2510.11232](http://arxiv.org/abs/2510.11232)|null|
 |**2025-10-13**|**Mixup Helps Understanding Multimodal Video Better**|Xiaoyu Ma et.al.|[2510.10986](http://arxiv.org/abs/2510.10986)|null|
