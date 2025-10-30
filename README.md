@@ -44,20 +44,23 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ASR
 
-*📊 216 papers*
+*📊 219 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-10-29**|**Explainable Disentanglement on Discrete Speech Representations for Noise-Robust ASR**|Shreyas Gopal et.al.|[2510.25150](http://arxiv.org/abs/2510.25150)|null|
+|**2025-10-28**|**POWSM: A Phonetic Open Whisper-Style Speech Foundation Model**|Chin-Jou Li et.al.|[2510.24992](http://arxiv.org/abs/2510.24992)|null|
+|**2025-10-28**|**Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation**|Inclusion AI et.al.|[2510.24821](http://arxiv.org/abs/2510.24821)|null|
 |**2025-10-28**|**BEST-RQ-Based Self-Supervised Learning for Whisper Domain Adaptation**|Raphaël Bagat et.al.|[2510.24570](http://arxiv.org/abs/2510.24570)|null|
 |**2025-10-28**|**Audio Signal Processing Using Time Domain Mel-Frequency Wavelet Coefficient**|Rinku Sebastian et.al.|[2510.24519](http://arxiv.org/abs/2510.24519)|null|
 |**2025-10-28**|**V-SAT: Video Subtitle Annotation Tool**|Arpita Kundu et.al.|[2510.24180](http://arxiv.org/abs/2510.24180)|null|
 |**2025-10-28**|**RegSpeech12: A Regional Corpus of Bengali Spontaneous Speech Across Dialects**|Md. Rezuwan Hassan et.al.|[2510.24096](http://arxiv.org/abs/2510.24096)|null|
 |**2025-10-27**|**A Neural Model for Contextual Biasing Score Learning and Filtering**|Wanting Huang et.al.|[2510.23849](http://arxiv.org/abs/2510.23849)|null|
-|**2025-10-27**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang et.al.|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
+|**2025-10-29**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang et.al.|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**Arabic Little STT: Arabic Children Speech Recognition Dataset**|Mouhand Alkadri et.al.|[2510.23319](http://arxiv.org/abs/2510.23319)|null|
-|**2025-10-27**|**Are ASR foundation models generalized enough to capture features of regional dialects for low-resource languages?**|Tawsif Tashwar Dipto et.al.|[2510.23252](http://arxiv.org/abs/2510.23252)|null|
+|**2025-10-29**|**Are ASR foundation models generalized enough to capture features of regional dialects for low-resource languages?**|Tawsif Tashwar Dipto et.al.|[2510.23252](http://arxiv.org/abs/2510.23252)|null|
 |**2025-10-27**|**Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
 |**2025-10-26**|**LRW-Persian: Lip-reading in the Wild Dataset for Persian Language**|Zahra Taghizadeh et.al.|[2510.22716](http://arxiv.org/abs/2510.22716)|null|
 |**2025-10-26**|**Mitigating Attention Sinks and Massive Activations in Audio-Visual Speech Recognition with LLMS**|Anand et.al.|[2510.22603](http://arxiv.org/abs/2510.22603)|null|
@@ -279,12 +282,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## TTS
 
-*📊 180 papers*
+*📊 183 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-10-29**|**Evaluating the Role of Verifiers in Test-Time Scaling for Legal Reasoning Tasks**|Davide Romano et.al.|[2510.25623](http://arxiv.org/abs/2510.25623)|null|
+|**2025-10-27**|**SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution**|Dharma Teja Donepudi et.al.|[2510.25178](http://arxiv.org/abs/2510.25178)|null|
+|**2025-10-28**|**Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought**|Jiachen Zhao et.al.|[2510.24941](http://arxiv.org/abs/2510.24941)|null|
 |**2025-10-28**|**Bayesian Speech synthesizers Can Learn from Multiple Teachers**|Ziyang Zhang et.al.|[2510.24372](http://arxiv.org/abs/2510.24372)|null|
 |**2025-10-28**|**SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity**|Hanke Xie et.al.|[2510.23541](http://arxiv.org/abs/2510.23541)|null|
 |**2025-10-28**|**BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents**|Litu Ou et.al.|[2510.23458](http://arxiv.org/abs/2510.23458)|null|
@@ -478,12 +484,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Machine Translation
 
-*📊 187 papers*
+*📊 189 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-10-29**|**Hybrid Quantum-Classical Recurrent Neural Networks**|Wenduan Xu et.al.|[2510.25557](http://arxiv.org/abs/2510.25557)|null|
+|**2025-10-29**|**Pretraining Strategies using Monolingual and Parallel Data for Low-Resource Machine Translation**|Idriss Nguepi Nguefack et.al.|[2510.25116](http://arxiv.org/abs/2510.25116)|null|
 |**2025-10-28**|**MQM Re-Annotation: A Technique for Collaborative Evaluation of Machine Translation**|Parker Riley et.al.|[2510.24664](http://arxiv.org/abs/2510.24664)|null|
 |**2025-10-28**|**Challenging Multilingual LLMs: A New Taxonomy and Benchmark for Unraveling Hallucination in Translation**|Xinwei Wu et.al.|[2510.24073](http://arxiv.org/abs/2510.24073)|null|
 |**2025-10-27**|**A U-Net and Transformer Pipeline for Multilingual Image Translation**|Siddharth Sahay et.al.|[2510.23554](http://arxiv.org/abs/2510.23554)|null|
@@ -684,17 +692,29 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 648 papers*
+*📊 660 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-10-29**|**INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats**|Mengzhao Chen et.al.|[2510.25602](http://arxiv.org/abs/2510.25602)|null|
+|**2025-10-29**|**PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal Sparse Attention for Vision-Language Large Models**|Zhonghua Jiang et.al.|[2510.25600](http://arxiv.org/abs/2510.25600)|null|
+|**2025-10-29**|**Feedback Alignment Meets Low-Rank Manifolds: A Structured Recipe for Local Learning**|Arani Roy et.al.|[2510.25594](http://arxiv.org/abs/2510.25594)|null|
+|**2025-10-29**|**Lightweight Federated Learning in Mobile Edge Computing with Statistical and Device Heterogeneity Awareness**|Jinghong Tan et.al.|[2510.25342](http://arxiv.org/abs/2510.25342)|null|
+|**2025-10-29**|**Adapting Small Language Models to Low-Resource Domains: A Case Study in Hindi Tourism QA**|Sandipan Majhi et.al.|[2510.25273](http://arxiv.org/abs/2510.25273)|null|
+|**2025-10-29**|**Energy-Efficient Autonomous Driving with Adaptive Perception and Robust Decision**|Yuyang Xia et.al.|[2510.25205](http://arxiv.org/abs/2510.25205)|null|
+|**2025-10-29**|**Machine Learning and CPU (Central Processing Unit) Scheduling Co-Optimization over a Network of Computing Centers**|Mohammadreza Doostmohammadian et.al.|[2510.25176](http://arxiv.org/abs/2510.25176)|null|
+|**2025-10-28**|**Resource-Efficient and Robust Inference of Deep and Bayesian Neural Networks on Embedded and Analog Computing Platforms**|Bernhard Klein et.al.|[2510.24951](http://arxiv.org/abs/2510.24951)|null|
+|**2025-10-28**|**SemCoT: Accelerating Chain-of-Thought Reasoning through Semantically-Aligned Implicit Tokens**|Yinhan He et.al.|[2510.24940](http://arxiv.org/abs/2510.24940)|null|
+|**2025-10-28**|**Send Less, Save More: Energy-Efficiency Benchmark of Embedded CNN Inference vs. Data Transmission in IoT**|Benjamin Karic et.al.|[2510.24829](http://arxiv.org/abs/2510.24829)|null|
+|**2025-10-27**|**A Survey on Efficient Vision-Language-Action Models**|Zhaoshu Yu et.al.|[2510.24795](http://arxiv.org/abs/2510.24795)|null|
+|**2025-10-27**|**ESCA: Enabling Seamless Codec Avatar Execution through Algorithm and Hardware Co-Optimization for Virtual Reality**|Mingzhi Zhu et.al.|[2510.24787](http://arxiv.org/abs/2510.24787)|null|
 |**2025-10-28**|**All in one timestep: Enhancing Sparsity and Energy efficiency in Multi-level Spiking Neural Networks**|Andrea Castagnetti et.al.|[2510.24637](http://arxiv.org/abs/2510.24637)|null|
 |**2025-10-28**|**Fast and accurate neural reflectance transformation imaging through knowledge distillation**|Tinsae G. Dulecha et.al.|[2510.24486](http://arxiv.org/abs/2510.24486)|null|
 |**2025-10-28**|**MiniOneRec: An Open-Source Framework for Scaling Generative Recommendation**|Xiaoyu Kong et.al.|[2510.24431](http://arxiv.org/abs/2510.24431)|null|
 |**2025-10-28**|**Comprehensive and Efficient Distillation for Lightweight Sentiment Analysis Models**|Guangyu Xie et.al.|[2510.24425](http://arxiv.org/abs/2510.24425)|null|
-|**2025-10-28**|**Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing**|Shyam Jesalpura et.al.|[2510.24307](http://arxiv.org/abs/2510.24307)|null|
+|**2025-10-29**|**Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing**|Shyam Jesalpura et.al.|[2510.24307](http://arxiv.org/abs/2510.24307)|null|
 |**2025-10-28**|**SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs**|Jinhong Deng et.al.|[2510.24214](http://arxiv.org/abs/2510.24214)|null|
 |**2025-10-28**|**Spectral-Geometric Deformations of Function Algebras on Manifolds**|Amandip Sangha et.al.|[2510.24184](http://arxiv.org/abs/2510.24184)|null|
 |**2025-10-28**|**UHKD: A Unified Framework for Heterogeneous Knowledge Distillation via Frequency-Domain Representations**|Fengming Yu et.al.|[2510.24116](http://arxiv.org/abs/2510.24116)|null|
@@ -1351,12 +1371,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 304 papers*
+*📊 306 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-10-29**|**An Analysis of Causal Effect Estimation using Outcome Invariant Data Augmentation**|Uzair Akbar et.al.|[2510.25128](http://arxiv.org/abs/2510.25128)|null|
+|**2025-10-15**|**Comparative Analysis of Data Augmentation for Clinical ECG Classification with STAR**|Nader Nemati et.al.|[2510.24740](http://arxiv.org/abs/2510.24740)|null|
 |**2025-10-28**|**SPARTA: Evaluating Reasoning Segmentation Robustness through Black-Box Adversarial Paraphrasing in Text Autoencoder Latent Space**|Viktoriia Zinkovich et.al.|[2510.24446](http://arxiv.org/abs/2510.24446)|null|
 |**2025-10-28**|**UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation**|Jiyu Guo et.al.|[2510.24262](http://arxiv.org/abs/2510.24262)|null|
 |**2025-10-27**|**Learning Linearity in Audio Consistency Autoencoders via Implicit Regularization**|Bernardo Torres et.al.|[2510.23530](http://arxiv.org/abs/2510.23530)|null|
@@ -1674,12 +1696,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 467 papers*
+*📊 470 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-10-29**|**E-Scores for (In)Correctness Assessment of Generative Model Outputs**|Guneet S. Dhillon et.al.|[2510.25770](http://arxiv.org/abs/2510.25770)|null|
+|**2025-10-29**|**Distributional Evaluation of Generative Models via Relative Density Ratio**|Yuliang Xu et.al.|[2510.25507](http://arxiv.org/abs/2510.25507)|null|
+|**2025-10-29**|**TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting**|Vladyslav Moroshan et.al.|[2510.25502](http://arxiv.org/abs/2510.25502)|null|
 |**2025-10-28**|**AgentFrontier: Expanding the Capability Frontier of LLM Agents with ZPD-Guided Data Synthesis**|Xuanzhong Chen et.al.|[2510.24695](http://arxiv.org/abs/2510.24695)|null|
 |**2025-10-28**|**OrchDAG: Complex Tool Orchestration in Multi-Turn Interactions with Plan DAGs**|Yifu Lu et.al.|[2510.24663](http://arxiv.org/abs/2510.24663)|null|
 |**2025-10-28**|**A Comprehensive Evaluation Framework for Synthetic Trip Data Generation in Public Transport**|Yuanyuan Wu et.al.|[2510.24375](http://arxiv.org/abs/2510.24375)|null|
