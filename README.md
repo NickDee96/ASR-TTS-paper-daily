@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.29**
+📅 **Updated on 2025.10.30**
 
 ---
 
@@ -329,7 +329,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-07**|**EMORL-TTS: Reinforcement Learning for Fine-Grained Emotion Control in LLM-based TTS**|Haoxun Li et.al.|[2510.05758](http://arxiv.org/abs/2510.05758)|null|
 |**2025-10-07**|**Sparse deepfake detection promotes better disentanglement**|Antoine Teissier et.al.|[2510.05696](http://arxiv.org/abs/2510.05696)|null|
 |**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
-|**2025-10-13**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|Yolo Yunlong Tang et.al.|[2510.05034](http://arxiv.org/abs/2510.05034)|null|
+|**2025-10-28**|**Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large Multimodal Models**|Yolo Yunlong Tang et.al.|[2510.05034](http://arxiv.org/abs/2510.05034)|null|
 |**2025-10-06**|**Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba**|Baher Mohammad et.al.|[2510.04738](http://arxiv.org/abs/2510.04738)|null|
 |**2025-10-07**|**Synthetic Audio Forensics Evaluation (SAFE) Challenge**|Kirill Trapeznikov et.al.|[2510.03387](http://arxiv.org/abs/2510.03387)|null|
 |**2025-10-03**|**Evaluation of preprocessing pipelines in the creation of in-the-wild TTS datasets**|Matías Di Bernardo et.al.|[2510.03111](http://arxiv.org/abs/2510.03111)|null|
@@ -488,7 +488,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-28**|**Challenging Multilingual LLMs: A New Taxonomy and Benchmark for Unraveling Hallucination in Translation**|Xinwei Wu et.al.|[2510.24073](http://arxiv.org/abs/2510.24073)|null|
 |**2025-10-27**|**A U-Net and Transformer Pipeline for Multilingual Image Translation**|Siddharth Sahay et.al.|[2510.23554](http://arxiv.org/abs/2510.23554)|null|
 |**2025-10-27**|**Cross-Lingual Sponsored Search via Dual-Encoder and Graph Neural Networks for Context-Aware Query Translation in Advertising Platforms**|Ziyang Gao et.al.|[2510.22957](http://arxiv.org/abs/2510.22957)|null|
-|**2025-10-26**|**Iterative Layer Pruning for Efficient Translation Inference**|Yasmin Moslem et.al.|[2510.22763](http://arxiv.org/abs/2510.22763)|**[link](https://github.com/ymoslem/Model-Compression)**|
+|**2025-10-26**|**Iterative Layer Pruning for Efficient Translation Inference**|Yasmin Moslem et.al.|[2510.22763](http://arxiv.org/abs/2510.22763)|null|
 |**2025-10-28**|**TraceTrans: Translation and Spatial Tracing for Surgical Prediction**|Xiyu Luo et.al.|[2510.22379](http://arxiv.org/abs/2510.22379)|null|
 |**2025-10-24**|**Penalizing Length: Uncovering Systematic Bias in Quality Estimation Metrics**|Yilin Zhang et.al.|[2510.22028](http://arxiv.org/abs/2510.22028)|null|
 |**2025-10-24**|**Estonian Native Large Language Model Benchmark**|Helena Grete Lillepalu et.al.|[2510.21193](http://arxiv.org/abs/2510.21193)|null|
@@ -684,7 +684,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 639 papers*
+*📊 648 papers*
 
 <div align="center">
 
@@ -696,13 +696,22 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-28**|**Comprehensive and Efficient Distillation for Lightweight Sentiment Analysis Models**|Guangyu Xie et.al.|[2510.24425](http://arxiv.org/abs/2510.24425)|null|
 |**2025-10-28**|**Odyssey: An End-to-End System for Pareto-Optimal Serverless Query Processing**|Shyam Jesalpura et.al.|[2510.24307](http://arxiv.org/abs/2510.24307)|null|
 |**2025-10-28**|**SCOPE: Saliency-Coverage Oriented Token Pruning for Efficient Multimodel LLMs**|Jinhong Deng et.al.|[2510.24214](http://arxiv.org/abs/2510.24214)|null|
+|**2025-10-28**|**Spectral-Geometric Deformations of Function Algebras on Manifolds**|Amandip Sangha et.al.|[2510.24184](http://arxiv.org/abs/2510.24184)|null|
+|**2025-10-28**|**UHKD: A Unified Framework for Heterogeneous Knowledge Distillation via Frequency-Domain Representations**|Fengming Yu et.al.|[2510.24116](http://arxiv.org/abs/2510.24116)|null|
+|**2025-10-28**|**FALQON: Accelerating LoRA Fine-tuning with Low-Bit Floating-Point Arithmetic**|Kanghyun Choi et.al.|[2510.24061](http://arxiv.org/abs/2510.24061)|null|
+|**2025-10-28**|**SpecKD: Speculative Decoding for Effective Knowledge Distillation of LLMs**|Haiduo Huang et.al.|[2510.24021](http://arxiv.org/abs/2510.24021)|null|
+|**2025-10-27**|**Adaptive Training of INRs via Pruning and Densification**|Diana Aldana et.al.|[2510.23943](http://arxiv.org/abs/2510.23943)|null|
+|**2025-10-27**|**BitSkip: An Empirical Analysis of Quantization and Early Exit Composition**|Ramshankar Bhuvaneswaran et.al.|[2510.23766](http://arxiv.org/abs/2510.23766)|null|
+|**2025-10-25**|**The Structural Scalpel: Automated Contiguous Layer Pruning for Large Language Models**|Yao Lu et.al.|[2510.23652](http://arxiv.org/abs/2510.23652)|null|
+|**2025-10-25**|**Efficient Low Rank Attention for Long-Context Inference in Large Language Models**|Tenghui Li et.al.|[2510.23649](http://arxiv.org/abs/2510.23649)|null|
+|**2025-10-24**|**LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression**|Guozhong Li et.al.|[2510.23632](http://arxiv.org/abs/2510.23632)|null|
 |**2025-10-27**|**Tighter CMI-Based Generalization Bounds via Stochastic Projection and Quantization**|Milad Sefidgaran et.al.|[2510.23485](http://arxiv.org/abs/2510.23485)|null|
 |**2025-10-27**|**Enabling Vibration-Based Gesture Recognition on Everyday Furniture via Energy-Efficient FPGA Implementation of 1D Convolutional Networks**|Koki Shibata et.al.|[2510.23156](http://arxiv.org/abs/2510.23156)|null|
 |**2025-10-27**|**DeepSalt: Bridging Laboratory and Satellite Spectra through Domain Adaptation and Knowledge Distillation for Large-Scale Soil Salinity Estimation**|Rupasree Dey et.al.|[2510.23124](http://arxiv.org/abs/2510.23124)|null|
 |**2025-10-27**|**LightPFP: A Lightweight Route to Ab Initio Accuracy at Scale**|Wenwen Li et.al.|[2510.23064](http://arxiv.org/abs/2510.23064)|null|
 |**2025-10-27**|**AirFed: Federated Graph-Enhanced Multi-Agent Reinforcement Learning for Multi-UAV Cooperative Mobile Edge Computing**|Zhiyu Wang et.al.|[2510.23053](http://arxiv.org/abs/2510.23053)|null|
 |**2025-10-27**|**Sentinel: Dynamic Knowledge Distillation for Personalized Federated Intrusion Detection in Heterogeneous IoT Networks**|Gurpreet Singh et.al.|[2510.23019](http://arxiv.org/abs/2510.23019)|null|
-|**2025-10-27**|**Switchable Token-Specific Codebook Quantization For Face Image Compression**|Yongbo Wang et.al.|[2510.22943](http://arxiv.org/abs/2510.22943)|null|
+|**2025-10-28**|**Switchable Token-Specific Codebook Quantization For Face Image Compression**|Yongbo Wang et.al.|[2510.22943](http://arxiv.org/abs/2510.22943)|null|
 |**2025-10-27**|**Rethinking Inference Placement for Deep Learning across Edge and Cloud Platforms: A Multi-Objective Optimization Perspective and Future Directions**|Zongshun Zhang et.al.|[2510.22909](http://arxiv.org/abs/2510.22909)|null|
 |**2025-10-26**|**TELL-TALE: Task Efficient LLMs with Task Aware Layer Elimination**|Omar Naim et.al.|[2510.22767](http://arxiv.org/abs/2510.22767)|null|
 |**2025-10-26**|**Iterative Layer Pruning for Efficient Translation Inference**|Yasmin Moslem et.al.|[2510.22763](http://arxiv.org/abs/2510.22763)|null|
@@ -726,7 +735,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-24**|**A Convergence Analysis of Adaptive Optimizers under Floating-point Quantization**|Xuan Tang et.al.|[2510.21314](http://arxiv.org/abs/2510.21314)|null|
 |**2025-10-24**|**Correlation Dimension of Auto-Regressive Large Language Models**|Xin Du et.al.|[2510.21258](http://arxiv.org/abs/2510.21258)|null|
 |**2025-10-24**|**DictPFL: Efficient and Private Federated Learning on Encrypted Gradients**|Jiaqi Xue et.al.|[2510.21086](http://arxiv.org/abs/2510.21086)|null|
-|**2025-10-23**|**Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression**|Xi Zhang et.al.|[2510.20984](http://arxiv.org/abs/2510.20984)|null|
+|**2025-10-23**|**Learning Grouped Lattice Vector Quantizers for Low-Bit LLM Compression**|Xi Zhang et.al.|[2510.20984](http://arxiv.org/abs/2510.20984)|**[link](https://github.com/xzhang9308/GLVQ)**|
 |**2025-10-23**|**Compress to Impress: Efficient LLM Adaptation Using a Single Gradient Step on 100 Samples**|Shiva Sreeram et.al.|[2510.20800](http://arxiv.org/abs/2510.20800)|null|
 |**2025-10-23**|**Efficient Multi-bit Quantization Network Training via Weight Bias Correction and Bit-wise Coreset Sampling**|Jinhee Kim et.al.|[2510.20673](http://arxiv.org/abs/2510.20673)|null|
 |**2025-10-23**|**xTime: Extreme Event Prediction with Hierarchical Knowledge Distillation and Expert Fusion**|Quan Li et.al.|[2510.20651](http://arxiv.org/abs/2510.20651)|null|
