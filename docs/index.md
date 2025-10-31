@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.10.30**
+📅 **Updated on 2025.10.31**
 
 ## 🌟 About This Repository
 
@@ -648,7 +648,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-10-29**|**INT v.s. FP: A Comprehensive Study of Fine-Grained Low-bit Quantization Formats**|Mengzhao Chen et.al.|[2510.25602](http://arxiv.org/abs/2510.25602)|null|
-|**2025-10-29**|**PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal Sparse Attention for Vision-Language Large Models**|Zhonghua Jiang et.al.|[2510.25600](http://arxiv.org/abs/2510.25600)|null|
+|**2025-10-30**|**PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal Sparse Attention for Vision-Language Large Models**|Zhonghua Jiang et.al.|[2510.25600](http://arxiv.org/abs/2510.25600)|null|
 |**2025-10-29**|**Feedback Alignment Meets Low-Rank Manifolds: A Structured Recipe for Local Learning**|Arani Roy et.al.|[2510.25594](http://arxiv.org/abs/2510.25594)|null|
 |**2025-10-29**|**Lightweight Federated Learning in Mobile Edge Computing with Statistical and Device Heterogeneity Awareness**|Jinghong Tan et.al.|[2510.25342](http://arxiv.org/abs/2510.25342)|null|
 |**2025-10-29**|**Adapting Small Language Models to Low-Resource Domains: A Case Study in Hindi Tourism QA**|Sandipan Majhi et.al.|[2510.25273](http://arxiv.org/abs/2510.25273)|null|
@@ -657,7 +657,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-28**|**Resource-Efficient and Robust Inference of Deep and Bayesian Neural Networks on Embedded and Analog Computing Platforms**|Bernhard Klein et.al.|[2510.24951](http://arxiv.org/abs/2510.24951)|null|
 |**2025-10-28**|**SemCoT: Accelerating Chain-of-Thought Reasoning through Semantically-Aligned Implicit Tokens**|Yinhan He et.al.|[2510.24940](http://arxiv.org/abs/2510.24940)|null|
 |**2025-10-28**|**Send Less, Save More: Energy-Efficiency Benchmark of Embedded CNN Inference vs. Data Transmission in IoT**|Benjamin Karic et.al.|[2510.24829](http://arxiv.org/abs/2510.24829)|null|
-|**2025-10-27**|**A Survey on Efficient Vision-Language-Action Models**|Zhaoshu Yu et.al.|[2510.24795](http://arxiv.org/abs/2510.24795)|null|
+|**2025-10-27**|**A Survey on Efficient Vision-Language-Action Models**|Zhaoshu Yu et.al.|[2510.24795](http://arxiv.org/abs/2510.24795)|**[link](https://github.com/YuZhaoshu/Efficient-VLAs-Survey)**|
 |**2025-10-27**|**ESCA: Enabling Seamless Codec Avatar Execution through Algorithm and Hardware Co-Optimization for Virtual Reality**|Mingzhi Zhu et.al.|[2510.24787](http://arxiv.org/abs/2510.24787)|null|
 |**2025-10-28**|**All in one timestep: Enhancing Sparsity and Energy efficiency in Multi-level Spiking Neural Networks**|Andrea Castagnetti et.al.|[2510.24637](http://arxiv.org/abs/2510.24637)|null|
 |**2025-10-28**|**Fast and accurate neural reflectance transformation imaging through knowledge distillation**|Tinsae G. Dulecha et.al.|[2510.24486](http://arxiv.org/abs/2510.24486)|null|
