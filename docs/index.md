@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.02**
+📅 **Updated on 2025.11.03**
 
 ## 🌟 About This Repository
 
@@ -58,8 +58,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-27**|**ReFESS-QI: Reference-Free Evaluation For Speech Separation With Joint Quality And Intelligibility Scoring**|Ari Frummer et.al.|[2510.21014](http://arxiv.org/abs/2510.21014)|null|
 |**2025-10-21**|**Can large audio language models understand child stuttering speech? speech summarization, and source separation**|Chibuzor Okocha et.al.|[2510.20850](http://arxiv.org/abs/2510.20850)|null|
 |**2025-10-23**|**Speaking Clearly: A Simplified Whisper-Based Codec for Low-Bitrate Speech Coding**|Xin Zhang et.al.|[2510.20504](http://arxiv.org/abs/2510.20504)|null|
-|**2025-10-22**|**Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition**|Yuu Jinnai et.al.|[2510.19471](http://arxiv.org/abs/2510.19471)|**[link](https://github.com/CyberAgentAILab/mbr-for-asr)**|
-|**2025-10-23**|**FLASH Viterbi: Fast and Adaptive Viterbi Decoding for Modern Data Systems**|Ziheng Deng et.al.|[2510.19301](http://arxiv.org/abs/2510.19301)|**[link](https://github.com/Dzh-16/FLASH-Viterbi)**|
+|**2025-10-22**|**Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition**|Yuu Jinnai et.al.|[2510.19471](http://arxiv.org/abs/2510.19471)|null|
+|**2025-10-23**|**FLASH Viterbi: Fast and Adaptive Viterbi Decoding for Modern Data Systems**|Ziheng Deng et.al.|[2510.19301](http://arxiv.org/abs/2510.19301)|null|
 |**2025-10-22**|**Tibetan Language and AI: A Comprehensive Survey of Resources, Methods and Challenges**|Cheng Huang et.al.|[2510.19144](http://arxiv.org/abs/2510.19144)|null|
 |**2025-10-28**|**RIR-Mega: a large-scale simulated room impulse response dataset for machine learning and room acoustics modeling**|Mandip Goswami et.al.|[2510.18917](http://arxiv.org/abs/2510.18917)|null|
 |**2025-10-23**|**MLMA: Towards Multilingual ASR With Mamba-based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|null|
@@ -1341,11 +1341,11 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-28**|**UtilGen: Utility-Centric Generative Data Augmentation with Dual-Level Task Adaptation**|Jiyu Guo et.al.|[2510.24262](http://arxiv.org/abs/2510.24262)|null|
 |**2025-10-27**|**Learning Linearity in Audio Consistency Autoencoders via Implicit Regularization**|Bernardo Torres et.al.|[2510.23530](http://arxiv.org/abs/2510.23530)|null|
 |**2025-10-27**|**DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**|Wanmeng Li et.al.|[2510.23525](http://arxiv.org/abs/2510.23525)|null|
-|**2025-10-27**|**MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding**|Xin Jin et.al.|[2510.23479](http://arxiv.org/abs/2510.23479)|**[link](https://github.com/JinXins/MergeMix)**|
+|**2025-10-27**|**MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal Understanding**|Xin Jin et.al.|[2510.23479](http://arxiv.org/abs/2510.23479)|null|
 |**2025-10-27**|**Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement**|Sarabeth S. Mullins et.al.|[2510.23141](http://arxiv.org/abs/2510.23141)|null|
 |**2025-10-27**|**Tagging-Augmented Generation: Assisting Language Models in Finding Intricate Knowledge In Long Contexts**|Anwesan Pal et.al.|[2510.22956](http://arxiv.org/abs/2510.22956)|null|
 |**2025-10-26**|**ConMatFormer: A Multi-attention and Transformer Integrated ConvNext based Deep Learning Model for Enhanced Diabetic Foot Ulcer Classification**|Raihan Ahamed Rifat et.al.|[2510.22743](http://arxiv.org/abs/2510.22743)|null|
-|**2025-10-26**|**Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections**|Berken Utku Demirel et.al.|[2510.22655](http://arxiv.org/abs/2510.22655)|**[link](https://github.com/eth-siplab/Learning-with-FrameProjections)**|
+|**2025-10-26**|**Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections**|Berken Utku Demirel et.al.|[2510.22655](http://arxiv.org/abs/2510.22655)|null|
 |**2025-10-25**|**Knowledge-guided Continual Learning for Behavioral Analytics Systems**|Yasas Senarath et.al.|[2510.22405](http://arxiv.org/abs/2510.22405)|null|
 |**2025-10-24**|**AutoSciDACT: Automated Scientific Discovery through Contrastive Embedding and Hypothesis Testing**|Samuel Bright-Thonney et.al.|[2510.21935](http://arxiv.org/abs/2510.21935)|null|
 |**2025-10-24**|**Foundation Models in Dermatopathology: Skin Tissue Classification**|Riya Gupta et.al.|[2510.21664](http://arxiv.org/abs/2510.21664)|null|
@@ -1402,7 +1402,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-14**|**A Function Centric Perspective On Flat and Sharp Minima**|Israel Mason-Williams et.al.|[2510.12451](http://arxiv.org/abs/2510.12451)|null|
 |**2025-10-14**|**APGNet: Adaptive Prior-Guided for Underwater Camouflaged Object Detection**|Xinxin Huang et.al.|[2510.12056](http://arxiv.org/abs/2510.12056)|null|
 |**2025-10-13**|**MammoDINO: Anatomically Aware Self-Supervision for Mammographic Images**|Sicheng Zhou et.al.|[2510.11883](http://arxiv.org/abs/2510.11883)|null|
-|**2025-10-13**|**MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis**|Hongyu Zhu et.al.|[2510.11579](http://arxiv.org/abs/2510.11579)|**[link](https://github.com/HongyuZhu-s/MS-Mix)**|
+|**2025-10-13**|**MS-Mix: Unveiling the Power of Mixup for Multimodal Sentiment Analysis**|Hongyu Zhu et.al.|[2510.11579](http://arxiv.org/abs/2510.11579)|null|
 |**2025-10-13**|**DiffStyleTS: Diffusion Model for Style Transfer in Time Series**|Mayank Nagda et.al.|[2510.11335](http://arxiv.org/abs/2510.11335)|null|
 |**2025-10-13**|**LightPneumoNet: Lightweight Pneumonia Classifier**|Neilansh Chauhan et.al.|[2510.11232](http://arxiv.org/abs/2510.11232)|null|
 |**2025-10-13**|**Mixup Helps Understanding Multimodal Video Better**|Xiaoyu Ma et.al.|[2510.10986](http://arxiv.org/abs/2510.10986)|null|
