@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.03**
+📅 **Updated on 2025.11.04**
 
 ## 🌟 About This Repository
 
@@ -1664,7 +1664,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-31**|**GeoFM: Enhancing Geometric Reasoning of MLLMs via Synthetic Data Generation through Formal Language**|Yuhao Zhang et.al.|[2510.27448](http://arxiv.org/abs/2510.27448)|null|
 |**2025-10-31**|**Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis**|Weiming Chen et.al.|[2510.27324](http://arxiv.org/abs/2510.27324)|null|
 |**2025-10-31**|**Disrupting Networks: Amplifying Social Dissensus via Opinion Perturbation and Large Language Models**|Erica Coppolillo et.al.|[2510.27152](http://arxiv.org/abs/2510.27152)|null|
-|**2025-10-30**|**Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction**|Meghraj Prajapata et.al.|[2510.26907](http://arxiv.org/abs/2510.26907)|null|
+|**2025-10-30**|**Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction**|Meghraj Prajapat et.al.|[2510.26907](http://arxiv.org/abs/2510.26907)|null|
 |**2025-10-30**|**BI-DCGAN: A Theoretically Grounded Bayesian Framework for Efficient and Diverse GANs**|Mahsa Valizadeh et.al.|[2510.26892](http://arxiv.org/abs/2510.26892)|null|
 |**2025-10-30**|**Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench**|Fenfen Lin et.al.|[2510.26865](http://arxiv.org/abs/2510.26865)|null|
 |**2025-10-30**|**OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes**|Yukun Huang et.al.|[2510.26800](http://arxiv.org/abs/2510.26800)|null|
