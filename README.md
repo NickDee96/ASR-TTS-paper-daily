@@ -60,12 +60,12 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-28**|**V-SAT: Video Subtitle Annotation Tool**|Arpita Kundu et.al.|[2510.24180](http://arxiv.org/abs/2510.24180)|null|
 |**2025-10-28**|**RegSpeech12: A Regional Corpus of Bengali Spontaneous Speech Across Dialects**|Md. Rezuwan Hassan et.al.|[2510.24096](http://arxiv.org/abs/2510.24096)|null|
 |**2025-10-27**|**A Neural Model for Contextual Biasing Score Learning and Filtering**|Wanting Huang et.al.|[2510.23849](http://arxiv.org/abs/2510.23849)|null|
-|**2025-10-29**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang et.al.|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
+|**2025-11-01**|**RoboOmni: Proactive Robot Manipulation in Omni-modal Context**|Siyin Wang et.al.|[2510.23763](http://arxiv.org/abs/2510.23763)|null|
 |**2025-10-27**|**Arabic Little STT: Arabic Children Speech Recognition Dataset**|Mouhand Alkadri et.al.|[2510.23319](http://arxiv.org/abs/2510.23319)|null|
 |**2025-10-29**|**Are ASR foundation models generalized enough to capture features of regional dialects for low-resource languages?**|Tawsif Tashwar Dipto et.al.|[2510.23252](http://arxiv.org/abs/2510.23252)|null|
 |**2025-10-27**|**Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
 |**2025-10-26**|**LRW-Persian: Lip-reading in the Wild Dataset for Persian Language**|Zahra Taghizadeh et.al.|[2510.22716](http://arxiv.org/abs/2510.22716)|null|
-|**2025-10-26**|**Mitigating Attention Sinks and Massive Activations in Audio-Visual Speech Recognition with LLMS**|Anand et.al.|[2510.22603](http://arxiv.org/abs/2510.22603)|null|
+|**2025-11-02**|**Mitigating Attention Sinks and Massive Activations in Audio-Visual Speech Recognition with LLMs**|Anand et.al.|[2510.22603](http://arxiv.org/abs/2510.22603)|null|
 |**2025-10-26**|**A Sociophonetic Analysis of Racial Bias in Commercial ASR Systems Using the Pacific Northwest English Corpus**|Michael Scott et.al.|[2510.22495](http://arxiv.org/abs/2510.22495)|null|
 |**2025-10-26**|**The Limits of Data Scaling: Sub-token Utilization and Acoustic Saturation in Multilingual ASR**|Siyu Liang et.al.|[2510.22492](http://arxiv.org/abs/2510.22492)|null|
 |**2025-10-26**|**The Tonogenesis Continuum in Tibetan: A Computational Investigation**|Siyu Liang et.al.|[2510.22485](http://arxiv.org/abs/2510.22485)|null|
@@ -577,7 +577,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-09-22**|**Scaling, Simplification, and Adaptation: Lessons from Pretraining on Machine-Translated Text**|Dan John Velasco et.al.|[2509.17317](http://arxiv.org/abs/2509.17317)|null|
 |**2025-09-22**|**JPResUnet: A Joint Probability Density Function Translation Model in Partially Premixed Flames**|Hanying Yang et.al.|[2509.17297](http://arxiv.org/abs/2509.17297)|null|
 |**2025-09-21**|**Extending Automatic Machine Translation Evaluation to Book-Length Documents**|Kuang-Da Wang et.al.|[2509.17249](http://arxiv.org/abs/2509.17249)|null|
-|**2025-09-21**|**CUTE: A Multilingual Dataset for Enhancing Cross-Lingual Knowledge Transfer in Low-Resource Languages**|Wenhao Zhuang et.al.|[2509.16914](http://arxiv.org/abs/2509.16914)|null|
+|**2025-09-21**|**CUTE: A Multilingual Dataset for Enhancing Cross-Lingual Knowledge Transfer in Low-Resource Languages**|Wenhao Zhuang et.al.|[2509.16914](http://arxiv.org/abs/2509.16914)|**[link](https://github.com/CMLI-NLP/CUTE)**|
 |**2025-09-20**|**Angular Dispersion Accelerates $k$ -Nearest Neighbors Machine Translation**|Evgeniia Tokarchuk et.al.|[2509.16729](http://arxiv.org/abs/2509.16729)|null|
 |**2025-09-19**|**Whisper-UT: A Unified Translation Framework for Speech and Text**|Cihan Xiao et.al.|[2509.16375](http://arxiv.org/abs/2509.16375)|null|
 |**2025-09-19**|**UPRPRC: Unified Pipeline for Reproducing Parallel Resources -- Corpus from the United Nations**|Qiuyang Lu et.al.|[2509.15789](http://arxiv.org/abs/2509.15789)|null|
@@ -1422,7 +1422,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-27**|**Tagging-Augmented Generation: Assisting Language Models in Finding Intricate Knowledge In Long Contexts**|Anwesan Pal et.al.|[2510.22956](http://arxiv.org/abs/2510.22956)|null|
 |**2025-10-26**|**ConMatFormer: A Multi-attention and Transformer Integrated ConvNext based Deep Learning Model for Enhanced Diabetic Foot Ulcer Classification**|Raihan Ahamed Rifat et.al.|[2510.22743](http://arxiv.org/abs/2510.22743)|null|
 |**2025-10-26**|**Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections**|Berken Utku Demirel et.al.|[2510.22655](http://arxiv.org/abs/2510.22655)|null|
-|**2025-10-25**|**Knowledge-guided Continual Learning for Behavioral Analytics Systems**|Yasas Senarath et.al.|[2510.22405](http://arxiv.org/abs/2510.22405)|null|
+|**2025-11-01**|**Knowledge-guided Continual Learning for Behavioral Analytics Systems**|Yasas Senarath et.al.|[2510.22405](http://arxiv.org/abs/2510.22405)|null|
 |**2025-10-24**|**AutoSciDACT: Automated Scientific Discovery through Contrastive Embedding and Hypothesis Testing**|Samuel Bright-Thonney et.al.|[2510.21935](http://arxiv.org/abs/2510.21935)|null|
 |**2025-10-24**|**Foundation Models in Dermatopathology: Skin Tissue Classification**|Riya Gupta et.al.|[2510.21664](http://arxiv.org/abs/2510.21664)|null|
 |**2025-10-24**|**TerraGen: A Unified Multi-Task Layout Generation Framework for Remote Sensing Data Augmentation**|Datao Tang et.al.|[2510.21391](http://arxiv.org/abs/2510.21391)|null|
@@ -1456,7 +1456,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-18**|**ViT-Transformer: Self-attention mechanism based constitutive modeling for nonlinear heterogeneous materials**|Yijing Zhou et.al.|[2510.16575](http://arxiv.org/abs/2510.16575)|null|
 |**2025-10-18**|**ReviewGuard: Enhancing Deficient Peer Review Detection via LLM-Driven Data Augmentation**|Haoxuan Zhang et.al.|[2510.16549](http://arxiv.org/abs/2510.16549)|null|
 |**2025-10-17**|**Data-Centric AI for Tropical Agricultural Mapping: Challenges, Strategies and Scalable Solutions**|Mateus Pinto da Silva et.al.|[2510.16207](http://arxiv.org/abs/2510.16207)|null|
-|**2025-10-22**|**Bridging Symmetry and Robustness: On the Role of Equivariance in Enhancing Adversarial Robustness**|Longwei Wang et.al.|[2510.16171](http://arxiv.org/abs/2510.16171)|null|
+|**2025-11-03**|**Bridging Symmetry and Robustness: On the Role of Equivariance in Enhancing Adversarial Robustness**|Longwei Wang et.al.|[2510.16171](http://arxiv.org/abs/2510.16171)|null|
 |**2025-10-17**|**Learning density ratios in causal inference using Bregman-Riesz regression**|Oliver J. Hines et.al.|[2510.16127](http://arxiv.org/abs/2510.16127)|null|
 |**2025-10-17**|**Data-Driven Analysis of Intersectional Bias in Image Classification: A Framework with Bias-Weighted Augmentation**|Farjana Yesmin et.al.|[2510.16072](http://arxiv.org/abs/2510.16072)|null|
 |**2025-10-13**|**Bolster Hallucination Detection via Prompt-Guided Data Augmentation**|Wenyun Li et.al.|[2510.15977](http://arxiv.org/abs/2510.15977)|null|
@@ -1739,7 +1739,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-31**|**GeoFM: Enhancing Geometric Reasoning of MLLMs via Synthetic Data Generation through Formal Language**|Yuhao Zhang et.al.|[2510.27448](http://arxiv.org/abs/2510.27448)|null|
 |**2025-10-31**|**Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis**|Weiming Chen et.al.|[2510.27324](http://arxiv.org/abs/2510.27324)|null|
 |**2025-10-31**|**Disrupting Networks: Amplifying Social Dissensus via Opinion Perturbation and Large Language Models**|Erica Coppolillo et.al.|[2510.27152](http://arxiv.org/abs/2510.27152)|null|
-|**2025-10-30**|**Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction**|Meghraj Prajapat et.al.|[2510.26907](http://arxiv.org/abs/2510.26907)|null|
+|**2025-11-03**|**Generative diffusion modeling protocols for improving the Kikuchi pattern indexing in electron back-scatter diffraction**|Meghraj Prajapat et.al.|[2510.26907](http://arxiv.org/abs/2510.26907)|null|
 |**2025-10-30**|**BI-DCGAN: A Theoretically Grounded Bayesian Framework for Efficient and Diverse GANs**|Mahsa Valizadeh et.al.|[2510.26892](http://arxiv.org/abs/2510.26892)|null|
 |**2025-10-30**|**Do Vision-Language Models Measure Up? Benchmarking Visual Measurement Reading with MeasureBench**|Fenfen Lin et.al.|[2510.26865](http://arxiv.org/abs/2510.26865)|null|
 |**2025-10-30**|**OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes**|Yukun Huang et.al.|[2510.26800](http://arxiv.org/abs/2510.26800)|null|
@@ -1771,7 +1771,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-28**|**Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained Classification**|William Yang et.al.|[2510.24078](http://arxiv.org/abs/2510.24078)|null|
 |**2025-10-28**|**Score-based constrained generative modeling via Langevin diffusions with boundary conditions**|Adam Nordenhög et.al.|[2510.23985](http://arxiv.org/abs/2510.23985)|null|
 |**2025-10-27**|**Learning Interpretable Features in Audio Latent Spaces via Sparse Autoencoders**|Nathan Paek et.al.|[2510.23802](http://arxiv.org/abs/2510.23802)|null|
-|**2025-10-27**|**Robust and Generalizable Background Subtraction on Images of Calorimeter Jets using Unsupervised Generative Learning**|Yeonju Go et.al.|[2510.23717](http://arxiv.org/abs/2510.23717)|null|
+|**2025-10-27**|**Robust and Generalizable Background Subtraction on Images of Calorimeter Jets using Unsupervised Generative Learning**|Yeonju Go et.al.|[2510.23717](http://arxiv.org/abs/2510.23717)|**[link](https://github.com/LS4GAN/uvcgan-s)**|
 |**2025-10-27**|**Variational Masked Diffusion Models**|Yichi Zhang et.al.|[2510.23606](http://arxiv.org/abs/2510.23606)|null|
 |**2025-10-27**|**RobotArena $\infty$ : Scalable Robot Benchmarking via Real-to-Sim Translation**|Yash Jangir et.al.|[2510.23571](http://arxiv.org/abs/2510.23571)|null|
 |**2025-10-27**|**An Efficient Remote Sensing Super Resolution Method Exploring Diffusion Priors and Multi-Modal Constraints for Crop Type Mapping**|Songxi Yang et.al.|[2510.23382](http://arxiv.org/abs/2510.23382)|null|
