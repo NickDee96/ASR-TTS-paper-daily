@@ -44,12 +44,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ASR
 
-*📊 222 papers*
+*📊 225 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-05**|**Open Source State-Of-the-Art Solution for Romanian Speech Recognition**|Gabriel Pirlogeanu et.al.|[2511.03361](http://arxiv.org/abs/2511.03361)|null|
+|**2025-11-05**|**TASU: Text-Only Alignment for Speech Understanding**|Jing Peng et.al.|[2511.03310](http://arxiv.org/abs/2511.03310)|null|
+|**2025-11-05**|**How to Evaluate Speech Translation with Source-Aware Neural MT Metrics**|Mauro Cettolo et.al.|[2511.03295](http://arxiv.org/abs/2511.03295)|null|
 |**2025-11-04**|**Energy-Efficient Hardware Acceleration of Whisper ASR on a CGLA**|Takuto Ando et.al.|[2511.02269](http://arxiv.org/abs/2511.02269)|null|
 |**2025-10-30**|**Overview of the MEDIQA-OE 2025 Shared Task on Medical Order Extraction from Doctor-Patient Consultations**|Jean-Philippe Corbeil et.al.|[2510.26974](http://arxiv.org/abs/2510.26974)|null|
 |**2025-10-30**|**HMM for short independent sequences: Multiple sequence Baum-Welch application**|Margarita Cabrera-Bean et.al.|[2510.26532](http://arxiv.org/abs/2510.26532)|null|
@@ -285,12 +288,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## TTS
 
-*📊 190 papers*
+*📊 193 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
+|**2025-11-05**|**Seeing What You Say: Expressive Image Generation from Speech**|Jiyoung Lee et.al.|[2511.03423](http://arxiv.org/abs/2511.03423)|null|
+|**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
 |**2025-11-04**|**Augmenting Open-Vocabulary Dysarthric Speech Assessment with Human Perceptual Supervision**|Kaimeng Jia et.al.|[2511.02270](http://arxiv.org/abs/2511.02270)|null|
 |**2025-11-03**|**Toward Objective and Interpretable Prosody Evaluation in Text-to-Speech: A Linguistically Motivated Approach**|Cedric Chan et.al.|[2511.02104](http://arxiv.org/abs/2511.02104)|null|
 |**2025-10-29**|**Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph**|Fali Wang et.al.|[2511.00086](http://arxiv.org/abs/2511.00086)|null|
@@ -331,7 +337,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-04**|**Less Diverse, Less Safe: The Indirect But Pervasive Risk of Test-Time Scaling in Large Language Models**|Shahriar Kabir Nahin et.al.|[2510.08592](http://arxiv.org/abs/2510.08592)|null|
 |**2025-10-09**|**DialoSpeech: Dual-Speaker Dialogue Generation with LLM and Flow Matching**|Hanke Xie et.al.|[2510.08373](http://arxiv.org/abs/2510.08373)|null|
 |**2025-10-09**|**IntMeanFlow: Few-step Speech Generation with Integral Velocity Distillation**|Wei Wang et.al.|[2510.07979](http://arxiv.org/abs/2510.07979)|null|
-|**2025-10-09**|**VoiceAgentBench: Are Voice Assistants ready for agentic tasks?**|Dhruv Jain et.al.|[2510.07978](http://arxiv.org/abs/2510.07978)|null|
+|**2025-11-05**|**VoiceAgentBench: Are Voice Assistants ready for agentic tasks?**|Dhruv Jain et.al.|[2510.07978](http://arxiv.org/abs/2510.07978)|null|
 |**2025-10-09**|**Parallel Test-Time Scaling for Latent Reasoning Models**|Runyang You et.al.|[2510.07745](http://arxiv.org/abs/2510.07745)|null|
 |**2025-10-08**|**AsyncSpade: Efficient Test-Time Scaling with Asynchronous Sparse Decoding**|Shuqing Luo et.al.|[2510.07486](http://arxiv.org/abs/2510.07486)|null|
 |**2025-10-08**|**Making Machines Sound Sarcastic: LLM-Enhanced and Retrieval-Guided Sarcastic Speech Synthesis**|Zhu Li et.al.|[2510.07096](http://arxiv.org/abs/2510.07096)|null|
@@ -494,15 +500,20 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Machine Translation
 
-*📊 196 papers*
+*📊 201 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-05**|**BanglaSTEM: A Parallel Corpus for Technical Domain Bangla-English Translation**|Kazi Reyazul Hasan et.al.|[2511.03498](http://arxiv.org/abs/2511.03498)|null|
+|**2025-11-05**|**Segmentation Beyond Defaults: Asymmetrical Byte Pair Encoding for Optimal Machine Translation Performance**|Saumitra Yadav et.al.|[2511.03383](http://arxiv.org/abs/2511.03383)|null|
+|**2025-11-05**|**How to Evaluate Speech Translation with Source-Aware Neural MT Metrics**|Mauro Cettolo et.al.|[2511.03295](http://arxiv.org/abs/2511.03295)|null|
+|**2025-11-05**|**Beyond Ranked Lists: The SARAL Framework for Cross-Lingual Document Set Retrieval**|Shantanu Agarwal et.al.|[2511.03228](http://arxiv.org/abs/2511.03228)|null|
+|**2025-11-04**|**Automatic Machine Translation Detection Using a Surrogate Multilingual Translation Model**|Cristian García-Romero et.al.|[2511.02958](http://arxiv.org/abs/2511.02958)|null|
 |**2025-11-04**|**PragExTra: A Multilingual Corpus of Pragmatic Explicitation in Translation**|Doreen Osmelak et.al.|[2511.02721](http://arxiv.org/abs/2511.02721)|null|
 |**2025-11-04**|**The Analysis of Lexical Errors in Machine Translation from English into Romanian**|Angela Stamatie et.al.|[2511.02587](http://arxiv.org/abs/2511.02587)|null|
-|**2025-11-02**|**HPLT~3.0: Very Large-Scale Multilingual Resources for LLM and MT. Mono- and Bi-lingual Data, Multilingual Evaluation, and Pre-Trained Models**|Stephan Oepen et.al.|[2511.01066](http://arxiv.org/abs/2511.01066)|null|
+|**2025-11-05**|**HPLT 3.0: Very Large-Scale Multilingual Resources for LLM and MT. Mono- and Bi-lingual Data, Multilingual Evaluation, and Pre-Trained Models**|Stephan Oepen et.al.|[2511.01066](http://arxiv.org/abs/2511.01066)|null|
 |**2025-11-01**|**Leveraging the Cross-Domain & Cross-Linguistic Corpus for Low Resource NMT: A Case Study On Bhili-Hindi-English Parallel Corpus**|Pooja Singh et.al.|[2511.00486](http://arxiv.org/abs/2511.00486)|null|
 |**2025-10-31**|**POSESTITCH-SLT: Linguistically Inspired Pose-Stitching for End-to-End Sign Language Translation**|Abhinav Joshi et.al.|[2511.00270](http://arxiv.org/abs/2511.00270)|null|
 |**2025-10-31**|**TransAlign: Machine Translation Encoders are Strong Word Aligners, Too**|Benedikt Ebing et.al.|[2510.27337](http://arxiv.org/abs/2510.27337)|null|
@@ -709,12 +720,21 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 708 papers*
+*📊 717 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-05**|**Efficient Neural Networks with Discrete Cosine Transform Activations**|Marc Martinez-Gost et.al.|[2511.03531](http://arxiv.org/abs/2511.03531)|null|
+|**2025-11-05**|**Kastor: Fine-tuned Small Language Models for Shape-based Active Relation Extraction**|Ringwald Celian et.al.|[2511.03466](http://arxiv.org/abs/2511.03466)|null|
+|**2025-11-05**|**EQ-Negotiator: Dynamic Emotional Personas Empower Small Language Models for Edge-Deployable Credit Negotiation**|Yunbo Long et.al.|[2511.03370](http://arxiv.org/abs/2511.03370)|null|
+|**2025-11-05**|**Incorporating QM/MM molecular dynamics into the few-mode quantization approach for light-matter interactions in nanophotonic structures**|Ruth H. Tichauer et.al.|[2511.03303](http://arxiv.org/abs/2511.03303)|null|
+|**2025-11-05**|**Provable Separations between Memorization and Generalization in Diffusion Models**|Zeqi Ye et.al.|[2511.03202](http://arxiv.org/abs/2511.03202)|null|
+|**2025-11-05**|**A Quantized VAE-MLP Botnet Detection Model: A Systematic Evaluation of Quantization-Aware Training and Post-Training Quantization Strategies**|Hassan Wasswa et.al.|[2511.03201](http://arxiv.org/abs/2511.03201)|null|
+|**2025-11-05**|**LogicSparse: Enabling Engine-Free Unstructured Sparsity for Quantised Deep-learning Accelerators**|Changhong Li et.al.|[2511.03079](http://arxiv.org/abs/2511.03079)|null|
+|**2025-11-04**|**Targeted Error Correction in Knowledge Distillation: Small Language Models Surpass GPT**|Hee-Jin Lee et.al.|[2511.03005](http://arxiv.org/abs/2511.03005)|null|
+|**2025-11-04**|**Analog-to-Digital Converter Based on Voltage-controlled Superconducting Device**|Md Mazharul Islam et.al.|[2511.02968](http://arxiv.org/abs/2511.02968)|null|
 |**2025-11-04**|**In Good GRACEs: Principled Teacher Selection for Knowledge Distillation**|Abhishek Panigrahi et.al.|[2511.02833](http://arxiv.org/abs/2511.02833)|null|
 |**2025-11-04**|**A Non-Uniform Quantization Framework for Time-Encoding Machines**|Kaluguri Yashaswini et.al.|[2511.02728](http://arxiv.org/abs/2511.02728)|null|
 |**2025-11-04**|**Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models**|Tianfan Peng et.al.|[2511.02650](http://arxiv.org/abs/2511.02650)|null|
@@ -742,7 +762,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-01**|**Reviving Stale Updates: Data-Free Knowledge Distillation for Asynchronous Federated Learning**|Baris Askin et.al.|[2511.00655](http://arxiv.org/abs/2511.00655)|null|
 |**2025-11-01**|**Leveraging Multi-Agent System (MAS) and Fine-Tuned Small Language Models (SLMs) for Automated Telecom Network Troubleshooting**|Chenhua Shi et.al.|[2511.00651](http://arxiv.org/abs/2511.00651)|null|
 |**2025-11-01**|**Diluting Restricted Boltzmann Machines**|C. Díaz-Faloh et.al.|[2511.00648](http://arxiv.org/abs/2511.00648)|null|
-|**2025-10-31**|**Towards 1000-fold Electron Microscopy Image Compression for Connectomics via VQ-VAE with Transformer Prior**|Fuming Yang et.al.|[2511.00231](http://arxiv.org/abs/2511.00231)|null|
+|**2025-11-05**|**Towards 1000-fold Electron Microscopy Image Compression for Connectomics via VQ-VAE with Transformer Prior**|Fuming Yang et.al.|[2511.00231](http://arxiv.org/abs/2511.00231)|null|
 |**2025-10-31**|**Vision Transformer for Robust Occluded Person Reidentification in Complex Surveillance Scenes**|Bo Li et.al.|[2510.27677](http://arxiv.org/abs/2510.27677)|null|
 |**2025-10-31**|**SpecAttn: Speculating Sparse Attention**|Harsh Shah et.al.|[2510.27641](http://arxiv.org/abs/2510.27641)|null|
 |**2025-10-31**|**Sparse Model Inversion: Efficient Inversion of Vision Transformers for Data-Free Applications**|Zixuan Hu et.al.|[2510.27186](http://arxiv.org/abs/2510.27186)|null|
@@ -1436,12 +1456,21 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 323 papers*
+*📊 332 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-05**|**A Lightweight 3D-CNN for Event-Based Human Action Recognition with Privacy-Preserving Potential**|Mehdi Sefidgar Dilmaghani et.al.|[2511.03665](http://arxiv.org/abs/2511.03665)|null|
+|**2025-11-05**|**Towards Transparent Stance Detection: A Zero-Shot Approach Using Implicit and Explicit Interpretability**|Apoorva Upadhyaya et.al.|[2511.03635](http://arxiv.org/abs/2511.03635)|null|
+|**2025-11-05**|**The Bradley-Terry Stochastic Block Model**|Lapo Santi et.al.|[2511.03467](http://arxiv.org/abs/2511.03467)|null|
+|**2025-11-05**|**Knowledge-Augmented Question Error Correction for Chinese Question Answer System with QuestionRAG**|Longpeng Qiu et.al.|[2511.03410](http://arxiv.org/abs/2511.03410)|null|
+|**2025-11-05**|**Overcoming the Generalization Limits of SLM Finetuning for Shape-Based Extraction of Datatype and Object Properties**|Célian Ringwald et.al.|[2511.03407](http://arxiv.org/abs/2511.03407)|null|
+|**2025-11-05**|**LFC-DA: Logical Formula-Controlled Data Augmentation for Enhanced Logical Reasoning**|Shenghao Li et.al.|[2511.03372](http://arxiv.org/abs/2511.03372)|null|
+|**2025-11-05**|**Decoupling Augmentation Bias in Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2511.03367](http://arxiv.org/abs/2511.03367)|null|
+|**2025-11-05**|**An Augmentation Overlap Theory of Contrastive Learning**|Qi Zhang et.al.|[2511.03114](http://arxiv.org/abs/2511.03114)|null|
+|**2025-11-04**|**Generative Hints**|Andy Dimnaku et.al.|[2511.02933](http://arxiv.org/abs/2511.02933)|null|
 |**2025-11-04**|**IllumFlow: Illumination-Adaptive Low-Light Enhancement via Conditional Rectified Flow and Retinex Decomposition**|Wenyang Wei et.al.|[2511.02411](http://arxiv.org/abs/2511.02411)|null|
 |**2025-10-29**|**An Experimental Comparison of Alternative Techniques for Event-Log Augmentation**|Alessandro Padella et.al.|[2511.01896](http://arxiv.org/abs/2511.01896)|null|
 |**2025-11-03**|**DINO-MX: A Modular & Flexible Framework for Self-Supervised Learning**|Mahmut Selman Gokmen et.al.|[2511.01610](http://arxiv.org/abs/2511.01610)|null|
@@ -1778,12 +1807,16 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 514 papers*
+*📊 518 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-05**|**Human Mesh Modeling for Anny Body**|Romain Brégier et.al.|[2511.03589](http://arxiv.org/abs/2511.03589)|null|
+|**2025-11-05**|**Generative Artificial Intelligence in Bioinformatics: A Systematic Review of Models, Applications, and Methodological Advances**|Riasad Alvi et.al.|[2511.03354](http://arxiv.org/abs/2511.03354)|null|
+|**2025-11-05**|**From Insight to Exploit: Leveraging LLM Collaboration for Adaptive Adversarial Text Generation**|Najrin Sultana et.al.|[2511.03128](http://arxiv.org/abs/2511.03128)|**[link](https://github.com/Shukti042/AdversarialExample)**|
+|**2025-11-04**|**Discrete Bayesian Sample Inference for Graph Generation**|Ole Petersen et.al.|[2511.03015](http://arxiv.org/abs/2511.03015)|null|
 |**2025-11-04**|**A Non-Adversarial Approach to Idempotent Generative Modelling**|Mohammed Al-Jaff et.al.|[2511.02614](http://arxiv.org/abs/2511.02614)|null|
 |**2025-11-04**|**DetectiumFire: A Comprehensive Multi-modal Dataset Bridging Vision and Language for Fire Understanding**|Zixuan Liu et.al.|[2511.02495](http://arxiv.org/abs/2511.02495)|null|
 |**2025-11-04**|**A New Perspective on Precision and Recall for Generative Models**|Benjamin Sykes et.al.|[2511.02414](http://arxiv.org/abs/2511.02414)|null|
@@ -1791,7 +1824,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-04**|**Language-Enhanced Generative Modeling for PET Synthesis from MRI and Blood Biomarkers**|Zhengjie Zhang et.al.|[2511.02206](http://arxiv.org/abs/2511.02206)|null|
 |**2025-11-04**|**DoFlow: Causal Generative Flows for Interventional and Counterfactual Time-Series Prediction**|Dongze Wu et.al.|[2511.02137](http://arxiv.org/abs/2511.02137)|null|
 |**2025-11-03**|**Quantum-Enhanced Generative Models for Rare Event Prediction**|M. Z. Haider et.al.|[2511.02042](http://arxiv.org/abs/2511.02042)|null|
-|**2025-11-03**|**The Born Ultimatum: Conditions for Classical Surrogation of Quantum Generative Models with Correlators**|Mario Herrero-Gonzalez et.al.|[2511.01845](http://arxiv.org/abs/2511.01845)|null|
+|**2025-11-03**|**The Born Ultimatum: Conditions for Classical Surrogation of Quantum Generative Models with Correlators**|Mario Herrero-Gonzalez et.al.|[2511.01845](http://arxiv.org/abs/2511.01845)|**[link](https://github.com/quantumsoftwarelab/QCBM_correlator_surrogates)**|
 |**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Feng Chen et.al.|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
 |**2025-11-03**|**Game-theoretic distributed learning of generative models for heterogeneous data collections**|Dmitrij Schlesinger et.al.|[2511.01740](http://arxiv.org/abs/2511.01740)|null|
 |**2025-11-03**|**Generative Adversarial Synthesis and Deep Feature Discrimination of Brain Tumor MRI Images**|Md Sumon Ali et.al.|[2511.01574](http://arxiv.org/abs/2511.01574)|null|
