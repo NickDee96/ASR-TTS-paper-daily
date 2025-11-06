@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.05**
+📅 **Updated on 2025.11.06**
 
 ---
 
@@ -540,12 +540,12 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-15**|**A fully automated and scalable Parallel Data Augmentation for Low Resource Languages using Image and Text Analytics**|Prawaal Sharma et.al.|[2510.13211](http://arxiv.org/abs/2510.13211)|null|
 |**2025-10-15**|**ACADATA: Parallel Dataset of Academic Data for Machine Translation**|Iñaki Lacunza et.al.|[2510.12621](http://arxiv.org/abs/2510.12621)|null|
 |**2025-10-14**|**Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions**|Sungmin Kang et.al.|[2510.12040](http://arxiv.org/abs/2510.12040)|null|
-|**2025-10-13**|**LLM Reasoning for Machine Translation: Synthetic Data Generation over Thinking Tokens**|Armel Zebaze et.al.|[2510.11919](http://arxiv.org/abs/2510.11919)|**[link](https://github.com/ArmelRandy/llm-reasoning-mt)**|
+|**2025-10-13**|**LLM Reasoning for Machine Translation: Synthetic Data Generation over Thinking Tokens**|Armel Zebaze et.al.|[2510.11919](http://arxiv.org/abs/2510.11919)|null|
 |**2025-10-12**|**Bhasha-Rupantarika: Algorithm-Hardware Co-design approach for Multilingual Neural Machine Translation**|Mukul Lokhande et.al.|[2510.10676](http://arxiv.org/abs/2510.10676)|null|
 |**2025-10-11**|**End-to-end Automatic Speech Recognition and Speech Translation: Integration of Speech Foundational Models and LLMs**|Nam Luu et.al.|[2510.10329](http://arxiv.org/abs/2510.10329)|null|
 |**2025-10-11**|**Toward Machine Translation Literacy: How Lay Users Perceive and Rely on Imperfect Translations**|Yimin Xiao et.al.|[2510.09994](http://arxiv.org/abs/2510.09994)|null|
 |**2025-10-10**|**Evaluating Robustness of Large Language Models Against Multilingual Typographical Errors**|Yihong Liu et.al.|[2510.09536](http://arxiv.org/abs/2510.09536)|null|
-|**2025-10-13**|**DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation**|Enze Zhang et.al.|[2510.09116](http://arxiv.org/abs/2510.09116)|**[link](https://github.com/WHUNextGen/DITING)**|
+|**2025-10-13**|**DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation**|Enze Zhang et.al.|[2510.09116](http://arxiv.org/abs/2510.09116)|null|
 |**2025-10-10**|**Quality Estimation Reranking for Document-Level Translation**|Krzysztof Mrozinski et.al.|[2510.08870](http://arxiv.org/abs/2510.08870)|null|
 |**2025-10-31**|**Ready to Translate, Not to Represent? Bias and Performance Gaps in Multilingual LLMs Across Language Families and Domains**|Md. Faiyaz Abdullah Sayeedi et.al.|[2510.07877](http://arxiv.org/abs/2510.07877)|null|
 |**2025-10-08**|**LuxInstruct: A Cross-Lingual Instruction Tuning Dataset For Luxembourgish**|Fred Philippy et.al.|[2510.07074](http://arxiv.org/abs/2510.07074)|null|
@@ -1778,7 +1778,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 504 papers*
+*📊 514 papers*
 
 <div align="center">
 
@@ -1795,6 +1795,16 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Feng Chen et.al.|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
 |**2025-11-03**|**Game-theoretic distributed learning of generative models for heterogeneous data collections**|Dmitrij Schlesinger et.al.|[2511.01740](http://arxiv.org/abs/2511.01740)|null|
 |**2025-11-03**|**Generative Adversarial Synthesis and Deep Feature Discrimination of Brain Tumor MRI Images**|Md Sumon Ali et.al.|[2511.01574](http://arxiv.org/abs/2511.01574)|null|
+|**2025-11-03**|**NSYNC: Negative Synthetic Image Generation for Contrastive Training to Improve Stylized Text-To-Image Translation**|Serkan Ozturk et.al.|[2511.01517](http://arxiv.org/abs/2511.01517)|null|
+|**2025-11-03**|**UniREditBench: A Unified Reasoning-based Image Editing Benchmark**|Feng Han et.al.|[2511.01295](http://arxiv.org/abs/2511.01295)|null|
+|**2025-11-03**|**Speech-DRAME: A Framework for Human-Aligned Benchmarks in Speech Role-Play**|Jiatong Shi et.al.|[2511.01261](http://arxiv.org/abs/2511.01261)|null|
+|**2025-11-02**|**Feedback-driven Retrieval-augmented Audio Generation with Large Audio Language Models**|Junqi Zhao et.al.|[2511.01091](http://arxiv.org/abs/2511.01091)|null|
+|**2025-11-02**|**SliceVision-F2I: A Synthetic Feature-to-Image Dataset for Visual Pattern Representation on Network Slices**|Md. Abid Hasan Rafi et.al.|[2511.01087](http://arxiv.org/abs/2511.01087)|null|
+|**2025-11-02**|**Using Synthetic Data to estimate the True Error is theoretically and practically doable**|Hai Hoang Thanh et.al.|[2511.00964](http://arxiv.org/abs/2511.00964)|null|
+|**2025-11-04**|**Deep Generative Models for Enhanced Vitreous OCT Imaging**|Simone Sarrocco et.al.|[2511.00881](http://arxiv.org/abs/2511.00881)|null|
+|**2025-11-01**|**Sensitivity Analysis for Climate Science with Generative Flow Models**|Alex Dobra et.al.|[2511.00663](http://arxiv.org/abs/2511.00663)|null|
+|**2025-10-31**|**A Technical Exploration of Causal Inference with Hybrid LLM Synthetic Data**|Dana Kim et.al.|[2511.00318](http://arxiv.org/abs/2511.00318)|null|
+|**2025-10-31**|**Generative Modeling Enables Molecular Structure Retrieval from Coulomb Explosion Imaging**|Xiang Li et.al.|[2511.00179](http://arxiv.org/abs/2511.00179)|null|
 |**2025-10-31**|**GeoFM: Enhancing Geometric Reasoning of MLLMs via Synthetic Data Generation through Formal Language**|Yuhao Zhang et.al.|[2510.27448](http://arxiv.org/abs/2510.27448)|null|
 |**2025-10-31**|**Generative Semantic Coding for Ultra-Low Bitrate Visual Communication and Analysis**|Weiming Chen et.al.|[2510.27324](http://arxiv.org/abs/2510.27324)|null|
 |**2025-10-31**|**Disrupting Networks: Amplifying Social Dissensus via Opinion Perturbation and Large Language Models**|Erica Coppolillo et.al.|[2510.27152](http://arxiv.org/abs/2510.27152)|null|
