@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.06**
+📅 **Updated on 2025.11.07**
 
 ---
 
@@ -551,7 +551,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-15**|**A fully automated and scalable Parallel Data Augmentation for Low Resource Languages using Image and Text Analytics**|Prawaal Sharma et.al.|[2510.13211](http://arxiv.org/abs/2510.13211)|null|
 |**2025-10-15**|**ACADATA: Parallel Dataset of Academic Data for Machine Translation**|Iñaki Lacunza et.al.|[2510.12621](http://arxiv.org/abs/2510.12621)|null|
 |**2025-10-14**|**Uncertainty Quantification for Hallucination Detection in Large Language Models: Foundations, Methodology, and Future Directions**|Sungmin Kang et.al.|[2510.12040](http://arxiv.org/abs/2510.12040)|null|
-|**2025-10-13**|**LLM Reasoning for Machine Translation: Synthetic Data Generation over Thinking Tokens**|Armel Zebaze et.al.|[2510.11919](http://arxiv.org/abs/2510.11919)|null|
+|**2025-10-13**|**LLM Reasoning for Machine Translation: Synthetic Data Generation over Thinking Tokens**|Armel Zebaze et.al.|[2510.11919](http://arxiv.org/abs/2510.11919)|**[link](https://github.com/ArmelRandy/llm-reasoning-mt)**|
 |**2025-10-12**|**Bhasha-Rupantarika: Algorithm-Hardware Co-design approach for Multilingual Neural Machine Translation**|Mukul Lokhande et.al.|[2510.10676](http://arxiv.org/abs/2510.10676)|null|
 |**2025-10-11**|**End-to-end Automatic Speech Recognition and Speech Translation: Integration of Speech Foundational Models and LLMs**|Nam Luu et.al.|[2510.10329](http://arxiv.org/abs/2510.10329)|null|
 |**2025-10-11**|**Toward Machine Translation Literacy: How Lay Users Perceive and Rely on Imperfect Translations**|Yimin Xiao et.al.|[2510.09994](http://arxiv.org/abs/2510.09994)|null|
@@ -1824,7 +1824,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-04**|**Language-Enhanced Generative Modeling for PET Synthesis from MRI and Blood Biomarkers**|Zhengjie Zhang et.al.|[2511.02206](http://arxiv.org/abs/2511.02206)|null|
 |**2025-11-04**|**DoFlow: Causal Generative Flows for Interventional and Counterfactual Time-Series Prediction**|Dongze Wu et.al.|[2511.02137](http://arxiv.org/abs/2511.02137)|null|
 |**2025-11-03**|**Quantum-Enhanced Generative Models for Rare Event Prediction**|M. Z. Haider et.al.|[2511.02042](http://arxiv.org/abs/2511.02042)|null|
-|**2025-11-03**|**The Born Ultimatum: Conditions for Classical Surrogation of Quantum Generative Models with Correlators**|Mario Herrero-Gonzalez et.al.|[2511.01845](http://arxiv.org/abs/2511.01845)|**[link](https://github.com/quantumsoftwarelab/QCBM_correlator_surrogates)**|
+|**2025-11-03**|**The Born Ultimatum: Conditions for Classical Surrogation of Quantum Generative Models with Correlators**|Mario Herrero-Gonzalez et.al.|[2511.01845](http://arxiv.org/abs/2511.01845)|null|
 |**2025-11-03**|**GenDexHand: Generative Simulation for Dexterous Hands**|Feng Chen et.al.|[2511.01791](http://arxiv.org/abs/2511.01791)|null|
 |**2025-11-03**|**Game-theoretic distributed learning of generative models for heterogeneous data collections**|Dmitrij Schlesinger et.al.|[2511.01740](http://arxiv.org/abs/2511.01740)|null|
 |**2025-11-03**|**Generative Adversarial Synthesis and Deep Feature Discrimination of Brain Tumor MRI Images**|Md Sumon Ali et.al.|[2511.01574](http://arxiv.org/abs/2511.01574)|null|
