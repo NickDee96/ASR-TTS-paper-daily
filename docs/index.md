@@ -705,7 +705,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-04**|**Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models**|Tianfan Peng et.al.|[2511.02650](http://arxiv.org/abs/2511.02650)|null|
 |**2025-11-04**|**LiteVoxel: Low-memory Intelligent Thresholding for Efficient Voxel Rasterization**|Jee Won Lee et.al.|[2511.02510](http://arxiv.org/abs/2511.02510)|null|
 |**2025-11-04**|**FP8-Flow-MoE: A Casting-Free FP8 Recipe without Double Quantization Error**|Fengjuan Wang et.al.|[2511.02302](http://arxiv.org/abs/2511.02302)|null|
-|**2025-11-04**|**IG-Pruning: Input-Guided Block Pruning for Large Language Models**|Kangyu Qiao et.al.|[2511.02213](http://arxiv.org/abs/2511.02213)|**[link](https://github.com/ultramurloc/IG-Pruning)**|
+|**2025-11-04**|**IG-Pruning: Input-Guided Block Pruning for Large Language Models**|Kangyu Qiao et.al.|[2511.02213](http://arxiv.org/abs/2511.02213)|null|
 |**2025-11-03**|**Testing Quantum Gravity with Gravitational Waves from the ringdown of binary Black Holes coalescences: A New Frontier in Fundamental Physics**|Marco Danilo Claudio Torri et.al.|[2511.02056](http://arxiv.org/abs/2511.02056)|null|
 |**2025-11-01**|**Fibbinary-Based Compression and Quantization for Efficient Neural Radio Receivers**|Roberta Fiandaca et.al.|[2511.01921](http://arxiv.org/abs/2511.01921)|null|
 |**2025-11-03**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815](http://arxiv.org/abs/2511.01815)|null|
