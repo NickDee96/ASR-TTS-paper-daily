@@ -499,7 +499,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-23**|**Structure-Conditional Minimum Bayes Risk Decoding**|Bryan Eikema et.al.|[2510.20700](http://arxiv.org/abs/2510.20700)|null|
 |**2025-10-23**|**Assessing the Political Fairness of Multilingual LLMs: A Case Study based on a 21-way Multiparallel EuroParl Dataset**|Paul Lerner et.al.|[2510.20508](http://arxiv.org/abs/2510.20508)|null|
 |**2025-10-22**|**Conditions for Catastrophic Forgetting in Multilingual Translation**|Danni Liu et.al.|[2510.19546](http://arxiv.org/abs/2510.19546)|null|
-|**2025-10-22**|**Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition**|Yuu Jinnai et.al.|[2510.19471](http://arxiv.org/abs/2510.19471)|null|
+|**2025-10-22**|**Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition**|Yuu Jinnai et.al.|[2510.19471](http://arxiv.org/abs/2510.19471)|**[link](https://github.com/CyberAgentAILab/mbr-for-asr)**|
 |**2025-10-22**|**Spatio-temporal Sign Language Representation and Translation**|Yasser Hamidullah et.al.|[2510.19413](http://arxiv.org/abs/2510.19413)|null|
 |**2025-10-22**|**SONAR-SLT: Multilingual Sign Language Translation via Language-Agnostic Sentence Embedding Supervision**|Yasser Hamidullah et.al.|[2510.19398](http://arxiv.org/abs/2510.19398)|null|
 |**2025-10-22**|**Tibetan Language and AI: A Comprehensive Survey of Resources, Methods and Challenges**|Cheng Huang et.al.|[2510.19144](http://arxiv.org/abs/2510.19144)|null|
@@ -705,7 +705,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-04**|**Can Visual Input Be Compressed? A Visual Token Compression Benchmark for Large Multimodal Models**|Tianfan Peng et.al.|[2511.02650](http://arxiv.org/abs/2511.02650)|null|
 |**2025-11-04**|**LiteVoxel: Low-memory Intelligent Thresholding for Efficient Voxel Rasterization**|Jee Won Lee et.al.|[2511.02510](http://arxiv.org/abs/2511.02510)|null|
 |**2025-11-04**|**FP8-Flow-MoE: A Casting-Free FP8 Recipe without Double Quantization Error**|Fengjuan Wang et.al.|[2511.02302](http://arxiv.org/abs/2511.02302)|null|
-|**2025-11-04**|**IG-Pruning: Input-Guided Block Pruning for Large Language Models**|Kangyu Qiao et.al.|[2511.02213](http://arxiv.org/abs/2511.02213)|**[link](https://github.com/ultramurloc/IG-Pruning)**|
+|**2025-11-04**|**IG-Pruning: Input-Guided Block Pruning for Large Language Models**|Kangyu Qiao et.al.|[2511.02213](http://arxiv.org/abs/2511.02213)|null|
 |**2025-11-03**|**Testing Quantum Gravity with Gravitational Waves from the ringdown of binary Black Holes coalescences: A New Frontier in Fundamental Physics**|Marco Danilo Claudio Torri et.al.|[2511.02056](http://arxiv.org/abs/2511.02056)|null|
 |**2025-11-01**|**Fibbinary-Based Compression and Quantization for Efficient Neural Radio Receivers**|Roberta Fiandaca et.al.|[2511.01921](http://arxiv.org/abs/2511.01921)|null|
 |**2025-11-03**|**KV Cache Transform Coding for Compact Storage in LLM Inference**|Konrad Staniszewski et.al.|[2511.01815](http://arxiv.org/abs/2511.01815)|null|
