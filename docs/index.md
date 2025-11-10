@@ -266,10 +266,12 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🗣️ TTS {#tts}
 
-*📊 193 papers*
+*📊 195 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
+|**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
 |**2025-11-05**|**Seeing What You Say: Expressive Image Generation from Speech**|Jiyoung Lee et.al.|[2511.03423](http://arxiv.org/abs/2511.03423)|null|
 |**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
@@ -466,10 +468,12 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🌐 Machine Translation {#machine-translation}
 
-*📊 203 papers*
+*📊 205 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Translation via Annotation: A Computational Study of Translating Classical Chinese into Japanese**|Zilong Li et.al.|[2511.05239](http://arxiv.org/abs/2511.05239)|null|
+|**2025-11-06**|**IndicVisionBench: Benchmarking Cultural and Multilingual Understanding in VLMs**|Ali Faraz et.al.|[2511.04727](http://arxiv.org/abs/2511.04727)|null|
 |**2025-11-06**|**Dynamic Jointly Batch Selection for Data Efficient Machine Translation Fine-Tuning**|Mohammad Amin Ghanizadeh et.al.|[2511.04406](http://arxiv.org/abs/2511.04406)|null|
 |**2025-11-05**|**Evaluating Machine Translation Datasets for Low-Web Data Languages: A Gendered Lens**|Hellina Hailu Nigatu et.al.|[2511.03880](http://arxiv.org/abs/2511.03880)|null|
 |**2025-11-05**|**BanglaSTEM: A Parallel Corpus for Technical Domain Bangla-English Translation**|Kazi Reyazul Hasan et.al.|[2511.03498](http://arxiv.org/abs/2511.03498)|null|
@@ -676,10 +680,20 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ⚡ Small Language Models {#small-language-models}
 
-*📊 728 papers*
+*📊 738 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?**|Md. Abdul Awal et.al.|[2511.05476](http://arxiv.org/abs/2511.05476)|null|
+|**2025-11-07**|**APP: Accelerated Path Patching with Task-Specific Pruning**|Frauke Andersen et.al.|[2511.05442](http://arxiv.org/abs/2511.05442)|null|
+|**2025-11-07**|**Efficient CNN Inference on Ultra-Low-Power MCUs via Saturation-Aware Convolution**|Shiming Li et.al.|[2511.05347](http://arxiv.org/abs/2511.05347)|null|
+|**2025-11-07**|**Attention and Compression is all you need for Controllably Efficient Language Models**|Jatin Prakash et.al.|[2511.05313](http://arxiv.org/abs/2511.05313)|null|
+|**2025-11-07**|**Optimal Quantization on Spherical Surfaces: Continuous and Discrete Models - A Beginner-Friendly Expository Study**|Mrinal Kanti Roychowdhury et.al.|[2511.05099](http://arxiv.org/abs/2511.05099)|null|
+|**2025-11-07**|**An Efficient Proximity Graph-based Approach to Table Union Search**|Yiming Xie et.al.|[2511.05082](http://arxiv.org/abs/2511.05082)|null|
+|**2025-11-07**|**Representational power of selected neural network quantum states in second quantization**|Zhendong Li et.al.|[2511.04932](http://arxiv.org/abs/2511.04932)|null|
+|**2025-11-06**|**DMA: Online RAG Alignment with Human Feedback**|Yu Bai et.al.|[2511.04880](http://arxiv.org/abs/2511.04880)|null|
+|**2025-11-06**|**Data Efficiency and Transfer Robustness in Biomedical Image Segmentation: A Study of Redundancy and Forgetting with Cellpose**|Shuo Zhao et.al.|[2511.04803](http://arxiv.org/abs/2511.04803)|null|
+|**2025-11-06**|**Hardware-Accelerated GNN-based Hit Filtering for the Belle II Level-1 Trigger**|Greta Heine et.al.|[2511.04731](http://arxiv.org/abs/2511.04731)|null|
 |**2025-11-06**|**Benchmark Designers Should "Train on the Test Set" to Expose Exploitable Non-Visual Shortcuts**|Ellis Brown et.al.|[2511.04655](http://arxiv.org/abs/2511.04655)|null|
 |**2025-11-06**|**TT-Prune: Joint Model Pruning and Resource Allocation for Communication-efficient Time-triggered Federated Learning**|Xinlu Zhang et.al.|[2511.04653](http://arxiv.org/abs/2511.04653)|null|
 |**2025-11-06**|**Enabling Dynamic Sparsity in Quantized LLM Inference**|Rongxiang Wang et.al.|[2511.04477](http://arxiv.org/abs/2511.04477)|null|
@@ -695,7 +709,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-05**|**Kastor: Fine-tuned Small Language Models for Shape-based Active Relation Extraction**|Ringwald Celian et.al.|[2511.03466](http://arxiv.org/abs/2511.03466)|null|
 |**2025-11-05**|**EQ-Negotiator: Dynamic Emotional Personas Empower Small Language Models for Edge-Deployable Credit Negotiation**|Yunbo Long et.al.|[2511.03370](http://arxiv.org/abs/2511.03370)|null|
 |**2025-11-05**|**Incorporating QM/MM molecular dynamics into the few-mode quantization approach for light-matter interactions in nanophotonic structures**|Ruth H. Tichauer et.al.|[2511.03303](http://arxiv.org/abs/2511.03303)|null|
-|**2025-11-05**|**Provable Separations between Memorization and Generalization in Diffusion Models**|Zeqi Ye et.al.|[2511.03202](http://arxiv.org/abs/2511.03202)|null|
+|**2025-11-07**|**Provable Separations between Memorization and Generalization in Diffusion Models**|Zeqi Ye et.al.|[2511.03202](http://arxiv.org/abs/2511.03202)|null|
 |**2025-11-05**|**A Quantized VAE-MLP Botnet Detection Model: A Systematic Evaluation of Quantization-Aware Training and Post-Training Quantization Strategies**|Hassan Wasswa et.al.|[2511.03201](http://arxiv.org/abs/2511.03201)|null|
 |**2025-11-05**|**LogicSparse: Enabling Engine-Free Unstructured Sparsity for Quantised Deep-learning Accelerators**|Changhong Li et.al.|[2511.03079](http://arxiv.org/abs/2511.03079)|null|
 |**2025-11-04**|**Targeted Error Correction in Knowledge Distillation: Small Language Models Surpass GPT**|Hee-Jin Lee et.al.|[2511.03005](http://arxiv.org/abs/2511.03005)|null|
@@ -1411,10 +1425,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🔄 Data Augmentation {#data-augmentation}
 
-*📊 337 papers*
+*📊 342 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Robust Neural Audio Fingerprinting using Music Foundation Models**|Shubhr Singh et.al.|[2511.05399](http://arxiv.org/abs/2511.05399)|null|
+|**2025-11-07**|**Entropy-Rank Ratio: A Novel Entropy-Based Perspective for DNA Complexity and Classification**|Emmanuel Pio Pastore et.al.|[2511.05300](http://arxiv.org/abs/2511.05300)|null|
+|**2025-11-07**|**Embedding-Space Data Augmentation to Prevent Membership Inference Attacks in Clinical Time Series Forecasting**|Marius Fracarolli et.al.|[2511.05289](http://arxiv.org/abs/2511.05289)|null|
+|**2025-11-07**|**Less Is More: Generating Time Series with LLaMA-Style Autoregression in Simple Factorized Latent Spaces**|Siyuan Li et.al.|[2511.04973](http://arxiv.org/abs/2511.04973)|null|
 |**2025-11-06**|**PromptSep: Generative Audio Separation via Multimodal Prompting**|Yutong Wen et.al.|[2511.04623](http://arxiv.org/abs/2511.04623)|null|
 |**2025-11-06**|**Comparative Study of CNN Architectures for Binary Classification of Horses and Motorcycles in the VOC 2008 Dataset**|Muhammad Annas Shaikh et.al.|[2511.04344](http://arxiv.org/abs/2511.04344)|null|
 |**2025-11-06**|**Black-Box Guardrail Reverse-engineering Attack**|Hongwei Yao et.al.|[2511.04215](http://arxiv.org/abs/2511.04215)|null|
@@ -1436,6 +1454,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-03**|**Difficulty-Controllable Cloze Question Distractor Generation**|Seokhoon Kang et.al.|[2511.01526](http://arxiv.org/abs/2511.01526)|null|
 |**2025-11-03**|**Conditional Diffusion Model-Enabled Scenario-Specific Neural Receivers for Superimposed Pilot Schemes**|Xingyu Zhou et.al.|[2511.01173](http://arxiv.org/abs/2511.01173)|null|
 |**2025-11-02**|**A Distributed Plug-and-Play MCMC Algorithm for High-Dimensional Inverse Problems**|Maxime Bouton et.al.|[2511.00870](http://arxiv.org/abs/2511.00870)|null|
+|**2025-11-07**|**Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing**|Zhihui Chen et.al.|[2511.00801](http://arxiv.org/abs/2511.00801)|null|
 |**2025-11-01**|**Exploring and Mitigating Gender Bias in Encoder-Based Transformer Models**|Ariyan Hossain et.al.|[2511.00519](http://arxiv.org/abs/2511.00519)|null|
 |**2025-11-04**|**Simple and Behavior-Driven Augmentation for Recommendation with Rich Collaborative Signals**|Doyun Choi et.al.|[2511.00436](http://arxiv.org/abs/2511.00436)|null|
 |**2025-10-31**|**Casing Collar Identification using AlexNet-based Neural Networks for Depth Measurement in Oil and Gas Wells**|Siyu Xiao et.al.|[2511.00129](http://arxiv.org/abs/2511.00129)|null|
@@ -1755,10 +1774,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 525 papers*
+*📊 528 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-07**|**Associative Poisoning to Generative Machine Learning**|Mathias Lundteigen Mohus et.al.|[2511.05177](http://arxiv.org/abs/2511.05177)|null|
+|**2025-11-07**|**Role-SynthCLIP: A Role Play Driven Diverse Synthetic Data Approach**|Yuanxiang Huangfu et.al.|[2511.05057](http://arxiv.org/abs/2511.05057)|null|
+|**2025-11-07**|**Challenges in 3D Data Synthesis for Training Neural Networks on Topological Features**|Dylan Peek et.al.|[2511.04972](http://arxiv.org/abs/2511.04972)|null|
 |**2025-11-06**|**Generate, Evaluate, Iterate: Synthetic Data for Human-in-the-Loop Refinement of LLM Judges**|Hyo Jin Do et.al.|[2511.04478](http://arxiv.org/abs/2511.04478)|null|
 |**2025-11-06**|**Towards Causal Market Simulators**|Dennis Thumm et.al.|[2511.04469](http://arxiv.org/abs/2511.04469)|null|
 |**2025-11-06**|**Deep learning-based object detection of offshore platforms on Sentinel-1 Imagery and the impact of synthetic training data**|Robin Spanier et.al.|[2511.04304](http://arxiv.org/abs/2511.04304)|null|

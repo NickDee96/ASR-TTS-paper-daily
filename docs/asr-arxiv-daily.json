@@ -422,7 +422,9 @@
     "2511.00086": "|**2025-10-29**|**Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph**|Fali Wang et.al.|[2511.00086](http://arxiv.org/abs/2511.00086)|null|\n",
     "2511.03601": "|**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|\n",
     "2511.03423": "|**2025-11-05**|**Seeing What You Say: Expressive Image Generation from Speech**|Jiyoung Lee et.al.|[2511.03423](http://arxiv.org/abs/2511.03423)|null|\n",
-    "2511.03080": "|**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|\n"
+    "2511.03080": "|**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|\n",
+    "2511.05432": "|**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|\n",
+    "2511.05143": "|**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -627,7 +629,9 @@
     "2511.03228": "|**2025-11-05**|**Beyond Ranked Lists: The SARAL Framework for Cross-Lingual Document Set Retrieval**|Shantanu Agarwal et.al.|[2511.03228](http://arxiv.org/abs/2511.03228)|null|\n",
     "2511.02958": "|**2025-11-04**|**Automatic Machine Translation Detection Using a Surrogate Multilingual Translation Model**|Cristian García-Romero et.al.|[2511.02958](http://arxiv.org/abs/2511.02958)|null|\n",
     "2511.04406": "|**2025-11-06**|**Dynamic Jointly Batch Selection for Data Efficient Machine Translation Fine-Tuning**|Mohammad Amin Ghanizadeh et.al.|[2511.04406](http://arxiv.org/abs/2511.04406)|null|\n",
-    "2511.03880": "|**2025-11-05**|**Evaluating Machine Translation Datasets for Low-Web Data Languages: A Gendered Lens**|Hellina Hailu Nigatu et.al.|[2511.03880](http://arxiv.org/abs/2511.03880)|null|\n"
+    "2511.03880": "|**2025-11-05**|**Evaluating Machine Translation Datasets for Low-Web Data Languages: A Gendered Lens**|Hellina Hailu Nigatu et.al.|[2511.03880](http://arxiv.org/abs/2511.03880)|null|\n",
+    "2511.05239": "|**2025-11-07**|**Translation via Annotation: A Computational Study of Translating Classical Chinese into Japanese**|Zilong Li et.al.|[2511.05239](http://arxiv.org/abs/2511.05239)|null|\n",
+    "2511.04727": "|**2025-11-06**|**IndicVisionBench: Benchmarking Cultural and Multilingual Understanding in VLMs**|Ali Faraz et.al.|[2511.04727](http://arxiv.org/abs/2511.04727)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -1342,7 +1346,7 @@
     "2511.03466": "|**2025-11-05**|**Kastor: Fine-tuned Small Language Models for Shape-based Active Relation Extraction**|Ringwald Celian et.al.|[2511.03466](http://arxiv.org/abs/2511.03466)|null|\n",
     "2511.03370": "|**2025-11-05**|**EQ-Negotiator: Dynamic Emotional Personas Empower Small Language Models for Edge-Deployable Credit Negotiation**|Yunbo Long et.al.|[2511.03370](http://arxiv.org/abs/2511.03370)|null|\n",
     "2511.03303": "|**2025-11-05**|**Incorporating QM/MM molecular dynamics into the few-mode quantization approach for light-matter interactions in nanophotonic structures**|Ruth H. Tichauer et.al.|[2511.03303](http://arxiv.org/abs/2511.03303)|null|\n",
-    "2511.03202": "|**2025-11-05**|**Provable Separations between Memorization and Generalization in Diffusion Models**|Zeqi Ye et.al.|[2511.03202](http://arxiv.org/abs/2511.03202)|null|\n",
+    "2511.03202": "|**2025-11-07**|**Provable Separations between Memorization and Generalization in Diffusion Models**|Zeqi Ye et.al.|[2511.03202](http://arxiv.org/abs/2511.03202)|null|\n",
     "2511.03201": "|**2025-11-05**|**A Quantized VAE-MLP Botnet Detection Model: A Systematic Evaluation of Quantization-Aware Training and Post-Training Quantization Strategies**|Hassan Wasswa et.al.|[2511.03201](http://arxiv.org/abs/2511.03201)|null|\n",
     "2511.03079": "|**2025-11-05**|**LogicSparse: Enabling Engine-Free Unstructured Sparsity for Quantised Deep-learning Accelerators**|Changhong Li et.al.|[2511.03079](http://arxiv.org/abs/2511.03079)|null|\n",
     "2511.03005": "|**2025-11-04**|**Targeted Error Correction in Knowledge Distillation: Small Language Models Surpass GPT**|Hee-Jin Lee et.al.|[2511.03005](http://arxiv.org/abs/2511.03005)|null|\n",
@@ -1357,7 +1361,17 @@
     "2511.03983": "|**2025-11-06**|**TwIST: Rigging the Lottery in Transformers with Independent Subnetwork Training**|Michael Menezes et.al.|[2511.03983](http://arxiv.org/abs/2511.03983)|null|\n",
     "2511.03943": "|**2025-11-06**|**Adaptive Temporal Refinement: Continuous Depth Allocation and Distance Regression for Efficient Action Localization**|Ibne Farabi Shihab et.al.|[2511.03943](http://arxiv.org/abs/2511.03943)|null|\n",
     "2511.03888": "|**2025-11-05**|**Desert Waste Detection and Classification Using Data-Based and Model-Based Enhanced YOLOv12 DL Model**|Abdulmumin Sa'ad et.al.|[2511.03888](http://arxiv.org/abs/2511.03888)|null|\n",
-    "2511.03829": "|**2025-11-05**|**Unconventional quantization of 2D plasmons in cavities formed by gate slots**|Ilia Moiseenko et.al.|[2511.03829](http://arxiv.org/abs/2511.03829)|null|\n"
+    "2511.03829": "|**2025-11-05**|**Unconventional quantization of 2D plasmons in cavities formed by gate slots**|Ilia Moiseenko et.al.|[2511.03829](http://arxiv.org/abs/2511.03829)|null|\n",
+    "2511.05476": "|**2025-11-07**|**A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?**|Md. Abdul Awal et.al.|[2511.05476](http://arxiv.org/abs/2511.05476)|null|\n",
+    "2511.05442": "|**2025-11-07**|**APP: Accelerated Path Patching with Task-Specific Pruning**|Frauke Andersen et.al.|[2511.05442](http://arxiv.org/abs/2511.05442)|null|\n",
+    "2511.05347": "|**2025-11-07**|**Efficient CNN Inference on Ultra-Low-Power MCUs via Saturation-Aware Convolution**|Shiming Li et.al.|[2511.05347](http://arxiv.org/abs/2511.05347)|null|\n",
+    "2511.05313": "|**2025-11-07**|**Attention and Compression is all you need for Controllably Efficient Language Models**|Jatin Prakash et.al.|[2511.05313](http://arxiv.org/abs/2511.05313)|null|\n",
+    "2511.05099": "|**2025-11-07**|**Optimal Quantization on Spherical Surfaces: Continuous and Discrete Models - A Beginner-Friendly Expository Study**|Mrinal Kanti Roychowdhury et.al.|[2511.05099](http://arxiv.org/abs/2511.05099)|null|\n",
+    "2511.05082": "|**2025-11-07**|**An Efficient Proximity Graph-based Approach to Table Union Search**|Yiming Xie et.al.|[2511.05082](http://arxiv.org/abs/2511.05082)|null|\n",
+    "2511.04932": "|**2025-11-07**|**Representational power of selected neural network quantum states in second quantization**|Zhendong Li et.al.|[2511.04932](http://arxiv.org/abs/2511.04932)|null|\n",
+    "2511.04880": "|**2025-11-06**|**DMA: Online RAG Alignment with Human Feedback**|Yu Bai et.al.|[2511.04880](http://arxiv.org/abs/2511.04880)|null|\n",
+    "2511.04803": "|**2025-11-06**|**Data Efficiency and Transfer Robustness in Biomedical Image Segmentation: A Study of Redundancy and Forgetting with Cellpose**|Shuo Zhao et.al.|[2511.04803](http://arxiv.org/abs/2511.04803)|null|\n",
+    "2511.04731": "|**2025-11-06**|**Hardware-Accelerated GNN-based Hit Filtering for the Belle II Level-1 Trigger**|Greta Heine et.al.|[2511.04731](http://arxiv.org/abs/2511.04731)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -1696,7 +1710,12 @@
     "2511.04344": "|**2025-11-06**|**Comparative Study of CNN Architectures for Binary Classification of Horses and Motorcycles in the VOC 2008 Dataset**|Muhammad Annas Shaikh et.al.|[2511.04344](http://arxiv.org/abs/2511.04344)|null|\n",
     "2511.04215": "|**2025-11-06**|**Black-Box Guardrail Reverse-engineering Attack**|Hongwei Yao et.al.|[2511.04215](http://arxiv.org/abs/2511.04215)|null|\n",
     "2511.04016": "|**2025-11-06**|**MedDChest: A Content-Aware Multimodal Foundational Vision Model for Thoracic Imaging**|Mahmoud Soliman et.al.|[2511.04016](http://arxiv.org/abs/2511.04016)|null|\n",
-    "2511.03888": "|**2025-11-05**|**Desert Waste Detection and Classification Using Data-Based and Model-Based Enhanced YOLOv12 DL Model**|Abdulmumin Sa'ad et.al.|[2511.03888](http://arxiv.org/abs/2511.03888)|null|\n"
+    "2511.03888": "|**2025-11-05**|**Desert Waste Detection and Classification Using Data-Based and Model-Based Enhanced YOLOv12 DL Model**|Abdulmumin Sa'ad et.al.|[2511.03888](http://arxiv.org/abs/2511.03888)|null|\n",
+    "2511.05399": "|**2025-11-07**|**Robust Neural Audio Fingerprinting using Music Foundation Models**|Shubhr Singh et.al.|[2511.05399](http://arxiv.org/abs/2511.05399)|null|\n",
+    "2511.05300": "|**2025-11-07**|**Entropy-Rank Ratio: A Novel Entropy-Based Perspective for DNA Complexity and Classification**|Emmanuel Pio Pastore et.al.|[2511.05300](http://arxiv.org/abs/2511.05300)|null|\n",
+    "2511.05289": "|**2025-11-07**|**Embedding-Space Data Augmentation to Prevent Membership Inference Attacks in Clinical Time Series Forecasting**|Marius Fracarolli et.al.|[2511.05289](http://arxiv.org/abs/2511.05289)|null|\n",
+    "2511.04973": "|**2025-11-07**|**Less Is More: Generating Time Series with LLaMA-Style Autoregression in Simple Factorized Latent Spaces**|Siyuan Li et.al.|[2511.04973](http://arxiv.org/abs/2511.04973)|null|\n",
+    "2511.00801": "|**2025-11-07**|**Med-Banana-50K: A Cross-modality Large-Scale Dataset for Text-guided Medical Image Editing**|Zhihui Chen et.al.|[2511.00801](http://arxiv.org/abs/2511.00801)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -2223,6 +2242,9 @@
     "2511.04260": "|**2025-11-06**|**Proto-LeakNet: Towards Signal-Leak Aware Attribution in Synthetic Human Face Imagery**|Claudio Giusti et.al.|[2511.04260](http://arxiv.org/abs/2511.04260)|null|\n",
     "2511.04155": "|**2025-11-06**|**Learning to Land Anywhere: Transferable Generative Models for Aircraft Trajectories**|Olav Finne Praesteng Larsen et.al.|[2511.04155](http://arxiv.org/abs/2511.04155)|null|\n",
     "2511.03970": "|**2025-11-06**|**Room Envelopes: A Synthetic Dataset for Indoor Layout Reconstruction from Images**|Sam Bahrami et.al.|[2511.03970](http://arxiv.org/abs/2511.03970)|null|\n",
-    "2511.03862": "|**2025-11-05**|**Integrating Score-Based Generative Modeling and Neural ODEs for Accurate Representation of Multiscale Chaotic Dynamics**|Giulio Del Felice et.al.|[2511.03862](http://arxiv.org/abs/2511.03862)|null|\n"
+    "2511.03862": "|**2025-11-05**|**Integrating Score-Based Generative Modeling and Neural ODEs for Accurate Representation of Multiscale Chaotic Dynamics**|Giulio Del Felice et.al.|[2511.03862](http://arxiv.org/abs/2511.03862)|null|\n",
+    "2511.05177": "|**2025-11-07**|**Associative Poisoning to Generative Machine Learning**|Mathias Lundteigen Mohus et.al.|[2511.05177](http://arxiv.org/abs/2511.05177)|null|\n",
+    "2511.05057": "|**2025-11-07**|**Role-SynthCLIP: A Role Play Driven Diverse Synthetic Data Approach**|Yuanxiang Huangfu et.al.|[2511.05057](http://arxiv.org/abs/2511.05057)|null|\n",
+    "2511.04972": "|**2025-11-07**|**Challenges in 3D Data Synthesis for Training Neural Networks on Topological Features**|Dylan Peek et.al.|[2511.04972](http://arxiv.org/abs/2511.04972)|null|\n"
   }
 }
