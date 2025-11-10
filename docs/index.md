@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.09**
+📅 **Updated on 2025.11.10**
 
 ## 🌟 About This Repository
 
@@ -499,7 +499,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-23**|**Structure-Conditional Minimum Bayes Risk Decoding**|Bryan Eikema et.al.|[2510.20700](http://arxiv.org/abs/2510.20700)|null|
 |**2025-10-23**|**Assessing the Political Fairness of Multilingual LLMs: A Case Study based on a 21-way Multiparallel EuroParl Dataset**|Paul Lerner et.al.|[2510.20508](http://arxiv.org/abs/2510.20508)|null|
 |**2025-10-22**|**Conditions for Catastrophic Forgetting in Multilingual Translation**|Danni Liu et.al.|[2510.19546](http://arxiv.org/abs/2510.19546)|null|
-|**2025-10-22**|**Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition**|Yuu Jinnai et.al.|[2510.19471](http://arxiv.org/abs/2510.19471)|**[link](https://github.com/CyberAgentAILab/mbr-for-asr)**|
+|**2025-10-22**|**Re-evaluating Minimum Bayes Risk Decoding for Automatic Speech Recognition**|Yuu Jinnai et.al.|[2510.19471](http://arxiv.org/abs/2510.19471)|null|
 |**2025-10-22**|**Spatio-temporal Sign Language Representation and Translation**|Yasser Hamidullah et.al.|[2510.19413](http://arxiv.org/abs/2510.19413)|null|
 |**2025-10-22**|**SONAR-SLT: Multilingual Sign Language Translation via Language-Agnostic Sentence Embedding Supervision**|Yasser Hamidullah et.al.|[2510.19398](http://arxiv.org/abs/2510.19398)|null|
 |**2025-10-22**|**Tibetan Language and AI: A Comprehensive Survey of Resources, Methods and Challenges**|Cheng Huang et.al.|[2510.19144](http://arxiv.org/abs/2510.19144)|null|
@@ -718,7 +718,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-03**|**MicroAUNet: Boundary-Enhanced Multi-scale Fusion with Knowledge Distillation for Colonoscopy Polyp Image Segmentation**|Ziyi Wang et.al.|[2511.01143](http://arxiv.org/abs/2511.01143)|null|
 |**2025-11-02**|**All-in-one Graph-based Indexing for Hybrid Search on GPUs**|Zhonggen Li et.al.|[2511.00855](http://arxiv.org/abs/2511.00855)|null|
 |**2025-11-02**|**Towards Ultra-Low Latency: Binarized Neural Network Architectures for In-Vehicle Network Intrusion Detection**|Huiyao Dong et.al.|[2511.00828](http://arxiv.org/abs/2511.00828)|null|
-|**2025-11-02**|**Efficient Query Repair for Aggregate Constraints**|Shatha Algarni et.al.|[2511.00826](http://arxiv.org/abs/2511.00826)|null|
+|**2025-11-02**|**Efficient Query Repair for Aggregate Constraints**|Shatha Algarni et.al.|[2511.00826](http://arxiv.org/abs/2511.00826)|**[link](https://github.com/VaishnaviD5900/efficient-query-repair-demo)**|
 |**2025-11-02**|**REaR: Retrieve, Expand and Refine for Effective Multitable Retrieval**|Rishita Agarwal et.al.|[2511.00805](http://arxiv.org/abs/2511.00805)|null|
 |**2025-11-01**|**Predicting Encoding Energy from Low-Pass Anchors for Green Video Streaming**|Zoha Azimi et.al.|[2511.00707](http://arxiv.org/abs/2511.00707)|null|
 |**2025-11-01**|**Privacy-Aware Time Series Synthesis via Public Knowledge Distillation**|Penghang Liu et.al.|[2511.00700](http://arxiv.org/abs/2511.00700)|null|
