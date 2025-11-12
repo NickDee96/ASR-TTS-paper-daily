@@ -313,7 +313,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2021-10-19**|**Adversarial Example Devastation and Detection on Speech Recognition System by Adding Random Noise**|Mingyu Dong et.al.|[2108.13562](http://arxiv.org/abs/2108.13562)|null|
 |**2021-07-06**|**Arabic Code-Switching Speech Recognition using Monolingual Data**|Ahmed Ali et.al.|[2107.01573](http://arxiv.org/abs/2107.01573)|null|
 |**2021-07-05**|**Combining Frame-Synchronous and Label-Synchronous Systems for Speech Recognition**|Qiujia Li et.al.|[2107.00764](http://arxiv.org/abs/2107.00764)|null|
-|**2022-03-22**|**Unsupervised Automatic Speech Recognition: A Review**|Hanan Aldarmaki et.al.|[2106.04897](http://arxiv.org/abs/2106.04897)|**[link](https://github.com/Aryia-Behroziuan/References)**|
+|**2022-03-22**|**Unsupervised Automatic Speech Recognition: A Review**|Hanan Aldarmaki et.al.|[2106.04897](http://arxiv.org/abs/2106.04897)|null|
 |**2021-05-06**|**Accent Recognition with Hybrid Phonetic Features**|Zhan Zhang et.al.|[2105.01920](http://arxiv.org/abs/2105.01920)|null|
 |**2021-10-05**|**Non-autoregressive Mandarin-English Code-switching Speech Recognition**|Shun-Po Chuang et.al.|[2104.02258](http://arxiv.org/abs/2104.02258)|null|
 |**2021-02-23**|**Generating Human Readable Transcript for Automatic Speech Recognition with Pre-trained Language Model**|Junwei Liao et.al.|[2102.11114](http://arxiv.org/abs/2102.11114)|null|
@@ -1750,7 +1750,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-04-09**|**Thanos: A Block-wise Pruning Algorithm for Efficient Large Language Model Compression**|Ivan Ilin et.al.|[2504.05346](http://arxiv.org/abs/2504.05346)|null|
 |**2025-07-01**|**Distillation and Refinement of Reasoning in Small Language Models for Document Re-ranking**|Chris Samarinas et.al.|[2504.03947](http://arxiv.org/abs/2504.03947)|null|
 |**2025-03-17**|**Small Vision-Language Models: A Survey on Compact Architectures and Techniques**|Nitesh Patnaik et.al.|[2503.10665](http://arxiv.org/abs/2503.10665)|null|
-|**2025-10-23**|**Using (Not-so) Large Language Models to Generate Simulation Models in a Formal DSL: A Study on Reaction Networks**|Justin N. Kreikemeyer et.al.|[2503.01675](http://arxiv.org/abs/2503.01675)|**[link](https://github.com/justinnk/text-to-crn)**|
+|**2025-10-23**|**Using (Not-so) Large Language Models to Generate Simulation Models in a Formal DSL: A Study on Reaction Networks**|Justin N. Kreikemeyer et.al.|[2503.01675](http://arxiv.org/abs/2503.01675)|null|
 |**2025-03-06**|**Rethinking Data: Towards Better Performing Domain-Specific Small Language Models**|Boris Nazarov et.al.|[2503.01464](http://arxiv.org/abs/2503.01464)|null|
 |**2025-03-04**|**ReaderLM-v2: Small Language Model for HTML to Markdown and JSON**|Feng Wang et.al.|[2503.01151](http://arxiv.org/abs/2503.01151)|null|
 |**2025-05-27**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
@@ -1759,7 +1759,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-03-03**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
 |**2025-06-09**|**GRASP: Replace Redundant Layers with Adaptive Singular Parameters for Efficient Model Compression**|Kainan Liu et.al.|[2501.00339](http://arxiv.org/abs/2501.00339)|null|
 |**2024-12-30**|**Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models**|Shuo Wang et.al.|[2412.19449](http://arxiv.org/abs/2412.19449)|null|
-|**2024-12-23**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|**[link](https://github.com/Visual-AI/PruneVid)**|
+|**2024-12-23**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|null|
 |**2024-11-22**|**Hymba: A Hybrid-head Architecture for Small Language Models**|Xin Dong et.al.|[2411.13676](http://arxiv.org/abs/2411.13676)|null|
 |**2025-02-19**|**Efficient Alignment of Large Language Models via Data Sampling**|Amrit Khera et.al.|[2411.10545](http://arxiv.org/abs/2411.10545)|null|
 |**2024-11-27**|**SlimLM: An Efficient Small Language Model for On-Device Document Assistance**|Thang M. Pham et.al.|[2411.09944](http://arxiv.org/abs/2411.09944)|null|
@@ -1787,7 +1787,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2024-06-25**|**Shortened LLaMA: Depth Pruning for Large Language Models with Comparison of Retraining Methods**|Bo-Kyeong Kim et.al.|[2402.02834](http://arxiv.org/abs/2402.02834)|null|
 |**2024-02-07**|**Dual Knowledge Distillation for Efficient Sound Event Detection**|Yang Xiao et.al.|[2402.02781](http://arxiv.org/abs/2402.02781)|null|
 |**2024-02-02**|**EPSD: Early Pruning with Self-Distillation for Efficient Model Compression**|Dong Chen et.al.|[2402.00084](http://arxiv.org/abs/2402.00084)|null|
-|**2024-06-05**|**APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference**|Bowen Zhao et.al.|[2401.12200](http://arxiv.org/abs/2401.12200)|**[link](https://github.com/ROIM1998/APT)**|
+|**2024-06-05**|**APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference**|Bowen Zhao et.al.|[2401.12200](http://arxiv.org/abs/2401.12200)|null|
 |**2024-06-05**|**TinyLlama: An Open-Source Small Language Model**|Peiyuan Zhang et.al.|[2401.02385](http://arxiv.org/abs/2401.02385)|null|
 |**2024-02-23**|**LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model**|Yichen Zhu et.al.|[2401.02330](http://arxiv.org/abs/2401.02330)|null|
 |**2024-06-24**|**TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**|Zhengqing Yuan et.al.|[2312.16862](http://arxiv.org/abs/2312.16862)|null|
@@ -2814,7 +2814,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-07-25**|**Synthetic Data Generation for Phrase Break Prediction with Large Language Model**|Hoyeon Lee et.al.|[2507.18044](http://arxiv.org/abs/2507.18044)|null|
 |**2025-07-15**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-06-13**|**Multimodal Cinematic Video Synthesis Using Text-to-Image and Audio Generation Models**|Sridhar S et.al.|[2506.10005](http://arxiv.org/abs/2506.10005)|null|
-|**2025-06-11**|**A Review on Score-based Generative Models for Audio Applications**|Ge Zhu et.al.|[2506.08457](http://arxiv.org/abs/2506.08457)|**[link](https://github.com/gzhu06/AudioDiffuser)**|
+|**2025-06-11**|**A Review on Score-based Generative Models for Audio Applications**|Ge Zhu et.al.|[2506.08457](http://arxiv.org/abs/2506.08457)|null|
 |**2025-06-24**|**Analysis and Evaluation of Synthetic Data Generation in Speech Dysfluency Detection**|Jinming Zhang et.al.|[2505.22029](http://arxiv.org/abs/2505.22029)|null|
 |**2025-07-01**|**From Alignment to Advancement: Bootstrapping Audio-Language Alignment with Synthetic Data**|Chun-Yi Kuan et.al.|[2505.20166](http://arxiv.org/abs/2505.20166)|null|
 |**2025-05-15**|**DPN-GAN: Inducing Periodic Activations in Generative Adversarial Networks for High-Fidelity Audio Synthesis**|Zeeshan Ahmad et.al.|[2505.09091](http://arxiv.org/abs/2505.09091)|null|
@@ -2832,8 +2832,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2024-08-01**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach et.al.|[2407.21476](http://arxiv.org/abs/2407.21476)|null|
 |**2024-06-27**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunità et.al.|[2406.17672](http://arxiv.org/abs/2406.17672)|null|
 |**2024-06-21**|**Instruction Data Generation and Unsupervised Adaptation for Speech Language Models**|Vahid Noroozi et.al.|[2406.12946](http://arxiv.org/abs/2406.12946)|null|
-|**2024-06-13**|**LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**|Wenhao Guan et.al.|[2406.08203](http://arxiv.org/abs/2406.08203)|**[link](https://github.com/gwh22/LAFMA)**|
-|**2024-07-10**|**AudioLCM: Text-to-Audio Generation with Latent Consistency Models**|Huadai Liu et.al.|[2406.00356](http://arxiv.org/abs/2406.00356)|**[link](https://github.com/Text-to-Audio/AudioLCM)**|
+|**2024-06-13**|**LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**|Wenhao Guan et.al.|[2406.08203](http://arxiv.org/abs/2406.08203)|null|
+|**2024-07-10**|**AudioLCM: Text-to-Audio Generation with Latent Consistency Models**|Huadai Liu et.al.|[2406.00356](http://arxiv.org/abs/2406.00356)|null|
 |**2024-06-04**|**Creative Text-to-Audio Generation via Synthesizer Programming**|Manuel Cherep et.al.|[2406.00294](http://arxiv.org/abs/2406.00294)|null|
 |**2024-05-01**|**Fake it to make it: Using synthetic data to remedy the data shortage in joint multimodal speech-and-gesture synthesis**|Shivam Mehta et.al.|[2404.19622](http://arxiv.org/abs/2404.19622)|null|
 |**2024-02-09**|**Listening Between the Lines: Synthetic Speech Detection Disregarding Verbal Content**|Davide Salvi et.al.|[2402.05567](http://arxiv.org/abs/2402.05567)|null|
@@ -2862,7 +2862,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2022-02-25**|**Text-to-Speech Synthesis Techniques for MIDI-to-Audio Synthesis**|Erica Cooper et.al.|[2104.12292](http://arxiv.org/abs/2104.12292)|null|
 |**2021-04-01**|**DiffWave: A Versatile Diffusion Model for Audio Synthesis**|Zhifeng Kong et.al.|[2009.09761](http://arxiv.org/abs/2009.09761)|null|
 |**2022-06-29**|**DrumGAN: Synthesis of Drum Sounds With Timbral Feature Conditioning Using Generative Adversarial Networks**|J. Nistal et.al.|[2008.12073](http://arxiv.org/abs/2008.12073)|null|
-|**2019-06-05**|**MelNet: A Generative Model for Audio in the Frequency Domain**|Sean Vasquez et.al.|[1906.01083](http://arxiv.org/abs/1906.01083)|**[link](https://github.com/resemble-ai/MelNet)**|
+|**2019-06-05**|**MelNet: A Generative Model for Audio in the Frequency Domain**|Sean Vasquez et.al.|[1906.01083](http://arxiv.org/abs/1906.01083)|null|
 |**2019-05-22**|**Effective parameter estimation methods for an ExcitNet model in generative text-to-speech systems**|Ohsung Kwon et.al.|[1905.08486](http://arxiv.org/abs/1905.08486)|null|
 |**2019-03-15**|**Generative adversarial network-based glottal waveform model for statistical parametric speech synthesis**|Bajibabu Bollepalli et.al.|[1903.05955](http://arxiv.org/abs/1903.05955)|null|
 |**2019-02-20**|**Securing Voice-driven Interfaces against Fake (Cloned) Audio Attacks**|Hafiz Malik et.al.|[1902.06782](http://arxiv.org/abs/1902.06782)|null|
