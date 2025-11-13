@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.12**
+📅 **Updated on 2025.11.13**
 
 ---
 
@@ -328,7 +328,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2021-10-19**|**Adversarial Example Devastation and Detection on Speech Recognition System by Adding Random Noise**|Mingyu Dong et.al.|[2108.13562](http://arxiv.org/abs/2108.13562)|null|
 |**2021-07-06**|**Arabic Code-Switching Speech Recognition using Monolingual Data**|Ahmed Ali et.al.|[2107.01573](http://arxiv.org/abs/2107.01573)|null|
 |**2021-07-05**|**Combining Frame-Synchronous and Label-Synchronous Systems for Speech Recognition**|Qiujia Li et.al.|[2107.00764](http://arxiv.org/abs/2107.00764)|null|
-|**2022-03-22**|**Unsupervised Automatic Speech Recognition: A Review**|Hanan Aldarmaki et.al.|[2106.04897](http://arxiv.org/abs/2106.04897)|null|
+|**2022-03-22**|**Unsupervised Automatic Speech Recognition: A Review**|Hanan Aldarmaki et.al.|[2106.04897](http://arxiv.org/abs/2106.04897)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2021-05-06**|**Accent Recognition with Hybrid Phonetic Features**|Zhan Zhang et.al.|[2105.01920](http://arxiv.org/abs/2105.01920)|null|
 |**2021-10-05**|**Non-autoregressive Mandarin-English Code-switching Speech Recognition**|Shun-Po Chuang et.al.|[2104.02258](http://arxiv.org/abs/2104.02258)|null|
 |**2021-02-23**|**Generating Human Readable Transcript for Automatic Speech Recognition with Pre-trained Language Model**|Junwei Liao et.al.|[2102.11114](http://arxiv.org/abs/2102.11114)|null|
@@ -1807,7 +1807,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-05-27**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
 |**2025-02-26**|**AfroXLMR-Comet: Multilingual Knowledge Distillation with Attention Matching for Low-Resource languages**|Joshua Sakthivel Raju et.al.|[2502.18020](http://arxiv.org/abs/2502.18020)|null|
 |**2025-06-17**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Rui Pan et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
-|**2025-03-03**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
+|**2025-03-03**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|**[link](https://github.com/SakanaAI/TAID)**|
 |**2025-06-09**|**GRASP: Replace Redundant Layers with Adaptive Singular Parameters for Efficient Model Compression**|Kainan Liu et.al.|[2501.00339](http://arxiv.org/abs/2501.00339)|null|
 |**2024-12-30**|**Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models**|Shuo Wang et.al.|[2412.19449](http://arxiv.org/abs/2412.19449)|null|
 |**2024-12-23**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|null|
@@ -1857,7 +1857,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2022-08-04**|**Efficient Fine-Tuning of Compressed Language Models with Learners**|Danilo Vucetic et.al.|[2208.02070](http://arxiv.org/abs/2208.02070)|null|
 |**2022-06-01**|**Parameter-Efficient and Student-Friendly Knowledge Distillation**|Jun Rao et.al.|[2205.15308](http://arxiv.org/abs/2205.15308)|null|
 |**2022-05-24**|**Parameter-Efficient Sparsity for Large Language Models Fine-Tuning**|Yuchao Li et.al.|[2205.11005](http://arxiv.org/abs/2205.11005)|null|
-|**2022-05-04**|**Structured Pruning Learns Compact and Accurate Models**|Mengzhou Xia et.al.|[2204.00408](http://arxiv.org/abs/2204.00408)|null|
+|**2022-05-04**|**Structured Pruning Learns Compact and Accurate Models**|Mengzhou Xia et.al.|[2204.00408](http://arxiv.org/abs/2204.00408)|**[link](https://github.com/princeton-nlp/CoFiPruning)**|
 |**2022-03-23**|**DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization**|Zheng Li et.al.|[2203.11239](http://arxiv.org/abs/2203.11239)|null|
 |**2022-03-09**|**HyperPELT: Unified Parameter-Efficient Language Model Tuning for Both Language and Vision-and-Language Tasks**|Zhengkun Zhang et.al.|[2203.03878](http://arxiv.org/abs/2203.03878)|null|
 |**2022-04-05**|**CHIP: CHannel Independence-based Pruning for Compact Neural Networks**|Yang Sui et.al.|[2110.13981](http://arxiv.org/abs/2110.13981)|null|
