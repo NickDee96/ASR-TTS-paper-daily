@@ -663,7 +663,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2019-02-12**|**Generative Moment Matching Network-based Random Modulation Post-filter for DNN-based Singing Voice Synthesis and Neural Double-tracking**|Hiroki Tamaru et.al.|[1902.03389](http://arxiv.org/abs/1902.03389)|null|
 |**2018-08-21**|**Multimodal speech synthesis architecture for unsupervised speaker adaptation**|Hieu-Thi Luong et.al.|[1808.06288](http://arxiv.org/abs/1808.06288)|null|
 |**2019-01-04**|**Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**|Ye Jia et.al.|[1806.04558](http://arxiv.org/abs/1806.04558)|null|
-|**2018-02-23**|**Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning**|Wei Ping et.al.|[1710.07654](http://arxiv.org/abs/1710.07654)|null|
+|**2018-02-23**|**Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning**|Wei Ping et.al.|[1710.07654](http://arxiv.org/abs/1710.07654)|**[link](https://github.com/TanUkkii007/deepvoice3-tensorflow)**|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2017-09-25**|**Techniques and Challenges in Speech Synthesis**|David Ferris et.al.|[1709.07552](http://arxiv.org/abs/1709.07552)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
@@ -957,7 +957,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2019-03-28**|**Using Monolingual Data in Neural Machine Translation: a Systematic Study**|Franck Burlot et.al.|[1903.11437](http://arxiv.org/abs/1903.11437)|null|
 |**2019-07-03**|**Massively Multilingual Neural Machine Translation**|Roee Aharoni et.al.|[1903.00089](http://arxiv.org/abs/1903.00089)|null|
 |**2018-12-04**|**The RGNLP Machine Translation Systems for WAT 2018**|Atul Kr. Ojha et.al.|[1812.00798](http://arxiv.org/abs/1812.00798)|null|
-|**2018-11-06**|**Improving Zero-Shot Translation of Low-Resource Languages**|Surafel M. Lakew et.al.|[1811.01389](http://arxiv.org/abs/1811.01389)|null|
+|**2018-11-06**|**Improving Zero-Shot Translation of Low-Resource Languages**|Surafel M. Lakew et.al.|[1811.01389](http://arxiv.org/abs/1811.01389)|**[link](https://github.com/surafelml/improving-zeroshot-nmt)**|
 |**2018-11-06**|**Transfer Learning in Multilingual Neural Machine Translation with Dynamic Vocabulary**|Surafel M. Lakew et.al.|[1811.01137](http://arxiv.org/abs/1811.01137)|null|
 |**2018-11-06**|**Neural Machine Translation into Language Varieties**|Surafel M. Lakew et.al.|[1811.01064](http://arxiv.org/abs/1811.01064)|null|
 |**2018-09-14**|**Zero-Shot Cross-lingual Classification Using Multilingual Neural Machine Translation**|Akiko Eriguchi et.al.|[1809.04686](http://arxiv.org/abs/1809.04686)|null|
