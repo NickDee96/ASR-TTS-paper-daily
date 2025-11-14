@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.13**
+📅 **Updated on 2025.11.14**
 
 ## 🌟 About This Repository
 
@@ -338,7 +338,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2023-05-15**|**End-to-end Audiovisual Speech Activity Detection with Bimodal Recurrent Neural Models**|Fei Tao et.al.|[1809.04553](http://arxiv.org/abs/1809.04553)|null|
 |**2018-09-13**|**Isolated and Ensemble Audio Preprocessing Methods for Detecting Adversarial Examples against Automatic Speech Recognition**|Krishan Rajaratnam et.al.|[1809.04397](http://arxiv.org/abs/1809.04397)|null|
 |**2018-05-29**|**Automatic context window composition for distant speech recognition**|Mirco Ravanelli et.al.|[1805.10498](http://arxiv.org/abs/1805.10498)|null|
-|**2018-04-27**|**End-to-End Multimodal Speech Recognition**|Shruti Palaskar et.al.|[1804.09713](http://arxiv.org/abs/1804.09713)|null|
+|**2018-04-27**|**End-to-End Multimodal Speech Recognition**|Shruti Palaskar et.al.|[1804.09713](http://arxiv.org/abs/1804.09713)|**[link](https://github.com/AlexGidiotis/Multimodal-Gesture-Recognition-with-LSTMs-and-CTC)**|
 |**2018-03-08**|**Extracting Domain Invariant Features by Unsupervised Learning for Robust Automatic Speech Recognition**|Wei-Ning Hsu et.al.|[1803.02551](http://arxiv.org/abs/1803.02551)|null|
 |**2019-05-01**|**Unsupervised Adaptation with Domain Separation Networks for Robust Speech Recognition**|Zhong Meng et.al.|[1711.08010](http://arxiv.org/abs/1711.08010)|null|
 |**2018-02-23**|**BridgeNets: Student-Teacher Transfer Learning Based on Recursive Neural Networks and its Application to Distant Speech Recognition**|Jaeyoung Kim et.al.|[1710.10224](http://arxiv.org/abs/1710.10224)|null|
@@ -570,7 +570,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2024-07-02**|**FLY-TTS: Fast, Lightweight and High-Quality End-to-End Text-to-Speech Synthesis**|Yinlin Guo et.al.|[2407.00753](http://arxiv.org/abs/2407.00753)|null|
 |**2024-06-13**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 |**2024-10-25**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700](http://arxiv.org/abs/2404.14700)|null|
-|**2024-04-03**|**Humane Speech Synthesis through Zero-Shot Emotion and Disfluency Generation**|Rohan Chaudhury et.al.|[2404.01339](http://arxiv.org/abs/2404.01339)|null|
+|**2024-04-03**|**Humane Speech Synthesis through Zero-Shot Emotion and Disfluency Generation**|Rohan Chaudhury et.al.|[2404.01339](http://arxiv.org/abs/2404.01339)|**[link](https://github.com/Rohan-Chaudhury/Humane-Speech-Synthesis-through-Zero-Shot-Emotion-and-Disfluency-Generation)**|
 |**2024-04-02**|**CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through Weighted Samplers and Consistency Models**|Xiang Li et.al.|[2404.00569](http://arxiv.org/abs/2404.00569)|null|
 |**2024-03-21**|**Building speech corpus with diverse voice characteristics for its prompt-based representation**|Aya Watanabe et.al.|[2403.13353](http://arxiv.org/abs/2403.13353)|null|
 |**2024-03-19**|**EM-TTS: Efficiently Trained Low-Resource Mongolian Lightweight Text-to-Speech**|Ziqi Liang et.al.|[2403.08164](http://arxiv.org/abs/2403.08164)|null|
@@ -636,7 +636,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2019-02-12**|**Generative Moment Matching Network-based Random Modulation Post-filter for DNN-based Singing Voice Synthesis and Neural Double-tracking**|Hiroki Tamaru et.al.|[1902.03389](http://arxiv.org/abs/1902.03389)|null|
 |**2018-08-21**|**Multimodal speech synthesis architecture for unsupervised speaker adaptation**|Hieu-Thi Luong et.al.|[1808.06288](http://arxiv.org/abs/1808.06288)|null|
 |**2019-01-04**|**Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**|Ye Jia et.al.|[1806.04558](http://arxiv.org/abs/1806.04558)|null|
-|**2018-02-23**|**Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning**|Wei Ping et.al.|[1710.07654](http://arxiv.org/abs/1710.07654)|**[link](https://github.com/TanUkkii007/deepvoice3-tensorflow)**|
+|**2018-02-23**|**Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning**|Wei Ping et.al.|[1710.07654](http://arxiv.org/abs/1710.07654)|null|
 |**2017-09-26**|**Statistical Parametric Speech Synthesis Incorporating Generative Adversarial Networks**|Yuki Saito et.al.|[1709.08041](http://arxiv.org/abs/1709.08041)|null|
 |**2017-09-25**|**Techniques and Challenges in Speech Synthesis**|David Ferris et.al.|[1709.07552](http://arxiv.org/abs/1709.07552)|null|
 |**2016-08-19**|**DNN-based Speech Synthesis for Indian Languages from ASCII text**|Srikanth Ronanki et.al.|[1608.05374](http://arxiv.org/abs/1608.05374)|null|
@@ -902,7 +902,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2019-10-22**|**On the Importance of Word Boundaries in Character-level Neural Machine Translation**|Duygu Ataman et.al.|[1910.06753](http://arxiv.org/abs/1910.06753)|null|
 |**2019-10-02**|**Interrogating the Explanatory Power of Attention in Neural Machine Translation**|Pooya Moradi et.al.|[1910.00139](http://arxiv.org/abs/1910.00139)|null|
 |**2019-09-25**|**Data Ordering Patterns for Neural Machine Translation: An Empirical Study**|Siddhant Garg et.al.|[1909.10642](http://arxiv.org/abs/1909.10642)|null|
-|**2019-09-17**|**Multilingual Neural Machine Translation for Zero-Resource Languages**|Surafel M. Lakew et.al.|[1909.07342](http://arxiv.org/abs/1909.07342)|null|
+|**2019-09-17**|**Multilingual Neural Machine Translation for Zero-Resource Languages**|Surafel M. Lakew et.al.|[1909.07342](http://arxiv.org/abs/1909.07342)|**[link](https://github.com/surafelml/phd-thesis)**|
 |**2019-11-13**|**Evaluating the Cross-Lingual Effectiveness of Massively Multilingual Neural Machine Translation**|Aditya Siddhant et.al.|[1909.00437](http://arxiv.org/abs/1909.00437)|null|
 |**2019-10-09**|**Transductive Data-Selection Algorithms for Fine-Tuning Neural Machine Translation**|Alberto Poncelas et.al.|[1908.09532](http://arxiv.org/abs/1908.09532)|null|
 |**2019-08-27**|**Multilingual Neural Machine Translation with Language Clustering**|Xu Tan et.al.|[1908.09324](http://arxiv.org/abs/1908.09324)|null|
@@ -918,7 +918,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2019-03-28**|**Using Monolingual Data in Neural Machine Translation: a Systematic Study**|Franck Burlot et.al.|[1903.11437](http://arxiv.org/abs/1903.11437)|null|
 |**2019-07-03**|**Massively Multilingual Neural Machine Translation**|Roee Aharoni et.al.|[1903.00089](http://arxiv.org/abs/1903.00089)|null|
 |**2018-12-04**|**The RGNLP Machine Translation Systems for WAT 2018**|Atul Kr. Ojha et.al.|[1812.00798](http://arxiv.org/abs/1812.00798)|null|
-|**2018-11-06**|**Improving Zero-Shot Translation of Low-Resource Languages**|Surafel M. Lakew et.al.|[1811.01389](http://arxiv.org/abs/1811.01389)|**[link](https://github.com/surafelml/improving-zeroshot-nmt)**|
+|**2018-11-06**|**Improving Zero-Shot Translation of Low-Resource Languages**|Surafel M. Lakew et.al.|[1811.01389](http://arxiv.org/abs/1811.01389)|null|
 |**2018-11-06**|**Transfer Learning in Multilingual Neural Machine Translation with Dynamic Vocabulary**|Surafel M. Lakew et.al.|[1811.01137](http://arxiv.org/abs/1811.01137)|null|
 |**2018-11-06**|**Neural Machine Translation into Language Varieties**|Surafel M. Lakew et.al.|[1811.01064](http://arxiv.org/abs/1811.01064)|null|
 |**2018-09-14**|**Zero-Shot Cross-lingual Classification Using Multilingual Neural Machine Translation**|Akiko Eriguchi et.al.|[1809.04686](http://arxiv.org/abs/1809.04686)|null|
@@ -1756,8 +1756,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-05-27**|**Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models**|Sibo Yi et.al.|[2502.19883](http://arxiv.org/abs/2502.19883)|null|
 |**2025-02-26**|**AfroXLMR-Comet: Multilingual Knowledge Distillation with Attention Matching for Low-Resource languages**|Joshua Sakthivel Raju et.al.|[2502.18020](http://arxiv.org/abs/2502.18020)|null|
 |**2025-06-17**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Rui Pan et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
-|**2025-03-03**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|**[link](https://github.com/SakanaAI/TAID)**|
-|**2025-06-09**|**GRASP: Replace Redundant Layers with Adaptive Singular Parameters for Efficient Model Compression**|Kainan Liu et.al.|[2501.00339](http://arxiv.org/abs/2501.00339)|null|
+|**2025-03-03**|**TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models**|Makoto Shing et.al.|[2501.16937](http://arxiv.org/abs/2501.16937)|null|
+|**2025-06-09**|**GRASP: Replace Redundant Layers with Adaptive Singular Parameters for Efficient Model Compression**|Kainan Liu et.al.|[2501.00339](http://arxiv.org/abs/2501.00339)|**[link](https://github.com/LyoAI/GRASP)**|
 |**2024-12-30**|**Feature Alignment-Based Knowledge Distillation for Efficient Compression of Large Language Models**|Shuo Wang et.al.|[2412.19449](http://arxiv.org/abs/2412.19449)|null|
 |**2024-12-23**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|null|
 |**2024-11-22**|**Hymba: A Hybrid-head Architecture for Small Language Models**|Xin Dong et.al.|[2411.13676](http://arxiv.org/abs/2411.13676)|null|
@@ -1766,8 +1766,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-02-26**|**LLM-NEO: Parameter Efficient Knowledge Distillation for Large Language Models**|Runming Yang et.al.|[2411.06839](http://arxiv.org/abs/2411.06839)|null|
 |**2024-11-12**|**Over-parameterized Student Model via Tensor Decomposition Boosted Knowledge Distillation**|Yu-Liang Zhan et.al.|[2411.06448](http://arxiv.org/abs/2411.06448)|null|
 |**2025-04-09**|**Fox-1: Open Small Language Model for Cloud and Edge**|Zijian Hu et.al.|[2411.05281](http://arxiv.org/abs/2411.05281)|null|
-|**2024-10-29**|**KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation**|Rambod Azimi et.al.|[2410.20777](http://arxiv.org/abs/2410.20777)|null|
-|**2024-10-29**|**A Survey of Small Language Models**|Chien Van Nguyen et.al.|[2410.20011](http://arxiv.org/abs/2410.20011)|null|
+|**2024-10-29**|**KD-LoRA: A Hybrid Approach to Efficient Fine-Tuning with LoRA and Knowledge Distillation**|Rambod Azimi et.al.|[2410.20777](http://arxiv.org/abs/2410.20777)|**[link](https://github.com/rambodazimi/KD-LoRA)**|
+|**2024-10-29**|**A Survey of Small Language Models**|Chien Van Nguyen et.al.|[2410.20011](http://arxiv.org/abs/2410.20011)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2025-07-15**|**Self-calibration for Language Model Quantization and Pruning**|Miles Williams et.al.|[2410.17170](http://arxiv.org/abs/2410.17170)|null|
 |**2024-10-21**|**Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers**|Yuxin Wen et.al.|[2410.14072](http://arxiv.org/abs/2410.14072)|null|
 |**2025-06-03**|**RoCoFT: Efficient Finetuning of Large Language Models with Row-Column Updates**|Md Kowsher et.al.|[2410.10075](http://arxiv.org/abs/2410.10075)|null|
@@ -1791,7 +1791,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2024-06-05**|**TinyLlama: An Open-Source Small Language Model**|Peiyuan Zhang et.al.|[2401.02385](http://arxiv.org/abs/2401.02385)|null|
 |**2024-02-23**|**LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model**|Yichen Zhu et.al.|[2401.02330](http://arxiv.org/abs/2401.02330)|null|
 |**2024-06-24**|**TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**|Zhengqing Yuan et.al.|[2312.16862](http://arxiv.org/abs/2312.16862)|null|
-|**2024-03-19**|**Language Model Knowledge Distillation for Efficient Question Answering in Spanish**|Adrián Bazaga et.al.|[2312.04193](http://arxiv.org/abs/2312.04193)|null|
+|**2024-03-19**|**Language Model Knowledge Distillation for Efficient Question Answering in Spanish**|Adrián Bazaga et.al.|[2312.04193](http://arxiv.org/abs/2312.04193)|**[link](https://github.com/AdrianBZG/tinyroberta-distillation-qa-es)**|
 |**2024-02-07**|**Compressed Context Memory For Online Language Model Interaction**|Jang-Hyun Kim et.al.|[2312.03414](http://arxiv.org/abs/2312.03414)|null|
 |**2023-11-09**|**PB-LLM: Partially Binarized Large Language Models**|Yuzhang Shang et.al.|[2310.00034](http://arxiv.org/abs/2310.00034)|null|
 |**2023-08-29**|**Improving Knowledge Distillation for BERT Models: Loss Functions, Mapping Methods, and Weight Tuning**|Apoorv Dankar et.al.|[2308.13958](http://arxiv.org/abs/2308.13958)|null|
@@ -1806,7 +1806,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2022-08-04**|**Efficient Fine-Tuning of Compressed Language Models with Learners**|Danilo Vucetic et.al.|[2208.02070](http://arxiv.org/abs/2208.02070)|null|
 |**2022-06-01**|**Parameter-Efficient and Student-Friendly Knowledge Distillation**|Jun Rao et.al.|[2205.15308](http://arxiv.org/abs/2205.15308)|null|
 |**2022-05-24**|**Parameter-Efficient Sparsity for Large Language Models Fine-Tuning**|Yuchao Li et.al.|[2205.11005](http://arxiv.org/abs/2205.11005)|null|
-|**2022-05-04**|**Structured Pruning Learns Compact and Accurate Models**|Mengzhou Xia et.al.|[2204.00408](http://arxiv.org/abs/2204.00408)|**[link](https://github.com/princeton-nlp/CoFiPruning)**|
+|**2022-05-04**|**Structured Pruning Learns Compact and Accurate Models**|Mengzhou Xia et.al.|[2204.00408](http://arxiv.org/abs/2204.00408)|null|
 |**2022-03-23**|**DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization**|Zheng Li et.al.|[2203.11239](http://arxiv.org/abs/2203.11239)|null|
 |**2022-03-09**|**HyperPELT: Unified Parameter-Efficient Language Model Tuning for Both Language and Vision-and-Language Tasks**|Zhengkun Zhang et.al.|[2203.03878](http://arxiv.org/abs/2203.03878)|null|
 |**2022-04-05**|**CHIP: CHannel Independence-based Pruning for Compact Neural Networks**|Yang Sui et.al.|[2110.13981](http://arxiv.org/abs/2110.13981)|null|
@@ -2814,7 +2814,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-07-25**|**Synthetic Data Generation for Phrase Break Prediction with Large Language Model**|Hoyeon Lee et.al.|[2507.18044](http://arxiv.org/abs/2507.18044)|null|
 |**2025-07-15**|**DualDub: Video-to-Soundtrack Generation via Joint Speech and Background Audio Synthesis**|Wenjie Tian et.al.|[2507.10109](http://arxiv.org/abs/2507.10109)|null|
 |**2025-06-13**|**Multimodal Cinematic Video Synthesis Using Text-to-Image and Audio Generation Models**|Sridhar S et.al.|[2506.10005](http://arxiv.org/abs/2506.10005)|null|
-|**2025-06-11**|**A Review on Score-based Generative Models for Audio Applications**|Ge Zhu et.al.|[2506.08457](http://arxiv.org/abs/2506.08457)|null|
+|**2025-06-11**|**A Review on Score-based Generative Models for Audio Applications**|Ge Zhu et.al.|[2506.08457](http://arxiv.org/abs/2506.08457)|**[link](https://github.com/gzhu06/AudioDiffuser)**|
 |**2025-06-24**|**Analysis and Evaluation of Synthetic Data Generation in Speech Dysfluency Detection**|Jinming Zhang et.al.|[2505.22029](http://arxiv.org/abs/2505.22029)|null|
 |**2025-07-01**|**From Alignment to Advancement: Bootstrapping Audio-Language Alignment with Synthetic Data**|Chun-Yi Kuan et.al.|[2505.20166](http://arxiv.org/abs/2505.20166)|null|
 |**2025-05-15**|**DPN-GAN: Inducing Periodic Activations in Generative Adversarial Networks for High-Fidelity Audio Synthesis**|Zeeshan Ahmad et.al.|[2505.09091](http://arxiv.org/abs/2505.09091)|null|
@@ -2824,7 +2824,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-07-24**|**Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance**|Shehzeen Hussain et.al.|[2502.05236](http://arxiv.org/abs/2502.05236)|null|
 |**2025-01-29**|**CosyAudio: Improving Audio Generation with Confidence Scores and Synthetic Captions**|Xinfa Zhu et.al.|[2501.16761](http://arxiv.org/abs/2501.16761)|null|
 |**2025-09-05**|**Exposing Synthetic Speech: Model Attribution and Detection of AI-generated Speech via Audio Fingerprints**|Matías Pizarro et.al.|[2411.14013](http://arxiv.org/abs/2411.14013)|null|
-|**2024-12-20**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|null|
+|**2024-12-20**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/Moe-Zbeeb/Exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
 |**2024-10-24**|**Challenge on Sound Scene Synthesis: Evaluating Text-to-Audio Generation**|Junwon Lee et.al.|[2410.17589](http://arxiv.org/abs/2410.17589)|null|
 |**2025-03-25**|**Where are we in audio deepfake detection? A systematic analysis over generative and detection models**|Xiang Li et.al.|[2410.04324](http://arxiv.org/abs/2410.04324)|null|
 |**2025-07-08**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
