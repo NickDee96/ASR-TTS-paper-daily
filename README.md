@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.16**
+📅 **Updated on 2025.11.17**
 
 ---
 
@@ -405,7 +405,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-11**|**SpeechJudge: Towards Human-Level Judgment for Speech Naturalness**|Xueyao Zhang et.al.|[2511.07931](http://arxiv.org/abs/2511.07931)|null|
 |**2025-11-11**|**SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech**|Lu Gan et.al.|[2511.07821](http://arxiv.org/abs/2511.07821)|null|
 |**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
-|**2025-10-26**|**Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation**|Canxiang Yan et.al.|[2511.05516](http://arxiv.org/abs/2511.05516)|**[link](https://github.com/inclusionAI/Ming-UniAudio)**|
+|**2025-10-26**|**Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation**|Canxiang Yan et.al.|[2511.05516](http://arxiv.org/abs/2511.05516)|null|
 |**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
 |**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
@@ -422,7 +422,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-27**|**SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution**|Dharma Teja Donepudi et.al.|[2510.25178](http://arxiv.org/abs/2510.25178)|null|
 |**2025-10-28**|**Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought**|Jiachen Zhao et.al.|[2510.24941](http://arxiv.org/abs/2510.24941)|null|
 |**2025-10-28**|**Bayesian Speech synthesizers Can Learn from Multiple Teachers**|Ziyang Zhang et.al.|[2510.24372](http://arxiv.org/abs/2510.24372)|null|
-|**2025-10-28**|**SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity**|Hanke Xie et.al.|[2510.23541](http://arxiv.org/abs/2510.23541)|**[link](https://github.com/flybirdxx/ComfyUI-SoulX-Podcast)**|
+|**2025-10-28**|**SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity**|Hanke Xie et.al.|[2510.23541](http://arxiv.org/abs/2510.23541)|null|
 |**2025-10-28**|**BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents**|Litu Ou et.al.|[2510.23458](http://arxiv.org/abs/2510.23458)|null|
 |**2025-10-26**|**UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models**|Wenming Tu et.al.|[2510.22588](http://arxiv.org/abs/2510.22588)|null|
 |**2025-10-25**|**T2SMark: Balancing Robustness and Diversity in Noise-as-Watermark for Diffusion Models**|Jindong Yang et.al.|[2510.22366](http://arxiv.org/abs/2510.22366)|null|
@@ -1082,7 +1082,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-13**|**GridPrune: From "Where to Look" to "What to Select" in Visual Token Pruning for MLLMs**|Yuxiang Duan et.al.|[2511.10081](http://arxiv.org/abs/2511.10081)|null|
 |**2025-11-13**|**Image Aesthetic Reasoning via HCM-GRPO: Empowering Compact Model for Superior Performance**|Zhiyuan Hu et.al.|[2511.10055](http://arxiv.org/abs/2511.10055)|null|
 |**2025-11-13**|**Efficient Thought Space Exploration through Strategic Intervention**|Ziheng Li et.al.|[2511.10038](http://arxiv.org/abs/2511.10038)|null|
-|**2025-11-13**|**LampQ: Towards Accurate Layer-wise Mixed Precision Quantization for Vision Transformers**|Minjun Kim et.al.|[2511.10004](http://arxiv.org/abs/2511.10004)|null|
+|**2025-11-13**|**LampQ: Towards Accurate Layer-wise Mixed Precision Quantization for Vision Transformers**|Minjun Kim et.al.|[2511.10004](http://arxiv.org/abs/2511.10004)|**[link](https://github.com/snudatalab/LampQ)**|
 |**2025-11-13**|**Explore and Establish Synergistic Effects Between Weight Pruning and Coreset Selection in Neural Network Training**|Weilin Wan et.al.|[2511.09901](http://arxiv.org/abs/2511.09901)|null|
 |**2025-11-13**|**Regional Attention-Enhanced Swin Transformer for Clinically Relevant Medical Image Captioning**|Zubia Naz et.al.|[2511.09893](http://arxiv.org/abs/2511.09893)|null|
 |**2025-11-13**|**HCC-3D: Hierarchical Compensatory Compression for 98% 3D Token Reduction in Vision-Language Models**|Liheng Zhang et.al.|[2511.09883](http://arxiv.org/abs/2511.09883)|null|
