@@ -338,7 +338,7 @@
     "2511.13159": "|**2025-11-17**|**Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis**|Zaara Zabeen Arpa et.al.|[2511.13159](http://arxiv.org/abs/2511.13159)|**[link](https://github.com/zaarpa/Distinguish-Repetition-Disfluency-From-Reduplication-Dataset)**|\n",
     "2511.12285": "|**2025-11-15**|**How Far Do SSL Speech Models Listen for Tone? Temporal Focus of Tone Representation under Low-resource Transfer**|Minu Kim et.al.|[2511.12285](http://arxiv.org/abs/2511.12285)|null|\n",
     "2511.12255": "|**2025-11-15**|**Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets**|Huy M. Le et.al.|[2511.12255](http://arxiv.org/abs/2511.12255)|null|\n",
-    "2511.11699": "|**2025-11-12**|**Tighter Truncated Rectangular Prism Approximation for RNN Robustness Verification**|Xingqi Lin et.al.|[2511.11699](http://arxiv.org/abs/2511.11699)|null|\n"
+    "2511.11699": "|**2025-11-12**|**Tighter Truncated Rectangular Prism Approximation for RNN Robustness Verification**|Xingqi Lin et.al.|[2511.11699](http://arxiv.org/abs/2511.11699)|**[link](https://github.com/Olinvia/DeepPrism)**|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
@@ -981,7 +981,7 @@
     "2511.10768": "|**2025-11-13**|**Faithful Summarization of Consumer Health Queries: A Cross-Lingual Framework with LLMs**|Ajwad Abrar et.al.|[2511.10768](http://arxiv.org/abs/2511.10768)|null|\n",
     "2511.10670": "|**2025-11-09**|**Towards Fine-Grained Code-Switch Speech Translation with Semantic Space Alignment**|Yan Gao et.al.|[2511.10670](http://arxiv.org/abs/2511.10670)|null|\n",
     "2511.13689": "|**2025-11-17**|**Crossing Borders: A Multimodal Challenge for Indian Poetry Translation and Image Generation**|Sofia Jamil et.al.|[2511.13689](http://arxiv.org/abs/2511.13689)|null|\n",
-    "2511.13467": "|**2025-11-17**|**Non-Linear Scoring Model for Translation Quality Evaluation**|Serge Gladkoff et.al.|[2511.13467](http://arxiv.org/abs/2511.13467)|**[link](https://github.com/Aryia-Behroziuan/neurons)**|\n",
+    "2511.13467": "|**2025-11-17**|**Non-Linear Scoring Model for Translation Quality Evaluation**|Serge Gladkoff et.al.|[2511.13467](http://arxiv.org/abs/2511.13467)|null|\n",
     "2511.12109": "|**2025-11-15**|**Exploring Parameter-Efficient Fine-Tuning and Backtranslation for the WMT 25 General Translation Task**|Felipe Fujita et.al.|[2511.12109](http://arxiv.org/abs/2511.12109)|null|\n",
     "2511.11816": "|**2025-11-14**|**Do LLMs Really Struggle at NL-FOL Translation? Revealing their Strengths via a Novel Benchmarking Strategy**|Andrea Brunello et.al.|[2511.11816](http://arxiv.org/abs/2511.11816)|null|\n"
   },

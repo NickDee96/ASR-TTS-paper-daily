@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.18**
+📅 **Updated on 2025.11.19**
 
 ## 🌟 About This Repository
 
@@ -39,7 +39,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-17**|**Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis**|Zaara Zabeen Arpa et.al.|[2511.13159](http://arxiv.org/abs/2511.13159)|**[link](https://github.com/zaarpa/Distinguish-Repetition-Disfluency-From-Reduplication-Dataset)**|
 |**2025-11-15**|**How Far Do SSL Speech Models Listen for Tone? Temporal Focus of Tone Representation under Low-resource Transfer**|Minu Kim et.al.|[2511.12285](http://arxiv.org/abs/2511.12285)|null|
 |**2025-11-15**|**Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets**|Huy M. Le et.al.|[2511.12255](http://arxiv.org/abs/2511.12255)|null|
-|**2025-11-12**|**Tighter Truncated Rectangular Prism Approximation for RNN Robustness Verification**|Xingqi Lin et.al.|[2511.11699](http://arxiv.org/abs/2511.11699)|null|
+|**2025-11-12**|**Tighter Truncated Rectangular Prism Approximation for RNN Robustness Verification**|Xingqi Lin et.al.|[2511.11699](http://arxiv.org/abs/2511.11699)|**[link](https://github.com/Olinvia/DeepPrism)**|
 |**2025-11-14**|**Speech-Aware Long Context Pruning and Integration for Contextualized Automatic Speech Recognition**|Yiming Rong et.al.|[2511.11139](http://arxiv.org/abs/2511.11139)|null|
 |**2025-11-13**|**TEDxTN: A Three-way Speech Translation Corpus for Code-Switched Tunisian Arabic - English**|Fethi Bougares et.al.|[2511.10780](http://arxiv.org/abs/2511.10780)|null|
 |**2025-11-09**|**Towards Fine-Grained Code-Switch Speech Translation with Semantic Space Alignment**|Yan Gao et.al.|[2511.10670](http://arxiv.org/abs/2511.10670)|null|
@@ -684,7 +684,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-17**|**Crossing Borders: A Multimodal Challenge for Indian Poetry Translation and Image Generation**|Sofia Jamil et.al.|[2511.13689](http://arxiv.org/abs/2511.13689)|null|
-|**2025-11-17**|**Non-Linear Scoring Model for Translation Quality Evaluation**|Serge Gladkoff et.al.|[2511.13467](http://arxiv.org/abs/2511.13467)|**[link](https://github.com/Aryia-Behroziuan/neurons)**|
+|**2025-11-17**|**Non-Linear Scoring Model for Translation Quality Evaluation**|Serge Gladkoff et.al.|[2511.13467](http://arxiv.org/abs/2511.13467)|null|
 |**2025-11-15**|**Exploring Parameter-Efficient Fine-Tuning and Backtranslation for the WMT 25 General Translation Task**|Felipe Fujita et.al.|[2511.12109](http://arxiv.org/abs/2511.12109)|null|
 |**2025-11-14**|**Do LLMs Really Struggle at NL-FOL Translation? Revealing their Strengths via a Novel Benchmarking Strategy**|Andrea Brunello et.al.|[2511.11816](http://arxiv.org/abs/2511.11816)|null|
 |**2025-11-14**|**Beyond Exascale: Dataflow Domain Translation on a Cerebras Cluster**|Tomas Oppelstrup et.al.|[2511.11542](http://arxiv.org/abs/2511.11542)|null|
