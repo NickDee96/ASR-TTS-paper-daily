@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.19**
+📅 **Updated on 2025.11.20**
 
 ## 🌟 About This Repository
 
@@ -2024,7 +2024,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-18**|**Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning**|Xiuxiu Qi et.al.|[2511.14396](http://arxiv.org/abs/2511.14396)|null|
 |**2025-11-18**|**H-LDM: Hierarchical Latent Diffusion Models for Controllable and Interpretable PCG Synthesis from Clinical Metadata**|Chenyang Xu et.al.|[2511.14312](http://arxiv.org/abs/2511.14312)|null|
 |**2025-11-18**|**A Comprehensive Study of Implicit and Explicit Biases in Large Language Models**|Fatima Kazi et.al.|[2511.14153](http://arxiv.org/abs/2511.14153)|null|
-|**2025-11-17**|**Segment Anything Across Shots: A Method and Benchmark**|Hengrui Hu et.al.|[2511.13715](http://arxiv.org/abs/2511.13715)|null|
+|**2025-11-17**|**Segment Anything Across Shots: A Method and Benchmark**|Hengrui Hu et.al.|[2511.13715](http://arxiv.org/abs/2511.13715)|**[link](https://github.com/FudanCVL/SAAS)**|
 |**2025-11-17**|**MMWSTM-ADRAN+: A Novel Hybrid Deep Learning Architecture for Enhanced Climate Time Series Forecasting and Extreme Event Prediction**|Shaheen Mohammed Saleh Ahmed et.al.|[2511.13419](http://arxiv.org/abs/2511.13419)|null|
 |**2025-11-17**|**A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features**|Hanzhe Liang et.al.|[2511.13115](http://arxiv.org/abs/2511.13115)|null|
 |**2025-11-17**|**Learning from the Undesirable: Robust Adaptation of Language Models without Forgetting**|Yunhun Nam et.al.|[2511.13052](http://arxiv.org/abs/2511.13052)|null|
