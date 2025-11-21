@@ -44,12 +44,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ASR
 
-*📊 346 papers*
+*📊 348 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-20**|**WER is Unaware: Assessing How ASR Errors Distort Clinical Understanding in Patient Facing Dialogue**|Zachary Ellis et.al.|[2511.16544](http://arxiv.org/abs/2511.16544)|null|
+|**2025-11-20**|**NLP Datasets for Idiom and Figurative Language Tasks**|Blake Matheny et.al.|[2511.16345](http://arxiv.org/abs/2511.16345)|null|
 |**2025-11-19**|**Scriboora: Rethinking Human Pose Forecasting**|Daniel Bermuth et.al.|[2511.15565](http://arxiv.org/abs/2511.15565)|null|
 |**2025-11-19**|**Building Robust and Scalable Multilingual ASR for Indian Languages**|Arjun Gangwar et.al.|[2511.15418](http://arxiv.org/abs/2511.15418)|null|
 |**2025-11-18**|**Ground Truth Generation for Multilingual Historical NLP using LLMs**|Clovis Gladstone et.al.|[2511.14688](http://arxiv.org/abs/2511.14688)|null|
@@ -409,12 +411,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## TTS
 
-*📊 298 papers*
+*📊 300 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-20**|**Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs**|Wei-Cheng Tseng et.al.|[2511.16639](http://arxiv.org/abs/2511.16639)|null|
+|**2025-11-20**|**SceneGuard: Training-Time Voice Protection with Scene-Consistent Audible Background Noise**|Rui Sang et.al.|[2511.16114](http://arxiv.org/abs/2511.16114)|null|
 |**2025-11-19**|**PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback**|Sirui Chen et.al.|[2511.15253](http://arxiv.org/abs/2511.15253)|null|
 |**2025-11-18**|**Voiced-Aware Style Extraction and Style Direction Adjustment for Expressive Text-to-Speech**|Nam-Gyu Kim et.al.|[2511.14824](http://arxiv.org/abs/2511.14824)|null|
 |**2025-11-06**|**The Impact of Prosodic Segmentation on Speech Synthesis of Spontaneous Speech**|Julio Cesar Galdino et.al.|[2511.14779](http://arxiv.org/abs/2511.14779)|null|
@@ -1095,12 +1099,46 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 992 papers*
+*📊 1026 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
+|**2025-11-20**|**Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs**|Ali Taghibakhshi et.al.|[2511.16664](http://arxiv.org/abs/2511.16664)|null|
+|**2025-11-20**|**Teacher-Guided One-Shot Pruning via Context-Aware Knowledge Distillation**|Md. Samiul Alim et.al.|[2511.16653](http://arxiv.org/abs/2511.16653)|null|
+|**2025-11-20**|**You Only Forward Once: An Efficient Compositional Judging Paradigm**|Tianlong Zhang et.al.|[2511.16600](http://arxiv.org/abs/2511.16600)|null|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|null|
+|**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
+|**2025-11-20**|**Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming**|Ziyue Xu et.al.|[2511.16450](http://arxiv.org/abs/2511.16450)|null|
+|**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu et.al.|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
+|**2025-11-20**|**FreqFlow: Long-term forecasting using lightweight flow matching**|Seyed Mohamad Moghadas et.al.|[2511.16426](http://arxiv.org/abs/2511.16426)|null|
+|**2025-11-20**|**TOFA: Training-Free One-Shot Federated Adaptation for Vision-Language Models**|Li Zhang et.al.|[2511.16423](http://arxiv.org/abs/2511.16423)|null|
+|**2025-11-20**|**An Efficient LLM-based Evolutional Recommendation with Locate-Forget-Update Paradigm**|Hao Liu et.al.|[2511.16414](http://arxiv.org/abs/2511.16414)|null|
+|**2025-11-20**|**VersaPants: A Loose-Fitting Textile Capacitive Sensing System for Lower-Body Motion Capture**|Deniz Kasap et.al.|[2511.16346](http://arxiv.org/abs/2511.16346)|null|
+|**2025-11-20**|**Aerial View River Landform Video segmentation: A Weakly Supervised Context-aware Temporal Consistency Distillation Approach**|Chi-Han Chen et.al.|[2511.16343](http://arxiv.org/abs/2511.16343)|null|
+|**2025-11-20**|**SDA: Steering-Driven Distribution Alignment for Open LLMs without Fine-Tuning**|Wei Xia et.al.|[2511.16324](http://arxiv.org/abs/2511.16324)|**[link](https://github.com/adventurexw/SDA)**|
+|**2025-11-20**|**WWE-UIE: A Wavelet & White Balance Efficient Network for Underwater Image Enhancement**|Ching-Heng Cheng et.al.|[2511.16321](http://arxiv.org/abs/2511.16321)|null|
+|**2025-11-20**|**SeSE: A Structural Information-Guided Uncertainty Quantification Framework for Hallucination Detection in LLMs**|Xingtao Zhao et.al.|[2511.16275](http://arxiv.org/abs/2511.16275)|null|
+|**2025-11-20**|**Accelerating Reionization Constraints: An ANN-Emulator Framework for the SCRIPT Semi-numerical Model**|Saptarshi Sarkar et.al.|[2511.16256](http://arxiv.org/abs/2511.16256)|null|
+|**2025-11-20**|**FT-NCFM: An Influence-Aware Data Distillation Framework for Efficient VLA Models**|Kewei Chen et.al.|[2511.16233](http://arxiv.org/abs/2511.16233)|null|
+|**2025-11-20**|**Q-MLLM: Vector Quantization for Robust Multimodal Large Language Model Security**|Wei Zhao et.al.|[2511.16229](http://arxiv.org/abs/2511.16229)|null|
+|**2025-11-20**|**Optical Waveguide-Pair Design for CMOS-Compatible Hybrid III-V-on-Silicon Quantum Dot Lasers**|Peter Raymond Smith et.al.|[2511.16222](http://arxiv.org/abs/2511.16222)|null|
+|**2025-11-20**|**PIPHEN: Physical Interaction Prediction with Hamiltonian Energy Networks**|Kewei Chen et.al.|[2511.16200](http://arxiv.org/abs/2511.16200)|null|
+|**2025-11-20**|**Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers**|Jian Ma et.al.|[2511.16156](http://arxiv.org/abs/2511.16156)|null|
+|**2025-11-20**|**TS-PEFT: Token-Selective Parameter-Efficient Fine-Tuning with Learnable Threshold Gating**|Dabiao Ma et.al.|[2511.16147](http://arxiv.org/abs/2511.16147)|null|
+|**2025-11-20**|**LEGO-SLAM: Language-Embedded Gaussian Optimization SLAM**|Sibaek Lee et.al.|[2511.16144](http://arxiv.org/abs/2511.16144)|null|
+|**2025-11-20**|**Degradation-Aware Hierarchical Termination for Blind Quality Enhancement of Compressed Video**|Li Yu et.al.|[2511.16137](http://arxiv.org/abs/2511.16137)|null|
+|**2025-11-20**|**Change-of-Basis Pruning via Rotational Invariance**|Alex Ning et.al.|[2511.16061](http://arxiv.org/abs/2511.16061)|null|
+|**2025-11-20**|**LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving**|Pei Liu et.al.|[2511.16049](http://arxiv.org/abs/2511.16049)|null|
+|**2025-11-20**|**Fairness in Multi-modal Medical Diagnosis with Demonstration Selection**|Dawei Li et.al.|[2511.15986](http://arxiv.org/abs/2511.15986)|null|
+|**2025-11-20**|**JudgeBoard: Benchmarking and Enhancing Small Language Models for Reasoning Evaluation**|Zhenyu Bi et.al.|[2511.15958](http://arxiv.org/abs/2511.15958)|null|
+|**2025-11-20**|**A Scalable NorthPole System with End-to-End Vertical Integration for Low-Latency and Energy-Efficient LLM Inference**|Michael V. DeBole et.al.|[2511.15950](http://arxiv.org/abs/2511.15950)|null|
+|**2025-11-19**|**discretize_distributions: Efficient Quantization of Gaussian Mixtures with Guarantees in Wasserstein Distance**|Steven Adams et.al.|[2511.15854](http://arxiv.org/abs/2511.15854)|null|
+|**2025-11-19**|**EfficientSAM3: Progressive Hierarchical Distillation for Video Concept Segmentation from SAM1, 2, and 3**|Chengxi Zeng et.al.|[2511.15833](http://arxiv.org/abs/2511.15833)|null|
+|**2025-11-19**|**Dimensional Phenomenology in Polymeric Quantization Framework**|Kourosh Nozari et.al.|[2511.15826](http://arxiv.org/abs/2511.15826)|null|
+|**2025-11-19**|**UniUltra: Interactive Parameter-Efficient SAM2 for Universal Ultrasound Segmentation**|Yue Li et.al.|[2511.15771](http://arxiv.org/abs/2511.15771)|null|
 |**2025-11-19**|**Joint Semantic-Channel Coding and Modulation for Token Communications**|Jingkai Ying et.al.|[2511.15699](http://arxiv.org/abs/2511.15699)|null|
 |**2025-11-19**|**The Impact of Quantization on Large Reasoning Model Reinforcement Learning**|Medha Kumar et.al.|[2511.15694](http://arxiv.org/abs/2511.15694)|null|
 |**2025-11-19**|**From Low-Rank Features to Encoding Mismatch: Rethinking Feature Distillation in Vision Transformers**|Huiyuan Tian et.al.|[2511.15572](http://arxiv.org/abs/2511.15572)|null|
@@ -2106,16 +2144,22 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 477 papers*
+*📊 483 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-20**|**Boosting Predictive Performance on Tabular Data through Data Augmentation with Latent-Space Flow-Based Diffusion**|Md. Tawfique Ihsan et.al.|[2511.16571](http://arxiv.org/abs/2511.16571)|null|
+|**2025-11-20**|**Contrastive vision-language learning with paraphrasing and negation**|Kwun Ho Ngan et.al.|[2511.16527](http://arxiv.org/abs/2511.16527)|null|
+|**2025-11-20**|**Physics-Informed Machine Learning for Efficient Sim-to-Real Data Augmentation in Micro-Object Pose Estimation**|Zongcai Tan et.al.|[2511.16494](http://arxiv.org/abs/2511.16494)|null|
+|**2025-11-20**|**Prediction of atomic H adsorption energies in metalloid doped MSSe (M = Mo/W) Janus layers: A combined DFT and machine learning study**|G. Tejaswini et.al.|[2511.16263](http://arxiv.org/abs/2511.16263)|null|
+|**2025-11-20**|**LLMs-based Augmentation for Domain Adaptation in Long-tailed Food Datasets**|Qing Wang et.al.|[2511.16037](http://arxiv.org/abs/2511.16037)|null|
+|**2025-11-20**|**KRAL: Knowledge and Reasoning Augmented Learning for LLM-assisted Clinical Antimicrobial Therapy**|Zhe Li et.al.|[2511.15974](http://arxiv.org/abs/2511.15974)|null|
 |**2025-11-19**|**Learning from Imperfect Labels: A Physics-Aware Neural Operator with Application to DAS Data Denoising**|Yang Cui et.al.|[2511.15638](http://arxiv.org/abs/2511.15638)|null|
 |**2025-11-19**|**A Hybrid CNN-ViT-GNN Framework with GAN-Based Augmentation for Intelligent Weed Detection in Precision Agriculture**|Pandiyaraju V et.al.|[2511.15535](http://arxiv.org/abs/2511.15535)|null|
 |**2025-11-19**|**Advancing Identification method of Gamma-Ray Bursts with Data and Feature Enhancement**|Peng Zhang et.al.|[2511.15470](http://arxiv.org/abs/2511.15470)|null|
-|**2025-11-19**|**Selective Mixup for Debiasing Question Selection in Computerized Adaptive Testing**|Mi Tian et.al.|[2511.15241](http://arxiv.org/abs/2511.15241)|null|
+|**2025-11-20**|**Selective Mixup for Debiasing Question Selection in Computerized Adaptive Testing**|Mi Tian et.al.|[2511.15241](http://arxiv.org/abs/2511.15241)|null|
 |**2025-11-19**|**Data-driven Prediction of Species-Specific Plant Responses to Spectral-Shifting Films from Leaf Phenotypic and Photosynthetic Traits**|Jun Hyeun Kang et.al.|[2511.15173](http://arxiv.org/abs/2511.15173)|null|
 |**2025-11-19**|**Deep Learning Assisted Prediction of Electrochemical Lithiation State in Spinel Lithium Titanium Oxide Thin Films**|Devin Chugh et.al.|[2511.15109](http://arxiv.org/abs/2511.15109)|null|
 |**2025-11-18**|**Structured Contrastive Learning for Interpretable Latent Representations**|Zhengyang Shen et.al.|[2511.14920](http://arxiv.org/abs/2511.14920)|null|
@@ -2602,12 +2646,24 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 639 papers*
+*📊 651 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-20**|**Dataset Distillation for Pre-Trained Self-Supervised Vision Models**|George Cazenavette et.al.|[2511.16674](http://arxiv.org/abs/2511.16674)|null|
+|**2025-11-20**|**V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models**|Yang Luo et.al.|[2511.16668](http://arxiv.org/abs/2511.16668)|null|
+|**2025-11-20**|**InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy**|Yang Tian et.al.|[2511.16651](http://arxiv.org/abs/2511.16651)|null|
+|**2025-11-20**|**SAM 3D: 3Dfy Anything in Images**|SAM 3D Team et.al.|[2511.16624](http://arxiv.org/abs/2511.16624)|null|
+|**2025-11-20**|**gfnx: Fast and Scalable Library for Generative Flow Networks in JAX**|Daniil Tiapkin et.al.|[2511.16592](http://arxiv.org/abs/2511.16592)|null|
+|**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
+|**2025-11-20**|**Supervised Contrastive Learning for Few-Shot AI-Generated Image Detection and Attribution**|Jaime Álvarez Urueña et.al.|[2511.16541](http://arxiv.org/abs/2511.16541)|null|
+|**2025-11-20**|**From generative AI to the brain: five takeaways**|Claudius Gros et.al.|[2511.16432](http://arxiv.org/abs/2511.16432)|null|
+|**2025-11-20**|**Generative Modeling of Clinical Time Series via Latent Stochastic Differential Equations**|Muhammad Aslanimoghanloo et.al.|[2511.16427](http://arxiv.org/abs/2511.16427)|null|
+|**2025-11-20**|**Denoising weak lensing mass maps with diffusion model and generative adversarial network**|Shohei D. Aoyama et.al.|[2511.16415](http://arxiv.org/abs/2511.16415)|null|
+|**2025-11-20**|**Reducing Instability in Synthetic Data Evaluation with a Super-Metric in MalDataGen**|Anna Luiza Gomes da Silva et.al.|[2511.16373](http://arxiv.org/abs/2511.16373)|null|
+|**2025-11-20**|**Beyond Generative AI: World Models for Clinical Prediction, Counterfactuals, and Planning**|Mohammad Areeb Qazi et.al.|[2511.16333](http://arxiv.org/abs/2511.16333)|null|
 |**2025-11-19**|**Computer-Use Agents as Judges for Generative User Interface**|Kevin Qinghong Lin et.al.|[2511.15567](http://arxiv.org/abs/2511.15567)|null|
 |**2025-11-19**|**FunnyNodules: A Customizable Medical Dataset Tailored for Evaluating Explainable AI**|Luisa Gallée et.al.|[2511.15481](http://arxiv.org/abs/2511.15481)|null|
 |**2025-11-19**|**Taming Generative Synthetic Data for X-ray Prohibited Item Detection**|Jialong Sun et.al.|[2511.15299](http://arxiv.org/abs/2511.15299)|null|
