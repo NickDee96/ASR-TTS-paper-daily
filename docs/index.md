@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.21**
+📅 **Updated on 2025.11.22**
 
 ## 🌟 About This Repository
 
@@ -62,7 +62,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-11**|**Pruning as Regularization: Sensitivity-Aware One-Shot Pruning in ASR**|Julian Irigoyen et.al.|[2511.08092](http://arxiv.org/abs/2511.08092)|null|
 |**2025-11-13**|**SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition**|Jiaqi Wang et.al.|[2511.07883](http://arxiv.org/abs/2511.07883)|null|
 |**2025-11-11**|**Surgical Agent Orchestration Platform for Voice-directed Patient Data Interaction**|Hyeryun Park et.al.|[2511.07392](http://arxiv.org/abs/2511.07392)|null|
-|**2025-11-10**|**Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models**|Umberto Cappellazzo et.al.|[2511.07253](http://arxiv.org/abs/2511.07253)|null|
+|**2025-11-10**|**Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models**|Umberto Cappellazzo et.al.|[2511.07253](http://arxiv.org/abs/2511.07253)|**[link](https://github.com/umbertocappellazzo/Omni-AVSR)**|
 |**2025-11-18**|**Privacy on the Fly: A Predictive Adversarial Transformation Network for Mobile Sensor Data**|Tianle Song et.al.|[2511.07242](http://arxiv.org/abs/2511.07242)|null|
 |**2025-11-10**|**Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition**|Marc Jayson Baucas et.al.|[2511.07189](http://arxiv.org/abs/2511.07189)|null|
 |**2025-11-10**|**CLiFT-ASR: A Cross-Lingual Fine-Tuning Framework for Low-Resource Taiwanese Hokkien Speech Recognition**|Hung-Yang Sung et.al.|[2511.06860](http://arxiv.org/abs/2511.06860)|null|
@@ -1056,9 +1056,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-20**|**Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter**|Qinghao Hu et.al.|[2511.16665](http://arxiv.org/abs/2511.16665)|null|
 |**2025-11-20**|**Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs**|Ali Taghibakhshi et.al.|[2511.16664](http://arxiv.org/abs/2511.16664)|null|
-|**2025-11-20**|**Teacher-Guided One-Shot Pruning via Context-Aware Knowledge Distillation**|Md. Samiul Alim et.al.|[2511.16653](http://arxiv.org/abs/2511.16653)|null|
+|**2025-11-20**|**Teacher-Guided One-Shot Pruning via Context-Aware Knowledge Distillation**|Md. Samiul Alim et.al.|[2511.16653](http://arxiv.org/abs/2511.16653)|**[link](https://github.com/sami0055/TGOSP-CAKD)**|
 |**2025-11-20**|**You Only Forward Once: An Efficient Compositional Judging Paradigm**|Tianlong Zhang et.al.|[2511.16600](http://arxiv.org/abs/2511.16600)|null|
-|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|null|
+|**2025-11-20**|**TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding**|Boshen Xu et.al.|[2511.16595](http://arxiv.org/abs/2511.16595)|**[link](https://github.com/xiaomi-research/timeviper)**|
 |**2025-11-20**|**The Oracle and The Prism: A Decoupled and Efficient Framework for Generative Recommendation Explanation**|Jiaheng Zhang et.al.|[2511.16543](http://arxiv.org/abs/2511.16543)|null|
 |**2025-11-20**|**Optimizing Federated Learning in the Era of LLMs: Message Quantization and Streaming**|Ziyue Xu et.al.|[2511.16450](http://arxiv.org/abs/2511.16450)|null|
 |**2025-11-20**|**VLA-Pruner: Temporal-Aware Dual-Level Visual Token Pruning for Efficient Vision-Language-Action Inference**|Ziyan Liu et.al.|[2511.16449](http://arxiv.org/abs/2511.16449)|null|
@@ -1067,7 +1067,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-20**|**An Efficient LLM-based Evolutional Recommendation with Locate-Forget-Update Paradigm**|Hao Liu et.al.|[2511.16414](http://arxiv.org/abs/2511.16414)|null|
 |**2025-11-20**|**VersaPants: A Loose-Fitting Textile Capacitive Sensing System for Lower-Body Motion Capture**|Deniz Kasap et.al.|[2511.16346](http://arxiv.org/abs/2511.16346)|null|
 |**2025-11-20**|**Aerial View River Landform Video segmentation: A Weakly Supervised Context-aware Temporal Consistency Distillation Approach**|Chi-Han Chen et.al.|[2511.16343](http://arxiv.org/abs/2511.16343)|null|
-|**2025-11-20**|**SDA: Steering-Driven Distribution Alignment for Open LLMs without Fine-Tuning**|Wei Xia et.al.|[2511.16324](http://arxiv.org/abs/2511.16324)|**[link](https://github.com/adventurexw/SDA)**|
+|**2025-11-20**|**SDA: Steering-Driven Distribution Alignment for Open LLMs without Fine-Tuning**|Wei Xia et.al.|[2511.16324](http://arxiv.org/abs/2511.16324)|null|
 |**2025-11-20**|**WWE-UIE: A Wavelet & White Balance Efficient Network for Underwater Image Enhancement**|Ching-Heng Cheng et.al.|[2511.16321](http://arxiv.org/abs/2511.16321)|null|
 |**2025-11-20**|**SeSE: A Structural Information-Guided Uncertainty Quantification Framework for Hallucination Detection in LLMs**|Xingtao Zhao et.al.|[2511.16275](http://arxiv.org/abs/2511.16275)|null|
 |**2025-11-20**|**Accelerating Reionization Constraints: An ANN-Emulator Framework for the SCRIPT Semi-numerical Model**|Saptarshi Sarkar et.al.|[2511.16256](http://arxiv.org/abs/2511.16256)|null|
