@@ -716,8 +716,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-09**|**Towards Fine-Grained Code-Switch Speech Translation with Semantic Space Alignment**|Yan Gao et.al.|[2511.10670](http://arxiv.org/abs/2511.10670)|null|
 |**2025-11-13**|**LangGPS: Language Separability Guided Data Pre-Selection for Joint Multilingual Instruction Tuning**|Yangfan Ye et.al.|[2511.10229](http://arxiv.org/abs/2511.10229)|null|
 |**2025-11-13**|**Fractional neural attention for efficient multiscale sequence processing**|Cheng Kevin Qu et.al.|[2511.10208](http://arxiv.org/abs/2511.10208)|null|
-|**2025-11-13**|**Scalable data-driven modeling of microstructure evolution by learning local dependency and spatiotemporal translation invariance rules in phase field simulation**|Zishuo Lan et.al.|[2511.10171](http://arxiv.org/abs/2511.10171)|null|
-|**2025-11-13**|**Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**|Bo Li et.al.|[2511.09984](http://arxiv.org/abs/2511.09984)|null|
+|**2025-11-13**|**Scalable data-driven modeling of microstructure evolution by learning local dependency and spatiotemporal translation invariance rules in phase field simulation**|Zishuo Lan et.al.|[2511.10171](http://arxiv.org/abs/2511.10171)|**[link](https://github.com/Lan-zs/ML_acceleration_PF)**|
+|**2025-11-13**|**Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**|Bo Li et.al.|[2511.09984](http://arxiv.org/abs/2511.09984)|**[link](https://github.com/pkuserc/SCD)**|
 |**2025-11-14**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](http://arxiv.org/abs/2511.09915)|null|
 |**2025-11-12**|**Predicate-Argument Structure Divergences in Chinese and English Parallel Sentences and their Impact on Language Transfer**|Rocco Tripodi et.al.|[2511.09796](http://arxiv.org/abs/2511.09796)|null|
 |**2025-11-12**|**How Small Can You Go? Compact Language Models for On-Device Critical Error Detection in Machine Translation**|Muskaan Chopra et.al.|[2511.09748](http://arxiv.org/abs/2511.09748)|null|
