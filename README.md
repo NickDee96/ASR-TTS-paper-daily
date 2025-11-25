@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.24**
+📅 **Updated on 2025.11.25**
 
 ---
 
