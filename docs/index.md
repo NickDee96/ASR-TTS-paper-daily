@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.25**
+📅 **Updated on 2025.11.26**
 
 ## 🌟 About This Repository
 
@@ -410,7 +410,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-13**|**Curved Worlds, Clear Boundaries: Generalizing Speech Deepfake Detection using Hyperbolic and Spherical Geometry Spaces**|Farhan Sheth et.al.|[2511.10793](http://arxiv.org/abs/2511.10793)|null|
 |**2025-11-13**|**VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction**|Yuhao Wang et.al.|[2511.10232](http://arxiv.org/abs/2511.10232)|null|
 |**2025-11-13**|**Time-Layer Adaptive Alignment for Speaker Similarity in Flow-Matching Based Zero-Shot TTS**|Haoyu Li et.al.|[2511.09995](http://arxiv.org/abs/2511.09995)|null|
-|**2025-11-11**|**SpeechJudge: Towards Human-Level Judgment for Speech Naturalness**|Xueyao Zhang et.al.|[2511.07931](http://arxiv.org/abs/2511.07931)|null|
+|**2025-11-11**|**SpeechJudge: Towards Human-Level Judgment for Speech Naturalness**|Xueyao Zhang et.al.|[2511.07931](http://arxiv.org/abs/2511.07931)|**[link](https://github.com/AmphionTeam/SpeechJudge)**|
 |**2025-11-24**|**SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech**|Lu Gan et.al.|[2511.07821](http://arxiv.org/abs/2511.07821)|null|
 |**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
 |**2025-10-26**|**Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation**|Canxiang Yan et.al.|[2511.05516](http://arxiv.org/abs/2511.05516)|null|
