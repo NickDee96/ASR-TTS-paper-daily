@@ -44,16 +44,19 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ASR
 
-*📊 355 papers*
+*📊 358 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-26**|**ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features**|Ye Bhone Lin et.al.|[2511.21088](http://arxiv.org/abs/2511.21088)|null|
+|**2025-11-26**|**RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data**|Zhisheng Zheng et.al.|[2511.20974](http://arxiv.org/abs/2511.20974)|null|
+|**2025-11-26**|**Towards Audio Token Compression in Large Audio Language Models**|Saurabhchand Bhati et.al.|[2511.20973](http://arxiv.org/abs/2511.20973)|null|
 |**2025-11-25**|**Bridging the Language Gap: Synthetic Voice Diversity via Latent Mixup for Equitable Speech Recognition**|Wesley Bian et.al.|[2511.20534](http://arxiv.org/abs/2511.20534)|null|
 |**2025-11-25**|**Mispronunciation Detection and Diagnosis Without Model Training: A Retrieval-Based Approach**|Huu Tuong Tu et.al.|[2511.20107](http://arxiv.org/abs/2511.20107)|null|
 |**2025-11-24**|**Neural Architecture Search for Quantum Autoencoders**|Hibah Agha et.al.|[2511.19246](http://arxiv.org/abs/2511.19246)|null|
-|**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|**[link](https://github.com/mever-team/auvire)**|
+|**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|null|
 |**2025-11-24**|**Context-Aware Whisper for Arabic ASR Under Linguistic Varieties**|Bashar Talafha et.al.|[2511.18774](http://arxiv.org/abs/2511.18774)|null|
 |**2025-11-21**|**Point of Order: Action-Aware LLM Persona Modeling for Realistic Civic Simulation**|Scott Merrill et.al.|[2511.17813](http://arxiv.org/abs/2511.17813)|null|
 |**2025-11-21**|**Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition**|Ayhan Kucukmanisa et.al.|[2511.17477](http://arxiv.org/abs/2511.17477)|null|
@@ -418,14 +421,18 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## TTS
 
-*📊 305 papers*
+*📊 309 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-26**|**TSGM: Regular and Irregular Time-series Generation using Score-based Generative Models**|Haksoo Lim et.al.|[2511.21335](http://arxiv.org/abs/2511.21335)|null|
+|**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
+|**2025-11-26**|**MUSE: Manipulating Unified Framework for Synthesizing Emotions in Images via Test-Time Optimization**|Yingjie Xia et.al.|[2511.21051](http://arxiv.org/abs/2511.21051)|null|
+|**2025-11-26**|**CartoonSing: Unifying Human and Nonhuman Timbres in Singing Generation**|Jionghao Han et.al.|[2511.21045](http://arxiv.org/abs/2511.21045)|null|
 |**2025-11-25**|**Continual Audio Deepfake Detection via Universal Adversarial Perturbation**|Wangjie Li et.al.|[2511.19974](http://arxiv.org/abs/2511.19974)|null|
-|**2025-11-25**|**Scale Where It Matters: Training-Free Localized Scaling for Diffusion Models**|Qin Ren et.al.|[2511.19917](http://arxiv.org/abs/2511.19917)|null|
+|**2025-11-26**|**Scale Where It Matters: Training-Free Localized Scaling for Diffusion Models**|Qin Ren et.al.|[2511.19917](http://arxiv.org/abs/2511.19917)|null|
 |**2025-11-23**|**InstructAudio: Unified speech and music generation with natural language instruction**|Chunyu Qiang et.al.|[2511.18487](http://arxiv.org/abs/2511.18487)|null|
 |**2025-11-22**|**A superpersuasive autonomous policy debating system**|Allen Roush et.al.|[2511.17854](http://arxiv.org/abs/2511.17854)|null|
 |**2025-11-21**|**AI in Music and Sound: Pedagogical Reflections, Post-Structuralist Approaches and Creative Outcomes in Seminar Practice**|Guilherme Coelho et.al.|[2511.17425](http://arxiv.org/abs/2511.17425)|null|
@@ -742,12 +749,16 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Machine Translation
 
-*📊 360 papers*
+*📊 364 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-26**|**Rigidity of Solitons to the Mean Curvature Flow in $\mathbb{H}^3$ as Translation Surfaces**|Tarcios Andrey Ferreira et.al.|[2511.21545](http://arxiv.org/abs/2511.21545)|null|
+|**2025-11-26**|**Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation**|Lina Conti et.al.|[2511.21517](http://arxiv.org/abs/2511.21517)|null|
+|**2025-11-26**|**RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data**|Zhisheng Zheng et.al.|[2511.20974](http://arxiv.org/abs/2511.20974)|null|
+|**2025-11-25**|**Winning with Less for Low Resource Languages: Advantage of Cross-Lingual English_Persian Argument Mining Model over LLM Augmentation**|Ali Jahan et.al.|[2511.20872](http://arxiv.org/abs/2511.20872)|null|
 |**2025-11-25**|**TReFT: Taming Rectified Flow Models For One-Step Image Translation**|Shengqian Li et.al.|[2511.20307](http://arxiv.org/abs/2511.20307)|null|
 |**2025-11-24**|**Generative Query Expansion with Multilingual LLMs for Cross-Lingual Information Retrieval**|Olivia Macmillan-Scott et.al.|[2511.19325](http://arxiv.org/abs/2511.19325)|null|
 |**2025-11-24**|**What Drives Cross-lingual Ranking? Retrieval Approaches with Multilingual Language Models**|Roksana Goworek et.al.|[2511.19324](http://arxiv.org/abs/2511.19324)|null|
@@ -1121,12 +1132,42 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 1116 papers*
+*📊 1146 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-26**|**ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration**|Hongjin Su et.al.|[2511.21689](http://arxiv.org/abs/2511.21689)|null|
+|**2025-11-26**|**Continual Error Correction on Low-Resource Devices**|Kirill Paramonov et.al.|[2511.21652](http://arxiv.org/abs/2511.21652)|null|
+|**2025-11-26**|**Automated Protein Motif Localization using Concept Activation Vectors in Protein Language Model Embedding Space**|Ahmad Shamail et.al.|[2511.21614](http://arxiv.org/abs/2511.21614)|null|
+|**2025-11-26**|**Beyond URLs: Metadata Diversity and Position for Efficient LLM Pretraining**|Dongyang Fan et.al.|[2511.21613](http://arxiv.org/abs/2511.21613)|null|
+|**2025-11-26**|**Multimodal Robust Prompt Distillation for 3D Point Cloud Models**|Xiang Gu et.al.|[2511.21574](http://arxiv.org/abs/2511.21574)|null|
+|**2025-11-26**|**EoS-FM: Can an Ensemble of Specialist Models act as a Generalist Feature Extractor?**|Pierre Adorni et.al.|[2511.21523](http://arxiv.org/abs/2511.21523)|null|
+|**2025-11-26**|**IntAttention: A Fully Integer Attention Pipeline for Efficient Edge Inference**|Wanli Zhong et.al.|[2511.21513](http://arxiv.org/abs/2511.21513)|null|
+|**2025-11-26**|**CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation**|Shizhe Sun et.al.|[2511.21503](http://arxiv.org/abs/2511.21503)|null|
+|**2025-11-26**|**MobileI2V: Fast and High-Resolution Image-to-Video on Mobile Devices**|Shuai Zhang et.al.|[2511.21475](http://arxiv.org/abs/2511.21475)|null|
+|**2025-11-26**|**VibraWave: Sensing the Pulse of Polluted Waters**|Sagnik Ghosh et.al.|[2511.21456](http://arxiv.org/abs/2511.21456)|null|
+|**2025-11-26**|**Odin: Oriented Dual-module Integration for Text-rich Network Representation Learning**|Kaifeng Hong et.al.|[2511.21416](http://arxiv.org/abs/2511.21416)|null|
+|**2025-11-26**|**Knowledge Distillation for Continual Learning of Biomedical Neural Fields**|Wouter Visser et.al.|[2511.21409](http://arxiv.org/abs/2511.21409)|null|
+|**2025-11-26**|**Prune4Web: DOM Tree Pruning Programming for Web Agent**|Jiayuan Zhang et.al.|[2511.21398](http://arxiv.org/abs/2511.21398)|null|
+|**2025-11-26**|**FITRep: Attention-Guided Item Representation via MLLMs**|Guoxiao Zhang et.al.|[2511.21389](http://arxiv.org/abs/2511.21389)|null|
+|**2025-11-26**|**An octree-based sampling algorithm for analyzing big simulation data**|Janis Geise et.al.|[2511.21352](http://arxiv.org/abs/2511.21352)|null|
+|**2025-11-26**|**Helical Quasiperiodic Chains with Engineered Dissipation: Liouvillian Rapidity Diagnostics of Transport and Localization**|Mohammad Pouranvari et.al.|[2511.21332](http://arxiv.org/abs/2511.21332)|null|
+|**2025-11-26**|**PEFT-Bench: A Parameter-Efficient Fine-Tuning Methods Benchmark**|Robert Belanec et.al.|[2511.21285](http://arxiv.org/abs/2511.21285)|null|
+|**2025-11-26**|**DynamicAdaptiveClimb: Adaptive Cache Replacement with Dynamic Resizing**|Daniel Berend et.al.|[2511.21235](http://arxiv.org/abs/2511.21235)|null|
+|**2025-11-26**|**Data Exfiltration by Compression Attack: Definition and Evaluation on Medical Image Data**|Huiyu Li et.al.|[2511.21227](http://arxiv.org/abs/2511.21227)|null|
+|**2025-11-26**|**LLaVA-UHD v3: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs**|Shichu Sun et.al.|[2511.21150](http://arxiv.org/abs/2511.21150)|null|
+|**2025-11-26**|**Which Layer Causes Distribution Deviation? Entropy-Guided Adaptive Pruning for Diffusion and Flow Models**|Changlin Li et.al.|[2511.21122](http://arxiv.org/abs/2511.21122)|null|
+|**2025-11-26**|**Quantum Hard Spheres with Affine Quantization**|Riccardo Fantoni et.al.|[2511.21119](http://arxiv.org/abs/2511.21119)|null|
+|**2025-11-26**|**EM-KD: Distilling Efficient Multimodal Large Language Model with Unbalanced Vision Tokens**|Ze Feng et.al.|[2511.21106](http://arxiv.org/abs/2511.21106)|null|
+|**2025-11-26**|**MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts**|Ivan Novikov et.al.|[2511.21089](http://arxiv.org/abs/2511.21089)|null|
+|**2025-11-26**|**5G Network Automation Using Local Large Language Models and Retrieval-Augmented Generation**|Ahmadreza Majlesara et.al.|[2511.21084](http://arxiv.org/abs/2511.21084)|null|
+|**2025-11-26**|**G-Net: A Provably Easy Construction of High-Accuracy Random Binary Neural Networks**|Alireza Aghasi et.al.|[2511.21063](http://arxiv.org/abs/2511.21063)|null|
+|**2025-11-26**|**RAVQ-HoloNet: Rate-Adaptive Vector-Quantized Hologram Compression**|Shima Rafiei et.al.|[2511.21035](http://arxiv.org/abs/2511.21035)|null|
+|**2025-11-26**|**Lightweight Model Editing for LLMs to Correct Deprecated API Recommendations**|Guancheng Lin et.al.|[2511.21022](http://arxiv.org/abs/2511.21022)|null|
+|**2025-11-26**|**ICPO: Intrinsic Confidence-Driven Group Relative Preference Optimization for Efficient Reinforcement Learning**|Jinpeng Wang et.al.|[2511.21005](http://arxiv.org/abs/2511.21005)|null|
+|**2025-11-25**|**$Δ$ -NeRF: Incremental Refinement of Neural Radiance Fields through Residual Control and Knowledge Transfer**|Kriti Ghosh et.al.|[2511.20804](http://arxiv.org/abs/2511.20804)|null|
 |**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Wei Tang et.al.|[2511.20641](http://arxiv.org/abs/2511.20641)|null|
 |**2025-11-25**|**DiFR: Inference Verification Despite Nondeterminism**|Adam Karvonen et.al.|[2511.20621](http://arxiv.org/abs/2511.20621)|null|
 |**2025-11-25**|**NVIDIA Nemotron Parse 1.1**|Kateryna Chumachenko et.al.|[2511.20478](http://arxiv.org/abs/2511.20478)|null|
@@ -2256,19 +2297,26 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 510 papers*
+*📊 517 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-26**|**Revolutionizing Glioma Segmentation & Grading Using 3D MRI - Guided Hybrid Deep Learning Models**|Pandiyaraju V et.al.|[2511.21673](http://arxiv.org/abs/2511.21673)|null|
+|**2025-11-26**|**Deep Learning-Based Multiclass Classification of Oral Lesions with Stratified Augmentation**|Joy Naoum et.al.|[2511.21582](http://arxiv.org/abs/2511.21582)|null|
+|**2025-11-26**|**Shift-Equivariant Complex-Valued Convolutional Neural Networks**|Quentin Gabot et.al.|[2511.21250](http://arxiv.org/abs/2511.21250)|null|
+|**2025-11-26**|**Dynamic Stratified Contrastive Learning with Upstream Augmentation for MILP Branching**|Tongkai Lu et.al.|[2511.21107](http://arxiv.org/abs/2511.21107)|null|
+|**2025-11-26**|**A Probabilistic Framework for Temporal Distribution Generalization in Industry-Scale Recommender Systems**|Yuxuan Zhu et.al.|[2511.21032](http://arxiv.org/abs/2511.21032)|null|
+|**2025-11-26**|**FANoise: Singular Value-Adaptive Noise Modulation for Robust Multimodal Representation Learning**|Jiaoyang Li et.al.|[2511.20997](http://arxiv.org/abs/2511.20997)|null|
+|**2025-11-25**|**Winning with Less for Low Resource Languages: Advantage of Cross-Lingual English_Persian Argument Mining Model over LLM Augmentation**|Ali Jahan et.al.|[2511.20872](http://arxiv.org/abs/2511.20872)|null|
 |**2025-11-25**|**Bridging the Language Gap: Synthetic Voice Diversity via Latent Mixup for Equitable Speech Recognition**|Wesley Bian et.al.|[2511.20534](http://arxiv.org/abs/2511.20534)|null|
 |**2025-11-25**|**Data Augmentation Techniques to Reverse-Engineer Neural Network Weights from Input-Output Queries**|Alexander Beiser et.al.|[2511.20312](http://arxiv.org/abs/2511.20312)|null|
 |**2025-11-25**|**Robust 3D Brain MRI Inpainting with Random Masking Augmentation**|Juexin Zhang et.al.|[2511.20202](http://arxiv.org/abs/2511.20202)|null|
 |**2025-11-25**|**SEDA: A Self-Adapted Entity-Centric Data Augmentation for Boosting Gird-based Discontinuous NER Models**|Wen-Fang Su et.al.|[2511.20143](http://arxiv.org/abs/2511.20143)|null|
 |**2025-11-25**|**BERT-APC: A Reference-free Framework for Automatic Pitch Correction via Musical Context Inference**|Sungjae Kim et.al.|[2511.20006](http://arxiv.org/abs/2511.20006)|null|
 |**2025-11-25**|**Rethinking Semi-Supervised Node Classification with Self-Supervised Graph Clustering**|Songbo Wang et.al.|[2511.19976](http://arxiv.org/abs/2511.19976)|null|
-|**2025-11-24**|**TiCT: A Synthetically Pre-Trained Foundation Model for Time Series Classification**|Chin-Chia Michael Yeh et.al.|[2511.19694](http://arxiv.org/abs/2511.19694)|null|
+|**2025-11-26**|**TiCT: A Synthetically Pre-Trained Foundation Model for Time Series Classification**|Chin-Chia Michael Yeh et.al.|[2511.19694](http://arxiv.org/abs/2511.19694)|null|
 |**2025-11-24**|**Blinking Beyond EAR: A Stable Eyelid Angle Metric for Driver Drowsiness Detection and Data Augmentation**|Mathis Wolter et.al.|[2511.19519](http://arxiv.org/abs/2511.19519)|null|
 |**2025-11-22**|**A Multi-Stage Deep Learning Framework with PKCP-MixUp Augmentation for Pediatric Liver Tumor Diagnosis Using Multi-Phase Contrast-Enhanced CT**|Wanqi Wang et.al.|[2511.19478](http://arxiv.org/abs/2511.19478)|null|
 |**2025-11-24**|**BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation**|Rachit Saluja et.al.|[2511.19394](http://arxiv.org/abs/2511.19394)|null|
@@ -2785,12 +2833,18 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 674 papers*
+*📊 680 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
+|**2025-11-26**|**TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data**|Yizhou Zhao et.al.|[2511.21600](http://arxiv.org/abs/2511.21600)|null|
+|**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
+|**2025-11-26**|**Guiding Generative Models for Protein Design: Prompting, Steering and Aligning**|Filippo Stocco et.al.|[2511.21476](http://arxiv.org/abs/2511.21476)|null|
+|**2025-11-26**|**Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams**|Enes Bektas et.al.|[2511.21465](http://arxiv.org/abs/2511.21465)|null|
+|**2025-11-26**|**TSGM: Regular and Irregular Time-series Generation using Score-based Generative Models**|Haksoo Lim et.al.|[2511.21335](http://arxiv.org/abs/2511.21335)|null|
 |**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
 |**2025-11-25**|**Copyright Detection in Large Language Models: An Ethical Approach to Generative AI Development**|David Szczecina et.al.|[2511.20623](http://arxiv.org/abs/2511.20623)|null|
 |**2025-11-25**|**Anatomica: Localized Control over Geometric and Topological Properties for Anatomical Diffusion Models**|Karim Kadry et.al.|[2511.20587](http://arxiv.org/abs/2511.20587)|null|
