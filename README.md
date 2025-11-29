@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.28**
+📅 **Updated on 2025.11.29**
 
 ---
 
@@ -2840,10 +2840,10 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
-|**2025-11-26**|**TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data**|Yizhou Zhao et.al.|[2511.21600](http://arxiv.org/abs/2511.21600)|null|
+|**2025-11-26**|**TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data**|Yizhou Zhao et.al.|[2511.21600](http://arxiv.org/abs/2511.21600)|**[link](https://github.com/zhyzmath/TAB-DRW-Tabular-Data-Watermarking)**|
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-26**|**Guiding Generative Models for Protein Design: Prompting, Steering and Aligning**|Filippo Stocco et.al.|[2511.21476](http://arxiv.org/abs/2511.21476)|null|
-|**2025-11-26**|**Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams**|Enes Bektas et.al.|[2511.21465](http://arxiv.org/abs/2511.21465)|null|
+|**2025-11-26**|**Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams**|Enes Bektas et.al.|[2511.21465](http://arxiv.org/abs/2511.21465)|**[link](https://github.com/EnesBektas/Ensemble-Performance-through-the-Lens-of-Linear-Independence-of-Classifier-Votes-in-Data-Streams)**|
 |**2025-11-26**|**TSGM: Regular and Irregular Time-series Generation using Score-based Generative Models**|Haksoo Lim et.al.|[2511.21335](http://arxiv.org/abs/2511.21335)|null|
 |**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
 |**2025-11-25**|**Copyright Detection in Large Language Models: An Ethical Approach to Generative AI Development**|David Szczecina et.al.|[2511.20623](http://arxiv.org/abs/2511.20623)|null|

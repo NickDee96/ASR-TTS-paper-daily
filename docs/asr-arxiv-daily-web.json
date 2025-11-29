@@ -3379,10 +3379,10 @@
     "2511.20462": "|**2025-11-25**|**STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow**|Jiatao Gu et.al.|[2511.20462](http://arxiv.org/abs/2511.20462)|null|\n",
     "2511.20445": "|**2025-11-25**|**Diffusion for Fusion: Designing Stellarators with Generative AI**|Misha Padidar et.al.|[2511.20445](http://arxiv.org/abs/2511.20445)|null|\n",
     "2511.21686": "|**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|\n",
-    "2511.21600": "|**2025-11-26**|**TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data**|Yizhou Zhao et.al.|[2511.21600](http://arxiv.org/abs/2511.21600)|null|\n",
+    "2511.21600": "|**2025-11-26**|**TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data**|Yizhou Zhao et.al.|[2511.21600](http://arxiv.org/abs/2511.21600)|**[link](https://github.com/zhyzmath/TAB-DRW-Tabular-Data-Watermarking)**|\n",
     "2511.21579": "|**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|\n",
     "2511.21476": "|**2025-11-26**|**Guiding Generative Models for Protein Design: Prompting, Steering and Aligning**|Filippo Stocco et.al.|[2511.21476](http://arxiv.org/abs/2511.21476)|null|\n",
-    "2511.21465": "|**2025-11-26**|**Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams**|Enes Bektas et.al.|[2511.21465](http://arxiv.org/abs/2511.21465)|null|\n",
+    "2511.21465": "|**2025-11-26**|**Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams**|Enes Bektas et.al.|[2511.21465](http://arxiv.org/abs/2511.21465)|**[link](https://github.com/EnesBektas/Ensemble-Performance-through-the-Lens-of-Linear-Independence-of-Classifier-Votes-in-Data-Streams)**|\n",
     "2511.21335": "|**2025-11-26**|**TSGM: Regular and Irregular Time-series Generation using Score-based Generative Models**|Haksoo Lim et.al.|[2511.21335](http://arxiv.org/abs/2511.21335)|null|\n"
   }
 }
