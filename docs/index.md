@@ -41,7 +41,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-25**|**Bridging the Language Gap: Synthetic Voice Diversity via Latent Mixup for Equitable Speech Recognition**|Wesley Bian et.al.|[2511.20534](http://arxiv.org/abs/2511.20534)|null|
 |**2025-11-25**|**Mispronunciation Detection and Diagnosis Without Model Training: A Retrieval-Based Approach**|Huu Tuong Tu et.al.|[2511.20107](http://arxiv.org/abs/2511.20107)|null|
 |**2025-11-24**|**Neural Architecture Search for Quantum Autoencoders**|Hibah Agha et.al.|[2511.19246](http://arxiv.org/abs/2511.19246)|null|
-|**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|null|
+|**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|**[link](https://github.com/mever-team/auvire)**|
 |**2025-11-24**|**Context-Aware Whisper for Arabic ASR Under Linguistic Varieties**|Bashar Talafha et.al.|[2511.18774](http://arxiv.org/abs/2511.18774)|null|
 |**2025-11-21**|**Point of Order: Action-Aware LLM Persona Modeling for Realistic Civic Simulation**|Scott Merrill et.al.|[2511.17813](http://arxiv.org/abs/2511.17813)|null|
 |**2025-11-21**|**Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition**|Ayhan Kucukmanisa et.al.|[2511.17477](http://arxiv.org/abs/2511.17477)|null|
@@ -2259,7 +2259,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-24**|**BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation**|Rachit Saluja et.al.|[2511.19394](http://arxiv.org/abs/2511.19394)|null|
 |**2025-11-24**|**Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model**|Felix Birkel et.al.|[2511.19272](http://arxiv.org/abs/2511.19272)|null|
 |**2025-11-24**|**Experimental insights into data augmentation techniques for deep learning-based multimode fiber imaging: limitations and success**|Jawaria Maqbool et.al.|[2511.19072](http://arxiv.org/abs/2511.19072)|null|
-|**2025-11-24**|**Skeletons Matter: Dynamic Data Augmentation for Text-to-Query**|Yuchen Ji et.al.|[2511.18934](http://arxiv.org/abs/2511.18934)|**[link](https://github.com/jjjycaptain/Skeletron)**|
+|**2025-11-24**|**Skeletons Matter: Dynamic Data Augmentation for Text-to-Query**|Yuchen Ji et.al.|[2511.18934](http://arxiv.org/abs/2511.18934)|null|
 |**2025-11-24**|**Multidimensional Music Aesthetic Evaluation via Semantically Consistent C-Mixup Augmentation**|Shuyang Liu et.al.|[2511.18869](http://arxiv.org/abs/2511.18869)|null|
 |**2025-11-24**|**Higgs Production Classifier using Weak Supervision**|Kai-Feng Chen et.al.|[2511.18726](http://arxiv.org/abs/2511.18726)|null|
 |**2025-11-24**|**Data Augmentation Strategies for Robust Lane Marking Detection**|Flora Lian et.al.|[2511.18668](http://arxiv.org/abs/2511.18668)|null|
