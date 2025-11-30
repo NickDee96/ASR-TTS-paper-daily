@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.11.29**
+📅 **Updated on 2025.11.30**
 
 ## 🌟 About This Repository
 
@@ -2259,7 +2259,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-24**|**BackSplit: The Importance of Sub-dividing the Background in Biomedical Lesion Segmentation**|Rachit Saluja et.al.|[2511.19394](http://arxiv.org/abs/2511.19394)|null|
 |**2025-11-24**|**Tiny-TSM: Efficiently Training a Lightweight SOTA Time Series Foundation Model**|Felix Birkel et.al.|[2511.19272](http://arxiv.org/abs/2511.19272)|null|
 |**2025-11-24**|**Experimental insights into data augmentation techniques for deep learning-based multimode fiber imaging: limitations and success**|Jawaria Maqbool et.al.|[2511.19072](http://arxiv.org/abs/2511.19072)|null|
-|**2025-11-24**|**Skeletons Matter: Dynamic Data Augmentation for Text-to-Query**|Yuchen Ji et.al.|[2511.18934](http://arxiv.org/abs/2511.18934)|null|
+|**2025-11-24**|**Skeletons Matter: Dynamic Data Augmentation for Text-to-Query**|Yuchen Ji et.al.|[2511.18934](http://arxiv.org/abs/2511.18934)|**[link](https://github.com/jjjycaptain/Skeletron)**|
 |**2025-11-24**|**Multidimensional Music Aesthetic Evaluation via Semantically Consistent C-Mixup Augmentation**|Shuyang Liu et.al.|[2511.18869](http://arxiv.org/abs/2511.18869)|null|
 |**2025-11-24**|**Higgs Production Classifier using Weak Supervision**|Kai-Feng Chen et.al.|[2511.18726](http://arxiv.org/abs/2511.18726)|null|
 |**2025-11-24**|**Data Augmentation Strategies for Robust Lane Marking Detection**|Flora Lian et.al.|[2511.18668](http://arxiv.org/abs/2511.18668)|null|
@@ -2765,10 +2765,10 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-11-26**|**Matrix: Peer-to-Peer Multi-Agent Synthetic Data Generation Framework**|Dong Wang et.al.|[2511.21686](http://arxiv.org/abs/2511.21686)|null|
-|**2025-11-26**|**TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data**|Yizhou Zhao et.al.|[2511.21600](http://arxiv.org/abs/2511.21600)|**[link](https://github.com/zhyzmath/TAB-DRW-Tabular-Data-Watermarking)**|
+|**2025-11-26**|**TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data**|Yizhou Zhao et.al.|[2511.21600](http://arxiv.org/abs/2511.21600)|null|
 |**2025-11-26**|**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**|Teng Hu et.al.|[2511.21579](http://arxiv.org/abs/2511.21579)|null|
 |**2025-11-26**|**Guiding Generative Models for Protein Design: Prompting, Steering and Aligning**|Filippo Stocco et.al.|[2511.21476](http://arxiv.org/abs/2511.21476)|null|
-|**2025-11-26**|**Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams**|Enes Bektas et.al.|[2511.21465](http://arxiv.org/abs/2511.21465)|**[link](https://github.com/EnesBektas/Ensemble-Performance-through-the-Lens-of-Linear-Independence-of-Classifier-Votes-in-Data-Streams)**|
+|**2025-11-26**|**Ensemble Performance Through the Lens of Linear Independence of Classifier Votes in Data Streams**|Enes Bektas et.al.|[2511.21465](http://arxiv.org/abs/2511.21465)|null|
 |**2025-11-26**|**TSGM: Regular and Irregular Time-series Generation using Score-based Generative Models**|Haksoo Lim et.al.|[2511.21335](http://arxiv.org/abs/2511.21335)|null|
 |**2025-11-25**|**MapReduce LoRA: Advancing the Pareto Front in Multi-Preference Optimization for Generative Models**|Chieh-Yun Chen et.al.|[2511.20629](http://arxiv.org/abs/2511.20629)|null|
 |**2025-11-25**|**Copyright Detection in Large Language Models: An Ethical Approach to Generative AI Development**|David Szczecina et.al.|[2511.20623](http://arxiv.org/abs/2511.20623)|null|
