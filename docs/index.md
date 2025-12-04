@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.03**
+📅 **Updated on 2025.12.04**
 
 ## 🌟 About This Repository
 
@@ -56,7 +56,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-25**|**Bridging the Language Gap: Synthetic Voice Diversity via Latent Mixup for Equitable Speech Recognition**|Wesley Bian et.al.|[2511.20534](http://arxiv.org/abs/2511.20534)|null|
 |**2025-11-25**|**Mispronunciation Detection and Diagnosis Without Model Training: A Retrieval-Based Approach**|Huu Tuong Tu et.al.|[2511.20107](http://arxiv.org/abs/2511.20107)|null|
 |**2025-11-24**|**Neural Architecture Search for Quantum Autoencoders**|Hibah Agha et.al.|[2511.19246](http://arxiv.org/abs/2511.19246)|null|
-|**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|**[link](https://github.com/mever-team/auvire)**|
+|**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|null|
 |**2025-11-24**|**Context-Aware Whisper for Arabic ASR Under Linguistic Varieties**|Bashar Talafha et.al.|[2511.18774](http://arxiv.org/abs/2511.18774)|null|
 |**2025-11-21**|**Point of Order: Action-Aware LLM Persona Modeling for Realistic Civic Simulation**|Scott Merrill et.al.|[2511.17813](http://arxiv.org/abs/2511.17813)|null|
 |**2025-11-21**|**Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition**|Ayhan Kucukmanisa et.al.|[2511.17477](http://arxiv.org/abs/2511.17477)|null|
@@ -760,7 +760,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-29**|**Lost without translation -- Can transformer (language models) understand mood states?**|Prakrithi Shivaprakash et.al.|[2512.00274](http://arxiv.org/abs/2512.00274)|null|
 |**2025-11-28**|**OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion**|Sai Koneru et.al.|[2512.00234](http://arxiv.org/abs/2512.00234)|null|
 |**2025-11-28**|**Asm2SrcEval: Evaluating Large Language Models for Assembly-to-Source Code Translation**|Parisa Hamedi et.al.|[2512.00134](http://arxiv.org/abs/2512.00134)|null|
-|**2025-11-28**|**Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering**|Qiming Li et.al.|[2511.23231](http://arxiv.org/abs/2511.23231)|null|
+|**2025-11-28**|**Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering**|Qiming Li et.al.|[2511.23231](http://arxiv.org/abs/2511.23231)|**[link](https://github.com/QimingLi-scir/MRRE)**|
 |**2025-11-28**|**Conveying Imagistic Thinking in TCM Translation: A Prompt Engineering and LLM-Based Evaluation Framework**|Jiatong Han et.al.|[2511.23059](http://arxiv.org/abs/2511.23059)|null|
 |**2025-11-26**|**Advancing Automated In-Isolation Validation in Repository-Level Code Translation**|Kaiyao Ke et.al.|[2511.21878](http://arxiv.org/abs/2511.21878)|null|
 |**2025-11-24**|**LLMs for Low-Resource Dialect Translation Using Context-Aware Prompting: A Case Study on Sylheti**|Tabia Tanzin Prama et.al.|[2511.21761](http://arxiv.org/abs/2511.21761)|null|
