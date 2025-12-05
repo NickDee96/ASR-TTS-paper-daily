@@ -693,7 +693,10 @@
     "2512.00438": "|**2025-11-29**|**FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal**|Hang Xu et.al.|[2512.00438](http://arxiv.org/abs/2512.00438)|null|\n",
     "2512.02834": "|**2025-12-02**|**Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach**|Siyuan Yang et.al.|[2512.02834](http://arxiv.org/abs/2512.02834)|null|\n",
     "2512.02523": "|**2025-12-02**|**Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation**|Xueyan Li et.al.|[2512.02523](http://arxiv.org/abs/2512.02523)|null|\n",
-    "2512.03996": "|**2025-12-03**|**Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation**|Hang Xu et.al.|[2512.03996](http://arxiv.org/abs/2512.03996)|null|\n"
+    "2512.03996": "|**2025-12-03**|**Highly Efficient Test-Time Scaling for T2I Diffusion Models with Text Embedding Perturbation**|Hang Xu et.al.|[2512.03996](http://arxiv.org/abs/2512.03996)|null|\n",
+    "2512.04779": "|**2025-12-04**|**YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance**|Junjie Zheng et.al.|[2512.04779](http://arxiv.org/abs/2512.04779)|null|\n",
+    "2512.04720": "|**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720](http://arxiv.org/abs/2512.04720)|null|\n",
+    "2512.04552": "|**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -1090,7 +1093,9 @@
     "2512.03817": "|**2025-12-03**|**HieroGlyphTranslator: Automatic Recognition and Translation of Egyptian Hieroglyphs to English**|Ahmed Nasser et.al.|[2512.03817](http://arxiv.org/abs/2512.03817)|null|\n",
     "2512.03514": "|**2025-12-03**|**M3DR: Towards Universal Multilingual Multimodal Document Retrieval**|Adithya S Kolavi et.al.|[2512.03514](http://arxiv.org/abs/2512.03514)|null|\n",
     "2512.03360": "|**2025-12-03**|**From Hypothesis to Premises: LLM-based Backward Logical Reasoning with Selective Symbolic Translation**|Qingchuan Li et.al.|[2512.03360](http://arxiv.org/abs/2512.03360)|null|\n",
-    "2512.03086": "|**2025-11-29**|**Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation**|Le Chen et.al.|[2512.03086](http://arxiv.org/abs/2512.03086)|null|\n"
+    "2512.03086": "|**2025-11-29**|**Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation**|Le Chen et.al.|[2512.03086](http://arxiv.org/abs/2512.03086)|null|\n",
+    "2512.05100": "|**2025-12-04**|**Structured Document Translation via Format Reinforcement Learning**|Haiyue Song et.al.|[2512.05100](http://arxiv.org/abs/2512.05100)|null|\n",
+    "2512.04765": "|**2025-12-04**|**AdiBhashaa: A Community-Curated Benchmark for Machine Translation into Indian Tribal Languages**|Pooja Singh et.al.|[2512.04765](http://arxiv.org/abs/2512.04765)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -2364,7 +2369,38 @@
     "2512.03343": "|**2025-12-03**|**Idea-Gated Transformers: Enforcing Semantic Coherence via Differentiable Vocabulary Pruning**|Darshan Fofadiya et.al.|[2512.03343](http://arxiv.org/abs/2512.03343)|null|\n",
     "2512.03324": "|**2025-12-03**|**Cache What Lasts: Token Retention for Memory-Bounded KV Cache in LLMs**|Ngoc Bui et.al.|[2512.03324](http://arxiv.org/abs/2512.03324)|null|\n",
     "2512.03197": "|**2025-12-02**|**InvertiTune: High-Quality Data Synthesis for Cost-Effective Single-Shot Text-to-Knowledge Graph Generation**|Faezeh Faez et.al.|[2512.03197](http://arxiv.org/abs/2512.03197)|null|\n",
-    "2512.03171": "|**2025-12-02**|**A Mathematical Introduction to Geometric Quantization**|Kadri İlker Berktav et.al.|[2512.03171](http://arxiv.org/abs/2512.03171)|null|\n"
+    "2512.03171": "|**2025-12-02**|**A Mathematical Introduction to Geometric Quantization**|Kadri İlker Berktav et.al.|[2512.03171](http://arxiv.org/abs/2512.03171)|null|\n",
+    "2512.05105": "|**2025-12-04**|**Semantic Soft Bootstrapping: Long Context Reasoning in LLMs without Reinforcement Learning**|Purbesh Mitra et.al.|[2512.05105](http://arxiv.org/abs/2512.05105)|null|\n",
+    "2512.05081": "|**2025-12-04**|**Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression**|Jung Yi et.al.|[2512.05081](http://arxiv.org/abs/2512.05081)|null|\n",
+    "2512.05073": "|**2025-12-04**|**David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?**|Shashwat Shankar et.al.|[2512.05073](http://arxiv.org/abs/2512.05073)|null|\n",
+    "2512.05058": "|**2025-12-04**|**Meta-Learning for Quantum Optimization via Quantum Sequence Model**|Yu-Cheng Lin et.al.|[2512.05058](http://arxiv.org/abs/2512.05058)|null|\n",
+    "2512.05033": "|**2025-12-04**|**Arbitrage: Efficient Reasoning via Advantage-Aware Speculation**|Monishwaran Maheswaran et.al.|[2512.05033](http://arxiv.org/abs/2512.05033)|null|\n",
+    "2512.05016": "|**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|\n",
+    "2512.05015": "|**2025-12-04**|**Plug-and-Play Homeostatic Spark: Zero-Cost Acceleration for SNN Training Across Paradigms**|Rui Chen et.al.|[2512.05015](http://arxiv.org/abs/2512.05015)|null|\n",
+    "2512.04974": "|**2025-12-04**|**Efficient Generative Transformer Operators For Million-Point PDEs**|Armand Kassaï Koupaï et.al.|[2512.04974](http://arxiv.org/abs/2512.04974)|null|\n",
+    "2512.04952": "|**2025-12-04**|**FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via neural Action Tokenization**|Yicheng Liu et.al.|[2512.04952](http://arxiv.org/abs/2512.04952)|null|\n",
+    "2512.04939": "|**2025-12-04**|**LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging**|Zhijian Shu et.al.|[2512.04939](http://arxiv.org/abs/2512.04939)|null|\n",
+    "2512.04857": "|**2025-12-04**|**Autoregressive Image Generation Needs Only a Few Lines of Cached Tokens**|Ziran Qin et.al.|[2512.04857](http://arxiv.org/abs/2512.04857)|null|\n",
+    "2512.04810": "|**2025-12-04**|**EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture**|Xin He et.al.|[2512.04810](http://arxiv.org/abs/2512.04810)|null|\n",
+    "2512.04763": "|**2025-12-04**|**MemLoRA: Distilling Expert Adapters for On-Device Memory Systems**|Massimo Bini et.al.|[2512.04763](http://arxiv.org/abs/2512.04763)|null|\n",
+    "2512.04748": "|**2025-12-04**|**Model Whisper: Steering Vectors Unlock Large Language Models' Potential in Test-time**|Xinyue Kang et.al.|[2512.04748](http://arxiv.org/abs/2512.04748)|null|\n",
+    "2512.04746": "|**2025-12-04**|**SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs**|Wenhua Cheng et.al.|[2512.04746](http://arxiv.org/abs/2512.04746)|null|\n",
+    "2512.04695": "|**2025-12-04**|**TRINITY: An Evolved LLM Coordinator**|Jinglue Xu et.al.|[2512.04695](http://arxiv.org/abs/2512.04695)|null|\n",
+    "2512.04691": "|**2025-12-04**|**Towards Ethical Multi-Agent Systems of Large Language Models: A Mechanistic Interpretability Perspective**|Jae Hee Lee et.al.|[2512.04691](http://arxiv.org/abs/2512.04691)|null|\n",
+    "2512.04678": "|**2025-12-04**|**Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation**|Yunhong Lu et.al.|[2512.04678](http://arxiv.org/abs/2512.04678)|null|\n",
+    "2512.04625": "|**2025-12-04**|**Rethinking Decoupled Knowledge Distillation: A Predictive Distribution Perspective**|Bowen Zheng et.al.|[2512.04625](http://arxiv.org/abs/2512.04625)|null|\n",
+    "2512.04620": "|**2025-12-04**|**Metric dimension of Cartesian product of stars**|Akbar Davoodi et.al.|[2512.04620](http://arxiv.org/abs/2512.04620)|null|\n",
+    "2512.04581": "|**2025-12-04**|**Infrared UAV Target Tracking with Dynamic Feature Refinement and Global Contextual Attention Knowledge Distillation**|Houzhang Fang et.al.|[2512.04581](http://arxiv.org/abs/2512.04581)|null|\n",
+    "2512.04550": "|**2025-12-04**|**AdmTree: Compressing Lengthy Context with Adaptive Semantic Trees**|Yangning Li et.al.|[2512.04550](http://arxiv.org/abs/2512.04550)|null|\n",
+    "2512.04520": "|**2025-12-04**|**Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation**|Chenlin Xu et.al.|[2512.04520](http://arxiv.org/abs/2512.04520)|null|\n",
+    "2512.04457": "|**2025-12-04**|**RapidUn: Influence-Driven Parameter Reweighting for Efficient Large Language Model Unlearning**|Guoshenghui Zhao et.al.|[2512.04457](http://arxiv.org/abs/2512.04457)|null|\n",
+    "2512.04443": "|**2025-12-04**|**MD-SNN: Membrane Potential-aware Distillation on Quantized Spiking Neural Network**|Donghyun Lee et.al.|[2512.04443](http://arxiv.org/abs/2512.04443)|null|\n",
+    "2512.04413": "|**2025-12-04**|**Dual-Stream Spectral Decoupling Distillation for Remote Sensing Object Detection**|Xiangyi Gao et.al.|[2512.04413](http://arxiv.org/abs/2512.04413)|null|\n",
+    "2512.04359": "|**2025-12-04**|**Efficient Reinforcement Learning with Semantic and Token Entropy for LLM Reasoning**|Hongye Cao et.al.|[2512.04359](http://arxiv.org/abs/2512.04359)|null|\n",
+    "2512.04296": "|**2025-12-03**|**GRASP: GRouped Activation Shared Parameterization for Parameter-Efficient Fine-Tuning and Robust Inference of Transformers**|Malyaban Bal et.al.|[2512.04296](http://arxiv.org/abs/2512.04296)|null|\n",
+    "2512.04197": "|**2025-12-03**|**Constructing Low-Redundancy Codes via Distributed Graph Coloring**|Yuting Li et.al.|[2512.04197](http://arxiv.org/abs/2512.04197)|null|\n",
+    "2512.04164": "|**2025-12-03**|**Quantum geometry and linear orbital response in arbitrary $SU(2)$ representation**|Rhonald Burgos Atencia et.al.|[2512.04164](http://arxiv.org/abs/2512.04164)|null|\n",
+    "2512.04145": "|**2025-12-03**|**Minuet: A Diffusion Autoencoder for Compact Semantic Compression of Multi-Band Galaxy Images**|Alexander T. Gagliano et.al.|[2512.04145](http://arxiv.org/abs/2512.04145)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -2914,7 +2950,11 @@
     "2512.02141": "|**2025-12-01**|**Feature Selection Empowered BERT for Detection of Hate Speech with Vocabulary Augmentation**|Pritish N. Desai et.al.|[2512.02141](http://arxiv.org/abs/2512.02141)|null|\n",
     "2512.04084": "|**2025-12-03**|**SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows**|Qinyu Zhao et.al.|[2512.04084](http://arxiv.org/abs/2512.04084)|null|\n",
     "2512.03620": "|**2025-12-03**|**SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting**|Hanxiu Zhang et.al.|[2512.03620](http://arxiv.org/abs/2512.03620)|null|\n",
-    "2512.03375": "|**2025-12-03**|**MAGE-ID: A Multimodal Generative Framework for Intrusion Detection Systems**|Mahdi Arab Loodaricheh et.al.|[2512.03375](http://arxiv.org/abs/2512.03375)|null|\n"
+    "2512.03375": "|**2025-12-03**|**MAGE-ID: A Multimodal Generative Framework for Intrusion Detection Systems**|Mahdi Arab Loodaricheh et.al.|[2512.03375](http://arxiv.org/abs/2512.03375)|null|\n",
+    "2512.04551": "|**2025-12-04**|**Multi-Loss Learning for Speech Emotion Recognition with Energy-Adaptive Mixup and Frame-Level Attention**|Cong Wang et.al.|[2512.04551](http://arxiv.org/abs/2512.04551)|null|\n",
+    "2512.04545": "|**2025-12-04**|**EvoEdit: Lifelong Free-Text Knowledge Editing through Latent Perturbation Augmentation and Knowledge-driven Parameter Fusion**|Pengfei Cao et.al.|[2512.04545](http://arxiv.org/abs/2512.04545)|null|\n",
+    "2512.04309": "|**2025-12-03**|**Text-Only Training for Image Captioning with Retrieval Augmentation and Modality Gap Correction**|Rui Fonseca et.al.|[2512.04309](http://arxiv.org/abs/2512.04309)|null|\n",
+    "2512.04264": "|**2025-12-03**|**Studying Various Activation Functions and Non-IID Data for Machine Learning Model Robustness**|Long Dang et.al.|[2512.04264](http://arxiv.org/abs/2512.04264)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -3624,6 +3664,17 @@
     "2512.02721": "|**2025-12-02**|**Generative modeling using evolved quantum Boltzmann machines**|Mark M. Wilde et.al.|[2512.02721](http://arxiv.org/abs/2512.02721)|null|\n",
     "2512.04048": "|**2025-12-03**|**Stable Signer: Hierarchical Sign Language Generative Model**|Sen Fang et.al.|[2512.04048](http://arxiv.org/abs/2512.04048)|null|\n",
     "2512.04039": "|**2025-12-03**|**Fast & Efficient Normalizing Flows and Applications of Image Generative Models**|Sandeep Nagar et.al.|[2512.04039](http://arxiv.org/abs/2512.04039)|null|\n",
-    "2512.03669": "|**2025-12-03**|**Towards Privacy-Preserving Range Queries with Secure Learned Spatial Index over Encrypted Data**|Zuan Wang et.al.|[2512.03669](http://arxiv.org/abs/2512.03669)|null|\n"
+    "2512.03669": "|**2025-12-03**|**Towards Privacy-Preserving Range Queries with Secure Learned Spatial Index over Encrypted Data**|Zuan Wang et.al.|[2512.03669](http://arxiv.org/abs/2512.03669)|null|\n",
+    "2512.05115": "|**2025-12-04**|**Light-X: Generative 4D Video Rendering with Camera and Illumination Control**|Tianqi Liu et.al.|[2512.05115](http://arxiv.org/abs/2512.05115)|null|\n",
+    "2512.05111": "|**2025-12-04**|**ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning**|Shengyuan Ding et.al.|[2512.05111](http://arxiv.org/abs/2512.05111)|null|\n",
+    "2512.05080": "|**2025-12-04**|**OMTRA: A Multi-Task Generative Model for Structure-Based Drug Design**|Ian Dunn et.al.|[2512.05080](http://arxiv.org/abs/2512.05080)|null|\n",
+    "2512.05079": "|**2025-12-04**|**Object Reconstruction under Occlusion with Generative Priors and Contact-induced Constraints**|Minghan Zhu et.al.|[2512.05079](http://arxiv.org/abs/2512.05079)|null|\n",
+    "2512.05021": "|**2025-12-04**|**HTR-ConvText: Leveraging Convolution and Textual Information for Handwritten Text Recognition**|Pham Thach Thanh Truc et.al.|[2512.05021](http://arxiv.org/abs/2512.05021)|null|\n",
+    "2512.05016": "|**2025-12-04**|**Generative Neural Video Compression via Video Diffusion Prior**|Qi Mao et.al.|[2512.05016](http://arxiv.org/abs/2512.05016)|null|\n",
+    "2512.05000": "|**2025-12-04**|**Reflection Removal through Efficient Adaptation of Diffusion Transformers**|Daniyar Zakarin et.al.|[2512.05000](http://arxiv.org/abs/2512.05000)|null|\n",
+    "2512.04974": "|**2025-12-04**|**Efficient Generative Transformer Operators For Million-Point PDEs**|Armand Kassaï Koupaï et.al.|[2512.04974](http://arxiv.org/abs/2512.04974)|null|\n",
+    "2512.04821": "|**2025-12-04**|**LatentFM: A Latent Flow Matching Approach for Generative Medical Image Segmentation**|Huynh Trinh Ngoc et.al.|[2512.04821](http://arxiv.org/abs/2512.04821)|null|\n",
+    "2512.04786": "|**2025-12-04**|**LaFiTe: A Generative Latent Field for 3D Native Texturing**|Chia-Hao Chen et.al.|[2512.04786](http://arxiv.org/abs/2512.04786)|null|\n",
+    "2512.04771": "|**2025-12-04**|**Complementary Characterization of Agent-Based Models via Computational Mechanics and Diffusion Models**|Roberto Garrone et.al.|[2512.04771](http://arxiv.org/abs/2512.04771)|null|\n"
   }
 }
