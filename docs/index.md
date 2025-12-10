@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.09**
+📅 **Updated on 2025.12.10**
 
 ## 🌟 About This Repository
 
@@ -472,7 +472,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-10-31**|**Reconstructing Unseen Sentences from Speech-related Biosignals for Open-vocabulary Neural Communication**|Deok-Seon Kim et.al.|[2510.27247](http://arxiv.org/abs/2510.27247)|null|
 |**2025-10-30**|**Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks**|Jikang Deng et.al.|[2510.26578](http://arxiv.org/abs/2510.26578)|null|
 |**2025-10-30**|**SP-MCQA: Evaluating Intelligibility of TTS Beyond the Word Level**|Hitomi Jin Ling Tee et.al.|[2510.26190](http://arxiv.org/abs/2510.26190)|null|
-|**2025-10-30**|**Reasoning Path Divergence: A New Metric and Curation Strategy to Unlock LLM Diverse Thinking**|Feng Ju et.al.|[2510.26122](http://arxiv.org/abs/2510.26122)|**[link](https://github.com/fengjujf/Reasoning-Path-Divergence)**|
+|**2025-10-30**|**Reasoning Path Divergence: A New Metric and Curation Strategy to Unlock LLM Diverse Thinking**|Feng Ju et.al.|[2510.26122](http://arxiv.org/abs/2510.26122)|null|
 |**2025-10-30**|**Evaluating the Role of Verifiers in Test-Time Scaling for Legal Reasoning Tasks**|Davide Romano et.al.|[2510.25623](http://arxiv.org/abs/2510.25623)|null|
 |**2025-10-27**|**SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution**|Dharma Teja Donepudi et.al.|[2510.25178](http://arxiv.org/abs/2510.25178)|null|
 |**2025-10-28**|**Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought**|Jiachen Zhao et.al.|[2510.24941](http://arxiv.org/abs/2510.24941)|null|
