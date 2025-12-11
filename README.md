@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.10**
+📅 **Updated on 2025.12.11**
 
 ---
 
@@ -2627,7 +2627,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2025-12-09**|**Protein Secondary Structure Prediction Using Transformers**|Manzi Kevin Maxime et.al.|[2512.08613](http://arxiv.org/abs/2512.08613)|**[link](https://github.com/giovancombo/ProteinSecondaryStructurePrediction)**|
+|**2025-12-09**|**Protein Secondary Structure Prediction Using Transformers**|Manzi Kevin Maxime et.al.|[2512.08613](http://arxiv.org/abs/2512.08613)|null|
 |**2025-12-09**|**LLM-based Vulnerable Code Augmentation: Generate or Refactor?**|Dyna Soumhane Ouchebara et.al.|[2512.08493](http://arxiv.org/abs/2512.08493)|null|
 |**2025-12-09**|**FastBEV++: Fast by Algorithm, Deployable by Design**|Yuanpeng Chen et.al.|[2512.08237](http://arxiv.org/abs/2512.08237)|null|
 |**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
