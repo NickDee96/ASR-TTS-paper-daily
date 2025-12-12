@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.11**
+📅 **Updated on 2025.12.12**
 
 ## 🌟 About This Repository
 
@@ -77,10 +77,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-18**|**Listen Like a Teacher: Mitigating Whisper Hallucinations using Adaptive Layer Attention and Knowledge Distillation**|Kumud Tripathi et.al.|[2511.14219](http://arxiv.org/abs/2511.14219)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
 |**2025-11-17**|**Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs**|Zhe Sun et.al.|[2511.13273](http://arxiv.org/abs/2511.13273)|null|
-|**2025-11-17**|**Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis**|Zaara Zabeen Arpa et.al.|[2511.13159](http://arxiv.org/abs/2511.13159)|**[link](https://github.com/zaarpa/Distinguish-Repetition-Disfluency-From-Reduplication-Dataset)**|
+|**2025-11-17**|**Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis**|Zaara Zabeen Arpa et.al.|[2511.13159](http://arxiv.org/abs/2511.13159)|null|
 |**2025-11-15**|**How Far Do SSL Speech Models Listen for Tone? Temporal Focus of Tone Representation under Low-resource Transfer**|Minu Kim et.al.|[2511.12285](http://arxiv.org/abs/2511.12285)|null|
 |**2025-11-15**|**Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets**|Huy M. Le et.al.|[2511.12255](http://arxiv.org/abs/2511.12255)|null|
-|**2025-11-12**|**Tighter Truncated Rectangular Prism Approximation for RNN Robustness Verification**|Xingqi Lin et.al.|[2511.11699](http://arxiv.org/abs/2511.11699)|**[link](https://github.com/Olinvia/DeepPrism)**|
+|**2025-11-12**|**Tighter Truncated Rectangular Prism Approximation for RNN Robustness Verification**|Xingqi Lin et.al.|[2511.11699](http://arxiv.org/abs/2511.11699)|null|
 |**2025-11-14**|**Speech-Aware Long Context Pruning and Integration for Contextualized Automatic Speech Recognition**|Yiming Rong et.al.|[2511.11139](http://arxiv.org/abs/2511.11139)|null|
 |**2025-11-13**|**TEDxTN: A Three-way Speech Translation Corpus for Code-Switched Tunisian Arabic - English**|Fethi Bougares et.al.|[2511.10780](http://arxiv.org/abs/2511.10780)|null|
 |**2025-11-09**|**Towards Fine-Grained Code-Switch Speech Translation with Semantic Space Alignment**|Yan Gao et.al.|[2511.10670](http://arxiv.org/abs/2511.10670)|null|
@@ -783,7 +783,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-02**|**CREST: Universal Safety Guardrails Through Cluster-Guided Cross-Lingual Transfer**|Lavish Bansal et.al.|[2512.02711](http://arxiv.org/abs/2512.02711)|null|
 |**2025-12-02**|**Feedback Loops and Code Perturbations in LLM-based Software Engineering: A Case Study on a C-to-Rust Translation System**|Martin Weiss et.al.|[2512.02567](http://arxiv.org/abs/2512.02567)|null|
 |**2025-12-01**|**Cross-Lingual Interleaving for Speech Language Models**|Adel Moumen et.al.|[2512.01865](http://arxiv.org/abs/2512.01865)|null|
-|**2025-12-01**|**BHRAM-IL: A Benchmark for Hallucination Recognition and Assessment in Multiple Indian Languages**|Hrishikesh Terdalkar et.al.|[2512.01852](http://arxiv.org/abs/2512.01852)|null|
+|**2025-12-01**|**BHRAM-IL: A Benchmark for Hallucination Recognition and Assessment in Multiple Indian Languages**|Hrishikesh Terdalkar et.al.|[2512.01852](http://arxiv.org/abs/2512.01852)|**[link](https://github.com/sambhashana/BHRAM-IL)**|
 |**2025-12-01**|**MCAT: Scaling Many-to-Many Speech-to-Text Translation with MLLMs to 70 Languages**|Yexing Du et.al.|[2512.01512](http://arxiv.org/abs/2512.01512)|null|
 |**2025-12-01**|**LAURA: Enhancing Code Review Generation with Context-Enriched Retrieval-Augmented LLM**|Yuxin Zhang et.al.|[2512.01356](http://arxiv.org/abs/2512.01356)|null|
 |**2025-12-01**|**Conveying Imagistic Thinking in Traditional Chinese Medicine Translation: A Prompt Engineering and LLM-Based Evaluation Framework**|Jiatong Han et.al.|[2512.01198](http://arxiv.org/abs/2512.01198)|null|
@@ -2612,7 +2612,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-03**|**SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows**|Qinyu Zhao et.al.|[2512.04084](http://arxiv.org/abs/2512.04084)|null|
 |**2025-12-03**|**SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting**|Hanxiu Zhang et.al.|[2512.03620](http://arxiv.org/abs/2512.03620)|null|
 |**2025-12-03**|**MAGE-ID: A Multimodal Generative Framework for Intrusion Detection Systems**|Mahdi Arab Loodaricheh et.al.|[2512.03375](http://arxiv.org/abs/2512.03375)|null|
-|**2025-12-02**|**OmniPerson: Unified Identity-Preserving Pedestrian Generation**|Changxiao Ma et.al.|[2512.02554](http://arxiv.org/abs/2512.02554)|**[link](https://github.com/maxiaoxsi/OmniPerson)**|
+|**2025-12-02**|**OmniPerson: Unified Identity-Preserving Pedestrian Generation**|Changxiao Ma et.al.|[2512.02554](http://arxiv.org/abs/2512.02554)|null|
 |**2025-12-02**|**VibOmni: Towards Scalable Bone-conduction Speech Enhancement on Earables**|Lixing He et.al.|[2512.02515](http://arxiv.org/abs/2512.02515)|null|
 |**2025-12-02**|**VACoT: Rethinking Visual Data Augmentation with VLMs**|Zhengzhuo Xu et.al.|[2512.02361](http://arxiv.org/abs/2512.02361)|null|
 |**2025-12-02**|**Training Dynamics of Learning 3D-Rotational Equivariance**|Max W. Shen et.al.|[2512.02303](http://arxiv.org/abs/2512.02303)|null|
@@ -3172,7 +3172,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-10**|**Transport Novelty Distance: A Distributional Metric for Evaluating Material Generative Models**|Paul Hagemann et.al.|[2512.09514](http://arxiv.org/abs/2512.09514)|null|
 |**2025-12-10**|**Color encoding in Latent Space of Stable Diffusion Models**|Guillem Arias et.al.|[2512.09477](http://arxiv.org/abs/2512.09477)|null|
 |**2025-12-10**|**Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407](http://arxiv.org/abs/2512.09407)|null|
-|**2025-12-10**|**ASSIST-3D: Adapted Scene Synthesis for Class-Agnostic 3D Instance Segmentation**|Shengchao Zhou et.al.|[2512.09364](http://arxiv.org/abs/2512.09364)|**[link](https://github.com/CVMI-Lab/ASSIST-3D)**|
+|**2025-12-10**|**ASSIST-3D: Adapted Scene Synthesis for Class-Agnostic 3D Instance Segmentation**|Shengchao Zhou et.al.|[2512.09364](http://arxiv.org/abs/2512.09364)|null|
 |**2025-12-09**|**SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation**|Sergio Burdisso et.al.|[2512.09142](http://arxiv.org/abs/2512.09142)|null|
 |**2025-12-09**|**Contrast transfer functions help quantify neural network out-of-distribution generalization in HRTEM**|Luis Rangel DaCosta et.al.|[2512.09067](http://arxiv.org/abs/2512.09067)|null|
 |**2025-12-09**|**A Survey of Body and Face Motion: Datasets, Performance Evaluation Metrics and Generative Techniques**|Lownish Rai Sookha et.al.|[2512.09005](http://arxiv.org/abs/2512.09005)|null|
