@@ -465,7 +465,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-02**|**Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation**|Xueyan Li et.al.|[2512.02523](http://arxiv.org/abs/2512.02523)|null|
 |**2025-12-01**|**The Art of Scaling Test-Time Compute for Large Language Models**|Aradhye Agarwal et.al.|[2512.02008](http://arxiv.org/abs/2512.02008)|null|
 |**2025-11-30**|**Arabic TTS with FastPitch: Reproducible Baselines, Adversarial Training, and Oversmoothing Analysis**|Lars Nippert et.al.|[2512.00937](http://arxiv.org/abs/2512.00937)|null|
-|**2025-11-29**|**FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal**|Hang Xu et.al.|[2512.00438](http://arxiv.org/abs/2512.00438)|null|
+|**2025-11-29**|**FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal**|Hang Xu et.al.|[2512.00438](http://arxiv.org/abs/2512.00438)|**[link](https://github.com/xuhang07/FR-TTS)**|
 |**2025-11-27**|**GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis**|Teysir Baoueb et.al.|[2511.22293](http://arxiv.org/abs/2511.22293)|null|
 |**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
 |**2025-11-21**|**Asking LLMs to Verify First is Almost Free Lunch**|Shiguang Wu et.al.|[2511.21734](http://arxiv.org/abs/2511.21734)|null|
@@ -2677,7 +2677,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-11**|**CIEGAD: Cluster-Conditioned Interpolative and Extrapolative Framework for Geometry-Aware and Domain-Aligned Data Augmentation**|Keito Inoshita et.al.|[2512.10178](http://arxiv.org/abs/2512.10178)|null|
 |**2025-12-10**|**Knowledge Graph Enrichment and Reasoning for Nobel Laureates**|Thanh-Lam T. Nguyen et.al.|[2512.09707](http://arxiv.org/abs/2512.09707)|null|
 |**2025-12-10**|**Hands-on Evaluation of Visual Transformers for Object Recognition and Detection**|Dimitrios N. Vlachogiannis et.al.|[2512.09579](http://arxiv.org/abs/2512.09579)|null|
-|**2025-12-09**|**Protein Secondary Structure Prediction Using Transformers**|Manzi Kevin Maxime et.al.|[2512.08613](http://arxiv.org/abs/2512.08613)|**[link](https://github.com/giovancombo/ProteinSecondaryStructurePrediction)**|
+|**2025-12-09**|**Protein Secondary Structure Prediction Using Transformers**|Manzi Kevin Maxime et.al.|[2512.08613](http://arxiv.org/abs/2512.08613)|null|
 |**2025-12-09**|**LLM-based Vulnerable Code Augmentation: Generate or Refactor?**|Dyna Soumhane Ouchebara et.al.|[2512.08493](http://arxiv.org/abs/2512.08493)|null|
 |**2025-12-09**|**FastBEV++: Fast by Algorithm, Deployable by Design**|Yuanpeng Chen et.al.|[2512.08237](http://arxiv.org/abs/2512.08237)|null|
 |**2025-12-08**|**Coherent Audio-Visual Editing via Conditional Audio Generation Following Video Edits**|Masato Ishii et.al.|[2512.07209](http://arxiv.org/abs/2512.07209)|null|
@@ -2739,7 +2739,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-25**|**Data Augmentation Techniques to Reverse-Engineer Neural Network Weights from Input-Output Queries**|Alexander Beiser et.al.|[2511.20312](http://arxiv.org/abs/2511.20312)|null|
 |**2025-11-25**|**Robust 3D Brain MRI Inpainting with Random Masking Augmentation**|Juexin Zhang et.al.|[2511.20202](http://arxiv.org/abs/2511.20202)|null|
 |**2025-11-25**|**SEDA: A Self-Adapted Entity-Centric Data Augmentation for Boosting Gird-based Discontinuous NER Models**|Wen-Fang Su et.al.|[2511.20143](http://arxiv.org/abs/2511.20143)|null|
-|**2025-11-25**|**BERT-APC: A Reference-free Framework for Automatic Pitch Correction via Musical Context Inference**|Sungjae Kim et.al.|[2511.20006](http://arxiv.org/abs/2511.20006)|null|
+|**2025-11-25**|**BERT-APC: A Reference-free Framework for Automatic Pitch Correction via Musical Context Inference**|Sungjae Kim et.al.|[2511.20006](http://arxiv.org/abs/2511.20006)|**[link](https://github.com/Joshua-1995/BERT-APC-Demo)**|
 |**2025-11-25**|**Rethinking Semi-Supervised Node Classification with Self-Supervised Graph Clustering**|Songbo Wang et.al.|[2511.19976](http://arxiv.org/abs/2511.19976)|null|
 |**2025-11-26**|**TiCT: A Synthetically Pre-Trained Foundation Model for Time Series Classification**|Chin-Chia Michael Yeh et.al.|[2511.19694](http://arxiv.org/abs/2511.19694)|null|
 |**2025-11-24**|**Blinking Beyond EAR: A Stable Eyelid Angle Metric for Driver Drowsiness Detection and Data Augmentation**|Mathis Wolter et.al.|[2511.19519](http://arxiv.org/abs/2511.19519)|null|
