@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.14**
+📅 **Updated on 2025.12.15**
 
 ## 🌟 About This Repository
 
@@ -438,7 +438,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-02**|**Generative Multi-modal Feedback for Singing Voice Synthesis Evaluation**|Xueyan Li et.al.|[2512.02523](http://arxiv.org/abs/2512.02523)|null|
 |**2025-12-01**|**The Art of Scaling Test-Time Compute for Large Language Models**|Aradhye Agarwal et.al.|[2512.02008](http://arxiv.org/abs/2512.02008)|null|
 |**2025-11-30**|**Arabic TTS with FastPitch: Reproducible Baselines, Adversarial Training, and Oversmoothing Analysis**|Lars Nippert et.al.|[2512.00937](http://arxiv.org/abs/2512.00937)|null|
-|**2025-11-29**|**FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal**|Hang Xu et.al.|[2512.00438](http://arxiv.org/abs/2512.00438)|null|
+|**2025-11-29**|**FR-TTS: Test-Time Scaling for NTP-based Image Generation with Effective Filling-based Reward Signal**|Hang Xu et.al.|[2512.00438](http://arxiv.org/abs/2512.00438)|**[link](https://github.com/xuhang07/FR-TTS)**|
 |**2025-11-27**|**GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis**|Teysir Baoueb et.al.|[2511.22293](http://arxiv.org/abs/2511.22293)|null|
 |**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
 |**2025-11-21**|**Asking LLMs to Verify First is Almost Free Lunch**|Shiguang Wu et.al.|[2511.21734](http://arxiv.org/abs/2511.21734)|null|
@@ -880,8 +880,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-01**|**Leveraging the Cross-Domain & Cross-Linguistic Corpus for Low Resource NMT: A Case Study On Bhili-Hindi-English Parallel Corpus**|Pooja Singh et.al.|[2511.00486](http://arxiv.org/abs/2511.00486)|null|
 |**2025-10-31**|**POSESTITCH-SLT: Linguistically Inspired Pose-Stitching for End-to-End Sign Language Translation**|Abhinav Joshi et.al.|[2511.00270](http://arxiv.org/abs/2511.00270)|null|
 |**2025-10-31**|**Multilingual BERT language model for medical tasks: Evaluation on domain-specific adaptation and cross-linguality**|Yinghao Luo et.al.|[2510.27552](http://arxiv.org/abs/2510.27552)|null|
-|**2025-10-31**|**TransAlign: Machine Translation Encoders are Strong Word Aligners, Too**|Benedikt Ebing et.al.|[2510.27337](http://arxiv.org/abs/2510.27337)|null|
-|**2025-10-31**|**Languages are Modalities: Cross-Lingual Alignment via Encoder Injection**|Rajan Agarwal et.al.|[2510.27254](http://arxiv.org/abs/2510.27254)|null|
+|**2025-10-31**|**TransAlign: Machine Translation Encoders are Strong Word Aligners, Too**|Benedikt Ebing et.al.|[2510.27337](http://arxiv.org/abs/2510.27337)|**[link](https://github.com/bebing93/transalign)**|
+|**2025-10-31**|**Languages are Modalities: Cross-Lingual Alignment via Encoder Injection**|Rajan Agarwal et.al.|[2510.27254](http://arxiv.org/abs/2510.27254)|**[link](https://github.com/rajansagarwal/llink)**|
 |**2025-10-31**|**Simple Additions, Substantial Gains: Expanding Scripts, Languages, and Lineage Coverage in URIEL+**|Mason Shipton et.al.|[2510.27183](http://arxiv.org/abs/2510.27183)|null|
 |**2025-10-30**|**Distilling Multilingual Vision-Language Models: When Smaller Models Stay Multilingual**|Sukrit Sriratanawilai et.al.|[2510.26271](http://arxiv.org/abs/2510.26271)|null|
 |**2025-10-29**|**Rethinking Cross-lingual Alignment: Balancing Transfer and Cultural Erasure in Multilingual LLMs**|HyoJung Han et.al.|[2510.26024](http://arxiv.org/abs/2510.26024)|null|
@@ -3189,7 +3189,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-11**|**Iterative Compositional Data Generation for Robot Control**|Anh-Quan Pham et.al.|[2512.10891](http://arxiv.org/abs/2512.10891)|null|
+|**2025-12-11**|**Iterative Compositional Data Generation for Robot Control**|Anh-Quan Pham et.al.|[2512.10891](http://arxiv.org/abs/2512.10891)|**[link](https://github.com/anhquanpham/iterative-comp-rl-generation)**|
 |**2025-12-11**|**Generative Modeling from Black-box Corruptions via Self-Consistent Stochastic Interpolants**|Chirag Modi et.al.|[2512.10857](http://arxiv.org/abs/2512.10857)|null|
 |**2025-12-11**|**Beyond the Black Box: Identifiable Interpretation and Control in Generative Models via Causal Minimality**|Lingjing Kong et.al.|[2512.10720](http://arxiv.org/abs/2512.10720)|null|
 |**2025-12-11**|**TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection**|Jian-Yu Jiang-Lin et.al.|[2512.10652](http://arxiv.org/abs/2512.10652)|null|
