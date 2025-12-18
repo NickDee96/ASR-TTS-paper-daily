@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.17**
+📅 **Updated on 2025.12.18**
 
 ## 🌟 About This Repository
 
@@ -2695,7 +2695,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-16**|**CHIP: Adaptive Compliance for Humanoid Control through Hindsight Perturbation**|Sirui Chen et.al.|[2512.14689](http://arxiv.org/abs/2512.14689)|null|
-|**2025-12-16**|**Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty**|Yiwen Zhao et.al.|[2512.14653](http://arxiv.org/abs/2512.14653)|**[link](https://github.com/Tsukasane/SingingUncertainty)**|
+|**2025-12-16**|**Robust Training of Singing Voice Synthesis Using Prior and Posterior Uncertainty**|Yiwen Zhao et.al.|[2512.14653](http://arxiv.org/abs/2512.14653)|null|
 |**2025-12-16**|**Attention-Based Preprocessing Framework for Improving Rare Transient Classification**|Xinyue Sheng et.al.|[2512.14644](http://arxiv.org/abs/2512.14644)|null|
 |**2025-12-16**|**Synthetic Electrogram Generation with Variational Autoencoders for ECGI**|Miriam Gutiérrez Fernández et.al.|[2512.14537](http://arxiv.org/abs/2512.14537)|null|
 |**2025-12-16**|**Mimicking Human Visual Development for Learning Robust Image Representations**|Ankita Raj et.al.|[2512.14360](http://arxiv.org/abs/2512.14360)|null|
@@ -2736,7 +2736,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-06**|**DaGRPO: Rectifying Gradient Conflict in Reasoning via Distinctiveness-Aware Group Relative Policy Optimization**|Xuan Xie et.al.|[2512.06337](http://arxiv.org/abs/2512.06337)|null|
 |**2025-12-10**|**Stronger is not better: Better Augmentations in Contrastive Learning for Medical Image Segmentation**|Azeez Idris et.al.|[2512.05992](http://arxiv.org/abs/2512.05992)|null|
 |**2025-12-05**|**LeAD-M3D: Leveraging Asymmetric Distillation for Real-time Monocular 3D Detection**|Johannes Meier et.al.|[2512.05663](http://arxiv.org/abs/2512.05663)|null|
-|**2025-12-05**|**Matching Ranks Over Probability Yields Truly Deep Safety Alignment**|Jason Vega et.al.|[2512.05518](http://arxiv.org/abs/2512.05518)|null|
+|**2025-12-05**|**Matching Ranks Over Probability Yields Truly Deep Safety Alignment**|Jason Vega et.al.|[2512.05518](http://arxiv.org/abs/2512.05518)|**[link](https://github.com/uiuc-focal-lab/push-forward-alignment)**|
 |**2025-12-04**|**The Erosion of LLM Signatures: Can We Still Distinguish Human and LLM-Generated Scientific Ideas After Iterative Paraphrasing?**|Sadat Shahriar et.al.|[2512.05311](http://arxiv.org/abs/2512.05311)|null|
 |**2025-12-04**|**Uncertainty-Aware Data-Efficient AI: An Information-Theoretic Perspective**|Osvaldo Simeone et.al.|[2512.05267](http://arxiv.org/abs/2512.05267)|null|
 |**2025-12-04**|**Multi-Loss Learning for Speech Emotion Recognition with Energy-Adaptive Mixup and Frame-Level Attention**|Cong Wang et.al.|[2512.04551](http://arxiv.org/abs/2512.04551)|null|
