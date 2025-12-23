@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.22**
+📅 **Updated on 2025.12.23**
 
 ---
 
@@ -512,7 +512,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-13**|**Curved Worlds, Clear Boundaries: Generalizing Speech Deepfake Detection using Hyperbolic and Spherical Geometry Spaces**|Farhan Sheth et.al.|[2511.10793](http://arxiv.org/abs/2511.10793)|null|
 |**2025-11-13**|**VocalNet-M2: Advancing Low-Latency Spoken Language Modeling via Integrated Multi-Codebook Tokenization and Multi-Token Prediction**|Yuhao Wang et.al.|[2511.10232](http://arxiv.org/abs/2511.10232)|null|
 |**2025-11-13**|**Time-Layer Adaptive Alignment for Speaker Similarity in Flow-Matching Based Zero-Shot TTS**|Haoyu Li et.al.|[2511.09995](http://arxiv.org/abs/2511.09995)|null|
-|**2025-11-30**|**SpeechJudge: Towards Human-Level Judgment for Speech Naturalness**|Xueyao Zhang et.al.|[2511.07931](http://arxiv.org/abs/2511.07931)|null|
+|**2025-11-30**|**SpeechJudge: Towards Human-Level Judgment for Speech Naturalness**|Xueyao Zhang et.al.|[2511.07931](http://arxiv.org/abs/2511.07931)|**[link](https://github.com/AmphionTeam/SpeechJudge)**|
 |**2025-11-24**|**SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech**|Lu Gan et.al.|[2511.07821](http://arxiv.org/abs/2511.07821)|null|
 |**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
 |**2025-10-26**|**Ming-UniAudio: Speech LLM for Joint Understanding, Generation and Editing with Unified Representation**|Canxiang Yan et.al.|[2511.05516](http://arxiv.org/abs/2511.05516)|null|
@@ -3464,16 +3464,16 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-18**|**Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation**|Yunkai Yang et.al.|[2512.16740](http://arxiv.org/abs/2512.16740)|null|
 |**2025-12-18**|**Empirical Evaluation of Structured Synthetic Data Privacy Metrics: Novel experimental framework**|Milton Nicolás Plasencia Palacios et.al.|[2512.16284](http://arxiv.org/abs/2512.16284)|null|
 |**2025-12-18**|**Scaling Spatial Reasoning in MLLMs through Programmatic Data Synthesis**|Zhi Helu et.al.|[2512.16237](http://arxiv.org/abs/2512.16237)|null|
-|**2025-12-18**|**ToolForge: A Data Synthesis Pipeline for Multi-Hop Search without Real-World APIs**|Hao Chen et.al.|[2512.16149](http://arxiv.org/abs/2512.16149)|null|
+|**2025-12-18**|**ToolForge: A Data Synthesis Pipeline for Multi-Hop Search without Real-World APIs**|Hao Chen et.al.|[2512.16149](http://arxiv.org/abs/2512.16149)|**[link](https://github.com/Buycar-arb/ToolForge)**|
 |**2025-12-18**|**Evaluation of Generative Models for Emotional 3D Animation Generation in VR**|Kiran Chhatre et.al.|[2512.16081](http://arxiv.org/abs/2512.16081)|null|
-|**2025-12-17**|**SoFlow: Solution Flow Models for One-Step Generative Modeling**|Tianze Luo et.al.|[2512.15657](http://arxiv.org/abs/2512.15657)|null|
+|**2025-12-17**|**SoFlow: Solution Flow Models for One-Step Generative Modeling**|Tianze Luo et.al.|[2512.15657](http://arxiv.org/abs/2512.15657)|**[link](https://github.com/zlab-princeton/SoFlow)**|
 |**2025-12-17**|**On Assessing the Relevance of Code Reviews Authored by Generative Models**|Robert Heumüller et.al.|[2512.15466](http://arxiv.org/abs/2512.15466)|null|
 |**2025-12-17**|**Expand and Prune: Maximizing Trajectory Diversity for Effective GRPO in Generative Models**|Shiran Ge et.al.|[2512.15347](http://arxiv.org/abs/2512.15347)|null|
 |**2025-12-17**|**SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2512.15310](http://arxiv.org/abs/2512.15310)|null|
 |**2025-12-16**|**Polypersona: Persona-Grounded LLM for Synthetic Survey Responses**|Tejaswani Dash et.al.|[2512.14562](http://arxiv.org/abs/2512.14562)|null|
 |**2025-12-16**|**C-ing Clearly: Enhanced Binary Code Explanations using C code**|Teodor Poncu et.al.|[2512.14500](http://arxiv.org/abs/2512.14500)|null|
 |**2025-12-16**|**A data-physics hybrid generative model for patient-specific post-stroke motor rehabilitation using wearable sensor data**|Yanning Dai et.al.|[2512.14329](http://arxiv.org/abs/2512.14329)|null|
-|**2025-12-16**|**SS4D: Native 4D Generative Model via Structured Spacetime Latents**|Zhibing Li et.al.|[2512.14284](http://arxiv.org/abs/2512.14284)|**[link](https://github.com/Lizb6626/SS4D)**|
+|**2025-12-16**|**SS4D: Native 4D Generative Model via Structured Spacetime Latents**|Zhibing Li et.al.|[2512.14284](http://arxiv.org/abs/2512.14284)|null|
 |**2025-12-16**|**Beyond MMD: Evaluating Graph Generative Models with Geometric Deep Learning**|Salvatore Romano et.al.|[2512.14241](http://arxiv.org/abs/2512.14241)|null|
 |**2025-12-16**|**Estimating problem difficulty without ground truth using Large Language Model comparisons**|Marthe Ballon et.al.|[2512.14220](http://arxiv.org/abs/2512.14220)|null|
 |**2025-12-16**|**Random-Bridges as Stochastic Transports for Generative Models**|Stefano Goria et.al.|[2512.14190](http://arxiv.org/abs/2512.14190)|null|
