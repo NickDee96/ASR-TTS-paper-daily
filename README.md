@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.24**
+📅 **Updated on 2025.12.25**
 
 ---
 
@@ -491,7 +491,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-08**|**Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS**|Mahta Fetrat et.al.|[2512.08006](http://arxiv.org/abs/2512.08006)|null|
 |**2025-12-09**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[2512.07811](http://arxiv.org/abs/2512.07811)|null|
 |**2025-12-05**|**Simulating Life Paths with Digital Twins: AI-Generated Future Selves Influence Decision-Making and Expand Human Choice**|Rachel Poonsiriwong et.al.|[2512.05397](http://arxiv.org/abs/2512.05397)|null|
-|**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
+|**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|**[link](https://github.com/ErikUPV/syncvoice-replication)**|
 |**2025-12-04**|**YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance**|Junjie Zheng et.al.|[2512.04779](http://arxiv.org/abs/2512.04779)|null|
 |**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720](http://arxiv.org/abs/2512.04720)|null|
 |**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
