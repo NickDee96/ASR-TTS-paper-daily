@@ -491,7 +491,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-08**|**Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS**|Mahta Fetrat et.al.|[2512.08006](http://arxiv.org/abs/2512.08006)|null|
 |**2025-12-09**|**Performance Benchmarking of Tensor Trains for accelerated Quantum-Inspired Homogenization on TPU, GPU and CPU architectures**|Sascha H. Hauck et.al.|[2512.07811](http://arxiv.org/abs/2512.07811)|null|
 |**2025-12-05**|**Simulating Life Paths with Digital Twins: AI-Generated Future Selves Influence Decision-Making and Expand Human Choice**|Rachel Poonsiriwong et.al.|[2512.05397](http://arxiv.org/abs/2512.05397)|null|
-|**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|**[link](https://github.com/ErikUPV/syncvoice-replication)**|
+|**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
 |**2025-12-04**|**YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance**|Junjie Zheng et.al.|[2512.04779](http://arxiv.org/abs/2512.04779)|null|
 |**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720](http://arxiv.org/abs/2512.04720)|null|
 |**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
@@ -1286,12 +1286,27 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 1579 papers*
+*📊 1594 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
+|**2025-12-24**|**Model Merging via Multi-Teacher Knowledge Distillation**|Seyed Arshan Dalili et.al.|[2512.21288](http://arxiv.org/abs/2512.21288)|null|
+|**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|
+|**2025-12-24**|**TGC-Net: A Structure-Aware and Semantically-Aligned Framework for Text-Guided Medical Image Segmentation**|Gaoren Lin et.al.|[2512.21135](http://arxiv.org/abs/2512.21135)|null|
+|**2025-12-24**|**Classical reservoir approach for efficient molecular ground state preparation**|Zekun He et.al.|[2512.21069](http://arxiv.org/abs/2512.21069)|null|
+|**2025-12-24**|**Formal O(N3) scaling GW calculations by block tensor decomposition for large molecule systems**|Yueyang Zhang et.al.|[2512.21022](http://arxiv.org/abs/2512.21022)|null|
+|**2025-12-24**|**Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face**|Rui-qing Sun et.al.|[2512.21019](http://arxiv.org/abs/2512.21019)|null|
+|**2025-12-24**|**Distilling the Essence: Efficient Reasoning Distillation via Sequence Truncation**|Wei-Rui Chen et.al.|[2512.21002](http://arxiv.org/abs/2512.21002)|null|
+|**2025-12-24**|**Leveraging Overfitting for Low-Complexity and Modality-Agnostic Joint Source-Channel Coding**|Haotian Wu et.al.|[2512.20981](http://arxiv.org/abs/2512.20981)|null|
+|**2025-12-24**|**Universal Transient Stability Analysis: A Large Language Model-Enabled Dynamics Prediction Framework**|Chao Shen et.al.|[2512.20970](http://arxiv.org/abs/2512.20970)|null|
+|**2025-12-24**|**AirGS: Real-Time 4D Gaussian Streaming for Free-Viewpoint Video Experiences**|Zhe Wang et.al.|[2512.20943](http://arxiv.org/abs/2512.20943)|null|
+|**2025-12-24**|**RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks**|Ningyuan Liu et.al.|[2512.20920](http://arxiv.org/abs/2512.20920)|null|
+|**2025-12-24**|**Beyond Weight Adaptation: Feature-Space Domain Injection for Cross-Modal Ship Re-Identification**|Tingfeng Xian et.al.|[2512.20892](http://arxiv.org/abs/2512.20892)|null|
+|**2025-12-24**|**Architectural Trade-offs in Small Language Models Under Compute Constraints**|Shivraj Singh Bhatti et.al.|[2512.20877](http://arxiv.org/abs/2512.20877)|null|
+|**2025-12-23**|**Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation**|Reeshad Khan amd John Gauch et.al.|[2512.20815](http://arxiv.org/abs/2512.20815)|null|
 |**2025-12-23**|**Making Large Language Models Efficient Dense Retrievers**|Yibin Lei et.al.|[2512.20612](http://arxiv.org/abs/2512.20612)|null|
 |**2025-12-23**|**FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models**|Kaitong Cai et.al.|[2512.20561](http://arxiv.org/abs/2512.20561)|null|
 |**2025-12-23**|**Simplifying Multi-Task Architectures Through Task-Specific Normalization**|Mihai Suteu et.al.|[2512.20420](http://arxiv.org/abs/2512.20420)|null|
@@ -2884,12 +2899,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 620 papers*
+*📊 621 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-12-24**|**Granular-ball Guided Masking: Structure-aware Data Augmentation**|Shuyin Xia et.al.|[2512.21011](http://arxiv.org/abs/2512.21011)|null|
 |**2025-12-23**|**Convergence analysis of data augmentation algorithms in Bayesian lasso models with log-concave likelihoods**|Jingkai Cui et.al.|[2512.20041](http://arxiv.org/abs/2512.20041)|null|
 |**2025-12-23**|**GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators**|Jiacheng Guo et.al.|[2512.19682](http://arxiv.org/abs/2512.19682)|null|
 |**2025-12-22**|**No Data? No Problem: Robust Vision-Tabular Learning with Missing Values**|Marta Hasny et.al.|[2512.19602](http://arxiv.org/abs/2512.19602)|null|
@@ -3523,12 +3539,19 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 851 papers*
+*📊 858 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2025-12-24**|**A Turn Toward Better Alignment: Few-Shot Generative Adaptation with Equivariant Feature Rotation**|Chenghao Xu et.al.|[2512.21174](http://arxiv.org/abs/2512.21174)|null|
+|**2025-12-24**|**Active inference and artificial reasoning**|Karl Friston et.al.|[2512.21129](http://arxiv.org/abs/2512.21129)|null|
+|**2025-12-24**|**PUFM++: Point Cloud Upsampling via Enhanced Flow Matching**|Zhi-Song Liu et.al.|[2512.20988](http://arxiv.org/abs/2512.20988)|null|
+|**2025-12-24**|**X-ray Insights Unleashed: Pioneering the Enhancement of Multi-Label Long-Tail Data**|Xinquan Yang et.al.|[2512.20980](http://arxiv.org/abs/2512.20980)|null|
+|**2025-12-24**|**GenTSE: Enhancing Target Speaker Extraction via a Coarse-to-Fine Generative Language Model**|Haoyang Li et.al.|[2512.20978](http://arxiv.org/abs/2512.20978)|null|
+|**2025-12-24**|**Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection**|Ruiqi Liu et.al.|[2512.20937](http://arxiv.org/abs/2512.20937)|null|
+|**2025-12-23**|**Improving Matrix Exponential for Generative AI Flows: A Taylor-Based Approach Beyond Paterson--Stockmeyer**|Jorge Sastre et.al.|[2512.20777](http://arxiv.org/abs/2512.20777)|null|
 |**2025-12-23**|**UTDesign: A Unified Framework for Stylized Text Editing and Generation in Graphic Design Images**|Yiming Zhao et.al.|[2512.20479](http://arxiv.org/abs/2512.20479)|null|
 |**2025-12-23**|**Enriching Earth Observation labeled data with Quantum Conditioned Diffusion Models**|Francesco Mauro et.al.|[2512.20448](http://arxiv.org/abs/2512.20448)|null|
 |**2025-12-23**|**Structured Visualization Design Knowledge for Grounding Generative Reasoning and Situated Feedback**|Péter Ferenc Gyarmati et.al.|[2512.20306](http://arxiv.org/abs/2512.20306)|null|
