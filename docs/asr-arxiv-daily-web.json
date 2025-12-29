@@ -400,7 +400,9 @@
     "2512.18263": "|**2025-12-20**|**TICL+: A Case Study On Speech In-Context Learning for Children's Speech Recognition**|Haolong Zheng et.al.|[2512.18263](http://arxiv.org/abs/2512.18263)|null|\n",
     "2512.17915": "|**2025-11-27**|**Supplementary Resources and Analysis for Automatic Speech Recognition Systems Trained on the Loquacious Dataset**|Nick Rossenbach et.al.|[2512.17915](http://arxiv.org/abs/2512.17915)|null|\n",
     "2512.20204": "|**2025-12-23**|**Corpus of Cross-lingual Dialogues with Minutes and Detection of Misunderstandings**|Marko Čechovič et.al.|[2512.20204](http://arxiv.org/abs/2512.20204)|null|\n",
-    "2512.20032": "|**2025-12-23**|**VALLR-Pin: Dual-Decoding Visual Speech Recognition for Mandarin with Pinyin-Guided LLM Refinement**|Chang Sun et.al.|[2512.20032](http://arxiv.org/abs/2512.20032)|null|\n"
+    "2512.20032": "|**2025-12-23**|**VALLR-Pin: Dual-Decoding Visual Speech Recognition for Mandarin with Pinyin-Guided LLM Refinement**|Chang Sun et.al.|[2512.20032](http://arxiv.org/abs/2512.20032)|null|\n",
+    "2512.21828": "|**2025-12-26**|**Contextual Biasing for LLM-Based ASR with Hotword Retrieval and Reinforcement Learning**|YuXiang Kong et.al.|[2512.21828](http://arxiv.org/abs/2512.21828)|null|\n",
+    "2512.21566": "|**2025-12-25**|**Broadband tunable microwave photonic radar for simultaneous detection of human respiration, heartbeat, and speech with deep learning-based speech recognition**|Lei Gao et.al.|[2512.21566](http://arxiv.org/abs/2512.21566)|null|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
@@ -746,7 +748,9 @@
     "2512.19090": "|**2025-12-22**|**JoyVoice: Long-Context Conditioning for Anthropomorphic Multi-Speaker Conversational Synthesis**|Fan Yu et.al.|[2512.19090](http://arxiv.org/abs/2512.19090)|null|\n",
     "2512.18791": "|**2025-12-21**|**Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform**|Yichuan Zhang et.al.|[2512.18791](http://arxiv.org/abs/2512.18791)|null|\n",
     "2512.18699": "|**2025-12-21**|**Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis**|Pengchao Feng et.al.|[2512.18699](http://arxiv.org/abs/2512.18699)|null|\n",
-    "2512.18539": "|**2025-12-20**|**The MEVIR 2 Framework: A Virtue-Informed Moral-Epistemic Model of Human Trust Decisions**|Daniel Schwabe et.al.|[2512.18539](http://arxiv.org/abs/2512.18539)|null|\n"
+    "2512.18539": "|**2025-12-20**|**The MEVIR 2 Framework: A Virtue-Informed Moral-Epistemic Model of Human Trust Decisions**|Daniel Schwabe et.al.|[2512.18539](http://arxiv.org/abs/2512.18539)|null|\n",
+    "2512.21919": "|**2025-12-26**|**SWE-RM: Execution-free Feedback For Software Engineering Agents**|KaShun Shum et.al.|[2512.21919](http://arxiv.org/abs/2512.21919)|null|\n",
+    "2512.21702": "|**2025-12-25**|**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**|Most. Sharmin Sultana Samu et.al.|[2512.21702](http://arxiv.org/abs/2512.21702)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -1062,7 +1066,7 @@
     "2511.10229": "|**2025-11-13**|**LangGPS: Language Separability Guided Data Pre-Selection for Joint Multilingual Instruction Tuning**|Yangfan Ye et.al.|[2511.10229](http://arxiv.org/abs/2511.10229)|null|\n",
     "2511.10208": "|**2025-11-13**|**Fractional neural attention for efficient multiscale sequence processing**|Cheng Kevin Qu et.al.|[2511.10208](http://arxiv.org/abs/2511.10208)|null|\n",
     "2511.10171": "|**2025-11-13**|**Scalable data-driven modeling of microstructure evolution by learning local dependency and spatiotemporal translation invariance rules in phase field simulation**|Zishuo Lan et.al.|[2511.10171](http://arxiv.org/abs/2511.10171)|null|\n",
-    "2511.09984": "|**2025-11-13**|**Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**|Bo Li et.al.|[2511.09984](http://arxiv.org/abs/2511.09984)|null|\n",
+    "2511.09984": "|**2025-11-13**|**Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**|Bo Li et.al.|[2511.09984](http://arxiv.org/abs/2511.09984)|**[link](https://github.com/pkuserc/SCD)**|\n",
     "2511.09915": "|**2025-11-14**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](http://arxiv.org/abs/2511.09915)|null|\n",
     "2511.09796": "|**2025-11-12**|**Predicate-Argument Structure Divergences in Chinese and English Parallel Sentences and their Impact on Language Transfer**|Rocco Tripodi et.al.|[2511.09796](http://arxiv.org/abs/2511.09796)|null|\n",
     "2511.09748": "|**2025-11-12**|**How Small Can You Go? Compact Language Models for On-Device Critical Error Detection in Machine Translation**|Muskaan Chopra et.al.|[2511.09748](http://arxiv.org/abs/2511.09748)|null|\n",
@@ -1188,7 +1192,10 @@
     "2512.18004": "|**2025-12-19**|**Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models**|Shubham Kumar Nigam et.al.|[2512.18004](http://arxiv.org/abs/2512.18004)|null|\n",
     "2512.20482": "|**2025-12-23**|**SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization**|Revanth Gangi Reddy et.al.|[2512.20482](http://arxiv.org/abs/2512.20482)|null|\n",
     "2512.20204": "|**2025-12-23**|**Corpus of Cross-lingual Dialogues with Minutes and Detection of Misunderstandings**|Marko Čechovič et.al.|[2512.20204](http://arxiv.org/abs/2512.20204)|null|\n",
-    "2512.20203": "|**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203](http://arxiv.org/abs/2512.20203)|null|\n"
+    "2512.20203": "|**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203](http://arxiv.org/abs/2512.20203)|null|\n",
+    "2512.21842": "|**2025-12-26**|**AlignAR: Generative Sentence Alignment for Arabic-English Parallel Corpora of Legal and Literary Texts**|Baorong Huang et.al.|[2512.21842](http://arxiv.org/abs/2512.21842)|null|\n",
+    "2512.21787": "|**2025-12-25**|**Ara-HOPE: Human-Centric Post-Editing Evaluation for Dialectal Arabic to Modern Standard Arabic Translation**|Abdullah Alabdullah et.al.|[2512.21787](http://arxiv.org/abs/2512.21787)|null|\n",
+    "2512.21580": "|**2025-12-25**|**Gamayun's Path to Multilingual Mastery: Cost-Efficient Training of a 1.5B-Parameter LLM**|Alexander Podolskiy et.al.|[2512.21580](http://arxiv.org/abs/2512.21580)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -2771,7 +2778,7 @@
     "2512.19879": "|**2025-12-22**|**Fine-Tuned In-Context Learners for Efficient Adaptation**|Jorg Bornschein et.al.|[2512.19879](http://arxiv.org/abs/2512.19879)|null|\n",
     "2512.19865": "|**2025-12-22**|**Quantization for sequences of blow-up solutions to an elliptic equation having nonlocal exponential nonlinearity**|Mathew Gluck et.al.|[2512.19865](http://arxiv.org/abs/2512.19865)|null|\n",
     "2512.21333": "|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|\n",
-    "2512.21288": "|**2025-12-24**|**Model Merging via Multi-Teacher Knowledge Distillation**|Seyed Arshan Dalili et.al.|[2512.21288](http://arxiv.org/abs/2512.21288)|**[link](https://github.com/jgamble77/REST-API)**|\n",
+    "2512.21288": "|**2025-12-24**|**Model Merging via Multi-Teacher Knowledge Distillation**|Seyed Arshan Dalili et.al.|[2512.21288](http://arxiv.org/abs/2512.21288)|null|\n",
     "2512.21280": "|**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|\n",
     "2512.21135": "|**2025-12-24**|**TGC-Net: A Structure-Aware and Semantically-Aligned Framework for Text-Guided Medical Image Segmentation**|Gaoren Lin et.al.|[2512.21135](http://arxiv.org/abs/2512.21135)|null|\n",
     "2512.21069": "|**2025-12-24**|**Classical reservoir approach for efficient molecular ground state preparation**|Zekun He et.al.|[2512.21069](http://arxiv.org/abs/2512.21069)|null|\n",
@@ -2784,7 +2791,26 @@
     "2512.20920": "|**2025-12-24**|**RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks**|Ningyuan Liu et.al.|[2512.20920](http://arxiv.org/abs/2512.20920)|null|\n",
     "2512.20892": "|**2025-12-24**|**Beyond Weight Adaptation: Feature-Space Domain Injection for Cross-Modal Ship Re-Identification**|Tingfeng Xian et.al.|[2512.20892](http://arxiv.org/abs/2512.20892)|null|\n",
     "2512.20877": "|**2025-12-24**|**Architectural Trade-offs in Small Language Models Under Compute Constraints**|Shivraj Singh Bhatti et.al.|[2512.20877](http://arxiv.org/abs/2512.20877)|null|\n",
-    "2512.20815": "|**2025-12-23**|**Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation**|Reeshad Khan amd John Gauch et.al.|[2512.20815](http://arxiv.org/abs/2512.20815)|null|\n"
+    "2512.20815": "|**2025-12-25**|**Learning to Sense for Driving: Joint Optics-Sensor-Model Co-Design for Semantic Segmentation**|Reeshad Khan et.al.|[2512.20815](http://arxiv.org/abs/2512.20815)|null|\n",
+    "2512.22106": "|**2025-12-26**|**Pruning as a Game: Equilibrium-Driven Sparsification of Neural Networks**|Zubair Shah et.al.|[2512.22106](http://arxiv.org/abs/2512.22106)|null|\n",
+    "2512.21984": "|**2025-12-26**|**A Lightweight Multi-Scale Attention Framework for Real-Time Spinal Endoscopic Instance Segmentation**|Qi Lai et.al.|[2512.21984](http://arxiv.org/abs/2512.21984)|null|\n",
+    "2512.21856": "|**2025-12-26**|**Breaking Alignment Barriers: TPS-Driven Semantic Correlation Learning for Alignment-Free RGB-T Salient Object Detection**|Lupiao Hu et.al.|[2512.21856](http://arxiv.org/abs/2512.21856)|null|\n",
+    "2512.21837": "|**2025-12-26**|**Knowledge Reasoning of Large Language Models Integrating Graph-Structured Information for Pest and Disease Control in Tobacco**|Siyu Li et.al.|[2512.21837](http://arxiv.org/abs/2512.21837)|null|\n",
+    "2512.21835": "|**2025-12-26**|**LIME:Accelerating Collaborative Lossless LLM Inference on Memory-Constrained Edge Devices**|Mingyu Sun et.al.|[2512.21835](http://arxiv.org/abs/2512.21835)|null|\n",
+    "2512.21788": "|**2025-12-25**|**InstructMoLE: Instruction-Guided Mixture of Low-rank Experts for Multi-Conditional Image Generation**|Jinqi Xiao et.al.|[2512.21788](http://arxiv.org/abs/2512.21788)|null|\n",
+    "2512.21720": "|**2025-12-25**|**An Information Theoretic Perspective on Agentic System Design**|Shizhe He et.al.|[2512.21720](http://arxiv.org/abs/2512.21720)|null|\n",
+    "2512.21708": "|**2025-12-25**|**MoRAgent: Parameter Efficient Agent Tuning with Mixture-of-Roles**|Jing Han et.al.|[2512.21708](http://arxiv.org/abs/2512.21708)|null|\n",
+    "2512.21651": "|**2025-12-25**|**Rethinking Output Alignment For 1-bit Post-Training Quantization of Large Language Models**|Dung Anh Hoang et.al.|[2512.21651](http://arxiv.org/abs/2512.21651)|null|\n",
+    "2512.21584": "|**2025-12-25**|**UltraLBM-UNet: Ultralight Bidirectional Mamba-based Model for Skin Lesion Segmentation**|Linxuan Fan et.al.|[2512.21584](http://arxiv.org/abs/2512.21584)|null|\n",
+    "2512.21580": "|**2025-12-25**|**Gamayun's Path to Multilingual Mastery: Cost-Efficient Training of a 1.5B-Parameter LLM**|Alexander Podolskiy et.al.|[2512.21580](http://arxiv.org/abs/2512.21580)|null|\n",
+    "2512.21579": "|**2025-12-25**|**Quantum $SL^+(N,\\mathbb{R})$ as a locally compact quantum group**|K. De Commer et.al.|[2512.21579](http://arxiv.org/abs/2512.21579)|null|\n",
+    "2512.21576": "|**2025-12-25**|**Towards Long-window Anchoring in Vision-Language Model Distillation**|Haoyi Zhou et.al.|[2512.21576](http://arxiv.org/abs/2512.21576)|null|\n",
+    "2512.21573": "|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tum et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|\n",
+    "2512.21572": "|**2025-12-25**|**RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models**|Anthony Bolton et.al.|[2512.21572](http://arxiv.org/abs/2512.21572)|null|\n",
+    "2512.21529": "|**2025-12-25**|**Hierarchy-Aware Fine-Tuning of Vision-Language Models**|Jiayu Li et.al.|[2512.21529](http://arxiv.org/abs/2512.21529)|null|\n",
+    "2512.21526": "|**2025-12-25**|**Selective LLM-Guided Regularization for Enhancing Recommendation Models**|Shanglin Yang et.al.|[2512.21526](http://arxiv.org/abs/2512.21526)|null|\n",
+    "2512.21508": "|**2025-12-25**|**Fixed-Budget Parameter-Efficient Training with Frozen Encoders Improves Multimodal Chest X-Ray Classification**|Md Ashik Khan et.al.|[2512.21508](http://arxiv.org/abs/2512.21508)|null|\n",
+    "2512.21372": "|**2025-12-24**|**A Graph-Augmented knowledge Distillation based Dual-Stream Vision Transformer with Region-Aware Attention for Gastrointestinal Disease Classification with Explainable AI**|Md Assaduzzaman et.al.|[2512.21372](http://arxiv.org/abs/2512.21372)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -3347,7 +3373,7 @@
     "2512.06987": "|**2025-12-07**|**OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction**|Emily Jin et.al.|[2512.06987](http://arxiv.org/abs/2512.06987)|null|\n",
     "2512.06811": "|**2025-12-07**|**RMAdapter: Reconstruction-based Multi-Modal Adapter for Vision-Language Models**|Xiang Lin et.al.|[2512.06811](http://arxiv.org/abs/2512.06811)|null|\n",
     "2512.06769": "|**2025-12-07**|**Stitch and Tell: A Structured Multimodal Data Augmentation Method for Spatial Understanding**|Hang Yin et.al.|[2512.06769](http://arxiv.org/abs/2512.06769)|null|\n",
-    "2512.06757": "|**2025-12-07**|**XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association**|Zhihua Fang et.al.|[2512.06757](http://arxiv.org/abs/2512.06757)|null|\n",
+    "2512.06757": "|**2025-12-07**|**XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association**|Zhihua Fang et.al.|[2512.06757](http://arxiv.org/abs/2512.06757)|**[link](https://github.com/PunkMale/XM-ALIGN)**|\n",
     "2512.06621": "|**2025-12-20**|**Monotone data augmentation algorithm for longitudinal continuous, binary and ordinal outcomes: a unifying approach**|Yongqiang Tang et.al.|[2512.06621](http://arxiv.org/abs/2512.06621)|null|\n",
     "2512.06393": "|**2025-12-12**|**Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under Rule Removal, Paraphrasing, and Compression**|Qiming Bao et.al.|[2512.06393](http://arxiv.org/abs/2512.06393)|null|\n",
     "2512.06337": "|**2025-12-06**|**DaGRPO: Rectifying Gradient Conflict in Reasoning via Distinctiveness-Aware Group Relative Policy Optimization**|Xuan Xie et.al.|[2512.06337](http://arxiv.org/abs/2512.06337)|null|\n",
@@ -3407,7 +3433,11 @@
     "2512.18533": "|**2025-12-20**|**Generalization Gaps in Political Fake News Detection: An Empirical Study on the LIAR Dataset**|S Mahmudul Hasan et.al.|[2512.18533](http://arxiv.org/abs/2512.18533)|null|\n",
     "2512.17932": "|**2025-12-10**|**Continual Learning for Acoustic Event Classification**|Yang Xiao et.al.|[2512.17932](http://arxiv.org/abs/2512.17932)|null|\n",
     "2512.20041": "|**2025-12-23**|**Convergence analysis of data augmentation algorithms in Bayesian lasso models with log-concave likelihoods**|Jingkai Cui et.al.|[2512.20041](http://arxiv.org/abs/2512.20041)|null|\n",
-    "2512.21011": "|**2025-12-24**|**Granular-ball Guided Masking: Structure-aware Data Augmentation**|Shuyin Xia et.al.|[2512.21011](http://arxiv.org/abs/2512.21011)|null|\n"
+    "2512.21011": "|**2025-12-24**|**Granular-ball Guided Masking: Structure-aware Data Augmentation**|Shuyin Xia et.al.|[2512.21011](http://arxiv.org/abs/2512.21011)|null|\n",
+    "2512.21905": "|**2025-12-26**|**High-Fidelity and Long-Duration Human Image Animation with Diffusion Transformer**|Shen Zheng et.al.|[2512.21905](http://arxiv.org/abs/2512.21905)|null|\n",
+    "2512.21828": "|**2025-12-26**|**Contextual Biasing for LLM-Based ASR with Hotword Retrieval and Reinforcement Learning**|YuXiang Kong et.al.|[2512.21828](http://arxiv.org/abs/2512.21828)|null|\n",
+    "2512.21544": "|**2025-12-25**|**AVP-Fusion: Adaptive Multi-Modal Fusion and Contrastive Learning for Two-Stage Antiviral Peptide Identification**|Xinru Wen et.al.|[2512.21544](http://arxiv.org/abs/2512.21544)|null|\n",
+    "2512.21452": "|**2025-12-25**|**Intelligent recognition of GPR road hidden defect images based on feature fusion and attention mechanism**|Haotian Lv et.al.|[2512.21452](http://arxiv.org/abs/2512.21452)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -4240,7 +4270,7 @@
     "2512.19469": "|**2025-12-22**|**GLUE: Generative Latent Unification of Expertise-Informed Engineering Models**|Tim Aebersold et.al.|[2512.19469](http://arxiv.org/abs/2512.19469)|null|\n",
     "2512.19455": "|**2025-12-23**|**SiamGPT: Quality-First Fine-Tuning for Stable Thai Text Generation**|Thittipat Pairatsuppawat et.al.|[2512.19455](http://arxiv.org/abs/2512.19455)|null|\n",
     "2512.19450": "|**2025-12-22**|**A Rate-Distortion Perspective on the Emergence of Number Sense in Unsupervised Generative Models**|Leo D'Amato et.al.|[2512.19450](http://arxiv.org/abs/2512.19450)|null|\n",
-    "2512.19442": "|**2025-12-22**|**Real-Time Streamable Generative Speech Restoration with Flow Matching**|Simon Welker et.al.|[2512.19442](http://arxiv.org/abs/2512.19442)|null|\n",
+    "2512.19442": "|**2025-12-26**|**Real-Time Streamable Generative Speech Restoration with Flow Matching**|Simon Welker et.al.|[2512.19442](http://arxiv.org/abs/2512.19442)|null|\n",
     "2512.19420": "|**2025-12-22**|**Generative Krylov Subspace Representations for Scalable Quantum Eigensolvers**|Changwon Lee et.al.|[2512.19420](http://arxiv.org/abs/2512.19420)|null|\n",
     "2512.19361": "|**2025-12-22**|**Interpretable Hybrid Deep Q-Learning Framework for IoT-Based Food Spoilage Prediction with Synthetic Data Generation and Hardware Validation**|Isshaan Singh et.al.|[2512.19361](http://arxiv.org/abs/2512.19361)|null|\n",
     "2512.19243": "|**2025-12-22**|**VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis**|Meng Chu et.al.|[2512.19243](http://arxiv.org/abs/2512.19243)|null|\n",
@@ -4267,6 +4297,14 @@
     "2512.20980": "|**2025-12-24**|**X-ray Insights Unleashed: Pioneering the Enhancement of Multi-Label Long-Tail Data**|Xinquan Yang et.al.|[2512.20980](http://arxiv.org/abs/2512.20980)|null|\n",
     "2512.20978": "|**2025-12-24**|**GenTSE: Enhancing Target Speaker Extraction via a Coarse-to-Fine Generative Language Model**|Haoyang Li et.al.|[2512.20978](http://arxiv.org/abs/2512.20978)|null|\n",
     "2512.20937": "|**2025-12-24**|**Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection**|Ruiqi Liu et.al.|[2512.20937](http://arxiv.org/abs/2512.20937)|null|\n",
-    "2512.20777": "|**2025-12-23**|**Improving Matrix Exponential for Generative AI Flows: A Taylor-Based Approach Beyond Paterson--Stockmeyer**|Jorge Sastre et.al.|[2512.20777](http://arxiv.org/abs/2512.20777)|null|\n"
+    "2512.20777": "|**2025-12-23**|**Improving Matrix Exponential for Generative AI Flows: A Taylor-Based Approach Beyond Paterson--Stockmeyer**|Jorge Sastre et.al.|[2512.20777](http://arxiv.org/abs/2512.20777)|null|\n",
+    "2512.22031": "|**2025-12-26**|**From In Silico to In Vitro: Evaluating Molecule Generative Models for Hit Generation**|Nagham Osman et.al.|[2512.22031](http://arxiv.org/abs/2512.22031)|null|\n",
+    "2512.21798": "|**2025-12-25**|**Applications of synthetic financial data in portfolio and risk modeling**|Christophe D. Hounwanou et.al.|[2512.21798](http://arxiv.org/abs/2512.21798)|null|\n",
+    "2512.21791": "|**2025-12-25**|**Synthetic Financial Data Generation for Enhanced Financial Modelling**|Christophe D. Hounwanou et.al.|[2512.21791](http://arxiv.org/abs/2512.21791)|null|\n",
+    "2512.21694": "|**2025-12-25**|**BeHGAN: Bengali Handwritten Word Generation from Plain Text Using Generative Adversarial Networks**|Md. Rakibul Islam et.al.|[2512.21694](http://arxiv.org/abs/2512.21694)|null|\n",
+    "2512.21677": "|**2025-12-25**|**Dictionary-Transform Generative Adversarial Networks**|Angshul Majumdar et.al.|[2512.21677](http://arxiv.org/abs/2512.21677)|null|\n",
+    "2512.21593": "|**2025-12-25**|**Residual Prior Diffusion: A Probabilistic Framework Integrating Coarse Latent Priors with Diffusion Models**|Takuro Kutsuna et.al.|[2512.21593](http://arxiv.org/abs/2512.21593)|null|\n",
+    "2512.21527": "|**2025-12-25**|**Generative Actor Critic**|Aoyang Qin et.al.|[2512.21527](http://arxiv.org/abs/2512.21527)|null|\n",
+    "2512.21395": "|**2025-12-24**|**A Reinforcement Learning Approach to Synthetic Data Generation**|Natalia Espinosa-Dice et.al.|[2512.21395](http://arxiv.org/abs/2512.21395)|null|\n"
   }
 }
