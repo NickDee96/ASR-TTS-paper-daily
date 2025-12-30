@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2025.12.29**
+📅 **Updated on 2025.12.30**
 
 ## 🌟 About This Repository
 
@@ -898,7 +898,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-11-13**|**LangGPS: Language Separability Guided Data Pre-Selection for Joint Multilingual Instruction Tuning**|Yangfan Ye et.al.|[2511.10229](http://arxiv.org/abs/2511.10229)|null|
 |**2025-11-13**|**Fractional neural attention for efficient multiscale sequence processing**|Cheng Kevin Qu et.al.|[2511.10208](http://arxiv.org/abs/2511.10208)|null|
 |**2025-11-13**|**Scalable data-driven modeling of microstructure evolution by learning local dependency and spatiotemporal translation invariance rules in phase field simulation**|Zishuo Lan et.al.|[2511.10171](http://arxiv.org/abs/2511.10171)|null|
-|**2025-11-13**|**Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**|Bo Li et.al.|[2511.09984](http://arxiv.org/abs/2511.09984)|**[link](https://github.com/pkuserc/SCD)**|
+|**2025-11-13**|**Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation**|Bo Li et.al.|[2511.09984](http://arxiv.org/abs/2511.09984)|null|
 |**2025-11-14**|**HI-TransPA: Hearing Impairments Translation Personal Assistant**|Zhiming Ma et.al.|[2511.09915](http://arxiv.org/abs/2511.09915)|null|
 |**2025-11-12**|**Predicate-Argument Structure Divergences in Chinese and English Parallel Sentences and their Impact on Language Transfer**|Rocco Tripodi et.al.|[2511.09796](http://arxiv.org/abs/2511.09796)|null|
 |**2025-11-12**|**How Small Can You Go? Compact Language Models for On-Device Critical Error Detection in Machine Translation**|Muskaan Chopra et.al.|[2511.09748](http://arxiv.org/abs/2511.09748)|null|
@@ -1261,7 +1261,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-25**|**Gamayun's Path to Multilingual Mastery: Cost-Efficient Training of a 1.5B-Parameter LLM**|Alexander Podolskiy et.al.|[2512.21580](http://arxiv.org/abs/2512.21580)|null|
 |**2025-12-25**|**Quantum $SL^+(N,\mathbb{R})$ as a locally compact quantum group**|K. De Commer et.al.|[2512.21579](http://arxiv.org/abs/2512.21579)|null|
 |**2025-12-25**|**Towards Long-window Anchoring in Vision-Language Model Distillation**|Haoyi Zhou et.al.|[2512.21576](http://arxiv.org/abs/2512.21576)|null|
-|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tum et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
+|**2025-12-25**|**World-Coordinate Human Motion Retargeting via SAM 3D Body**|Zhangzheng Tu et.al.|[2512.21573](http://arxiv.org/abs/2512.21573)|null|
 |**2025-12-25**|**RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models**|Anthony Bolton et.al.|[2512.21572](http://arxiv.org/abs/2512.21572)|null|
 |**2025-12-25**|**Hierarchy-Aware Fine-Tuning of Vision-Language Models**|Jiayu Li et.al.|[2512.21529](http://arxiv.org/abs/2512.21529)|null|
 |**2025-12-25**|**Selective LLM-Guided Regularization for Enhancing Recommendation Models**|Shanglin Yang et.al.|[2512.21526](http://arxiv.org/abs/2512.21526)|null|
@@ -2932,7 +2932,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-07**|**OXtal: An All-Atom Diffusion Model for Organic Crystal Structure Prediction**|Emily Jin et.al.|[2512.06987](http://arxiv.org/abs/2512.06987)|null|
 |**2025-12-07**|**RMAdapter: Reconstruction-based Multi-Modal Adapter for Vision-Language Models**|Xiang Lin et.al.|[2512.06811](http://arxiv.org/abs/2512.06811)|null|
 |**2025-12-07**|**Stitch and Tell: A Structured Multimodal Data Augmentation Method for Spatial Understanding**|Hang Yin et.al.|[2512.06769](http://arxiv.org/abs/2512.06769)|null|
-|**2025-12-07**|**XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association**|Zhihua Fang et.al.|[2512.06757](http://arxiv.org/abs/2512.06757)|**[link](https://github.com/PunkMale/XM-ALIGN)**|
+|**2025-12-07**|**XM-ALIGN: Unified Cross-Modal Embedding Alignment for Face-Voice Association**|Zhihua Fang et.al.|[2512.06757](http://arxiv.org/abs/2512.06757)|null|
 |**2025-12-20**|**Monotone data augmentation algorithm for longitudinal continuous, binary and ordinal outcomes: a unifying approach**|Yongqiang Tang et.al.|[2512.06621](http://arxiv.org/abs/2512.06621)|null|
 |**2025-12-12**|**Less Is More for Multi-Step Logical Reasoning of LLM Generalisation Under Rule Removal, Paraphrasing, and Compression**|Qiming Bao et.al.|[2512.06393](http://arxiv.org/abs/2512.06393)|null|
 |**2025-12-06**|**DaGRPO: Rectifying Gradient Conflict in Reasoning via Distinctiveness-Aware Group Relative Policy Optimization**|Xuan Xie et.al.|[2512.06337](http://arxiv.org/abs/2512.06337)|null|
