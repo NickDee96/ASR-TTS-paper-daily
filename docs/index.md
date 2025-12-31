@@ -819,7 +819,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-17**|**Cross-Language Bias Examination in Large Language Models**|Yuxuan Liang et.al.|[2512.16029](http://arxiv.org/abs/2512.16029)|null|
 |**2025-12-17**|**An Empirical Study on Chinese Character Decomposition in Multiword Expression-Aware Neural Machine Translation**|Lifeng Han et.al.|[2512.15556](http://arxiv.org/abs/2512.15556)|null|
 |**2025-12-17**|**Yes-MT's Submission to the Low-Resource Indic Language Translation Shared Task in WMT 2024**|Yash Bhaskar et.al.|[2512.15226](http://arxiv.org/abs/2512.15226)|null|
-|**2025-12-16**|**Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies**|Ekaterina Artemova et.al.|[2512.14576](http://arxiv.org/abs/2512.14576)|null|
+|**2025-12-16**|**Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies**|Ekaterina Artemova et.al.|[2512.14576](http://arxiv.org/abs/2512.14576)|**[link](https://github.com/TUM-NLP/low-resource-tutorial)**|
 |**2025-12-16**|**A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs**|K. M. Jubair Sami et.al.|[2512.14179](http://arxiv.org/abs/2512.14179)|null|
 |**2025-12-16**|**Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study**|Koji Inoue et.al.|[2512.14085](http://arxiv.org/abs/2512.14085)|null|
 |**2025-12-15**|**PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation**|Hour Kaing et.al.|[2512.13552](http://arxiv.org/abs/2512.13552)|null|
