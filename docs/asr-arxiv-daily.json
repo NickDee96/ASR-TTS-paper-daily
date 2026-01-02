@@ -2861,7 +2861,7 @@
     "2512.22337": "|**2025-12-26**|**The Effectiveness of Approximate Regularized Replay for Efficient Supervised Fine-Tuning of Large Language Models**|Matthew Riemer et.al.|[2512.22337](http://arxiv.org/abs/2512.22337)|null|\n",
     "2512.22304": "|**2025-12-26**|**PortionNet: Distilling 3D Geometric Knowledge for Food Nutrition Estimation**|Darrin Bright et.al.|[2512.22304](http://arxiv.org/abs/2512.22304)|null|\n",
     "2512.24971": "|**2025-12-31**|**Evaluating the Impact of Compression Techniques on the Robustness of CNNs under Natural Corruptions**|Itallo Patrick Castro Alves Da Silva et.al.|[2512.24971](http://arxiv.org/abs/2512.24971)|null|\n",
-    "2512.24861": "|**2025-12-31**|**OFL-SAM2: Prompt SAM2 with Online Few-shot Learner for Efficient Medical Image Segmentation**|Meng Lan et.al.|[2512.24861](http://arxiv.org/abs/2512.24861)|**[link](https://github.com/xmed-lab/OFL-SAM2)**|\n",
+    "2512.24861": "|**2025-12-31**|**OFL-SAM2: Prompt SAM2 with Online Few-shot Learner for Efficient Medical Image Segmentation**|Meng Lan et.al.|[2512.24861](http://arxiv.org/abs/2512.24861)|null|\n",
     "2512.24787": "|**2025-12-31**|**HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment**|Yunsheng Pang et.al.|[2512.24787](http://arxiv.org/abs/2512.24787)|null|\n",
     "2512.24740": "|**2025-12-31**|**Control of Microrobots with Reinforcement Learning under On-Device Compute Constraints**|Yichen Liu et.al.|[2512.24740](http://arxiv.org/abs/2512.24740)|null|\n",
     "2512.24713": "|**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|\n",
@@ -3523,7 +3523,7 @@
     "2512.24693": "|**2025-12-31**|**MUSIC: MUlti-Step Instruction Contrast for Multi-Turn Reward Models**|Wenzhe Li et.al.|[2512.24693](http://arxiv.org/abs/2512.24693)|null|\n",
     "2512.24410": "|**2025-12-30**|**Comparing Approaches to Automatic Summarization in Less-Resourced Languages**|Chester Palen-Michel et.al.|[2512.24410](http://arxiv.org/abs/2512.24410)|null|\n",
     "2512.24278": "|**2025-12-30**|**One-shot synthesis of rare gastrointestinal lesions improves diagnostic accuracy and clinical training**|Jia Yu et.al.|[2512.24278](http://arxiv.org/abs/2512.24278)|null|\n",
-    "2512.24227": "|**2025-12-30**|**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**|Shuyun Wang et.al.|[2512.24227](http://arxiv.org/abs/2512.24227)|null|\n"
+    "2512.24227": "|**2025-12-30**|**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**|Shuyun Wang et.al.|[2512.24227](http://arxiv.org/abs/2512.24227)|**[link](https://github.com/wm-research/mirage)**|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
