@@ -3523,7 +3523,7 @@
     "2512.24693": "|**2025-12-31**|**MUSIC: MUlti-Step Instruction Contrast for Multi-Turn Reward Models**|Wenzhe Li et.al.|[2512.24693](http://arxiv.org/abs/2512.24693)|null|\n",
     "2512.24410": "|**2025-12-30**|**Comparing Approaches to Automatic Summarization in Less-Resourced Languages**|Chester Palen-Michel et.al.|[2512.24410](http://arxiv.org/abs/2512.24410)|null|\n",
     "2512.24278": "|**2025-12-30**|**One-shot synthesis of rare gastrointestinal lesions improves diagnostic accuracy and clinical training**|Jia Yu et.al.|[2512.24278](http://arxiv.org/abs/2512.24278)|null|\n",
-    "2512.24227": "|**2025-12-30**|**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**|Shuyun Wang et.al.|[2512.24227](http://arxiv.org/abs/2512.24227)|**[link](https://github.com/wm-research/mirage)**|\n"
+    "2512.24227": "|**2025-12-30**|**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**|Shuyun Wang et.al.|[2512.24227](http://arxiv.org/abs/2512.24227)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -4409,7 +4409,7 @@
     "2512.24254": "|**2025-12-30**|**GPT-like transformer model for silicon tracking detector simulation**|Tadej Novak et.al.|[2512.24254](http://arxiv.org/abs/2512.24254)|null|\n",
     "2512.23978": "|**2025-12-30**|**Assured Autonomy: How Operations Research Powers and Orchestrates Generative AI Systems**|Tinglong Dai et.al.|[2512.23978](http://arxiv.org/abs/2512.23978)|null|\n",
     "2512.23930": "|**2025-12-30**|**Assessing generative modeling approaches for free energy estimates in condensed matter**|Maximilian Schebek et.al.|[2512.23930](http://arxiv.org/abs/2512.23930)|null|\n",
-    "2512.23853": "|**2025-12-29**|**Flow Matching Neural Processes**|Hussen Abu Hamad et.al.|[2512.23853](http://arxiv.org/abs/2512.23853)|null|\n",
+    "2512.23853": "|**2025-12-29**|**Flow Matching Neural Processes**|Hussen Abu Hamad et.al.|[2512.23853](http://arxiv.org/abs/2512.23853)|**[link](https://github.com/USTCPCS/CVPR2018_attention)**|\n",
     "2512.23832": "|**2025-12-29**|**Exploiting the Prior of Generative Time Series Imputation**|YuYang Miao et.al.|[2512.23832](http://arxiv.org/abs/2512.23832)|null|\n",
     "2512.23747": "|**2025-12-26**|**State-of-the-art Small Language Coder Model: Mify-Coder**|Abhinav Parmar et.al.|[2512.23747](http://arxiv.org/abs/2512.23747)|null|\n"
   }
