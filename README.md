@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.04**
+📅 **Updated on 2026.01.05**
 
 ---
 
@@ -1313,7 +1313,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2025-12-31**|**Evaluating the Impact of Compression Techniques on the Robustness of CNNs under Natural Corruptions**|Itallo Patrick Castro Alves Da Silva et.al.|[2512.24971](http://arxiv.org/abs/2512.24971)|null|
-|**2025-12-31**|**OFL-SAM2: Prompt SAM2 with Online Few-shot Learner for Efficient Medical Image Segmentation**|Meng Lan et.al.|[2512.24861](http://arxiv.org/abs/2512.24861)|**[link](https://github.com/xmed-lab/OFL-SAM2)**|
+|**2025-12-31**|**OFL-SAM2: Prompt SAM2 with Online Few-shot Learner for Efficient Medical Image Segmentation**|Meng Lan et.al.|[2512.24861](http://arxiv.org/abs/2512.24861)|null|
 |**2025-12-31**|**HiGR: Efficient Generative Slate Recommendation via Hierarchical Planning and Multi-Objective Preference Alignment**|Yunsheng Pang et.al.|[2512.24787](http://arxiv.org/abs/2512.24787)|null|
 |**2025-12-31**|**Control of Microrobots with Reinforcement Learning under On-Device Compute Constraints**|Yichen Liu et.al.|[2512.24740](http://arxiv.org/abs/2512.24740)|null|
 |**2025-12-31**|**FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference**|Fen-Yu Hsieh et.al.|[2512.24713](http://arxiv.org/abs/2512.24713)|null|
