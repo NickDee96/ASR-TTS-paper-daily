@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.05**
+📅 **Updated on 2026.01.06**
 
 ---
 
@@ -1358,7 +1358,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-31**|**More Than Bits: Multi-Envelope Double Binary Factorization for Extreme Quantization**|Yuma Ichikawa et.al.|[2512.24545](http://arxiv.org/abs/2512.24545)|null|
 |**2025-12-30**|**Implementing the three-neutron quantization condition**|Wilder Schaaf et.al.|[2512.24508](http://arxiv.org/abs/2512.24508)|null|
 |**2025-12-30**|**Spectroscopy of Quantum Phase Slips: Visualizing Complex Real-Time Instantons**|Foster Thompson et.al.|[2512.24495](http://arxiv.org/abs/2512.24495)|null|
-|**2025-12-30**|**PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression**|Bo Jiang et.al.|[2512.24449](http://arxiv.org/abs/2512.24449)|null|
+|**2025-12-30**|**PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression**|Bo Jiang et.al.|[2512.24449](http://arxiv.org/abs/2512.24449)|**[link](https://github.com/BoJiang03/PackKV)**|
 |**2025-12-30**|**FAST-IDS: A Fast Two-Stage Intrusion Detection System with Hybrid Compression for Real-Time Threat Detection in Connected and Autonomous Vehicles**|Devika S et.al.|[2512.24391](http://arxiv.org/abs/2512.24391)|null|
 |**2025-12-30**|**Incremental Certificate Learning for Hybrid Neural Network Verification . A Solver Architecture for Piecewise-Linear Safety Queries**|Chandrasekhar Gokavarapu et.al.|[2512.24379](http://arxiv.org/abs/2512.24379)|null|
 |**2025-12-30**|**Efficient Decoding of Twisted GRS Codes and Roth--Lempel Codes**|Runtian Zhu et.al.|[2512.24217](http://arxiv.org/abs/2512.24217)|null|
@@ -3046,7 +3046,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-31**|**MUSIC: MUlti-Step Instruction Contrast for Multi-Turn Reward Models**|Wenzhe Li et.al.|[2512.24693](http://arxiv.org/abs/2512.24693)|null|
 |**2025-12-30**|**Comparing Approaches to Automatic Summarization in Less-Resourced Languages**|Chester Palen-Michel et.al.|[2512.24410](http://arxiv.org/abs/2512.24410)|null|
 |**2025-12-30**|**One-shot synthesis of rare gastrointestinal lesions improves diagnostic accuracy and clinical training**|Jia Yu et.al.|[2512.24278](http://arxiv.org/abs/2512.24278)|null|
-|**2025-12-30**|**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**|Shuyun Wang et.al.|[2512.24227](http://arxiv.org/abs/2512.24227)|null|
+|**2025-12-30**|**Mirage: One-Step Video Diffusion for Photorealistic and Coherent Asset Editing in Driving Scenes**|Shuyun Wang et.al.|[2512.24227](http://arxiv.org/abs/2512.24227)|**[link](https://github.com/wm-research/mirage)**|
 |**2025-12-29**|**Enhanced Web Payload Classification Using WAMM: An AI-Based Framework for Dataset Refinement and Model Evaluation**|Heba Osama et.al.|[2512.23610](http://arxiv.org/abs/2512.23610)|null|
 |**2025-12-29**|**Detection Fire in Camera RGB-NIR**|Nguyen Truong Khai et.al.|[2512.23594](http://arxiv.org/abs/2512.23594)|null|
 |**2025-12-29**|**GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection**|Jingyu Li et.al.|[2512.23147](http://arxiv.org/abs/2512.23147)|null|
