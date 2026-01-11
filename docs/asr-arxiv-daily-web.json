@@ -1254,7 +1254,7 @@
     "2601.03790": "|**2026-01-07**|**NeoAMT: Neologism-Aware Agentic Machine Translation with Reinforcement Learning**|Zhongtao Miao et.al.|[2601.03790](http://arxiv.org/abs/2601.03790)|null|\n",
     "2601.03512": "|**2026-01-07**|**Bootstrapping Code Translation with Weighted Multilanguage Exploration**|Yuhan Wu et.al.|[2601.03512](http://arxiv.org/abs/2601.03512)|null|\n",
     "2601.03400": "|**2026-01-06**|**Eye-Q: A Multilingual Benchmark for Visual Word Puzzle Solving and Image-to-Phrase Reasoning**|Ali Najar et.al.|[2601.03400](http://arxiv.org/abs/2601.03400)|null|\n",
-    "2601.04534": "|**2026-01-08**|**BanglaLorica: Design and Evaluation of a Robust Watermarking Algorithm for Large Language Models in Bangla Text Generation**|Amit Bin Tariqul et.al.|[2601.04534](http://arxiv.org/abs/2601.04534)|null|\n",
+    "2601.04534": "|**2026-01-08**|**BanglaLorica: Design and Evaluation of a Robust Watermarking Algorithm for Large Language Models in Bangla Text Generation**|Amit Bin Tariqul et.al.|[2601.04534](http://arxiv.org/abs/2601.04534)|**[link](https://github.com/anmzahid/Bangla-LLM-Watermarking)**|\n",
     "2601.04395": "|**2026-01-07**|**The Overlooked Role of Graded Relevance Thresholds in Multilingual Dense Retrieval**|Tomer Wullach et.al.|[2601.04395](http://arxiv.org/abs/2601.04395)|null|\n",
     "2601.04373": "|**2026-01-07**|**Dialect Matters: Cross-Lingual ASR Transfer for Low-Resource Indic Language Varieties**|Akriti Dhasmana et.al.|[2601.04373](http://arxiv.org/abs/2601.04373)|null|\n"
   },
