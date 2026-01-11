@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.10**
+📅 **Updated on 2026.01.11**
 
 ---
 
@@ -1384,7 +1384,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-07**|**MPM-QIR: Measurement-Probability Matching for Quantum Image Representation and Compression via Variational Quantum Circuit**|Chong-Wei Wang et.al.|[2601.03855](http://arxiv.org/abs/2601.03855)|null|
 |**2026-01-07**|**Rethinking Table Pruning in TableQA: From Sequential Revisions to Gold Trajectory-Supervised Parallel Search**|Yu Guo et.al.|[2601.03851](http://arxiv.org/abs/2601.03851)|null|
 |**2026-01-07**|**Unified and Efficient Analysis of Machining Chatter and Surface Location Error**|Woraphrut Kornmaneesang et.al.|[2601.03819](http://arxiv.org/abs/2601.03819)|null|
-|**2026-01-07**|**AI Generated Text Detection**|Adilkhan Alikhanov et.al.|[2601.03812](http://arxiv.org/abs/2601.03812)|**[link](https://github.com/YuchuanTian/AIGC_text_detector)**|
+|**2026-01-07**|**AI Generated Text Detection**|Adilkhan Alikhanov et.al.|[2601.03812](http://arxiv.org/abs/2601.03812)|null|
 |**2026-01-07**|**Improving Compactness and Reducing Ambiguity of CFIRE Rule-Based Explanations**|Sebastian Müller et.al.|[2601.03776](http://arxiv.org/abs/2601.03776)|null|
 |**2026-01-07**|**Topological quantization of vector meson anomalous couplings**|Chao-Qiang Geng et.al.|[2601.03740](http://arxiv.org/abs/2601.03740)|null|
 |**2026-01-07**|**Investigating Knowledge Distillation Through Neural Networks for Protein Binding Affinity Prediction**|Wajid Arshad Abbasi et.al.|[2601.03704](http://arxiv.org/abs/2601.03704)|null|
