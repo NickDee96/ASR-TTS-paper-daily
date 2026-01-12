@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.11**
+📅 **Updated on 2026.01.12**
 
 ---
 
@@ -880,7 +880,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2026-01-08**|**BanglaLorica: Design and Evaluation of a Robust Watermarking Algorithm for Large Language Models in Bangla Text Generation**|Amit Bin Tariqul et.al.|[2601.04534](http://arxiv.org/abs/2601.04534)|**[link](https://github.com/anmzahid/Bangla-LLM-Watermarking)**|
+|**2026-01-08**|**BanglaLorica: Design and Evaluation of a Robust Watermarking Algorithm for Large Language Models in Bangla Text Generation**|Amit Bin Tariqul et.al.|[2601.04534](http://arxiv.org/abs/2601.04534)|null|
 |**2026-01-07**|**The Overlooked Role of Graded Relevance Thresholds in Multilingual Dense Retrieval**|Tomer Wullach et.al.|[2601.04395](http://arxiv.org/abs/2601.04395)|null|
 |**2026-01-07**|**Dialect Matters: Cross-Lingual ASR Transfer for Low-Resource Indic Language Varieties**|Akriti Dhasmana et.al.|[2601.04373](http://arxiv.org/abs/2601.04373)|null|
 |**2026-01-07**|**Analyzing and Improving Cross-lingual Knowledge Transfer for Machine Translation**|David Stap et.al.|[2601.04036](http://arxiv.org/abs/2601.04036)|null|
