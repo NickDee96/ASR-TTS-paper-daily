@@ -3038,7 +3038,7 @@
     "2601.03332": "|**2026-01-06**|**LUT-KAN: Segment-wise LUT Quantization for Fast KAN Inference**|Oleksandr Kuznetsov et.al.|[2601.03332](http://arxiv.org/abs/2601.03332)|null|\n",
     "2601.05167": "|**2026-01-08**|**RelayLLM: Efficient Reasoning via Collaborative Decoding**|Chengsong Huang et.al.|[2601.05167](http://arxiv.org/abs/2601.05167)|null|\n",
     "2601.05157": "|**2026-01-08**|**Learning Mixture Models via Efficient High-dimensional Sparse Fourier Transforms**|Alkis Kalavasis et.al.|[2601.05157](http://arxiv.org/abs/2601.05157)|null|\n",
-    "2601.05038": "|**2026-01-08**|**ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG**|Jianbo Li et.al.|[2601.05038](http://arxiv.org/abs/2601.05038)|null|\n",
+    "2601.05038": "|**2026-01-08**|**ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG**|Jianbo Li et.al.|[2601.05038](http://arxiv.org/abs/2601.05038)|**[link](https://github.com/liunian-Jay/ArcAligner)**|\n",
     "2601.04999": "|**2026-01-08**|**Guided Variational Network for Image Decomposition**|Alessandro Lanza et.al.|[2601.04999](http://arxiv.org/abs/2601.04999)|null|\n",
     "2601.04973": "|**2026-01-08**|**ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning**|Minda Hu et.al.|[2601.04973](http://arxiv.org/abs/2601.04973)|null|\n",
     "2601.04823": "|**2026-01-08**|**DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation**|Guanzhi Deng et.al.|[2601.04823](http://arxiv.org/abs/2601.04823)|null|\n",

@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.12**
+📅 **Updated on 2026.01.13**
 
 ---
 
@@ -1390,7 +1390,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-08**|**Microscopic Unitarity and the Quantization of Black Hole Evaporation Time**|Ahmad Adel Abutaleb et.al.|[2601.05305](http://arxiv.org/abs/2601.05305)|null|
 |**2026-01-08**|**RelayLLM: Efficient Reasoning via Collaborative Decoding**|Chengsong Huang et.al.|[2601.05167](http://arxiv.org/abs/2601.05167)|null|
 |**2026-01-08**|**Learning Mixture Models via Efficient High-dimensional Sparse Fourier Transforms**|Alkis Kalavasis et.al.|[2601.05157](http://arxiv.org/abs/2601.05157)|null|
-|**2026-01-08**|**ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG**|Jianbo Li et.al.|[2601.05038](http://arxiv.org/abs/2601.05038)|null|
+|**2026-01-08**|**ArcAligner: Adaptive Recursive Aligner for Compressed Context Embeddings in RAG**|Jianbo Li et.al.|[2601.05038](http://arxiv.org/abs/2601.05038)|**[link](https://github.com/liunian-Jay/ArcAligner)**|
 |**2026-01-08**|**Guided Variational Network for Image Decomposition**|Alessandro Lanza et.al.|[2601.04999](http://arxiv.org/abs/2601.04999)|null|
 |**2026-01-08**|**ConMax: Confidence-Maximizing Compression for Efficient Chain-of-Thought Reasoning**|Minda Hu et.al.|[2601.04973](http://arxiv.org/abs/2601.04973)|null|
 |**2026-01-08**|**DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation**|Guanzhi Deng et.al.|[2601.04823](http://arxiv.org/abs/2601.04823)|null|
