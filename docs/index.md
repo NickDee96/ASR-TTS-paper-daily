@@ -4000,7 +4000,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-11**|**Bridging Attribution and Open-Set Detection using Graph-Augmented Instance Learning in Synthetic Speech**|Mohd Mujtaba Akhtar et.al.|[2601.07064](http://arxiv.org/abs/2601.07064)|null|
 |**2026-01-11**|**Codified Foreshadowing-Payoff Text Generation**|Longfei Yun et.al.|[2601.07033](http://arxiv.org/abs/2601.07033)|null|
 |**2026-01-11**|**Continuous Energy Landscape Model for Analyzing Brain State Transitions**|Triet M. Tran et.al.|[2601.06991](http://arxiv.org/abs/2601.06991)|null|
-|**2026-01-11**|**X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests**|Jie Wu et.al.|[2601.06953](http://arxiv.org/abs/2601.06953)|**[link](https://github.com/JieWu02/X-Coder)**|
+|**2026-01-11**|**X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests**|Jie Wu et.al.|[2601.06953](http://arxiv.org/abs/2601.06953)|null|
 |**2026-01-11**|**Generative Modeling of Human-Computer Interfaces with Diffusion Processes and Conditional Control**|Rui Liu et.al.|[2601.06823](http://arxiv.org/abs/2601.06823)|null|
 |**2026-01-11**|**Cross-Modal Computational Model of Brain-Heart Interactions via HRV and EEG Feature**|Malavika Pradeep et.al.|[2601.06792](http://arxiv.org/abs/2601.06792)|null|
 |**2026-01-11**|**CyberLLM-FINDS 2025: Instruction-Tuned Fine-tuning of Domain-Specific LLMs with Retrieval-Augmented Generation and Graph Integration for MITRE Evaluation**|Vasanth Iyer et.al.|[2601.06779](http://arxiv.org/abs/2601.06779)|null|
