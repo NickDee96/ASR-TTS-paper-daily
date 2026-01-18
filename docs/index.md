@@ -514,7 +514,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-01**|**Latent Flow Matching for Expressive Singing Voice Synthesis**|Minhyeok Yun et.al.|[2601.00217](http://arxiv.org/abs/2601.00217)|null|
 |**2025-12-30**|**A closer look at the young stellar group around Sh 2-295**|João Victor Corrêa-Rodrigues et.al.|[2512.24388](http://arxiv.org/abs/2512.24388)|null|
 |**2025-12-29**|**MiMo-Audio: Audio Language Models are Few-Shot Learners**|Xiaomi LLM-Core Team et.al.|[2512.23808](http://arxiv.org/abs/2512.23808)|null|
-|**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|**[link](https://github.com/9624219/AI4reading)**|
+|**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|null|
 |**2025-12-31**|**Task-oriented Learnable Diffusion Timesteps for Universal Few-shot Learning of Dense Tasks**|Changgyoon Oh et.al.|[2512.23210](http://arxiv.org/abs/2512.23210)|null|
 |**2025-12-27**|**Scaling Unverifiable Rewards: A Case Study on Visual Insights**|Shuyu Gan et.al.|[2512.22650](http://arxiv.org/abs/2512.22650)|null|
 |**2025-12-27**|**ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation**|Suhua Wang et.al.|[2512.22491](http://arxiv.org/abs/2512.22491)|null|
@@ -881,7 +881,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-28**|**Assessing and Improving Punctuation Robustness in English-Marathi Machine Translation**|Kaustubh Shivshankar Shejole et.al.|[2601.09725](http://arxiv.org/abs/2601.09725)|null|
 |**2025-12-24**|**Opportunities and Challenges of Natural Language Processing for Low-Resource Senegalese Languages in Social Science Research**|Derguene Mbaye et.al.|[2601.09716](http://arxiv.org/abs/2601.09716)|null|
 |**2026-01-14**|**Creating a Hybrid Rule and Neural Network Based Semantic Tagger using Silver Standard Data: the PyMUSAS framework for Multilingual Semantic Annotation**|Andrew Moore et.al.|[2601.09648](http://arxiv.org/abs/2601.09648)|null|
-|**2026-01-13**|**Layer-Parallel Training for Transformers**|Shuai Jiang et.al.|[2601.09026](http://arxiv.org/abs/2601.09026)|**[link](https://github.com/kingoflolz/swarm-jax)**|
+|**2026-01-13**|**Layer-Parallel Training for Transformers**|Shuai Jiang et.al.|[2601.09026](http://arxiv.org/abs/2601.09026)|null|
 |**2026-01-15**|**TranslateGemma Technical Report**|Mara Finkelstein et.al.|[2601.09012](http://arxiv.org/abs/2601.09012)|null|
 |**2026-01-13**|**A Parallel Cross-Lingual Benchmark for Multimodal Idiomaticity Understanding**|Dilara Torunoğlu-Selamet et.al.|[2601.08645](http://arxiv.org/abs/2601.08645)|null|
 |**2026-01-13**|**Get away with less: Need of source side data curation to build parallel corpus for low resource Machine Translation**|Saumitra Yadav et.al.|[2601.08629](http://arxiv.org/abs/2601.08629)|null|
