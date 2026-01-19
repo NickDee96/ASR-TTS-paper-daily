@@ -823,7 +823,9 @@
     "2601.08450": "|**2026-01-13**|**Decoding Order Matters in Autoregressive Speech Synthesis**|Minghui Zhao et.al.|[2601.08450](http://arxiv.org/abs/2601.08450)|null|\n",
     "2601.07958": "|**2026-01-12**|**LJ-Spoof: A Generatively Varied Corpus for Audio Anti-Spoofing and Synthesis Source Tracing**|Surya Subramani et.al.|[2601.07958](http://arxiv.org/abs/2601.07958)|null|\n",
     "2601.10629": "|**2026-01-15**|**VoiceSculptor: Your Voice, Designed By You**|Jingbin Hu et.al.|[2601.10629](http://arxiv.org/abs/2601.10629)|null|\n",
-    "2601.10011": "|**2026-01-15**|**Memo-SQL: Structured Decomposition and Experience-Driven Self-Correction for Training-Free NL2SQL**|Zerui Yang et.al.|[2601.10011](http://arxiv.org/abs/2601.10011)|null|\n"
+    "2601.10011": "|**2026-01-15**|**Memo-SQL: Structured Decomposition and Experience-Driven Self-Correction for Training-Free NL2SQL**|Zerui Yang et.al.|[2601.10011](http://arxiv.org/abs/2601.10011)|null|\n",
+    "2601.11141": "|**2026-01-16**|**FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning**|Tanyu Chen et.al.|[2601.11141](http://arxiv.org/abs/2601.11141)|null|\n",
+    "2601.11002": "|**2026-01-16**|**Redefining Machine Simultaneous Interpretation: From Incremental Translation to Human-Like Strategies**|Qianen Zhang et.al.|[2601.11002](http://arxiv.org/abs/2601.11002)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -1317,8 +1319,10 @@
     "2601.10096": "|**2026-01-15**|**Multilingual-To-Multimodal (M2M): Unlocking New Languages with Monolingual Text**|Piyush Singh Pasi et.al.|[2601.10096](http://arxiv.org/abs/2601.10096)|null|\n",
     "2601.09982": "|**2026-01-15**|**Context Volume Drives Performance: Tackling Domain Shift in Extremely Low-Resource Translation via RAG**|David Samuel Setiawan et.al.|[2601.09982](http://arxiv.org/abs/2601.09982)|null|\n",
     "2601.09732": "|**2025-12-29**|**Benchmarking Cross-Lingual Semantic Alignment in Multilingual Embeddings**|Wen G. Gong et.al.|[2601.09732](http://arxiv.org/abs/2601.09732)|null|\n",
-    "2601.09725": "|**2025-12-28**|**Assessing and Improving Punctuation Robustness in English-Marathi Machine Translation**|Kaustubh Shivshankar Shejole et.al.|[2601.09725](http://arxiv.org/abs/2601.09725)|null|\n",
-    "2601.09716": "|**2025-12-24**|**Opportunities and Challenges of Natural Language Processing for Low-Resource Senegalese Languages in Social Science Research**|Derguene Mbaye et.al.|[2601.09716](http://arxiv.org/abs/2601.09716)|null|\n"
+    "2601.09725": "|**2026-01-16**|**Assessing and Improving Punctuation Robustness in English-Marathi Machine Translation**|Kaustubh Shivshankar Shejole et.al.|[2601.09725](http://arxiv.org/abs/2601.09725)|null|\n",
+    "2601.09716": "|**2025-12-24**|**Opportunities and Challenges of Natural Language Processing for Low-Resource Senegalese Languages in Social Science Research**|Derguene Mbaye et.al.|[2601.09716](http://arxiv.org/abs/2601.09716)|null|\n",
+    "2601.11220": "|**2026-01-16**|**MultiCaption: Detecting disinformation using multilingual visual claims**|Rafael Martins Frade et.al.|[2601.11220](http://arxiv.org/abs/2601.11220)|null|\n",
+    "2601.10804": "|**2026-01-15**|**BYOL: Bring Your Own Language Into LLMs**|Syed Waqas Zamir et.al.|[2601.10804](http://arxiv.org/abs/2601.10804)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -3218,8 +3222,23 @@
     "2601.10037": "|**2026-01-15**|**Resistive Memory based Efficient Machine Unlearning and Continual Learning**|Ning Lin et.al.|[2601.10037](http://arxiv.org/abs/2601.10037)|null|\n",
     "2601.09985": "|**2026-01-15**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al.|[2601.09985](http://arxiv.org/abs/2601.09985)|null|\n",
     "2601.09865": "|**2026-01-14**|**Advancing Model Refinement: Muon-Optimized Distillation and Quantization for LLM Deployment**|Jacob Sander et.al.|[2601.09865](http://arxiv.org/abs/2601.09865)|null|\n",
-    "2601.09823": "|**2026-01-14**|**NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration**|Subhajit Sanyal et.al.|[2601.09823](http://arxiv.org/abs/2601.09823)|null|\n",
-    "2601.09809": "|**2026-01-14**|**QFed: Parameter-Compact Quantum-Classical Federated Learning**|Samar Abdelghani et.al.|[2601.09809](http://arxiv.org/abs/2601.09809)|null|\n"
+    "2601.09823": "|**2026-01-16**|**NanoSD: Edge Efficient Foundation Model for Real Time Image Restoration**|Subhajit Sanyal et.al.|[2601.09823](http://arxiv.org/abs/2601.09823)|null|\n",
+    "2601.09809": "|**2026-01-14**|**QFed: Parameter-Compact Quantum-Classical Federated Learning**|Samar Abdelghani et.al.|[2601.09809](http://arxiv.org/abs/2601.09809)|null|\n",
+    "2601.11464": "|**2026-01-16**|**MHA2MLA-VLM: Enabling DeepSeek's Economical Multi-Head Latent Attention across Vision-Language Models**|Xiaoran Fan et.al.|[2601.11464](http://arxiv.org/abs/2601.11464)|null|\n",
+    "2601.11447": "|**2026-01-16**|**IMS: Intelligent Hardware Monitoring System for Secure SoCs**|Wadid Foudhaili et.al.|[2601.11447](http://arxiv.org/abs/2601.11447)|null|\n",
+    "2601.11350": "|**2026-01-16**|**FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting**|Jaehoon Lee et.al.|[2601.11350](http://arxiv.org/abs/2601.11350)|null|\n",
+    "2601.11269": "|**2026-01-16**|**X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning**|Maanping Shao et.al.|[2601.11269](http://arxiv.org/abs/2601.11269)|null|\n",
+    "2601.11258": "|**2026-01-16**|**Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation**|Pingzhi Tang et.al.|[2601.11258](http://arxiv.org/abs/2601.11258)|null|\n",
+    "2601.11248": "|**2026-01-16**|**Language-Agnostic Visual Embeddings for Cross-Script Handwriting Retrieval**|Fangke Chen et.al.|[2601.11248](http://arxiv.org/abs/2601.11248)|null|\n",
+    "2601.11219": "|**2026-01-16**|**SDFLoRA: Selective Dual-Module LoRA for Federated Fine-tuning with Heterogeneous Clients**|Zhikang Shen et.al.|[2601.11219](http://arxiv.org/abs/2601.11219)|null|\n",
+    "2601.11200": "|**2026-01-16**|**FAQ: Mitigating Quantization Error via Regenerating Calibration Data with Family-Aware Quantization**|Haiyang Xiao et.al.|[2601.11200](http://arxiv.org/abs/2601.11200)|null|\n",
+    "2601.11183": "|**2026-01-16**|**Democratizing planetary-scale analysis: An ultra-lightweight Earth embedding database for accurate and flexible global land monitoring**|Shuang Chen et.al.|[2601.11183](http://arxiv.org/abs/2601.11183)|null|\n",
+    "2601.11024": "|**2026-01-16**|**PruneRAG: Confidence-Guided Query Decomposition Trees for Efficient Retrieval-Augmented Generation**|Shuguang Jiao et.al.|[2601.11024](http://arxiv.org/abs/2601.11024)|null|\n",
+    "2601.10837": "|**2026-01-15**|**EncodeRec: An Embedding Backbone for Recommendation Systems**|Guy Hadad et.al.|[2601.10837](http://arxiv.org/abs/2601.10837)|null|\n",
+    "2601.10823": "|**2026-01-15**|**Mugi: Value Level Parallelism For Efficient LLMs**|Daniel Price et.al.|[2601.10823](http://arxiv.org/abs/2601.10823)|null|\n",
+    "2601.10801": "|**2026-01-15**|**Towards Tensor Network Models for Low-Latency Jet Tagging on FPGAs**|Alberto Coppi et.al.|[2601.10801](http://arxiv.org/abs/2601.10801)|null|\n",
+    "2601.10789": "|**2026-01-15**|**Astrometric microlensing probes of the isolated neutron star population with Roman**|Zofia Kaczmarek et.al.|[2601.10789](http://arxiv.org/abs/2601.10789)|null|\n",
+    "2601.10765": "|**2026-01-14**|**Pruning as Evolution: Emergent Sparsity Through Selection Dynamics in Neural Networks**|Zubair Shah et.al.|[2601.10765](http://arxiv.org/abs/2601.10765)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -3914,7 +3933,11 @@
     "2601.08860": "|**2026-01-09**|**Bias Detection and Rotation-Robustness Mitigation in Vision-Language Models and Generative Image Models**|Tarannum Mithila et.al.|[2601.08860](http://arxiv.org/abs/2601.08860)|null|\n",
     "2601.10679": "|**2026-01-15**|**Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models**|Zirui Ren et.al.|[2601.10679](http://arxiv.org/abs/2601.10679)|null|\n",
     "2601.10143": "|**2026-01-15**|**History Is Not Enough: An Adaptive Dataflow System for Financial Time-Series Synthesis**|Haochong Xia et.al.|[2601.10143](http://arxiv.org/abs/2601.10143)|null|\n",
-    "2601.09814": "|**2026-01-14**|**Explainable Deep Learning for Pediatric Pneumonia Detection in Chest X-Ray Images**|Adil O. Khadidos et.al.|[2601.09814](http://arxiv.org/abs/2601.09814)|null|\n"
+    "2601.09814": "|**2026-01-14**|**Explainable Deep Learning for Pediatric Pneumonia Detection in Chest X-Ray Images**|Adil O. Khadidos et.al.|[2601.09814](http://arxiv.org/abs/2601.09814)|null|\n",
+    "2601.11427": "|**2026-01-16**|**Isotropy-Optimized Contrastive Learning for Semantic Course Recommendation**|Ali Khreis et.al.|[2601.11427](http://arxiv.org/abs/2601.11427)|null|\n",
+    "2601.11234": "|**2026-01-16**|**How DDAIR you? Disambiguated Data Augmentation for Intent Recognition**|Galo Castillo-López et.al.|[2601.11234](http://arxiv.org/abs/2601.11234)|null|\n",
+    "2601.10933": "|**2026-01-16**|**Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation**|Yizhou Dang et.al.|[2601.10933](http://arxiv.org/abs/2601.10933)|**[link](https://github.com/KingGugu/TADA)**|\n",
+    "2601.10819": "|**2026-01-15**|**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**|Yizhou Wang et.al.|[2601.10819](http://arxiv.org/abs/2601.10819)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -4885,6 +4908,11 @@
     "2601.10344": "|**2026-01-15**|**Joint Bayesian inference of Earth's magnetic field and core surface flow on millennial timescales**|Andreas Nilsson et.al.|[2601.10344](http://arxiv.org/abs/2601.10344)|null|\n",
     "2601.10318": "|**2026-01-15**|**Boundary-Aware NL2SQL: Integrating Reliability through Hybrid Reward and Data Synthesis**|Songsong Tian et.al.|[2601.10318](http://arxiv.org/abs/2601.10318)|null|\n",
     "2601.10315": "|**2026-01-15**|**ADVOSYNTH: A Synthetic Multi-Advocate Dataset for Speaker Identification in Courtroom Scenarios**|Aniket Deroy et.al.|[2601.10315](http://arxiv.org/abs/2601.10315)|null|\n",
-    "2601.09979": "|**2026-01-15**|**In-Context Operator Learning on the Space of Probability Measures**|Frank Cole et.al.|[2601.09979](http://arxiv.org/abs/2601.09979)|null|\n"
+    "2601.09979": "|**2026-01-15**|**In-Context Operator Learning on the Space of Probability Measures**|Frank Cole et.al.|[2601.09979](http://arxiv.org/abs/2601.09979)|null|\n",
+    "2601.11475": "|**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](http://arxiv.org/abs/2601.11475)|null|\n",
+    "2601.11141": "|**2026-01-16**|**FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning**|Tanyu Chen et.al.|[2601.11141](http://arxiv.org/abs/2601.11141)|null|\n",
+    "2601.11087": "|**2026-01-16**|**PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models**|Qiyuan Zhang et.al.|[2601.11087](http://arxiv.org/abs/2601.11087)|null|\n",
+    "2601.11035": "|**2026-01-16**|**Your One-Stop Solution for AI-Generated Video Detection**|Long Ma et.al.|[2601.11035](http://arxiv.org/abs/2601.11035)|null|\n",
+    "2601.10804": "|**2026-01-15**|**BYOL: Bring Your Own Language Into LLMs**|Syed Waqas Zamir et.al.|[2601.10804](http://arxiv.org/abs/2601.10804)|null|\n"
   }
 }
