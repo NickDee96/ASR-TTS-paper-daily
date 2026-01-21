@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.20**
+📅 **Updated on 2026.01.21**
 
 ## 🌟 About This Repository
 
@@ -938,7 +938,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2025-12-17**|**Cross-Language Bias Examination in Large Language Models**|Yuxuan Liang et.al.|[2512.16029](http://arxiv.org/abs/2512.16029)|null|
 |**2025-12-17**|**An Empirical Study on Chinese Character Decomposition in Multiword Expression-Aware Neural Machine Translation**|Lifeng Han et.al.|[2512.15556](http://arxiv.org/abs/2512.15556)|null|
 |**2025-12-17**|**Yes-MT's Submission to the Low-Resource Indic Language Translation Shared Task in WMT 2024**|Yash Bhaskar et.al.|[2512.15226](http://arxiv.org/abs/2512.15226)|null|
-|**2025-12-16**|**Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies**|Ekaterina Artemova et.al.|[2512.14576](http://arxiv.org/abs/2512.14576)|null|
+|**2025-12-16**|**Low-Resource, High-Impact: Building Corpora for Inclusive Language Technologies**|Ekaterina Artemova et.al.|[2512.14576](http://arxiv.org/abs/2512.14576)|**[link](https://github.com/TUM-NLP/low-resource-tutorial)**|
 |**2025-12-16**|**A Comparative Analysis of Retrieval-Augmented Generation Techniques for Bengali Standard-to-Dialect Machine Translation Using LLMs**|K. M. Jubair Sami et.al.|[2512.14179](http://arxiv.org/abs/2512.14179)|null|
 |**2025-12-16**|**Multilingual and Continuous Backchannel Prediction: A Cross-lingual Study**|Koji Inoue et.al.|[2512.14085](http://arxiv.org/abs/2512.14085)|null|
 |**2025-12-15**|**PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation**|Hour Kaing et.al.|[2512.13552](http://arxiv.org/abs/2512.13552)|null|
@@ -3298,7 +3298,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-16**|**Isotropy-Optimized Contrastive Learning for Semantic Course Recommendation**|Ali Khreis et.al.|[2601.11427](http://arxiv.org/abs/2601.11427)|null|
 |**2026-01-16**|**How DDAIR you? Disambiguated Data Augmentation for Intent Recognition**|Galo Castillo-López et.al.|[2601.11234](http://arxiv.org/abs/2601.11234)|null|
-|**2026-01-16**|**Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation**|Yizhou Dang et.al.|[2601.10933](http://arxiv.org/abs/2601.10933)|**[link](https://github.com/KingGugu/TADA)**|
+|**2026-01-16**|**Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation**|Yizhou Dang et.al.|[2601.10933](http://arxiv.org/abs/2601.10933)|null|
 |**2026-01-15**|**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**|Yizhou Wang et.al.|[2601.10819](http://arxiv.org/abs/2601.10819)|null|
 |**2026-01-15**|**Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models**|Zirui Ren et.al.|[2601.10679](http://arxiv.org/abs/2601.10679)|null|
 |**2026-01-15**|**History Is Not Enough: An Adaptive Dataflow System for Financial Time-Series Synthesis**|Haochong Xia et.al.|[2601.10143](http://arxiv.org/abs/2601.10143)|null|
