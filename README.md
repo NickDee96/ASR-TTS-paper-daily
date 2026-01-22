@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.21**
+📅 **Updated on 2026.01.22**
 
 ---
 
@@ -3428,12 +3428,12 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-19**|**Diffusion-Driven Synthetic Tabular Data Generation for Enhanced DoS/DDoS Attack Classification**|Aravind B et.al.|[2601.13197](http://arxiv.org/abs/2601.13197)|null|
 |**2026-01-19**|**NeuroShield: A Neuro-Symbolic Framework for Adversarial Robustness**|Ali Shafiee Sarvestani et.al.|[2601.13162](http://arxiv.org/abs/2601.13162)|null|
 |**2026-01-19**|**Adaptive Speaker Embedding Self-Augmentation for Personal Voice Activity Detection with Short Enrollment Speech**|Fuyuan Feng et.al.|[2601.12769](http://arxiv.org/abs/2601.12769)|null|
-|**2026-01-18**|**Single-index Semiparametric Transformation Cure Models with Interval-censored Data**|Xiaoru Huang et.al.|[2601.12370](http://arxiv.org/abs/2601.12370)|**[link](https://github.com/liuxystat/SMCI)**|
+|**2026-01-18**|**Single-index Semiparametric Transformation Cure Models with Interval-censored Data**|Xiaoru Huang et.al.|[2601.12370](http://arxiv.org/abs/2601.12370)|null|
 |**2026-01-18**|**Beyond Human Annotation: Recent Advances in Data Generation Methods for Document Intelligence**|Dehao Ying et.al.|[2601.12318](http://arxiv.org/abs/2601.12318)|null|
 |**2026-01-18**|**An Innovative Framework for Breast Cancer Detection Using Pyramid Adaptive Atrous Convolution, Transformer Integration, and Multi-Scale Feature Fusion**|Ehsan Sadeghi Pour et.al.|[2601.12249](http://arxiv.org/abs/2601.12249)|null|
 |**2026-01-16**|**Isotropy-Optimized Contrastive Learning for Semantic Course Recommendation**|Ali Khreis et.al.|[2601.11427](http://arxiv.org/abs/2601.11427)|null|
 |**2026-01-16**|**How DDAIR you? Disambiguated Data Augmentation for Intent Recognition**|Galo Castillo-López et.al.|[2601.11234](http://arxiv.org/abs/2601.11234)|null|
-|**2026-01-16**|**Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation**|Yizhou Dang et.al.|[2601.10933](http://arxiv.org/abs/2601.10933)|**[link](https://github.com/KingGugu/TADA)**|
+|**2026-01-16**|**Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation**|Yizhou Dang et.al.|[2601.10933](http://arxiv.org/abs/2601.10933)|null|
 |**2026-01-15**|**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**|Yizhou Wang et.al.|[2601.10819](http://arxiv.org/abs/2601.10819)|null|
 |**2026-01-15**|**Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models**|Zirui Ren et.al.|[2601.10679](http://arxiv.org/abs/2601.10679)|null|
 |**2026-01-15**|**History Is Not Enough: An Adaptive Dataflow System for Financial Time-Series Synthesis**|Haochong Xia et.al.|[2601.10143](http://arxiv.org/abs/2601.10143)|null|
@@ -3480,7 +3480,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-04**|**iFlip: Iterative Feedback-driven Counterfactual Example Refinement**|Yilong Wang et.al.|[2601.01446](http://arxiv.org/abs/2601.01446)|null|
 |**2026-01-04**|**In defense of the two-stage framework for open-set domain adaptive semantic segmentation**|Wenqi Ren et.al.|[2601.01439](http://arxiv.org/abs/2601.01439)|null|
 |**2026-01-03**|**DST-Calib: A Dual-Path, Self-Supervised, Target-Free LiDAR-Camera Extrinsic Calibration Network**|Zhiwei Huang et.al.|[2601.01188](http://arxiv.org/abs/2601.01188)|null|
-|**2026-01-03**|**Comparative Evaluation of VAE, GAN, and SMOTE for Tor Detection in Encrypted Network Traffic**|Saravanan A et.al.|[2601.01183](http://arxiv.org/abs/2601.01183)|null|
+|**2026-01-03**|**Comparative Evaluation of VAE, GAN, and SMOTE for Tor Detection in Encrypted Network Traffic**|Saravanan A et.al.|[2601.01183](http://arxiv.org/abs/2601.01183)|**[link](https://github.com/sjord01/A01183994_comp2601_67211_lab2)**|
 |**2026-01-03**|**600k-ks-ocr: a large-scale synthetic dataset for optical character recognition in kashmiri script**|Haq Nawaz Malik et.al.|[2601.01088](http://arxiv.org/abs/2601.01088)|null|
 |**2026-01-03**|**Enhanced Leukemic Cell Classification Using Attention-Based CNN and Data Augmentation**|Douglas Costa Braga et.al.|[2601.01026](http://arxiv.org/abs/2601.01026)|null|
 |**2026-01-02**|**A Deep Learning Approach for Automated Skin Lesion Diagnosis with Explainable AI**|Md. Maksudul Haque et.al.|[2601.00964](http://arxiv.org/abs/2601.00964)|null|
