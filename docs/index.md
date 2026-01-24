@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.23**
+📅 **Updated on 2026.01.24**
 
 ## 🌟 About This Repository
 
@@ -36,9 +36,9 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-01-22**|**Quantum Dimension Reduction of Hidden Markov Models**|Rishi Sundar et.al.|[2601.16126](http://arxiv.org/abs/2601.16126)|null|
-|**2026-01-22**|**Distillation-based Layer Dropping (DLD) Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[2601.16117](http://arxiv.org/abs/2601.16117)|**[link](https://github.com/hannabdul/DLD4ASR)**|
+|**2026-01-22**|**Distillation-based Layer Dropping (DLD) Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[2601.16117](http://arxiv.org/abs/2601.16117)|null|
 |**2026-01-20**|**Lost in Transcription: How Speech-to-Text Errors Derail Code Understanding**|Jayant Havare et.al.|[2601.15339](http://arxiv.org/abs/2601.15339)|null|
-|**2026-01-22**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|**[link](https://github.com/Gallaudet-University/chi2026-ipa)**|
+|**2026-01-22**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|null|
 |**2026-01-21**|**Inverse-Hessian Regularization for Continual Learning in ASR**|Steven Vander Eeckt et.al.|[2601.14751](http://arxiv.org/abs/2601.14751)|null|
 |**2026-01-20**|**HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**|Yuhua Jin et.al.|[2601.13801](http://arxiv.org/abs/2601.13801)|null|
 |**2026-01-20**|**LongSpeech: A Scalable Benchmark for Transcription, Translation and Understanding in Long Speech**|Fei Yang et.al.|[2601.13539](http://arxiv.org/abs/2601.13539)|null|
@@ -3473,7 +3473,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-05**|**API: Empowering Generalizable Real-World Image Dehazing via Adaptive Patch Importance Learning**|Chen Zhu et.al.|[2601.01992](http://arxiv.org/abs/2601.01992)|null|
 |**2026-01-05**|**Thinking with Blueprints: Assisting Vision-Language Models in Spatial Reasoning via Structured Object Representation**|Weijian Ma et.al.|[2601.01984](http://arxiv.org/abs/2601.01984)|null|
 |**2026-01-05**|**Theoretical Convergence of SMOTE-Generated Samples**|Firuz Kamalov et.al.|[2601.01927](http://arxiv.org/abs/2601.01927)|null|
-|**2026-01-05**|**AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving**|Yanhao Wu et.al.|[2601.01762](http://arxiv.org/abs/2601.01762)|null|
+|**2026-01-05**|**AlignDrive: Aligned Lateral-Longitudinal Planning for End-to-End Autonomous Driving**|Yanhao Wu et.al.|[2601.01762](http://arxiv.org/abs/2601.01762)|**[link](https://github.com/YanhaoWu/AlignDrive)**|
 |**2026-01-04**|**FALCON: Few-Shot Adversarial Learning for Cross-Domain Medical Image Segmentation**|Abdur R. Fayjie et.al.|[2601.01687](http://arxiv.org/abs/2601.01687)|null|
 |**2026-01-04**|**DiffKD-DCIS: Predicting Upgrade of Ductal Carcinoma In Situ with Diffusion Augmentation and Knowledge Distillation**|Tao Li et.al.|[2601.01507](http://arxiv.org/abs/2601.01507)|null|
 |**2026-01-04**|**DeepInv: A Novel Self-supervised Learning Approach for Fast and Accurate Diffusion Inversion**|Ziyue Zhang et.al.|[2601.01487](http://arxiv.org/abs/2601.01487)|null|
@@ -4166,7 +4166,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-19**|**Text2Structure3D: Graph-Based Generative Modeling of Equilibrium Structures with Diffusion Transformers**|Lazlo Bleker et.al.|[2601.12870](http://arxiv.org/abs/2601.12870)|null|
 |**2026-01-18**|**A Unified Neural Codec Language Model for Selective Editable Text to Speech Generation**|Hanchen Pei et.al.|[2601.12480](http://arxiv.org/abs/2601.12480)|null|
 |**2026-01-18**|**S^2F-Net:A Robust Spatial-Spectral Fusion Framework for Cross-Model AIGC Detection**|Xiangyu Hu et.al.|[2601.12313](http://arxiv.org/abs/2601.12313)|null|
-|**2026-01-18**|**ParaMETA: Towards Learning Disentangled Paralinguistic Speaking Styles Representations from Speech**|Haowei Lou et.al.|[2601.12289](http://arxiv.org/abs/2601.12289)|**[link](https://github.com/haoweilou/ParaMETA)**|
+|**2026-01-18**|**ParaMETA: Towards Learning Disentangled Paralinguistic Speaking Styles Representations from Speech**|Haowei Lou et.al.|[2601.12289](http://arxiv.org/abs/2601.12289)|null|
 |**2026-01-17**|**SynQP: A Framework and Metrics for Evaluating the Quality and Privacy Risk of Synthetic Data**|Bing Hu et.al.|[2601.12124](http://arxiv.org/abs/2601.12124)|null|
 |**2026-01-16**|**Cleansing the Artificial Mind: A Self-Reflective Detoxification Framework for Large Language Models**|Kaituo Zhang et.al.|[2601.11776](http://arxiv.org/abs/2601.11776)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475](http://arxiv.org/abs/2601.11475)|null|
