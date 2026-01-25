@@ -4237,7 +4237,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-19**|**Beyond Visual Realism: Toward Reliable Financial Time Series Generation**|Fan Zhang et.al.|[2601.12990](http://arxiv.org/abs/2601.12990)|null|
 |**2026-01-19**|**ImmersiveFlow: Stereo-to-7.1.4 spatial audio generation with flow matching**|Zining Liang et.al.|[2601.12950](http://arxiv.org/abs/2601.12950)|null|
 |**2026-01-21**|**AI-generated data contamination erodes pathological variability and diagnostic reliability**|Hongyu He et.al.|[2601.12946](http://arxiv.org/abs/2601.12946)|null|
-|**2026-01-19**|**SciCoQA: Quality Assurance for Scientific Paper--Code Alignment**|Tim Baumgärtner et.al.|[2601.12910](http://arxiv.org/abs/2601.12910)|**[link](https://github.com/UKPLab/scicoqa)**|
+|**2026-01-19**|**SciCoQA: Quality Assurance for Scientific Paper--Code Alignment**|Tim Baumgärtner et.al.|[2601.12910](http://arxiv.org/abs/2601.12910)|null|
 |**2026-01-19**|**Text2Structure3D: Graph-Based Generative Modeling of Equilibrium Structures with Diffusion Transformers**|Lazlo Bleker et.al.|[2601.12870](http://arxiv.org/abs/2601.12870)|null|
 |**2026-01-18**|**A Unified Neural Codec Language Model for Selective Editable Text to Speech Generation**|Hanchen Pei et.al.|[2601.12480](http://arxiv.org/abs/2601.12480)|null|
 |**2026-01-18**|**S^2F-Net:A Robust Spatial-Spectral Fusion Framework for Cross-Model AIGC Detection**|Xiangyu Hu et.al.|[2601.12313](http://arxiv.org/abs/2601.12313)|null|
