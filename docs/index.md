@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.25**
+📅 **Updated on 2026.01.26**
 
 ## 🌟 About This Repository
 
@@ -4154,7 +4154,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-16**|**Guardrails for trust, safety, and ethical development and deployment of Large Language Models (LLM)**|Anjanava Biswas et.al.|[2601.14298](http://arxiv.org/abs/2601.14298)|null|
 |**2026-01-20**|**Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law**|Ali Hamza Bashir et.al.|[2601.14160](http://arxiv.org/abs/2601.14160)|null|
 |**2026-01-20**|**Style Transfer as Bias Mitigation: Diffusion Models for Synthetic Mental Health Text for Arabic**|Saad Mankarious et.al.|[2601.14124](http://arxiv.org/abs/2601.14124)|null|
-|**2026-01-20**|**GOMPSNR: Reflourish the Signal-to-Noise Ratio Metric for Audio Generation Tasks**|Lingling Dai et.al.|[2601.13758](http://arxiv.org/abs/2601.13758)|null|
+|**2026-01-20**|**GOMPSNR: Reflourish the Signal-to-Noise Ratio Metric for Audio Generation Tasks**|Lingling Dai et.al.|[2601.13758](http://arxiv.org/abs/2601.13758)|**[link](https://github.com/lingling-dai/GOMPSNR)**|
 |**2026-01-20**|**Beyond Known Facts: Generating Unseen Temporal Knowledge to Address Data Contamination in LLM Evaluation**|Arthur Amalvy et.al.|[2601.13658](http://arxiv.org/abs/2601.13658)|null|
 |**2026-01-19**|**BladeSDF : Unconditional and Conditional Generative Modeling of Representative Blade Geometries Using Signed Distance Functions**|Ashish S. Nair et.al.|[2601.13445](http://arxiv.org/abs/2601.13445)|null|
 |**2026-01-19**|**CausationEntropy: Pythonic Optimal Causation Entropy**|Kevin Slote et.al.|[2601.13365](http://arxiv.org/abs/2601.13365)|null|

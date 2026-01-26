@@ -5051,7 +5051,7 @@
     "2601.10804": "|**2026-01-15**|**BYOL: Bring Your Own Language Into LLMs**|Syed Waqas Zamir et.al.|[2601.10804](http://arxiv.org/abs/2601.10804)|null|\n",
     "2601.14160": "|**2026-01-20**|**Domain-Adaptation through Synthetic Data: Fine-Tuning Large Language Models for German Law**|Ali Hamza Bashir et.al.|[2601.14160](http://arxiv.org/abs/2601.14160)|null|\n",
     "2601.14124": "|**2026-01-20**|**Style Transfer as Bias Mitigation: Diffusion Models for Synthetic Mental Health Text for Arabic**|Saad Mankarious et.al.|[2601.14124](http://arxiv.org/abs/2601.14124)|null|\n",
-    "2601.13758": "|**2026-01-20**|**GOMPSNR: Reflourish the Signal-to-Noise Ratio Metric for Audio Generation Tasks**|Lingling Dai et.al.|[2601.13758](http://arxiv.org/abs/2601.13758)|null|\n",
+    "2601.13758": "|**2026-01-20**|**GOMPSNR: Reflourish the Signal-to-Noise Ratio Metric for Audio Generation Tasks**|Lingling Dai et.al.|[2601.13758](http://arxiv.org/abs/2601.13758)|**[link](https://github.com/lingling-dai/GOMPSNR)**|\n",
     "2601.13658": "|**2026-01-20**|**Beyond Known Facts: Generating Unseen Temporal Knowledge to Address Data Contamination in LLM Evaluation**|Arthur Amalvy et.al.|[2601.13658](http://arxiv.org/abs/2601.13658)|null|\n",
     "2601.13445": "|**2026-01-19**|**BladeSDF : Unconditional and Conditional Generative Modeling of Representative Blade Geometries Using Signed Distance Functions**|Ashish S. Nair et.al.|[2601.13445](http://arxiv.org/abs/2601.13445)|null|\n",
     "2601.13365": "|**2026-01-19**|**CausationEntropy: Pythonic Optimal Causation Entropy**|Kevin Slote et.al.|[2601.13365](http://arxiv.org/abs/2601.13365)|null|\n",
