@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.26**
+📅 **Updated on 2026.01.27**
 
 ## 🌟 About This Repository
 
@@ -3444,8 +3444,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-21**|**Context Patch Fusion With Class Token Enhancement for Weakly Supervised Semantic Segmentation**|Yiyang Fu et.al.|[2601.14718](http://arxiv.org/abs/2601.14718)|null|
 |**2026-01-21**|**Counterfactual Modeling with Fine-Tuned LLMs for Health Intervention Design and Sensor Data Augmentation**|Shovito Barua Soumma et.al.|[2601.14590](http://arxiv.org/abs/2601.14590)|null|
 |**2026-01-20**|**Attention-Based Offline Reinforcement Learning and Clustering for Interpretable Sepsis Treatment**|Punit Kumar et.al.|[2601.14228](http://arxiv.org/abs/2601.14228)|null|
-|**2026-01-21**|**RL-BioAug: Label-Efficient Reinforcement Learning for Self-Supervised EEG Representation Learning**|Cheol-Hui Lee et.al.|[2601.13964](http://arxiv.org/abs/2601.13964)|**[link](https://github.com/dlcjfgmlnasa/RL-BioAug)**|
-|**2026-01-20**|**Towards Effective Negation Modeling in Joint Audio-Text Models for Music**|Yannis Vasilakis et.al.|[2601.13931](http://arxiv.org/abs/2601.13931)|**[link](https://github.com/YannisBilly/towards-effective-negation-modeling-in-joint-audio-text-models-for-music)**|
+|**2026-01-21**|**RL-BioAug: Label-Efficient Reinforcement Learning for Self-Supervised EEG Representation Learning**|Cheol-Hui Lee et.al.|[2601.13964](http://arxiv.org/abs/2601.13964)|null|
+|**2026-01-20**|**Towards Effective Negation Modeling in Joint Audio-Text Models for Music**|Yannis Vasilakis et.al.|[2601.13931](http://arxiv.org/abs/2601.13931)|null|
 |**2026-01-20**|**Inverting Self-Organizing Maps: A Unified Activation-Based Framework**|Alessandro Londei et.al.|[2601.13851](http://arxiv.org/abs/2601.13851)|null|
 |**2026-01-19**|**Discrete-Time Optimal Control of Species Augmentation for Predator-Prey Model**|Munkaila Dasumani et.al.|[2601.13394](http://arxiv.org/abs/2601.13394)|null|
 |**2026-01-19**|**Diffusion-Driven Synthetic Tabular Data Generation for Enhanced DoS/DDoS Attack Classification**|Aravind B et.al.|[2601.13197](http://arxiv.org/abs/2601.13197)|null|
