@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.28**
+📅 **Updated on 2026.01.29**
 
 ## 🌟 About This Repository
 
@@ -1457,7 +1457,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-27**|**GradPruner: Gradient-Guided Layer Pruning Enabling Efficient Fine-Tuning and Inference for LLMs**|Wei Huang et.al.|[2601.19503](http://arxiv.org/abs/2601.19503)|null|
 |**2026-01-27**|**StableQAT: Stable Quantization-Aware Training at Ultra-Low Bitwidths**|Tianyi Chen et.al.|[2601.19320](http://arxiv.org/abs/2601.19320)|null|
 |**2026-01-27**|**Reinforced Rate Control for Neural Video Compression via Inter-Frame Rate-Distortion Awareness**|Wuyang Cong et.al.|[2601.19293](http://arxiv.org/abs/2601.19293)|null|
-|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|**[link](https://github.com/fvliang/DART)**|
+|**2026-01-27**|**DART: Diffusion-Inspired Speculative Decoding for Fast LLM Inference**|Fuliang Liu et.al.|[2601.19278](http://arxiv.org/abs/2601.19278)|null|
 |**2026-01-27**|**M $^{\text{2}}$ XFP: A Metadata-Augmented Microscaling Data Format for Efficient Low-bit Quantization**|Weiming Hu et.al.|[2601.19213](http://arxiv.org/abs/2601.19213)|null|
 |**2026-01-27**|**Optimized $k$ -means color quantization of digital images in machine-based and human perception-based colorspaces**|Ranjan Maitra et.al.|[2601.19117](http://arxiv.org/abs/2601.19117)|null|
 |**2026-01-27**|**EPAS: Efficient Training with Progressive Activation Sharing**|Rezaul Karim et.al.|[2601.19089](http://arxiv.org/abs/2601.19089)|null|
@@ -3531,14 +3531,14 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-27**|**Leveraging Sentence-oriented Augmentation and Transformer-Based Architecture for Vietnamese-Bahnaric Translation**|Tan Sang Nguyen et.al.|[2601.19124](http://arxiv.org/abs/2601.19124)|null|
 |**2026-01-27**|**Exploring Weaknesses in Function Call Models via Reinforcement Learning: An Adversarial Data Augmentation Approach**|Weiran Guo et.al.|[2601.19122](http://arxiv.org/abs/2601.19122)|null|
 |**2026-01-26**|**OATS: Online Data Augmentation for Time Series Foundation Models**|Junwei Deng et.al.|[2601.19040](http://arxiv.org/abs/2601.19040)|null|
-|**2026-01-26**|**ExoGS: A 4D Real-to-Sim-to-Real Framework for Scalable Manipulation Data Collection**|Yiming Wang et.al.|[2601.18629](http://arxiv.org/abs/2601.18629)|**[link](https://github.com/zaixiabalala/ExoGS)**|
+|**2026-01-26**|**ExoGS: A 4D Real-to-Sim-to-Real Framework for Scalable Manipulation Data Collection**|Yiming Wang et.al.|[2601.18629](http://arxiv.org/abs/2601.18629)|null|
 |**2026-01-26**|**Generative Diffusion Augmentation with Quantum-Enhanced Discrimination for Medical Image Diagnosis**|Jingsong Xia et.al.|[2601.18556](http://arxiv.org/abs/2601.18556)|null|
 |**2026-01-26**|**A Dataset for Automatic Vocal Mode Classification**|Reemt Hinrichs et.al.|[2601.18339](http://arxiv.org/abs/2601.18339)|null|
 |**2026-01-26**|**Analytic Incremental Learning For Sound Source Localization With Imbalance Rectification**|Zexia Fan et.al.|[2601.18335](http://arxiv.org/abs/2601.18335)|null|
 |**2026-01-26**|**Facial Emotion Recognition on FER-2013 using an EfficientNetB2-Based Approach**|Sahil Naik et.al.|[2601.18228](http://arxiv.org/abs/2601.18228)|null|
 |**2026-01-25**|**MarketGANs: Multivariate financial time-series data augmentation using generative adversarial networks**|Jeonggyu Huh et.al.|[2601.17773](http://arxiv.org/abs/2601.17773)|null|
 |**2026-01-25**|**Training-Free Text-to-Image Compositional Food Generation via Prompt Grafting**|Xinyue Pan et.al.|[2601.17666](http://arxiv.org/abs/2601.17666)|null|
-|**2026-01-24**|**Stylizing ViT: Anatomy-Preserving Instance Style Transfer for Domain Generalization**|Sebastian Doerrich et.al.|[2601.17586](http://arxiv.org/abs/2601.17586)|null|
+|**2026-01-24**|**Stylizing ViT: Anatomy-Preserving Instance Style Transfer for Domain Generalization**|Sebastian Doerrich et.al.|[2601.17586](http://arxiv.org/abs/2601.17586)|**[link](https://github.com/sdoerrich97/stylizing-vit)**|
 |**2026-01-24**|**SpatialMath: Spatial Comprehension-Infused Symbolic Reasoning for Mathematical Problem-Solving**|Ashutosh Bajpai et.al.|[2601.17489](http://arxiv.org/abs/2601.17489)|null|
 |**2026-01-23**|**Semi-Supervised Domain Adaptation with Latent Diffusion for Pathology Image Classification**|Tengyue Zhang et.al.|[2601.17228](http://arxiv.org/abs/2601.17228)|null|
 |**2026-01-23**|**Fully 3D Unrolled Magnetic Resonance Fingerprinting Reconstruction via Staged Pretraining and Implicit Gridding**|Yonatan Urman et.al.|[2601.17143](http://arxiv.org/abs/2601.17143)|null|
@@ -3558,8 +3558,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-21**|**Context Patch Fusion With Class Token Enhancement for Weakly Supervised Semantic Segmentation**|Yiyang Fu et.al.|[2601.14718](http://arxiv.org/abs/2601.14718)|null|
 |**2026-01-21**|**Counterfactual Modeling with Fine-Tuned LLMs for Health Intervention Design and Sensor Data Augmentation**|Shovito Barua Soumma et.al.|[2601.14590](http://arxiv.org/abs/2601.14590)|null|
 |**2026-01-20**|**Attention-Based Offline Reinforcement Learning and Clustering for Interpretable Sepsis Treatment**|Punit Kumar et.al.|[2601.14228](http://arxiv.org/abs/2601.14228)|null|
-|**2026-01-21**|**RL-BioAug: Label-Efficient Reinforcement Learning for Self-Supervised EEG Representation Learning**|Cheol-Hui Lee et.al.|[2601.13964](http://arxiv.org/abs/2601.13964)|**[link](https://github.com/dlcjfgmlnasa/RL-BioAug)**|
-|**2026-01-20**|**Towards Effective Negation Modeling in Joint Audio-Text Models for Music**|Yannis Vasilakis et.al.|[2601.13931](http://arxiv.org/abs/2601.13931)|**[link](https://github.com/YannisBilly/towards-effective-negation-modeling-in-joint-audio-text-models-for-music)**|
+|**2026-01-21**|**RL-BioAug: Label-Efficient Reinforcement Learning for Self-Supervised EEG Representation Learning**|Cheol-Hui Lee et.al.|[2601.13964](http://arxiv.org/abs/2601.13964)|null|
+|**2026-01-20**|**Towards Effective Negation Modeling in Joint Audio-Text Models for Music**|Yannis Vasilakis et.al.|[2601.13931](http://arxiv.org/abs/2601.13931)|null|
 |**2026-01-20**|**Inverting Self-Organizing Maps: A Unified Activation-Based Framework**|Alessandro Londei et.al.|[2601.13851](http://arxiv.org/abs/2601.13851)|null|
 |**2026-01-19**|**Discrete-Time Optimal Control of Species Augmentation for Predator-Prey Model**|Munkaila Dasumani et.al.|[2601.13394](http://arxiv.org/abs/2601.13394)|null|
 |**2026-01-19**|**Diffusion-Driven Synthetic Tabular Data Generation for Enhanced DoS/DDoS Attack Classification**|Aravind B et.al.|[2601.13197](http://arxiv.org/abs/2601.13197)|null|
@@ -4289,7 +4289,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-26**|**GCFX: Generative Counterfactual Explanations for Deep Graph Models at the Model Level**|Jinlong Hu et.al.|[2601.18447](http://arxiv.org/abs/2601.18447)|null|
 |**2026-01-26**|**GenCI: Generative Modeling of User Interest Shift via Cohort-based Intent Learning for CTR Prediction**|Kesha Ou et.al.|[2601.18251](http://arxiv.org/abs/2601.18251)|null|
 |**2026-01-25**|**Feature-Space Generative Models for One-Shot Class-Incremental Learning**|Jack Foster et.al.|[2601.17905](http://arxiv.org/abs/2601.17905)|null|
-|**2026-01-25**|**Controlling Reading Ease with Gaze-Guided Text Generation**|Andreas Säuberli et.al.|[2601.17781](http://arxiv.org/abs/2601.17781)|**[link](https://github.com/mainlp/gaze-guided-text-generation)**|
+|**2026-01-25**|**Controlling Reading Ease with Gaze-Guided Text Generation**|Andreas Säuberli et.al.|[2601.17781](http://arxiv.org/abs/2601.17781)|null|
 |**2026-01-24**|**Correct-by-Construction Vision-based Pose Estimation using Geometric Generative Models**|Ulices Santa Cruz et.al.|[2601.17556](http://arxiv.org/abs/2601.17556)|null|
 |**2026-01-24**|**Error Analysis of Bayesian Inverse Problems with Generative Priors**|Bamdad Hosseini et.al.|[2601.17374](http://arxiv.org/abs/2601.17374)|null|
 |**2026-01-24**|**TheoremForge: Scaling up Formal Data Synthesis with Low-Budget Agentic Workflow**|Yicheng Tao et.al.|[2601.17332](http://arxiv.org/abs/2601.17332)|null|
