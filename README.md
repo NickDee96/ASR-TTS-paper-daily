@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.30**
+📅 **Updated on 2026.01.31**
 
 ---
 
@@ -1011,7 +1011,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-14**|**Semantic Differentiation for Tackling Challenges in Watermarking Low-Entropy Constrained Generation Outputs**|Nghia T. Le et.al.|[2601.11629](http://arxiv.org/abs/2601.11629)|null|
 |**2025-12-25**|**Compass-Embedding v4: Robust Contrastive Learning for Multilingual E-commerce Embeddings**|Pakorn Ueareeworakul et.al.|[2601.11565](http://arxiv.org/abs/2601.11565)|null|
 |**2026-01-16**|**MultiCaption: Detecting disinformation using multilingual visual claims**|Rafael Martins Frade et.al.|[2601.11220](http://arxiv.org/abs/2601.11220)|null|
-|**2026-01-15**|**BYOL: Bring Your Own Language Into LLMs**|Syed Waqas Zamir et.al.|[2601.10804](http://arxiv.org/abs/2601.10804)|**[link](https://github.com/whamidou006/BYOL)**|
+|**2026-01-15**|**BYOL: Bring Your Own Language Into LLMs**|Syed Waqas Zamir et.al.|[2601.10804](http://arxiv.org/abs/2601.10804)|null|
 |**2026-01-15**|**INDIC DIALECT: A Multi Task Benchmark to Evaluate and Translate in Indian Language Dialects**|Tarun Sharma et.al.|[2601.10388](http://arxiv.org/abs/2601.10388)|null|
 |**2026-01-15**|**Untangling Input Language from Reasoning Language: A Diagnostic Framework for Cross-Lingual Moral Alignment in LLMs**|Nan Li et.al.|[2601.10257](http://arxiv.org/abs/2601.10257)|null|
 |**2026-01-15**|**One Instruction Does Not Fit All: How Well Do Embeddings Align Personas and Instructions in Low-Resource Indian Languages?**|Arya Shah et.al.|[2601.10205](http://arxiv.org/abs/2601.10205)|null|
