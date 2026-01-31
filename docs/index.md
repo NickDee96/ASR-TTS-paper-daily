@@ -1504,7 +1504,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-29**|**Grounding and Enhancing Informativeness and Utility in Dataset Distillation**|Shaobo Wang et.al.|[2601.21296](http://arxiv.org/abs/2601.21296)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
 |**2026-01-29**|**An efficient implicit scheme for the multimaterial Euler equations in Lagrangian coordinates**|Simone Chiocchetti et.al.|[2601.21241](http://arxiv.org/abs/2601.21241)|null|
-|**2026-01-29**|**PTQ4ARVG: Post-Training Quantization for AutoRegressive Visual Generation Models**|Xuewen Liu et.al.|[2601.21238](http://arxiv.org/abs/2601.21238)|null|
+|**2026-01-29**|**PTQ4ARVG: Post-Training Quantization for AutoRegressive Visual Generation Models**|Xuewen Liu et.al.|[2601.21238](http://arxiv.org/abs/2601.21238)|**[link](https://github.com/BienLuky/PTQ4ARVG)**|
 |**2026-01-29**|**Soft Quantization: Model Compression Via Weight Coupling**|Daniel T. Bernstein et.al.|[2601.21219](http://arxiv.org/abs/2601.21219)|null|
 |**2026-01-29**|**Temporal Context and Architecture: A Benchmark for Naturalistic EEG Decoding**|Mehmet Ergezer et.al.|[2601.21215](http://arxiv.org/abs/2601.21215)|null|
 |**2026-01-29**|**ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling**|Yuchen Yang et.al.|[2601.21198](http://arxiv.org/abs/2601.21198)|null|
