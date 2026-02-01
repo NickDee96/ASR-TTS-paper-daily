@@ -4484,7 +4484,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-27**|**Cortex-Grounded Diffusion Models for Brain Image Generation**|Fabian Bongratz et.al.|[2601.19498](http://arxiv.org/abs/2601.19498)|null|
 |**2026-01-27**|**Cross-Examination Framework: A Task-Agnostic Diagnostic for Information Fidelity in Text-to-Text Generation**|Tathagata Raha et.al.|[2601.19350](http://arxiv.org/abs/2601.19350)|null|
 |**2026-01-27**|**Handcrafted Feature Fusion for Reliable Detection of AI-Generated Images**|Syed Mehedi Hasan Nirob et.al.|[2601.19262](http://arxiv.org/abs/2601.19262)|null|
-|**2026-01-27**|**E-QRGMM: Efficient Generative Metamodeling for Covariate-Dependent Uncertainty Quantification**|Zhiyang Liang et.al.|[2601.19256](http://arxiv.org/abs/2601.19256)|**[link](https://github.com/Name-less-King/E-QRGMM-Efficient-Generative-Metamodeling-for-Covariate-Dependent-Uncertainty-Quantification)**|
+|**2026-01-27**|**E-QRGMM: Efficient Generative Metamodeling for Covariate-Dependent Uncertainty Quantification**|Zhiyang Liang et.al.|[2601.19256](http://arxiv.org/abs/2601.19256)|null|
 |**2026-01-27**|**EnzyPGM: Pocket-conditioned Generative Model for Substrate-specific Enzyme Design**|Zefeng Lin et.al.|[2601.19205](http://arxiv.org/abs/2601.19205)|null|
 |**2026-01-27**|**A Hybrid Discriminative and Generative System for Universal Speech Enhancement**|Yinghao Liu et.al.|[2601.19113](http://arxiv.org/abs/2601.19113)|null|
 |**2026-01-27**|**Proactive Hardening of LLM Defenses with HASTE**|Henry Chen et.al.|[2601.19051](http://arxiv.org/abs/2601.19051)|null|
