@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.01.31**
+📅 **Updated on 2026.02.01**
 
 ## 🌟 About This Repository
 
@@ -1504,7 +1504,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-29**|**Grounding and Enhancing Informativeness and Utility in Dataset Distillation**|Shaobo Wang et.al.|[2601.21296](http://arxiv.org/abs/2601.21296)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
 |**2026-01-29**|**An efficient implicit scheme for the multimaterial Euler equations in Lagrangian coordinates**|Simone Chiocchetti et.al.|[2601.21241](http://arxiv.org/abs/2601.21241)|null|
-|**2026-01-29**|**PTQ4ARVG: Post-Training Quantization for AutoRegressive Visual Generation Models**|Xuewen Liu et.al.|[2601.21238](http://arxiv.org/abs/2601.21238)|**[link](https://github.com/BienLuky/PTQ4ARVG)**|
+|**2026-01-29**|**PTQ4ARVG: Post-Training Quantization for AutoRegressive Visual Generation Models**|Xuewen Liu et.al.|[2601.21238](http://arxiv.org/abs/2601.21238)|null|
 |**2026-01-29**|**Soft Quantization: Model Compression Via Weight Coupling**|Daniel T. Bernstein et.al.|[2601.21219](http://arxiv.org/abs/2601.21219)|null|
 |**2026-01-29**|**Temporal Context and Architecture: A Benchmark for Naturalistic EEG Decoding**|Mehmet Ergezer et.al.|[2601.21215](http://arxiv.org/abs/2601.21215)|null|
 |**2026-01-29**|**ZipMoE: Efficient On-Device MoE Serving via Lossless Compression and Cache-Affinity Scheduling**|Yuchen Yang et.al.|[2601.21198](http://arxiv.org/abs/2601.21198)|null|
@@ -4409,7 +4409,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-27**|**Cortex-Grounded Diffusion Models for Brain Image Generation**|Fabian Bongratz et.al.|[2601.19498](http://arxiv.org/abs/2601.19498)|null|
 |**2026-01-27**|**Cross-Examination Framework: A Task-Agnostic Diagnostic for Information Fidelity in Text-to-Text Generation**|Tathagata Raha et.al.|[2601.19350](http://arxiv.org/abs/2601.19350)|null|
 |**2026-01-27**|**Handcrafted Feature Fusion for Reliable Detection of AI-Generated Images**|Syed Mehedi Hasan Nirob et.al.|[2601.19262](http://arxiv.org/abs/2601.19262)|null|
-|**2026-01-27**|**E-QRGMM: Efficient Generative Metamodeling for Covariate-Dependent Uncertainty Quantification**|Zhiyang Liang et.al.|[2601.19256](http://arxiv.org/abs/2601.19256)|null|
+|**2026-01-27**|**E-QRGMM: Efficient Generative Metamodeling for Covariate-Dependent Uncertainty Quantification**|Zhiyang Liang et.al.|[2601.19256](http://arxiv.org/abs/2601.19256)|**[link](https://github.com/Name-less-King/E-QRGMM-Efficient-Generative-Metamodeling-for-Covariate-Dependent-Uncertainty-Quantification)**|
 |**2026-01-27**|**EnzyPGM: Pocket-conditioned Generative Model for Substrate-specific Enzyme Design**|Zefeng Lin et.al.|[2601.19205](http://arxiv.org/abs/2601.19205)|null|
 |**2026-01-27**|**A Hybrid Discriminative and Generative System for Universal Speech Enhancement**|Yinghao Liu et.al.|[2601.19113](http://arxiv.org/abs/2601.19113)|null|
 |**2026-01-27**|**Proactive Hardening of LLM Defenses with HASTE**|Henry Chen et.al.|[2601.19051](http://arxiv.org/abs/2601.19051)|null|
