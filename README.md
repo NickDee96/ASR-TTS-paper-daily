@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.02**
+📅 **Updated on 2026.02.03**
 
 ---
 
@@ -3777,7 +3777,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-18**|**Beyond Human Annotation: Recent Advances in Data Generation Methods for Document Intelligence**|Dehao Ying et.al.|[2601.12318](http://arxiv.org/abs/2601.12318)|null|
 |**2026-01-18**|**An Innovative Framework for Breast Cancer Detection Using Pyramid Adaptive Atrous Convolution, Transformer Integration, and Multi-Scale Feature Fusion**|Ehsan Sadeghi Pour et.al.|[2601.12249](http://arxiv.org/abs/2601.12249)|null|
 |**2026-01-16**|**Isotropy-Optimized Contrastive Learning for Semantic Course Recommendation**|Ali Khreis et.al.|[2601.11427](http://arxiv.org/abs/2601.11427)|null|
-|**2026-01-16**|**How DDAIR you? Disambiguated Data Augmentation for Intent Recognition**|Galo Castillo-López et.al.|[2601.11234](http://arxiv.org/abs/2601.11234)|**[link](https://github.com/gaalocastillo/ddair)**|
+|**2026-01-16**|**How DDAIR you? Disambiguated Data Augmentation for Intent Recognition**|Galo Castillo-López et.al.|[2601.11234](http://arxiv.org/abs/2601.11234)|null|
 |**2026-01-16**|**Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation**|Yizhou Dang et.al.|[2601.10933](http://arxiv.org/abs/2601.10933)|null|
 |**2026-01-15**|**A Unified 3D Object Perception Framework for Real-Time Outside-In Multi-Camera Systems**|Yizhou Wang et.al.|[2601.10819](http://arxiv.org/abs/2601.10819)|null|
 |**2026-01-15**|**Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models**|Zirui Ren et.al.|[2601.10679](http://arxiv.org/abs/2601.10679)|null|
@@ -4493,10 +4493,10 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-01-30**|**How well do generative models solve inverse problems? A benchmark study**|Patrick Krüger et.al.|[2601.23238](http://arxiv.org/abs/2601.23238)|null|
-|**2026-01-30**|**JobResQA: A Benchmark for LLM Machine Reading Comprehension on Multilingual Résumés and JDs**|Casimiro Pio Carrino et.al.|[2601.23183](http://arxiv.org/abs/2601.23183)|null|
+|**2026-01-30**|**JobResQA: A Benchmark for LLM Machine Reading Comprehension on Multilingual Résumés and JDs**|Casimiro Pio Carrino et.al.|[2601.23183](http://arxiv.org/abs/2601.23183)|**[link](https://github.com/Avature/jobresqa-benchmark)**|
 |**2026-01-30**|**Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data**|Eugenia Iofinova et.al.|[2601.23153](http://arxiv.org/abs/2601.23153)|null|
 |**2026-01-30**|**Manifold-Aware Perturbations for Constrained Generative Modeling**|Katherine Keegan et.al.|[2601.23151](http://arxiv.org/abs/2601.23151)|null|
-|**2026-01-30**|**ExplainerPFN: Towards tabular foundation models for model-free zero-shot feature importance estimations**|Joao Fonseca et.al.|[2601.23068](http://arxiv.org/abs/2601.23068)|null|
+|**2026-01-30**|**ExplainerPFN: Towards tabular foundation models for model-free zero-shot feature importance estimations**|Joao Fonseca et.al.|[2601.23068](http://arxiv.org/abs/2601.23068)|**[link](https://github.com/joaopfonseca/ExplainerPFN)**|
 |**2026-01-30**|**MoVE: Mixture of Value Embeddings -- A New Axis for Scaling Parametric Memory in Autoregressive Models**|Yangyan Li et.al.|[2601.22887](http://arxiv.org/abs/2601.22887)|null|
 |**2026-01-30**|**Generative and Nonparametric Approaches for Conditional Distribution Estimation: Methods, Perspectives, and Comparative Evaluations**|Yen-Shiu Chin et.al.|[2601.22650](http://arxiv.org/abs/2601.22650)|null|
 |**2026-01-30**|**Beyond Medical Chatbots: Meddollina and the Rise of Continuous Clinical Intelligence**|Vaibhav Ram S. V. N. S et.al.|[2601.22645](http://arxiv.org/abs/2601.22645)|null|
