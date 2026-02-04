@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.03**
+📅 **Updated on 2026.02.04**
 
 ---
 
@@ -995,7 +995,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-02-02**|**Large Language Models for Mental Health: A Multilingual Evaluation**|Nishat Raihan et.al.|[2602.02440](http://arxiv.org/abs/2602.02440)|null|
-|**2026-02-02**|**Cross-Lingual Stability of LLM Judges Under Controlled Generation: Evidence from Finno-Ugric Languages**|Isaac Chung et.al.|[2602.02287](http://arxiv.org/abs/2602.02287)|null|
+|**2026-02-02**|**Cross-Lingual Stability of LLM Judges Under Controlled Generation: Evidence from Finno-Ugric Languages**|Isaac Chung et.al.|[2602.02287](http://arxiv.org/abs/2602.02287)|**[link](https://github.com/isaac-chung/cross-lingual-stability-judges)**|
 |**2026-02-02**|**BBPE16: UTF-16-based byte-level byte-pair encoding for improved multilingual speech recognition**|Hyunsik Kim et.al.|[2602.01717](http://arxiv.org/abs/2602.01717)|null|
 |**2026-02-02**|**SEA-Guard: Culturally Grounded Multilingual Safeguard for Southeast Asia**|Panuthep Tasawong et.al.|[2602.01618](http://arxiv.org/abs/2602.01618)|null|
 |**2026-02-01**|**Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons**|Xianhui Zhang et.al.|[2602.01283](http://arxiv.org/abs/2602.01283)|null|
@@ -1040,8 +1040,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-16**|**Translation as a Scalable Proxy for Multilingual Evaluation**|Sheriff Issaka et.al.|[2601.11778](http://arxiv.org/abs/2601.11778)|null|
 |**2026-01-14**|**Semantic Differentiation for Tackling Challenges in Watermarking Low-Entropy Constrained Generation Outputs**|Nghia T. Le et.al.|[2601.11629](http://arxiv.org/abs/2601.11629)|null|
 |**2025-12-25**|**Compass-Embedding v4: Robust Contrastive Learning for Multilingual E-commerce Embeddings**|Pakorn Ueareeworakul et.al.|[2601.11565](http://arxiv.org/abs/2601.11565)|null|
-|**2026-01-16**|**MultiCaption: Detecting disinformation using multilingual visual claims**|Rafael Martins Frade et.al.|[2601.11220](http://arxiv.org/abs/2601.11220)|null|
-|**2026-01-15**|**BYOL: Bring Your Own Language Into LLMs**|Syed Waqas Zamir et.al.|[2601.10804](http://arxiv.org/abs/2601.10804)|null|
+|**2026-01-16**|**MultiCaption: Detecting disinformation using multilingual visual claims**|Rafael Martins Frade et.al.|[2601.11220](http://arxiv.org/abs/2601.11220)|**[link](https://github.com/rfrade/multicaption)**|
+|**2026-01-15**|**BYOL: Bring Your Own Language Into LLMs**|Syed Waqas Zamir et.al.|[2601.10804](http://arxiv.org/abs/2601.10804)|**[link](https://github.com/whamidou006/BYOL)**|
 |**2026-01-15**|**INDIC DIALECT: A Multi Task Benchmark to Evaluate and Translate in Indian Language Dialects**|Tarun Sharma et.al.|[2601.10388](http://arxiv.org/abs/2601.10388)|null|
 |**2026-01-15**|**Untangling Input Language from Reasoning Language: A Diagnostic Framework for Cross-Lingual Moral Alignment in LLMs**|Nan Li et.al.|[2601.10257](http://arxiv.org/abs/2601.10257)|null|
 |**2026-01-15**|**One Instruction Does Not Fit All: How Well Do Embeddings Align Personas and Instructions in Low-Resource Indian Languages?**|Arya Shah et.al.|[2601.10205](http://arxiv.org/abs/2601.10205)|null|
@@ -1569,7 +1569,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-02**|**Teacher-Guided Student Self-Knowledge Distillation Using Diffusion Model**|Yu Wang et.al.|[2602.02107](http://arxiv.org/abs/2602.02107)|null|
 |**2026-02-02**|**UrbanGS: A Scalable and Efficient Architecture for Geometrically Accurate Large-Scene Reconstruction**|Changbai Li et.al.|[2602.02089](http://arxiv.org/abs/2602.02089)|null|
 |**2026-02-02**|**A global potential constrained by the Bohr-Sommerfeld quantization condition for $α$ -decay half-lives of even-even nuclei**|Nguyen Gia Huy et.al.|[2602.02070](http://arxiv.org/abs/2602.02070)|null|
-|**2026-02-02**|**Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks**|Duc Hoang et.al.|[2602.02056](http://arxiv.org/abs/2602.02056)|null|
+|**2026-02-02**|**Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks**|Duc Hoang et.al.|[2602.02056](http://arxiv.org/abs/2602.02056)|**[link](https://github.com/Duchstf/ECLAIR)**|
 |**2026-02-02**|**Dissecting Outlier Dynamics in LLM NVFP4 Pretraining**|Peijie Dong et.al.|[2602.02047](http://arxiv.org/abs/2602.02047)|null|
 |**2026-02-02**|**Bandwidth-Efficient Multi-Agent Communication through Information Bottleneck and Vector Quantization**|Ahmad Farooq et.al.|[2602.02035](http://arxiv.org/abs/2602.02035)|null|
 |**2026-02-02**|**Hippasus: Effective and Efficient Automatic Feature Augmentation for Machine Learning Tasks on Relational Data**|Serafeim Papadias et.al.|[2602.02025](http://arxiv.org/abs/2602.02025)|null|
@@ -4566,7 +4566,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-02-02**|**MIRROR: Manifold Ideal Reference ReconstructOR for Generalizable AI-Generated Image Detection**|Ruiqi Liu et.al.|[2602.02222](http://arxiv.org/abs/2602.02222)|null|
-|**2026-02-02**|**The Verification Crisis: Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance**|Alexander Loth et.al.|[2602.02100](http://arxiv.org/abs/2602.02100)|null|
+|**2026-02-02**|**The Verification Crisis: Expert Perceptions of GenAI Disinformation and the Case for Reproducible Provenance**|Alexander Loth et.al.|[2602.02100](http://arxiv.org/abs/2602.02100)|**[link](https://github.com/aloth/verification-crisis)**|
 |**2026-02-02**|**Logic-Guided Vector Fields for Constrained Generative Modeling**|Ali Baheri et.al.|[2602.02009](http://arxiv.org/abs/2602.02009)|null|
 |**2026-02-02**|**Synesthesia of Vehicles: Tactile Data Synthesis from Visual Inputs**|Rui Wang et.al.|[2602.01832](http://arxiv.org/abs/2602.01832)|null|
 |**2026-02-02**|**Reconstruction of instantaneous flow fields from transient velocity snapshots using physics-informed neural networks: Applications to pulsatile blood flow behind a stenosis**|Kakeru Ueda et.al.|[2602.01542](http://arxiv.org/abs/2602.01542)|null|
