@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.05**
+📅 **Updated on 2026.02.06**
 
 ## 🌟 About This Repository
 
@@ -1562,7 +1562,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-03**|**Conflict-Resolving and Sharpness-Aware Minimization for Generalized Knowledge Editing with Multiple Updates**|Duy Nguyen et.al.|[2602.03696](http://arxiv.org/abs/2602.03696)|null|
 |**2026-02-03**|**Efficient Sequential Neural Network with Spatial-Temporal Attention and Linear LSTM for Robust Lane Detection Using Multi-Frame Images**|Sandeep Patil et.al.|[2602.03669](http://arxiv.org/abs/2602.03669)|null|
 |**2026-02-03**|**CALM: A Self-Adaptive Orchestration Approach for QoS-Aware Routing in Small Language Model based Systems**|Hemang Jain et.al.|[2602.03632](http://arxiv.org/abs/2602.03632)|null|
-|**2026-02-03**|**KTV: Keyframes and Key Tokens Selection for Efficient Training-Free Video LLMs**|Baiyang Song et.al.|[2602.03615](http://arxiv.org/abs/2602.03615)|**[link](https://github.com/hktk07/KTV)**|
+|**2026-02-03**|**KTV: Keyframes and Key Tokens Selection for Efficient Training-Free Video LLMs**|Baiyang Song et.al.|[2602.03615](http://arxiv.org/abs/2602.03615)|null|
 |**2026-02-03**|**Quantization-Aware Regularizers for Deep Neural Networks Compression**|Dario Malchiodi et.al.|[2602.03614](http://arxiv.org/abs/2602.03614)|null|
 |**2026-02-03**|**APEX: Probing Neural Networks via Activation Perturbation**|Tao Ren et.al.|[2602.03586](http://arxiv.org/abs/2602.03586)|null|
 |**2026-02-03**|**Constrained Dynamic Gaussian Splatting**|Zihan Zheng et.al.|[2602.03538](http://arxiv.org/abs/2602.03538)|null|
