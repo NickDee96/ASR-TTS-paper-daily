@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.06**
+📅 **Updated on 2026.02.07**
 
 ---
 
@@ -1055,7 +1055,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-25**|**PEAR: Pairwise Evaluation for Automatic Relative Scoring in Machine Translation**|Lorenzo Proietti et.al.|[2601.18006](http://arxiv.org/abs/2601.18006)|null|
 |**2026-01-25**|**DIETA: A Decoder-only transformer-based model for Italian-English machine TrAnslation**|Pranav Kasela et.al.|[2601.17823](http://arxiv.org/abs/2601.17823)|null|
 |**2026-01-25**|**Cross-Lingual Probing and Community-Grounded Analysis of Gender Bias in Low-Resource Bengali**|Md Asgor Hossain Reaj et.al.|[2601.17764](http://arxiv.org/abs/2601.17764)|null|
-|**2026-01-25**|**Align to the Pivot: Dual Alignment with Self-Feedback for Multilingual Math Reasoning**|Chunxu Zhao et.al.|[2601.17671](http://arxiv.org/abs/2601.17671)|**[link](https://github.com/Rover912/PASMR)**|
+|**2026-01-25**|**Align to the Pivot: Dual Alignment with Self-Feedback for Multilingual Math Reasoning**|Chunxu Zhao et.al.|[2601.17671](http://arxiv.org/abs/2601.17671)|null|
 |**2026-01-24**|**CLM-Bench: Benchmarking and Analyzing Cross-lingual Misalignment of LLMs in Knowledge Editing**|Yucheng Hu et.al.|[2601.17397](http://arxiv.org/abs/2601.17397)|null|
 |**2026-01-23**|**Do LLM hallucination detectors suffer from low-resource effect?**|Debtanu Datta et.al.|[2601.16766](http://arxiv.org/abs/2601.16766)|null|
 |**2026-01-23**|**Typologically Informed Parameter Aggregation**|Stef Accou et.al.|[2601.16629](http://arxiv.org/abs/2601.16629)|null|
