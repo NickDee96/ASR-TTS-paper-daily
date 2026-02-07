@@ -1580,7 +1580,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-04**|**Harmonia: Algorithm-Hardware Co-Design for Memory- and Compute-Efficient BFP-based LLM Inference**|Xinyu Wang et.al.|[2602.04595](http://arxiv.org/abs/2602.04595)|null|
 |**2026-02-04**|**Rethinking Weight Tying: Pseudo-Inverse Tying for Stable LM Training and Updates**|Jian Gu et.al.|[2602.04556](http://arxiv.org/abs/2602.04556)|null|
 |**2026-02-04**|**An Efficient Bayesian Framework for Inverse Problems via Optimization and Inversion: Surrogate Modeling, Parameter Inference, and Uncertainty Quantification**|Mihaela Chiappetta et.al.|[2602.04537](http://arxiv.org/abs/2602.04537)|null|
-|**2026-02-04**|**Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning**|Yuxi Guo et.al.|[2602.04491](http://arxiv.org/abs/2602.04491)|null|
+|**2026-02-04**|**Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning**|Yuxi Guo et.al.|[2602.04491](http://arxiv.org/abs/2602.04491)|**[link](https://github.com/dionysus23334/Greedy-Gnorm)**|
 |**2026-02-04**|**Fine-tuning Pre-trained Vision-Language Models in a Human-Annotation-Free Manner**|Qian-Wei Wang et.al.|[2602.04337](http://arxiv.org/abs/2602.04337)|null|
 |**2026-02-04**|**Canonical Quantization of Cylindrical Waveguides: A Gauge-Based Approach**|Alexandre Delattre et.al.|[2602.04295](http://arxiv.org/abs/2602.04295)|null|
 |**2026-02-04**|**MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation**|Lin Wang et.al.|[2602.04278](http://arxiv.org/abs/2602.04278)|null|
@@ -3865,7 +3865,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
 |**2026-02-05**|**Mapper-GIN: Lightweight Structural Graph Abstraction for Corrupted 3D Point Cloud Classification**|Jeongbin You et.al.|[2602.05522](http://arxiv.org/abs/2602.05522)|null|
-|**2026-02-05**|**Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection**|Chunyu Wei et.al.|[2602.05232](http://arxiv.org/abs/2602.05232)|null|
+|**2026-02-05**|**Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection**|Chunyu Wei et.al.|[2602.05232](http://arxiv.org/abs/2602.05232)|**[link](https://github.com/OaxKnud/BAED)**|
 |**2026-02-04**|**Fast Compute via MC Boosting**|Sarah Polson et.al.|[2602.05032](http://arxiv.org/abs/2602.05032)|null|
 |**2026-02-04**|**Smart Diagnosis and Early Intervention in PCOS: A Deep Learning Approach to Women's Reproductive Health**|Shayan Abrar et.al.|[2602.04944](http://arxiv.org/abs/2602.04944)|null|
 |**2026-02-04**|**Speaker-Aware Simulation Improves Conversational Speech Recognition**|Máté Gedeon et.al.|[2602.04776](http://arxiv.org/abs/2602.04776)|null|
