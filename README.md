@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.07**
+📅 **Updated on 2026.02.08**
 
 ---
 
@@ -1624,14 +1624,14 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-04**|**TurboBoA: Faster and Exact Attention-aware Quantization without Backpropagation**|Junhan Kim et.al.|[2602.04929](http://arxiv.org/abs/2602.04929)|null|
 |**2026-02-04**|**Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation**|Ning Wang et.al.|[2602.04926](http://arxiv.org/abs/2602.04926)|null|
 |**2026-02-04**|**The Key to State Reduction in Linear Attention: A Rank-based Perspective**|Philipp Nazari et.al.|[2602.04852](http://arxiv.org/abs/2602.04852)|null|
-|**2026-02-04**|**Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**|Chengtao Lv et.al.|[2602.04789](http://arxiv.org/abs/2602.04789)|null|
+|**2026-02-04**|**Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**|Chengtao Lv et.al.|[2602.04789](http://arxiv.org/abs/2602.04789)|**[link](https://github.com/chengtao-lv/LightForcing)**|
 |**2026-02-04**|**Knowledge Distillation for mmWave Beam Prediction Using Sub-6 GHz Channels**|Sina Tavakolian et.al.|[2602.04703](http://arxiv.org/abs/2602.04703)|null|
 |**2026-02-04**|**REDistill: Robust Estimator Distillation for Balancing Robustness and Efficiency**|Ondrej Tybl et.al.|[2602.04677](http://arxiv.org/abs/2602.04677)|null|
 |**2026-02-04**|**Delving into Muon and Beyond: Deep Analysis and Extensions**|Xianbiao Qi et.al.|[2602.04669](http://arxiv.org/abs/2602.04669)|null|
 |**2026-02-04**|**Harmonia: Algorithm-Hardware Co-Design for Memory- and Compute-Efficient BFP-based LLM Inference**|Xinyu Wang et.al.|[2602.04595](http://arxiv.org/abs/2602.04595)|null|
 |**2026-02-04**|**Rethinking Weight Tying: Pseudo-Inverse Tying for Stable LM Training and Updates**|Jian Gu et.al.|[2602.04556](http://arxiv.org/abs/2602.04556)|null|
 |**2026-02-04**|**An Efficient Bayesian Framework for Inverse Problems via Optimization and Inversion: Surrogate Modeling, Parameter Inference, and Uncertainty Quantification**|Mihaela Chiappetta et.al.|[2602.04537](http://arxiv.org/abs/2602.04537)|null|
-|**2026-02-04**|**Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning**|Yuxi Guo et.al.|[2602.04491](http://arxiv.org/abs/2602.04491)|**[link](https://github.com/dionysus23334/Greedy-Gnorm)**|
+|**2026-02-04**|**Greedy-Gnorm: A Gradient Matrix Norm-Based Alternative to Attention Entropy for Head Pruning**|Yuxi Guo et.al.|[2602.04491](http://arxiv.org/abs/2602.04491)|null|
 |**2026-02-04**|**Fine-tuning Pre-trained Vision-Language Models in a Human-Annotation-Free Manner**|Qian-Wei Wang et.al.|[2602.04337](http://arxiv.org/abs/2602.04337)|null|
 |**2026-02-04**|**Canonical Quantization of Cylindrical Waveguides: A Gauge-Based Approach**|Alexandre Delattre et.al.|[2602.04295](http://arxiv.org/abs/2602.04295)|null|
 |**2026-02-04**|**MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation**|Lin Wang et.al.|[2602.04278](http://arxiv.org/abs/2602.04278)|null|
@@ -3928,7 +3928,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---:|:---|:---:|:---:|:---:|
 |**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|
 |**2026-02-05**|**Mapper-GIN: Lightweight Structural Graph Abstraction for Corrupted 3D Point Cloud Classification**|Jeongbin You et.al.|[2602.05522](http://arxiv.org/abs/2602.05522)|null|
-|**2026-02-05**|**Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection**|Chunyu Wei et.al.|[2602.05232](http://arxiv.org/abs/2602.05232)|**[link](https://github.com/OaxKnud/BAED)**|
+|**2026-02-05**|**Balanced Anomaly-guided Ego-graph Diffusion Model for Inductive Graph Anomaly Detection**|Chunyu Wei et.al.|[2602.05232](http://arxiv.org/abs/2602.05232)|null|
 |**2026-02-04**|**Fast Compute via MC Boosting**|Sarah Polson et.al.|[2602.05032](http://arxiv.org/abs/2602.05032)|null|
 |**2026-02-04**|**Smart Diagnosis and Early Intervention in PCOS: A Deep Learning Approach to Women's Reproductive Health**|Shayan Abrar et.al.|[2602.04944](http://arxiv.org/abs/2602.04944)|null|
 |**2026-02-04**|**Speaker-Aware Simulation Improves Conversational Speech Recognition**|Máté Gedeon et.al.|[2602.04776](http://arxiv.org/abs/2602.04776)|null|
@@ -4740,7 +4740,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-05**|**Verification of the Implicit World Model in a Generative Model via Adversarial Sequences**|András Balogh et.al.|[2602.05903](http://arxiv.org/abs/2602.05903)|null|
 |**2026-02-05**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
 |**2026-02-05**|**Synthesizing Realistic Test Data without Breaking Privacy**|Laura Plein et.al.|[2602.05833](http://arxiv.org/abs/2602.05833)|null|
-|**2026-02-05**|**Wave-Trainer-Fit: Neural Vocoder with Trainable Prior and Fixed-Point Iteration towards High-Quality Speech Generation from SSL features**|Hien Ohnaka et.al.|[2602.05443](http://arxiv.org/abs/2602.05443)|null|
+|**2026-02-05**|**Wave-Trainer-Fit: Neural Vocoder with Trainable Prior and Fixed-Point Iteration towards High-Quality Speech Generation from SSL features**|Hien Ohnaka et.al.|[2602.05443](http://arxiv.org/abs/2602.05443)|**[link](https://github.com/line/WaveTrainerFit)**|
 |**2026-02-05**|**Synthetic Defect Geometries of Cast Metal Objects Modeled via 2d Voronoi Tessellations**|Natascha Jeziorski et.al.|[2602.05440](http://arxiv.org/abs/2602.05440)|null|
 |**2026-02-05**|**GAS: Enhancing Reward-Cost Balance of Generative Model-assisted Offline Safe RL**|Zifan Liu et.al.|[2602.05323](http://arxiv.org/abs/2602.05323)|null|
 |**2026-02-05**|**GT-SVJ: Generative-Transformer-Based Self-Supervised Video Judge For Efficient Video Reward Modeling**|Shivanshu Shekhar et.al.|[2602.05202](http://arxiv.org/abs/2602.05202)|null|
