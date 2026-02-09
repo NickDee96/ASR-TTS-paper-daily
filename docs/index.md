@@ -4657,10 +4657,17 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 1119 papers*
+*📊 1126 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-06**|**Learning a Generative Meta-Model of LLM Activations**|Grace Luo et.al.|[2602.06964](http://arxiv.org/abs/2602.06964)|null|
+|**2026-02-06**|**Improved Sampling Schedules for Discrete Diffusion Models**|Alberto Foresti et.al.|[2602.06849](http://arxiv.org/abs/2602.06849)|null|
+|**2026-02-06**|**RAIGen: Rare Attribute Identification in Text-to-Image Generative Models**|Silpa Vadakkeeveetil Sreelatha et.al.|[2602.06806](http://arxiv.org/abs/2602.06806)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-02-06**|**Force Generative Imitation Learning: Bridging Position Trajectory and Force Commands through Control Technique**|Hiroshi Sato et.al.|[2602.06620](http://arxiv.org/abs/2602.06620)|null|
+|**2026-02-06**|**Generating High-quality Privacy-preserving Synthetic Data**|David Yavo et.al.|[2602.06390](http://arxiv.org/abs/2602.06390)|**[link](https://github.com/hzindia/Privacy-Preserving-Audience-Generator)**|
+|**2026-02-06**|**Misophonia Trigger Sound Detection on Synthetic Soundscapes Using a Hybrid Model with a Frozen Pre-Trained CNN and a Time-Series Module**|Kurumi Sashida et.al.|[2602.06271](http://arxiv.org/abs/2602.06271)|null|
+|**2026-02-05**|**From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors**|Ding-Jiun Huang et.al.|[2602.06122](http://arxiv.org/abs/2602.06122)|null|
 |**2026-02-05**|**Discrete diffusion samplers and bridges: Off-policy algorithms and applications in latent spaces**|Arran Carter et.al.|[2602.05961](http://arxiv.org/abs/2602.05961)|null|
 |**2026-02-05**|**Verification of the Implicit World Model in a Generative Model via Adversarial Sequences**|András Balogh et.al.|[2602.05903](http://arxiv.org/abs/2602.05903)|null|
 |**2026-02-05**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
@@ -4672,10 +4679,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-04**|**Data Kernel Perspective Space Performance Guarantees for Synthetic Data from Transformer Models**|Michael Browder et.al.|[2602.05106](http://arxiv.org/abs/2602.05106)|null|
 |**2026-02-04**|**Private PoEtry: Private In-Context Learning via Product of Experts**|Rob Romijnders et.al.|[2602.05012](http://arxiv.org/abs/2602.05012)|null|
 |**2026-02-03**|**Privacy Amplification Persists under Unlimited Synthetic Data Release**|Clément Pierquin et.al.|[2602.04895](http://arxiv.org/abs/2602.04895)|null|
-|**2026-02-04**|**Generative Modeling via Drifting**|Mingyang Deng et.al.|[2602.04770](http://arxiv.org/abs/2602.04770)|null|
+|**2026-02-06**|**Generative Modeling via Drifting**|Mingyang Deng et.al.|[2602.04770](http://arxiv.org/abs/2602.04770)|null|
 |**2026-02-04**|**Audio ControlNet for Fine-Grained Audio Generation and Editing**|Haina Zhu et.al.|[2602.04680](http://arxiv.org/abs/2602.04680)|null|
 |**2026-02-04**|**PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion**|Vikentii Pankov et.al.|[2602.04160](http://arxiv.org/abs/2602.04160)|null|
-|**2026-02-03**|**PromptSplit: Revealing Prompt-Level Disagreement in Generative Models**|Mehdi Lotfian et.al.|[2602.04009](http://arxiv.org/abs/2602.04009)|null|
+|**2026-02-06**|**PromptSplit: Revealing Prompt-Level Disagreement in Generative Models**|Mehdi Lotfian et.al.|[2602.04009](http://arxiv.org/abs/2602.04009)|null|
 |**2026-02-03**|**pop-cosmos: Forward modeling KiDS-1000 redshift distributions using realistic galaxy populations**|Boris Leistedt et.al.|[2602.03935](http://arxiv.org/abs/2602.03935)|null|
 |**2026-02-03**|**HY3D-Bench: Generation of 3D Assets**|Team Hunyuan3D et.al.|[2602.03907](http://arxiv.org/abs/2602.03907)|null|
 |**2026-02-03**|**DiffLOB: Diffusion Models for Counterfactual Generation in Limit Order Books**|Zhuohan Wang et.al.|[2602.03776](http://arxiv.org/abs/2602.03776)|null|
