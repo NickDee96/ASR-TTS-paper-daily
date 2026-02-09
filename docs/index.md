@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.08**
+📅 **Updated on 2026.02.09**
 
 ## 🌟 About This Repository
 
@@ -80,9 +80,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-16**|**AI-based System for Transforming text and sound to Educational Videos**|M. E. ElAlami et.al.|[2601.17022](http://arxiv.org/abs/2601.17022)|null|
 |**2026-01-20**|**SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models**|Aafiya Hussain et.al.|[2601.16231](http://arxiv.org/abs/2601.16231)|null|
 |**2026-01-22**|**Quantum Dimension Reduction of Hidden Markov Models**|Rishi Sundar et.al.|[2601.16126](http://arxiv.org/abs/2601.16126)|null|
-|**2026-01-27**|**Distillation-based Layer Dropping (DLD): Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[2601.16117](http://arxiv.org/abs/2601.16117)|null|
+|**2026-01-27**|**Distillation-based Layer Dropping (DLD): Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[2601.16117](http://arxiv.org/abs/2601.16117)|**[link](https://github.com/hannabdul/DLD4ASR)**|
 |**2026-01-20**|**Lost in Transcription: How Speech-to-Text Errors Derail Code Understanding**|Jayant Havare et.al.|[2601.15339](http://arxiv.org/abs/2601.15339)|null|
-|**2026-01-22**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|null|
+|**2026-01-22**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|**[link](https://github.com/Gallaudet-University/chi2026-ipa)**|
 |**2026-01-21**|**Inverse-Hessian Regularization for Continual Learning in ASR**|Steven Vander Eeckt et.al.|[2601.14751](http://arxiv.org/abs/2601.14751)|null|
 |**2026-01-20**|**HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**|Yuhua Jin et.al.|[2601.13801](http://arxiv.org/abs/2601.13801)|null|
 |**2026-01-20**|**LongSpeech: A Scalable Benchmark for Transcription, Translation and Understanding in Long Speech**|Fei Yang et.al.|[2601.13539](http://arxiv.org/abs/2601.13539)|null|
@@ -1016,7 +1016,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-01-25**|**PEAR: Pairwise Evaluation for Automatic Relative Scoring in Machine Translation**|Lorenzo Proietti et.al.|[2601.18006](http://arxiv.org/abs/2601.18006)|null|
 |**2026-01-25**|**DIETA: A Decoder-only transformer-based model for Italian-English machine TrAnslation**|Pranav Kasela et.al.|[2601.17823](http://arxiv.org/abs/2601.17823)|null|
 |**2026-01-25**|**Cross-Lingual Probing and Community-Grounded Analysis of Gender Bias in Low-Resource Bengali**|Md Asgor Hossain Reaj et.al.|[2601.17764](http://arxiv.org/abs/2601.17764)|null|
-|**2026-01-25**|**Align to the Pivot: Dual Alignment with Self-Feedback for Multilingual Math Reasoning**|Chunxu Zhao et.al.|[2601.17671](http://arxiv.org/abs/2601.17671)|null|
+|**2026-01-25**|**Align to the Pivot: Dual Alignment with Self-Feedback for Multilingual Math Reasoning**|Chunxu Zhao et.al.|[2601.17671](http://arxiv.org/abs/2601.17671)|**[link](https://github.com/Rover912/PASMR)**|
 |**2026-01-24**|**CLM-Bench: Benchmarking and Analyzing Cross-lingual Misalignment of LLMs in Knowledge Editing**|Yucheng Hu et.al.|[2601.17397](http://arxiv.org/abs/2601.17397)|null|
 |**2026-01-23**|**Do LLM hallucination detectors suffer from low-resource effect?**|Debtanu Datta et.al.|[2601.16766](http://arxiv.org/abs/2601.16766)|null|
 |**2026-01-23**|**Typologically Informed Parameter Aggregation**|Stef Accou et.al.|[2601.16629](http://arxiv.org/abs/2601.16629)|null|
@@ -1573,7 +1573,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-04**|**TurboBoA: Faster and Exact Attention-aware Quantization without Backpropagation**|Junhan Kim et.al.|[2602.04929](http://arxiv.org/abs/2602.04929)|null|
 |**2026-02-04**|**Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation**|Ning Wang et.al.|[2602.04926](http://arxiv.org/abs/2602.04926)|null|
 |**2026-02-04**|**The Key to State Reduction in Linear Attention: A Rank-based Perspective**|Philipp Nazari et.al.|[2602.04852](http://arxiv.org/abs/2602.04852)|null|
-|**2026-02-04**|**Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**|Chengtao Lv et.al.|[2602.04789](http://arxiv.org/abs/2602.04789)|**[link](https://github.com/chengtao-lv/LightForcing)**|
+|**2026-02-04**|**Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention**|Chengtao Lv et.al.|[2602.04789](http://arxiv.org/abs/2602.04789)|null|
 |**2026-02-04**|**Knowledge Distillation for mmWave Beam Prediction Using Sub-6 GHz Channels**|Sina Tavakolian et.al.|[2602.04703](http://arxiv.org/abs/2602.04703)|null|
 |**2026-02-04**|**REDistill: Robust Estimator Distillation for Balancing Robustness and Efficiency**|Ondrej Tybl et.al.|[2602.04677](http://arxiv.org/abs/2602.04677)|null|
 |**2026-02-04**|**Delving into Muon and Beyond: Deep Analysis and Extensions**|Xianbiao Qi et.al.|[2602.04669](http://arxiv.org/abs/2602.04669)|null|
@@ -3872,7 +3872,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-04**|**Turbulence teaches equivariance to neural networks**|Ryley McConkey et.al.|[2602.04695](http://arxiv.org/abs/2602.04695)|null|
 |**2026-02-04**|**LatentTune: Efficient Tuning of High Dimensional Database Parameters via Latent Representation Learning**|Sein Kwon et.al.|[2602.04190](http://arxiv.org/abs/2602.04190)|null|
 |**2026-02-03**|**SEIS: Subspace-based Equivariance and Invariance Scores for Neural Representations**|Huahua Lin et.al.|[2602.04054](http://arxiv.org/abs/2602.04054)|null|
-|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|null|
+|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|**[link](https://github.com/zlu866/QMP-RETNet)**|
 |**2026-02-03**|**Cut to the Mix: Simple Data Augmentation Outperforms Elaborate Ones in Limited Organ Segmentation Datasets**|Chang Liu et.al.|[2602.03555](http://arxiv.org/abs/2602.03555)|null|
 |**2026-02-03**|**Invisible Clean-Label Backdoor Attacks for Generative Data Augmentation**|Ting Xiang et.al.|[2602.03316](http://arxiv.org/abs/2602.03316)|null|
 |**2026-02-03**|**PQTNet: Pixel-wise Quantitative Thermography Neural Network for Estimating Defect Depth in Polylactic Acid Parts by Additive Manufacturing**|Lei Deng et.al.|[2602.03314](http://arxiv.org/abs/2602.03314)|null|
@@ -4665,7 +4665,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-05**|**Verification of the Implicit World Model in a Generative Model via Adversarial Sequences**|András Balogh et.al.|[2602.05903](http://arxiv.org/abs/2602.05903)|null|
 |**2026-02-05**|**FHAIM: Fully Homomorphic AIM For Private Synthetic Data Generation**|Mayank Kumar et.al.|[2602.05838](http://arxiv.org/abs/2602.05838)|null|
 |**2026-02-05**|**Synthesizing Realistic Test Data without Breaking Privacy**|Laura Plein et.al.|[2602.05833](http://arxiv.org/abs/2602.05833)|null|
-|**2026-02-05**|**Wave-Trainer-Fit: Neural Vocoder with Trainable Prior and Fixed-Point Iteration towards High-Quality Speech Generation from SSL features**|Hien Ohnaka et.al.|[2602.05443](http://arxiv.org/abs/2602.05443)|**[link](https://github.com/line/WaveTrainerFit)**|
+|**2026-02-05**|**Wave-Trainer-Fit: Neural Vocoder with Trainable Prior and Fixed-Point Iteration towards High-Quality Speech Generation from SSL features**|Hien Ohnaka et.al.|[2602.05443](http://arxiv.org/abs/2602.05443)|null|
 |**2026-02-05**|**Synthetic Defect Geometries of Cast Metal Objects Modeled via 2d Voronoi Tessellations**|Natascha Jeziorski et.al.|[2602.05440](http://arxiv.org/abs/2602.05440)|null|
 |**2026-02-05**|**GAS: Enhancing Reward-Cost Balance of Generative Model-assisted Offline Safe RL**|Zifan Liu et.al.|[2602.05323](http://arxiv.org/abs/2602.05323)|null|
 |**2026-02-05**|**GT-SVJ: Generative-Transformer-Based Self-Supervised Video Judge For Efficient Video Reward Modeling**|Shivanshu Shekhar et.al.|[2602.05202](http://arxiv.org/abs/2602.05202)|null|
