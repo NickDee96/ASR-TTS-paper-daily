@@ -450,10 +450,10 @@
     "2601.12600": "|**2026-01-18**|**SSVD-O: Parameter-Efficient Fine-Tuning with Structured SVD for Speech Recognition**|Pu Wang et.al.|[2601.12600](http://arxiv.org/abs/2601.12600)|null|\n",
     "2601.12494": "|**2026-01-18**|**Harmonizing the Arabic Audio Space with Data Scheduling**|Hunzalah Hassan Bhatti et.al.|[2601.12494](http://arxiv.org/abs/2601.12494)|null|\n",
     "2601.12199": "|**2026-01-18**|**CTC-DID: CTC-Based Arabic dialect identification for streaming applications**|Muhammad Umar Farooq et.al.|[2601.12199](http://arxiv.org/abs/2601.12199)|null|\n",
-    "2601.15209": "|**2026-01-22**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|**[link](https://github.com/Gallaudet-University/chi2026-ipa)**|\n",
+    "2601.15209": "|**2026-01-22**|**Deaf and Hard of Hearing Access to Intelligent Personal Assistants: Comparison of Voice-Based Options with an LLM-Powered Touch Interface**|Paige S. DeVries et.al.|[2601.15209](http://arxiv.org/abs/2601.15209)|null|\n",
     "2601.14751": "|**2026-01-21**|**Inverse-Hessian Regularization for Continual Learning in ASR**|Steven Vander Eeckt et.al.|[2601.14751](http://arxiv.org/abs/2601.14751)|null|\n",
     "2601.16126": "|**2026-01-22**|**Quantum Dimension Reduction of Hidden Markov Models**|Rishi Sundar et.al.|[2601.16126](http://arxiv.org/abs/2601.16126)|null|\n",
-    "2601.16117": "|**2026-01-27**|**Distillation-based Layer Dropping (DLD): Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[2601.16117](http://arxiv.org/abs/2601.16117)|**[link](https://github.com/hannabdul/DLD4ASR)**|\n",
+    "2601.16117": "|**2026-01-27**|**Distillation-based Layer Dropping (DLD): Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[2601.16117](http://arxiv.org/abs/2601.16117)|null|\n",
     "2601.15339": "|**2026-01-20**|**Lost in Transcription: How Speech-to-Text Errors Derail Code Understanding**|Jayant Havare et.al.|[2601.15339](http://arxiv.org/abs/2601.15339)|null|\n",
     "2601.16231": "|**2026-01-20**|**SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models**|Aafiya Hussain et.al.|[2601.16231](http://arxiv.org/abs/2601.16231)|null|\n",
     "2601.18641": "|**2026-01-29**|**Unheard in the Digital Age: Rethinking AI Bias and Speech Diversity**|Onyedikachi Hope Amaechi-Okorie et.al.|[2601.18641](http://arxiv.org/abs/2601.18641)|null|\n",
@@ -498,7 +498,8 @@
     "2602.04716": "|**2026-02-04**|**Linguistically Informed Evaluation of Multilingual ASR for African Languages**|Fei-Yueh Chen et.al.|[2602.04716](http://arxiv.org/abs/2602.04716)|null|\n",
     "2602.04217": "|**2026-02-04**|**Frontend Token Enhancement for Token-Based Speech Recognition**|Takanori Ashihara et.al.|[2602.04217](http://arxiv.org/abs/2602.04217)|null|\n",
     "2602.05406": "|**2026-02-05**|**Enabling Automatic Disordered Speech Recognition: An Impaired Speech Dataset in the Akan Language**|Isaac Wiafe et.al.|[2602.05406](http://arxiv.org/abs/2602.05406)|null|\n",
-    "2602.04900": "|**2026-02-03**|**Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization**|Sai Sindhur Malleni et.al.|[2602.04900](http://arxiv.org/abs/2602.04900)|null|\n"
+    "2602.04900": "|**2026-02-03**|**Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization**|Sai Sindhur Malleni et.al.|[2602.04900](http://arxiv.org/abs/2602.04900)|null|\n",
+    "2602.06213": "|**2026-02-05**|**From Hallucination to Articulation: Language Model-Driven Losses for Ultra Low-Bitrate Neural Speech Coding**|Jayeon Yi et.al.|[2602.06213](http://arxiv.org/abs/2602.06213)|**[link](https://github.com/stet-stet/lmloss-icassp2026)**|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
@@ -1443,7 +1444,7 @@
     "2601.18006": "|**2026-01-25**|**PEAR: Pairwise Evaluation for Automatic Relative Scoring in Machine Translation**|Lorenzo Proietti et.al.|[2601.18006](http://arxiv.org/abs/2601.18006)|null|\n",
     "2601.17823": "|**2026-01-25**|**DIETA: A Decoder-only transformer-based model for Italian-English machine TrAnslation**|Pranav Kasela et.al.|[2601.17823](http://arxiv.org/abs/2601.17823)|null|\n",
     "2601.17764": "|**2026-01-25**|**Cross-Lingual Probing and Community-Grounded Analysis of Gender Bias in Low-Resource Bengali**|Md Asgor Hossain Reaj et.al.|[2601.17764](http://arxiv.org/abs/2601.17764)|null|\n",
-    "2601.17671": "|**2026-01-25**|**Align to the Pivot: Dual Alignment with Self-Feedback for Multilingual Math Reasoning**|Chunxu Zhao et.al.|[2601.17671](http://arxiv.org/abs/2601.17671)|**[link](https://github.com/Rover912/PASMR)**|\n",
+    "2601.17671": "|**2026-01-25**|**Align to the Pivot: Dual Alignment with Self-Feedback for Multilingual Math Reasoning**|Chunxu Zhao et.al.|[2601.17671](http://arxiv.org/abs/2601.17671)|null|\n",
     "2601.17397": "|**2026-01-24**|**CLM-Bench: Benchmarking and Analyzing Cross-lingual Misalignment of LLMs in Knowledge Editing**|Yucheng Hu et.al.|[2601.17397](http://arxiv.org/abs/2601.17397)|null|\n",
     "2601.19871": "|**2026-01-27**|**Reflective Translation: Improving Low-Resource Machine Translation via Structured Self-Reflection**|Nicholas Cheng et.al.|[2601.19871](http://arxiv.org/abs/2601.19871)|null|\n",
     "2601.19451": "|**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](http://arxiv.org/abs/2601.19451)|null|\n",
@@ -1455,7 +1456,7 @@
     "2601.20105": "|**2026-01-27**|**FFE-Hallu:Hallucinations in Fixed Figurative Expressions:Benchmark of Idioms and Proverbs in the Persian Language**|Faezeh Hosseini et.al.|[2601.20105](http://arxiv.org/abs/2601.20105)|null|\n",
     "2601.20009": "|**2026-01-27**|**LinguaMap: Which Layers of LLMs Speak Your Language and How to Tune Them?**|J. Ben Tamo et.al.|[2601.20009](http://arxiv.org/abs/2601.20009)|null|\n",
     "2601.21960": "|**2026-01-29**|**TidyVoice 2026 Challenge Evaluation Plan**|Aref Farhadipour et.al.|[2601.21960](http://arxiv.org/abs/2601.21960)|null|\n",
-    "2601.21483": "|**2026-01-29**|**DimStance: Multilingual Datasets for Dimensional Stance Analysis**|Jonas Becker et.al.|[2601.21483](http://arxiv.org/abs/2601.21483)|null|\n",
+    "2601.21483": "|**2026-02-06**|**DimStance: Multilingual Datasets for Dimensional Stance Analysis**|Jonas Becker et.al.|[2601.21483](http://arxiv.org/abs/2601.21483)|null|\n",
     "2601.21000": "|**2026-01-28**|**UrduBench: An Urdu Reasoning Benchmark using Contextually Ensembled Translations with Human-in-the-Loop**|Muhammad Ali Shafique et.al.|[2601.21000](http://arxiv.org/abs/2601.21000)|null|\n",
     "2601.23001": "|**2026-02-02**|**Bias Beyond Borders: Political Ideology Evaluation and Steering in Multilingual LLMs**|Afrozah Nadeem et.al.|[2601.23001](http://arxiv.org/abs/2601.23001)|null|\n",
     "2601.22931": "|**2026-01-30**|**Benchmarking Machine Translation on Chinese Social Media Texts**|Kaiyan Zhao et.al.|[2601.22931](http://arxiv.org/abs/2601.22931)|null|\n",
@@ -1484,7 +1485,8 @@
     "2602.05599": "|**2026-02-05**|**BhashaSetu: Cross-Lingual Knowledge Transfer from High-Resource to Extreme Low-Resource Languages**|Subhadip Maji et.al.|[2602.05599](http://arxiv.org/abs/2602.05599)|null|\n",
     "2602.05374": "|**2026-02-05**|**Cross-Lingual Empirical Evaluation of Large Language Models for Arabic Medical Tasks**|Chaimae Abouzahir et.al.|[2602.05374](http://arxiv.org/abs/2602.05374)|null|\n",
     "2602.05107": "|**2026-02-04**|**Multilingual Extraction and Recognition of Implicit Discourse Relations in Speech and Text**|Ahmed Ruby et.al.|[2602.05107](http://arxiv.org/abs/2602.05107)|null|\n",
-    "2602.05106": "|**2026-02-04**|**Data Kernel Perspective Space Performance Guarantees for Synthetic Data from Transformer Models**|Michael Browder et.al.|[2602.05106](http://arxiv.org/abs/2602.05106)|null|\n"
+    "2602.05106": "|**2026-02-04**|**Data Kernel Perspective Space Performance Guarantees for Synthetic Data from Transformer Models**|Michael Browder et.al.|[2602.05106](http://arxiv.org/abs/2602.05106)|null|\n",
+    "2602.06546": "|**2026-02-06**|**MTQE.en-he: Machine Translation Quality Estimation for English-Hebrew**|Andy Rosenbaum et.al.|[2602.06546](http://arxiv.org/abs/2602.06546)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
