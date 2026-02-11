@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.10**
+📅 **Updated on 2026.02.11**
 
 ---
 
@@ -1606,7 +1606,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---:|:---|:---:|:---:|:---:|
 |**2026-02-09**|**CLUE: Crossmodal disambiguation via Language-vision Understanding with attEntion**|Mouad Abrini et.al.|[2602.08999](http://arxiv.org/abs/2602.08999)|null|
 |**2026-02-09**|**AMS-HD: Hyperdimensional Computing for Real-Time and Energy-Efficient Acute Mountain Sickness Detection**|Abu Masum et.al.|[2602.08916](http://arxiv.org/abs/2602.08916)|null|
-|**2026-02-09**|**Efficient and Stable Reinforcement Learning for Diffusion Language Models**|Jiawei Liu et.al.|[2602.08905](http://arxiv.org/abs/2602.08905)|null|
+|**2026-02-09**|**Efficient and Stable Reinforcement Learning for Diffusion Language Models**|Jiawei Liu et.al.|[2602.08905](http://arxiv.org/abs/2602.08905)|**[link](https://github.com/Lolo1222/STP)**|
 |**2026-02-09**|**FlattenGPT: Depth Compression for Transformer with Layer Flattening**|Ruihan Xu et.al.|[2602.08858](http://arxiv.org/abs/2602.08858)|null|
 |**2026-02-09**|**Omni-Video 2: Scaling MLLM-Conditioned Diffusion for Unified Video Generation and Editing**|Hao Yang et.al.|[2602.08820](http://arxiv.org/abs/2602.08820)|null|
 |**2026-02-09**|**FlexMoRE: A Flexible Mixture of Rank-heterogeneous Experts for Efficient Federatedly-trained Large Language Models**|Annemette Brok Pirchert et.al.|[2602.08818](http://arxiv.org/abs/2602.08818)|null|
