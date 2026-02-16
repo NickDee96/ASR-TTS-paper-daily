@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.15**
+📅 **Updated on 2026.02.16**
 
 ---
 
@@ -4088,7 +4088,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-12**|**GAN-based data augmentation for rare and exotic hadron searches in Pb--Pb collisions in ALICE**|Anisa Khatun et.al.|[2602.12088](http://arxiv.org/abs/2602.12088)|null|
 |**2026-02-12**|**CSEval: A Framework for Evaluating Clinical Semantics in Text-to-Image Generation**|Robert Cronshaw et.al.|[2602.12004](http://arxiv.org/abs/2602.12004)|null|
 |**2026-02-11**|**LCIP: Loss-Controlled Inverse Projection of High-Dimensional Image Data**|Yu Wang et.al.|[2602.11141](http://arxiv.org/abs/2602.11141)|null|
-|**2026-02-11**|**Healthy Harvests: A Comparative Look at Guava Disease Classification Using InceptionV3**|Samanta Ghosh et.al.|[2602.10967](http://arxiv.org/abs/2602.10967)|null|
+|**2026-02-11**|**Healthy Harvests: A Comparative Look at Guava Disease Classification Using InceptionV3**|Samanta Ghosh et.al.|[2602.10967](http://arxiv.org/abs/2602.10967)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-02-11**|**AugVLA-3D: Depth-Driven Feature Augmentation for Vision-Language-Action Models**|Zhifeng Rao et.al.|[2602.10698](http://arxiv.org/abs/2602.10698)|null|
 |**2026-02-11**|**Enhancing Weakly Supervised Multimodal Video Anomaly Detection through Text Guidance**|Shengyang Sun et.al.|[2602.10549](http://arxiv.org/abs/2602.10549)|null|
 |**2026-02-11**|**LakeMLB: Data Lake Machine Learning Benchmark**|Feiyu Pan et.al.|[2602.10441](http://arxiv.org/abs/2602.10441)|null|
