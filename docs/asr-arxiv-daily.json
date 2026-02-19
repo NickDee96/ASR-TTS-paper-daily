@@ -967,7 +967,8 @@
     "2602.14054": "|**2026-02-15**|**LogitsCoder: Towards Efficient Chain-of-Thought Path Search via Logits Preference Decoding for Code Generation**|Jizheng Chen et.al.|[2602.14054](http://arxiv.org/abs/2602.14054)|null|\n",
     "2602.13834": "|**2026-02-14**|**Learning Vocal-Tract Area and Radiation with a Physics-Informed Webster Model**|Minhui Lu et.al.|[2602.13834](http://arxiv.org/abs/2602.13834)|null|\n",
     "2602.13761": "|**2026-02-14**|**ELEAT-SAGA: Early & Late Integration with Evading Alternating Training for Spoof-Robust Speaker Verification**|Amro Asali et.al.|[2602.13761](http://arxiv.org/abs/2602.13761)|null|\n",
-    "2602.15651": "|**2026-02-17**|**UniTAF: A Modular Framework for Joint Text-to-Speech and Audio-to-Face Modeling**|Qiangong Zhou et.al.|[2602.15651](http://arxiv.org/abs/2602.15651)|null|\n"
+    "2602.15651": "|**2026-02-17**|**UniTAF: A Modular Framework for Joint Text-to-Speech and Audio-to-Face Modeling**|Qiangong Zhou et.al.|[2602.15651](http://arxiv.org/abs/2602.15651)|null|\n",
+    "2602.16343": "|**2026-02-18**|**How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection**|Yixuan Xiao et.al.|[2602.16343](http://arxiv.org/abs/2602.16343)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -1554,7 +1555,11 @@
     "2602.15829": "|**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|\n",
     "2602.15506": "|**2026-02-17**|**LuxMT Technical Report**|Nils Rehlinger et.al.|[2602.15506](http://arxiv.org/abs/2602.15506)|null|\n",
     "2602.15383": "|**2026-02-17**|**Bridging Day and Night: Target-Class Hallucination Suppression in Unpaired Image Translation**|Shuwei Li et.al.|[2602.15383](http://arxiv.org/abs/2602.15383)|null|\n",
-    "2602.15038": "|**2026-01-29**|**Indic-TunedLens: Interpreting Multilingual Models in Indian Languages**|Mihir Panchal et.al.|[2602.15038](http://arxiv.org/abs/2602.15038)|null|\n"
+    "2602.15038": "|**2026-02-18**|**Indic-TunedLens: Interpreting Multilingual Models in Indian Languages**|Mihir Panchal et.al.|[2602.15038](http://arxiv.org/abs/2602.15038)|null|\n",
+    "2602.16660": "|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)|null|\n",
+    "2602.16469": "|**2026-02-18**|**Training Models on Dialects of Translationese Shows How Lexical Diversity and Source-Target Syntactic Similarity Shape Learning**|Jenny Kunz et.al.|[2602.16469](http://arxiv.org/abs/2602.16469)|null|\n",
+    "2602.16023": "|**2026-02-17**|**A Curious Class of Adpositional Multiword Expressions in Korean**|Junghyun Min et.al.|[2602.16023](http://arxiv.org/abs/2602.16023)|null|\n",
+    "2602.15845": "|**2026-01-22**|**KD4MT: A Survey of Knowledge Distillation for Machine Translation**|Ona de Gibert et.al.|[2602.15845](http://arxiv.org/abs/2602.15845)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -4061,7 +4066,7 @@
     "2602.15764": "|**2026-02-17**|**Quantitative local recovery of Kerr-de Sitter parameters from high-frequency equatorial quasinormal modes**|Ruiliang Li et.al.|[2602.15764](http://arxiv.org/abs/2602.15764)|null|\n",
     "2602.15751": "|**2026-02-17**|**Enabling Low-Latency Machine learning on Radiation-Hard FPGAs with hls4ml**|Katya Govorkova et.al.|[2602.15751](http://arxiv.org/abs/2602.15751)|null|\n",
     "2602.15724": "|**2026-02-17**|**Learning to Retrieve Navigable Candidates for Efficient Vision-and-Language Navigation**|Shutian Gu et.al.|[2602.15724](http://arxiv.org/abs/2602.15724)|null|\n",
-    "2602.15720": "|**2026-02-17**|**ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT**|Hyunchan Moon et.al.|[2602.15720](http://arxiv.org/abs/2602.15720)|null|\n",
+    "2602.15720": "|**2026-02-18**|**ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT**|Hyunchan Moon et.al.|[2602.15720](http://arxiv.org/abs/2602.15720)|null|\n",
     "2602.15563": "|**2026-02-17**|**1-Bit Wonder: Improving QAT Performance in the Low-Bit Regime through K-Means Quantization**|Sohir Maskey et.al.|[2602.15563](http://arxiv.org/abs/2602.15563)|null|\n",
     "2602.15554": "|**2026-02-17**|**Efficient Road Renovation Scheduling under Uncertainty using Lower Bound Pruning**|Robbert Bosch et.al.|[2602.15554](http://arxiv.org/abs/2602.15554)|null|\n",
     "2602.15547": "|**2026-02-17**|**jina-embeddings-v5-text: Task-Targeted Embedding Distillation**|Mohammad Kalim Akram et.al.|[2602.15547](http://arxiv.org/abs/2602.15547)|null|\n",
@@ -4077,7 +4082,19 @@
     "2602.15184": "|**2026-02-16**|**Learning Data-Efficient and Generalizable Neural Operators via Fundamental Physics Knowledge**|Siying Ma et.al.|[2602.15184](http://arxiv.org/abs/2602.15184)|null|\n",
     "2602.15164": "|**2026-02-16**|**Synthesizing Trajectory Queries from Examples**|Stephen Mell et.al.|[2602.15164](http://arxiv.org/abs/2602.15164)|null|\n",
     "2602.15143": "|**2026-02-16**|**Protecting Language Models Against Unauthorized Distillation through Trace Rewriting**|Xinhang Ma et.al.|[2602.15143](http://arxiv.org/abs/2602.15143)|null|\n",
-    "2602.15139": "|**2026-02-16**|**CGRA-DeBERTa Concept Guided Residual Augmentation Transformer for Theologically Islamic Understanding**|Tahir Hussain et.al.|[2602.15139](http://arxiv.org/abs/2602.15139)|null|\n"
+    "2602.15139": "|**2026-02-16**|**CGRA-DeBERTa Concept Guided Residual Augmentation Transformer for Theologically Islamic Understanding**|Tahir Hussain et.al.|[2602.15139](http://arxiv.org/abs/2602.15139)|null|\n",
+    "2602.16712": "|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|null|\n",
+    "2602.16653": "|**2026-02-18**|**Agent Skill Framework: Perspectives on the Potential of Small Language Models in Industrial Environments**|Yangjie Xu et.al.|[2602.16653](http://arxiv.org/abs/2602.16653)|null|\n",
+    "2602.16640": "|**2026-02-18**|**Quecto-V1: Empirical Analysis of 8-bit Quantized Small Language Models for On-Device Legal Retrieval**|Subrit Dikshit et.al.|[2602.16640](http://arxiv.org/abs/2602.16640)|null|\n",
+    "2602.16564": "|**2026-02-18**|**A Scalable Approach to Solving Simulation-Based Network Security Games**|Michael Lanier et.al.|[2602.16564](http://arxiv.org/abs/2602.16564)|null|\n",
+    "2602.16337": "|**2026-02-18**|**Subtractive Modulative Network with Learnable Periodic Activations**|Tiou Wang et.al.|[2602.16337](http://arxiv.org/abs/2602.16337)|null|\n",
+    "2602.16320": "|**2026-02-18**|**RefineFormer3D: Efficient 3D Medical Image Segmentation via Adaptive Multi-Scale Transformer with Cross Attention Fusion**|Kavyansh Tyagi et.al.|[2602.16320](http://arxiv.org/abs/2602.16320)|null|\n",
+    "2602.16249": "|**2026-02-18**|**AFFMAE: Scalable and Efficient Vision Pretraining for Desktop Graphics Cards**|David Smerkous et.al.|[2602.16249](http://arxiv.org/abs/2602.16249)|null|\n",
+    "2602.16160": "|**2026-02-18**|**Uncertainty-Guided Inference-Time Depth Adaptation for Transformer-Based Visual Tracking**|Patrick Poggi et.al.|[2602.16160](http://arxiv.org/abs/2602.16160)|null|\n",
+    "2602.16124": "|**2026-02-18**|**Rethinking ANN-based Retrieval: Multifaceted Learnable Index for Large-scale Recommendation System**|Jiang Zhang et.al.|[2602.16124](http://arxiv.org/abs/2602.16124)|null|\n",
+    "2602.16098": "|**2026-02-18**|**Collaborative Zone-Adaptive Zero-Day Intrusion Detection for IoBT**|Amirmohammad Pasdar et.al.|[2602.16098](http://arxiv.org/abs/2602.16098)|null|\n",
+    "2602.16086": "|**2026-02-17**|**LGQ: Learning Discretization Geometry for Scalable and Stable Image Tokenization**|Idil Bilge Altun et.al.|[2602.16086](http://arxiv.org/abs/2602.16086)|null|\n",
+    "2602.15917": "|**2026-02-17**|**ROIX-Comp: Optimizing X-ray Computed Tomography Imaging Strategy for Data Reduction and Reconstruction**|Amarjit Singh et.al.|[2602.15917](http://arxiv.org/abs/2602.15917)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -4850,7 +4867,7 @@
     "2602.00949": "|**2026-02-03**|**Data Augmentation for High-Fidelity Generation of CAR-T/NK Immunological Synapse Images**|Xiang Zhang et.al.|[2602.00949](http://arxiv.org/abs/2602.00949)|null|\n",
     "2602.00822": "|**2026-01-31**|**Safety-Efficacy Trade Off: Robustness against Data-Poisoning**|Diego Granziol et.al.|[2602.00822](http://arxiv.org/abs/2602.00822)|null|\n",
     "2602.00114": "|**2026-01-27**|**1S-DAug: One-Shot Data Augmentation for Robust Few-Shot Generalization**|Yunwei Bai et.al.|[2602.00114](http://arxiv.org/abs/2602.00114)|null|\n",
-    "2602.03622": "|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|null|\n",
+    "2602.03622": "|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|**[link](https://github.com/zlu866/QMP-RETNet)**|\n",
     "2602.03555": "|**2026-02-03**|**Cut to the Mix: Simple Data Augmentation Outperforms Elaborate Ones in Limited Organ Segmentation Datasets**|Chang Liu et.al.|[2602.03555](http://arxiv.org/abs/2602.03555)|null|\n",
     "2602.03316": "|**2026-02-03**|**Invisible Clean-Label Backdoor Attacks for Generative Data Augmentation**|Ting Xiang et.al.|[2602.03316](http://arxiv.org/abs/2602.03316)|null|\n",
     "2602.03314": "|**2026-02-03**|**PQTNet: Pixel-wise Quantitative Thermography Neural Network for Estimating Defect Depth in Polylactic Acid Parts by Additive Manufacturing**|Lei Deng et.al.|[2602.03314](http://arxiv.org/abs/2602.03314)|null|\n",
@@ -4864,7 +4881,7 @@
     "2602.02542": "|**2026-01-30**|**Auto-Augmentation Contrastive Learning for Wearable-based Human Activity Recognition**|Qingyu Wu et.al.|[2602.02542](http://arxiv.org/abs/2602.02542)|null|\n",
     "2602.04776": "|**2026-02-04**|**Speaker-Aware Simulation Improves Conversational Speech Recognition**|Máté Gedeon et.al.|[2602.04776](http://arxiv.org/abs/2602.04776)|null|\n",
     "2602.04695": "|**2026-02-04**|**Turbulence teaches equivariance to neural networks**|Ryley McConkey et.al.|[2602.04695](http://arxiv.org/abs/2602.04695)|null|\n",
-    "2602.04190": "|**2026-02-04**|**LatentTune: Efficient Tuning of High Dimensional Database Parameters via Latent Representation Learning**|Sein Kwon et.al.|[2602.04190](http://arxiv.org/abs/2602.04190)|null|\n",
+    "2602.04190": "|**2026-02-04**|**LatentTune: Efficient Tuning of High Dimensional Database Parameters via Latent Representation Learning**|Sein Kwon et.al.|[2602.04190](http://arxiv.org/abs/2602.04190)|**[link](https://github.com/Kwon-sein/LatentTune)**|\n",
     "2602.04054": "|**2026-02-03**|**SEIS: Subspace-based Equivariance and Invariance Scores for Neural Representations**|Huahua Lin et.al.|[2602.04054](http://arxiv.org/abs/2602.04054)|null|\n",
     "2602.06035": "|**2026-02-05**|**InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2602.06035](http://arxiv.org/abs/2602.06035)|null|\n",
     "2602.05522": "|**2026-02-05**|**Mapper-GIN: Lightweight Structural Graph Abstraction for Corrupted 3D Point Cloud Classification**|Jeongbin You et.al.|[2602.05522](http://arxiv.org/abs/2602.05522)|null|\n",
@@ -4903,7 +4920,7 @@
     "2602.12902": "|**2026-02-13**|**Robustness of Object Detection of Autonomous Vehicles in Adverse Weather Conditions**|Fox Pettersen et.al.|[2602.12902](http://arxiv.org/abs/2602.12902)|null|\n",
     "2602.15007": "|**2026-02-16**|**Hidden Markov Individual-level Models of Infectious Disease Transmission**|Dirk Douwes-Schultz et.al.|[2602.15007](http://arxiv.org/abs/2602.15007)|null|\n",
     "2602.14671": "|**2026-02-16**|**Data Augmentation for Pathological Speech Enhancement**|Mingchi Hou et.al.|[2602.14671](http://arxiv.org/abs/2602.14671)|null|\n",
-    "2602.14655": "|**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|**[link](https://github.com/smileix/fal-ad)**|\n",
+    "2602.14655": "|**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|null|\n",
     "2602.14512": "|**2026-02-16**|**MedVAR: Towards Scalable and Efficient Medical Image Generation via Next-scale Autoregressive Prediction**|Zhicheng He et.al.|[2602.14512](http://arxiv.org/abs/2602.14512)|null|\n",
     "2602.14423": "|**2026-02-16**|**The geometry of invariant learning: an information-theoretic analysis of data augmentation and generalization**|Abdelali Bouyahia et.al.|[2602.14423](http://arxiv.org/abs/2602.14423)|null|\n",
     "2602.14356": "|**2026-02-16**|**A Generative AI Approach for Reducing Skin Tone Bias in Skin Cancer Classification**|Areez Muhammed Shabu et.al.|[2602.14356](http://arxiv.org/abs/2602.14356)|null|\n",
@@ -4913,7 +4930,12 @@
     "2602.13427": "|**2026-02-13**|**Backdooring Bias in Large Language Models**|Anudeep Das et.al.|[2602.13427](http://arxiv.org/abs/2602.13427)|null|\n",
     "2602.13270": "|**2026-02-04**|**Deep Learning CNN for Pneumonia Detection: Advancing Digital Health in Society 5.0**|Hadi Almohab et.al.|[2602.13270](http://arxiv.org/abs/2602.13270)|null|\n",
     "2602.15755": "|**2026-02-17**|**RaCo: Ranking and Covariance for Practical Learned Keypoints**|Abhiram Shenoi et.al.|[2602.15755](http://arxiv.org/abs/2602.15755)|null|\n",
-    "2602.15155": "|**2026-02-16**|**Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields**|Tianyu Xiong et.al.|[2602.15155](http://arxiv.org/abs/2602.15155)|**[link](https://github.com/xtyinzz/DRR-INR)**|\n"
+    "2602.15155": "|**2026-02-16**|**Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields**|Tianyu Xiong et.al.|[2602.15155](http://arxiv.org/abs/2602.15155)|null|\n",
+    "2602.16675": "|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|null|\n",
+    "2602.16379": "|**2026-02-18**|**Label-Consistent Data Generation for Aspect-Based Sentiment Analysis Using LLM Agents**|Mohammad H. A. Monfared et.al.|[2602.16379](http://arxiv.org/abs/2602.16379)|null|\n",
+    "2602.16334": "|**2026-02-18**|**Spatial Audio Question Answering and Reasoning on Dynamic Source Movements**|Arvind Krishna Sridhar et.al.|[2602.16334](http://arxiv.org/abs/2602.16334)|null|\n",
+    "2602.16157": "|**2026-02-18**|**Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI**|Xinyue Gui et.al.|[2602.16157](http://arxiv.org/abs/2602.16157)|null|\n",
+    "2602.15878": "|**2026-02-03**|**IT-OSE: Exploring Optimal Sample Size for Industrial Data Augmentation**|Mingchun Sun et.al.|[2602.15878](http://arxiv.org/abs/2602.15878)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -6117,6 +6139,10 @@
     "2602.15378": "|**2026-02-17**|**Making Large Language Models Speak Tulu: Structured Prompting for an Extremely Low-Resource Language**|Prathamesh Devadiga et.al.|[2602.15378](http://arxiv.org/abs/2602.15378)|null|\n",
     "2602.15368": "|**2026-02-17**|**GMAIL: Generative Modality Alignment for generated Image Learning**|Shentong Mo et.al.|[2602.15368](http://arxiv.org/abs/2602.15368)|null|\n",
     "2602.15328": "|**2026-02-17**|**Non-Stationary Covariance Functions for Spatial Data on Linear Networks**|Alfredo Alegría et.al.|[2602.15328](http://arxiv.org/abs/2602.15328)|null|\n",
-    "2602.15270": "|**2026-02-17**|**Enhancing Diversity and Feasibility: Joint Population Synthesis from Multi-source Data Using Generative Models**|Farbod Abbasi et.al.|[2602.15270](http://arxiv.org/abs/2602.15270)|null|\n"
+    "2602.15270": "|**2026-02-17**|**Enhancing Diversity and Feasibility: Joint Population Synthesis from Multi-source Data Using Generative Models**|Farbod Abbasi et.al.|[2602.15270](http://arxiv.org/abs/2602.15270)|null|\n",
+    "2602.16690": "|**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|\n",
+    "2602.16611": "|**2026-02-18**|**Style-Aware Gloss Control for Generative Non-Photorealistic Rendering**|Santiago Jimenez-Navarro et.al.|[2602.16611](http://arxiv.org/abs/2602.16611)|null|\n",
+    "2602.16449": "|**2026-02-18**|**GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation**|Nicolas Salvy et.al.|[2602.16449](http://arxiv.org/abs/2602.16449)|null|\n",
+    "2602.16065": "|**2026-02-17**|**Can Generative Artificial Intelligence Survive Data Contamination? Theoretical Guarantees under Contaminated Recursive Training**|Kevin Wang et.al.|[2602.16065](http://arxiv.org/abs/2602.16065)|null|\n"
   }
 }
