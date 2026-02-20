@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.19**
+📅 **Updated on 2026.02.20**
 
 ---
 
@@ -1055,7 +1055,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)|null|
+|**2026-02-18**|**Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment**|Yuyan Bu et.al.|[2602.16660](http://arxiv.org/abs/2602.16660)|**[link](https://github.com/Yuyan-B/MLC)**|
 |**2026-02-18**|**Training Models on Dialects of Translationese Shows How Lexical Diversity and Source-Target Syntactic Similarity Shape Learning**|Jenny Kunz et.al.|[2602.16469](http://arxiv.org/abs/2602.16469)|null|
 |**2026-02-17**|**A Curious Class of Adpositional Multiword Expressions in Korean**|Junghyun Min et.al.|[2602.16023](http://arxiv.org/abs/2602.16023)|null|
 |**2026-01-22**|**KD4MT: A Survey of Knowledge Distillation for Machine Translation**|Ona de Gibert et.al.|[2602.15845](http://arxiv.org/abs/2602.15845)|null|
@@ -1699,7 +1699,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-16**|**Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation**|Ruoxi Liu et.al.|[2602.15013](http://arxiv.org/abs/2602.15013)|null|
 |**2026-02-16**|**Scaling QAOA: transferring optimal adiabatic schedules from small-scale to large-scale variational circuits**|Ugo Nzongani et.al.|[2602.14986](http://arxiv.org/abs/2602.14986)|null|
 |**2026-02-16**|**DRAMA: Domain Retrieval using Adaptive Module Allocation**|Pranav Kasela et.al.|[2602.14960](http://arxiv.org/abs/2602.14960)|null|
-|**2026-02-16**|**Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs**|Pedram Bakhtiarifard et.al.|[2602.14896](http://arxiv.org/abs/2602.14896)|null|
+|**2026-02-16**|**Algorithmic Simplification of Neural Networks with Mosaic-of-Motifs**|Pedram Bakhtiarifard et.al.|[2602.14896](http://arxiv.org/abs/2602.14896)|**[link](https://github.com/saintslab/MoMos)**|
 |**2026-02-16**|**Depth Completion as Parameter-Efficient Test-Time Adaptation**|Bingxin Ke et.al.|[2602.14751](http://arxiv.org/abs/2602.14751)|null|
 |**2026-02-16**|**D2-LoRA: A Synergistic Approach to Differential and Directional Low-Rank Adaptation**|Nozomu Fujisawa et.al.|[2602.14728](http://arxiv.org/abs/2602.14728)|null|
 |**2026-02-16**|**GradMAP: Faster Layer Pruning with Gradient Metric and Projection Compensation**|Hao Liu et.al.|[2602.14649](http://arxiv.org/abs/2602.14649)|null|
@@ -4215,7 +4215,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|null|
+|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|**[link](https://github.com/jrome5/Learning-to-unfold-cloth.github.io)**|
 |**2026-02-18**|**Label-Consistent Data Generation for Aspect-Based Sentiment Analysis Using LLM Agents**|Mohammad H. A. Monfared et.al.|[2602.16379](http://arxiv.org/abs/2602.16379)|null|
 |**2026-02-18**|**Spatial Audio Question Answering and Reasoning on Dynamic Source Movements**|Arvind Krishna Sridhar et.al.|[2602.16334](http://arxiv.org/abs/2602.16334)|null|
 |**2026-02-18**|**Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI**|Xinyue Gui et.al.|[2602.16157](http://arxiv.org/abs/2602.16157)|null|
@@ -4270,9 +4270,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-04**|**Smart Diagnosis and Early Intervention in PCOS: A Deep Learning Approach to Women's Reproductive Health**|Shayan Abrar et.al.|[2602.04944](http://arxiv.org/abs/2602.04944)|null|
 |**2026-02-04**|**Speaker-Aware Simulation Improves Conversational Speech Recognition**|Máté Gedeon et.al.|[2602.04776](http://arxiv.org/abs/2602.04776)|null|
 |**2026-02-04**|**Turbulence teaches equivariance to neural networks**|Ryley McConkey et.al.|[2602.04695](http://arxiv.org/abs/2602.04695)|null|
-|**2026-02-04**|**LatentTune: Efficient Tuning of High Dimensional Database Parameters via Latent Representation Learning**|Sein Kwon et.al.|[2602.04190](http://arxiv.org/abs/2602.04190)|**[link](https://github.com/Kwon-sein/LatentTune)**|
+|**2026-02-04**|**LatentTune: Efficient Tuning of High Dimensional Database Parameters via Latent Representation Learning**|Sein Kwon et.al.|[2602.04190](http://arxiv.org/abs/2602.04190)|null|
 |**2026-02-03**|**SEIS: Subspace-based Equivariance and Invariance Scores for Neural Representations**|Huahua Lin et.al.|[2602.04054](http://arxiv.org/abs/2602.04054)|null|
-|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|**[link](https://github.com/zlu866/QMP-RETNet)**|
+|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|null|
 |**2026-02-03**|**Cut to the Mix: Simple Data Augmentation Outperforms Elaborate Ones in Limited Organ Segmentation Datasets**|Chang Liu et.al.|[2602.03555](http://arxiv.org/abs/2602.03555)|null|
 |**2026-02-03**|**Invisible Clean-Label Backdoor Attacks for Generative Data Augmentation**|Ting Xiang et.al.|[2602.03316](http://arxiv.org/abs/2602.03316)|null|
 |**2026-02-03**|**PQTNet: Pixel-wise Quantitative Thermography Neural Network for Estimating Defect Depth in Polylactic Acid Parts by Additive Manufacturing**|Lei Deng et.al.|[2602.03314](http://arxiv.org/abs/2602.03314)|null|
@@ -5107,7 +5107,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-12**|**Fourier Transformers for Latent Crystallographic Diffusion and Generative Modeling**|Jed A. Duersch et.al.|[2602.12045](http://arxiv.org/abs/2602.12045)|null|
 |**2026-02-13**|**When Should LLMs Be Less Specific? Selective Abstraction for Reliable Long-Form Text Generation**|Shani Goren et.al.|[2602.11908](http://arxiv.org/abs/2602.11908)|null|
 |**2026-02-12**|**How to Sample High Quality 3D Fractals for Action Recognition Pre-Training?**|Marko Putak et.al.|[2602.11810](http://arxiv.org/abs/2602.11810)|null|
-|**2026-02-12**|**RELATE: A Reinforcement Learning-Enhanced LLM Framework for Advertising Text Generation**|Jinfang Wang et.al.|[2602.11780](http://arxiv.org/abs/2602.11780)|null|
+|**2026-02-12**|**RELATE: A Reinforcement Learning-Enhanced LLM Framework for Advertising Text Generation**|Jinfang Wang et.al.|[2602.11780](http://arxiv.org/abs/2602.11780)|**[link](https://github.com/phutq341/PhuDepTrai)**|
 |**2026-02-13**|**Bizarre Love Triangle: Generative AI, Art, and Kitsch**|Dejan Grba et.al.|[2602.11353](http://arxiv.org/abs/2602.11353)|null|
 |**2026-02-11**|**TabICLv2: A better, faster, scalable, and open tabular foundation model**|Jingang Qu et.al.|[2602.11139](http://arxiv.org/abs/2602.11139)|null|
 |**2026-02-11**|**Beyond Confidence: The Rhythms of Reasoning in Generative Models**|Deyuan Liu et.al.|[2602.10816](http://arxiv.org/abs/2602.10816)|null|
