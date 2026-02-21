@@ -4895,7 +4895,7 @@
     "2602.00949": "|**2026-02-03**|**Data Augmentation for High-Fidelity Generation of CAR-T/NK Immunological Synapse Images**|Xiang Zhang et.al.|[2602.00949](http://arxiv.org/abs/2602.00949)|null|\n",
     "2602.00822": "|**2026-01-31**|**Safety-Efficacy Trade Off: Robustness against Data-Poisoning**|Diego Granziol et.al.|[2602.00822](http://arxiv.org/abs/2602.00822)|null|\n",
     "2602.00114": "|**2026-01-27**|**1S-DAug: One-Shot Data Augmentation for Robust Few-Shot Generalization**|Yunwei Bai et.al.|[2602.00114](http://arxiv.org/abs/2602.00114)|null|\n",
-    "2602.03622": "|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|**[link](https://github.com/zlu866/QMP-RETNet)**|\n",
+    "2602.03622": "|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|null|\n",
     "2602.03555": "|**2026-02-03**|**Cut to the Mix: Simple Data Augmentation Outperforms Elaborate Ones in Limited Organ Segmentation Datasets**|Chang Liu et.al.|[2602.03555](http://arxiv.org/abs/2602.03555)|null|\n",
     "2602.03316": "|**2026-02-03**|**Invisible Clean-Label Backdoor Attacks for Generative Data Augmentation**|Ting Xiang et.al.|[2602.03316](http://arxiv.org/abs/2602.03316)|null|\n",
     "2602.03314": "|**2026-02-03**|**PQTNet: Pixel-wise Quantitative Thermography Neural Network for Estimating Defect Depth in Polylactic Acid Parts by Additive Manufacturing**|Lei Deng et.al.|[2602.03314](http://arxiv.org/abs/2602.03314)|null|\n",
@@ -4959,14 +4959,14 @@
     "2602.13270": "|**2026-02-04**|**Deep Learning CNN for Pneumonia Detection: Advancing Digital Health in Society 5.0**|Hadi Almohab et.al.|[2602.13270](http://arxiv.org/abs/2602.13270)|null|\n",
     "2602.15755": "|**2026-02-17**|**RaCo: Ranking and Covariance for Practical Learned Keypoints**|Abhiram Shenoi et.al.|[2602.15755](http://arxiv.org/abs/2602.15755)|null|\n",
     "2602.15155": "|**2026-02-16**|**Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields**|Tianyu Xiong et.al.|[2602.15155](http://arxiv.org/abs/2602.15155)|null|\n",
-    "2602.16675": "|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|null|\n",
+    "2602.16675": "|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|**[link](https://github.com/jrome5/Learning-to-unfold-cloth.github.io)**|\n",
     "2602.16379": "|**2026-02-18**|**Label-Consistent Data Generation for Aspect-Based Sentiment Analysis Using LLM Agents**|Mohammad H. A. Monfared et.al.|[2602.16379](http://arxiv.org/abs/2602.16379)|null|\n",
     "2602.16334": "|**2026-02-18**|**Spatial Audio Question Answering and Reasoning on Dynamic Source Movements**|Arvind Krishna Sridhar et.al.|[2602.16334](http://arxiv.org/abs/2602.16334)|null|\n",
     "2602.16157": "|**2026-02-18**|**Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI**|Xinyue Gui et.al.|[2602.16157](http://arxiv.org/abs/2602.16157)|null|\n",
     "2602.15878": "|**2026-02-03**|**IT-OSE: Exploring Optimal Sample Size for Industrial Data Augmentation**|Mingchun Sun et.al.|[2602.15878](http://arxiv.org/abs/2602.15878)|null|\n",
     "2602.17658": "|**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|\n",
     "2602.17634": "|**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634](http://arxiv.org/abs/2602.17634)|null|\n",
-    "2602.17366": "|**2026-02-19**|**RPDR: A Round-trip Prediction-Based Data Augmentation Framework for Long-Tail Question Answering**|Yiming Zhang et.al.|[2602.17366](http://arxiv.org/abs/2602.17366)|null|\n"
+    "2602.17366": "|**2026-02-19**|**RPDR: A Round-trip Prediction-Based Data Augmentation Framework for Long-Tail Question Answering**|Yiming Zhang et.al.|[2602.17366](http://arxiv.org/abs/2602.17366)|**[link](https://github.com/yiming-zh/RPDR)**|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",

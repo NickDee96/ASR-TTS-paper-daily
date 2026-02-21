@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.20**
+📅 **Updated on 2026.02.21**
 
 ---
 
@@ -4245,8 +4245,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---:|:---|:---:|:---:|:---:|
 |**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|
 |**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634](http://arxiv.org/abs/2602.17634)|null|
-|**2026-02-19**|**RPDR: A Round-trip Prediction-Based Data Augmentation Framework for Long-Tail Question Answering**|Yiming Zhang et.al.|[2602.17366](http://arxiv.org/abs/2602.17366)|null|
-|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|null|
+|**2026-02-19**|**RPDR: A Round-trip Prediction-Based Data Augmentation Framework for Long-Tail Question Answering**|Yiming Zhang et.al.|[2602.17366](http://arxiv.org/abs/2602.17366)|**[link](https://github.com/yiming-zh/RPDR)**|
+|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|**[link](https://github.com/jrome5/Learning-to-unfold-cloth.github.io)**|
 |**2026-02-18**|**Label-Consistent Data Generation for Aspect-Based Sentiment Analysis Using LLM Agents**|Mohammad H. A. Monfared et.al.|[2602.16379](http://arxiv.org/abs/2602.16379)|null|
 |**2026-02-18**|**Spatial Audio Question Answering and Reasoning on Dynamic Source Movements**|Arvind Krishna Sridhar et.al.|[2602.16334](http://arxiv.org/abs/2602.16334)|null|
 |**2026-02-18**|**Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI**|Xinyue Gui et.al.|[2602.16157](http://arxiv.org/abs/2602.16157)|null|
@@ -4303,7 +4303,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-04**|**Turbulence teaches equivariance to neural networks**|Ryley McConkey et.al.|[2602.04695](http://arxiv.org/abs/2602.04695)|null|
 |**2026-02-04**|**LatentTune: Efficient Tuning of High Dimensional Database Parameters via Latent Representation Learning**|Sein Kwon et.al.|[2602.04190](http://arxiv.org/abs/2602.04190)|null|
 |**2026-02-03**|**SEIS: Subspace-based Equivariance and Invariance Scores for Neural Representations**|Huahua Lin et.al.|[2602.04054](http://arxiv.org/abs/2602.04054)|null|
-|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|**[link](https://github.com/zlu866/QMP-RETNet)**|
+|**2026-02-03**|**Quasi-multimodal-based pathophysiological feature learning for retinal disease diagnosis**|Lu Zhang et.al.|[2602.03622](http://arxiv.org/abs/2602.03622)|null|
 |**2026-02-03**|**Cut to the Mix: Simple Data Augmentation Outperforms Elaborate Ones in Limited Organ Segmentation Datasets**|Chang Liu et.al.|[2602.03555](http://arxiv.org/abs/2602.03555)|null|
 |**2026-02-03**|**Invisible Clean-Label Backdoor Attacks for Generative Data Augmentation**|Ting Xiang et.al.|[2602.03316](http://arxiv.org/abs/2602.03316)|null|
 |**2026-02-03**|**PQTNet: Pixel-wise Quantitative Thermography Neural Network for Estimating Defect Depth in Polylactic Acid Parts by Additive Manufacturing**|Lei Deng et.al.|[2602.03314](http://arxiv.org/abs/2602.03314)|null|
