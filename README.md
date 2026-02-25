@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.24**
+📅 **Updated on 2026.02.25**
 
 ---
 
@@ -5207,7 +5207,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-19**|**HybridPrompt: Bridging Generative Priors and Traditional Codecs for Mobile Streaming**|Liming Liu et.al.|[2602.17120](http://arxiv.org/abs/2602.17120)|null|
 |**2026-02-19**|**Epistemology of Generative AI: The Geometry of Knowing**|Ilya Levin et.al.|[2602.17116](http://arxiv.org/abs/2602.17116)|null|
 |**2026-02-19**|**Synergizing Transport-Based Generative Models and Latent Geometry for Stochastic Closure Modeling**|Xinghao Dong et.al.|[2602.17089](http://arxiv.org/abs/2602.17089)|null|
-|**2026-02-19**|**Generative modeling for the bootstrap**|Leon Tran et.al.|[2602.17052](http://arxiv.org/abs/2602.17052)|**[link](https://github.com/victorsobottka/bse-thesis-synthetic-data)**|
+|**2026-02-19**|**Generative modeling for the bootstrap**|Leon Tran et.al.|[2602.17052](http://arxiv.org/abs/2602.17052)|null|
 |**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|
 |**2026-02-19**|**Style-Aware Gloss Control for Generative Non-Photorealistic Rendering**|Santiago Jimenez-Navarro et.al.|[2602.16611](http://arxiv.org/abs/2602.16611)|null|
 |**2026-02-18**|**GICDM: Mitigating Hubness for Reliable Distance-Based Generative Model Evaluation**|Nicolas Salvy et.al.|[2602.16449](http://arxiv.org/abs/2602.16449)|null|
