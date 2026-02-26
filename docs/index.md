@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.02.25**
+📅 **Updated on 2026.02.26**
 
 ## 🌟 About This Repository
 
@@ -1094,7 +1094,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-03**|**Consensus Group Relative Policy Optimization for Text Generation**|Yuki Ichihara et.al.|[2602.03102](http://arxiv.org/abs/2602.03102)|null|
 |**2026-02-02**|**Controlled disagreement improves generalization in decentralized training**|Zesen Wang et.al.|[2602.02899](http://arxiv.org/abs/2602.02899)|null|
 |**2026-02-02**|**Large Language Models for Mental Health: A Multilingual Evaluation**|Nishat Raihan et.al.|[2602.02440](http://arxiv.org/abs/2602.02440)|null|
-|**2026-02-02**|**Cross-Lingual Stability of LLM Judges Under Controlled Generation: Evidence from Finno-Ugric Languages**|Isaac Chung et.al.|[2602.02287](http://arxiv.org/abs/2602.02287)|**[link](https://github.com/isaac-chung/cross-lingual-stability-judges)**|
+|**2026-02-02**|**Cross-Lingual Stability of LLM Judges Under Controlled Generation: Evidence from Finno-Ugric Languages**|Isaac Chung et.al.|[2602.02287](http://arxiv.org/abs/2602.02287)|null|
 |**2026-02-02**|**BBPE16: UTF-16-based byte-level byte-pair encoding for improved multilingual speech recognition**|Hyunsik Kim et.al.|[2602.01717](http://arxiv.org/abs/2602.01717)|null|
 |**2026-02-02**|**SEA-Guard: Culturally Grounded Multilingual Safeguard for Southeast Asia**|Panuthep Tasawong et.al.|[2602.01618](http://arxiv.org/abs/2602.01618)|null|
 |**2026-02-01**|**Who Transfers Safety? Identifying and Targeting Cross-Lingual Shared Safety Neurons**|Xianhui Zhang et.al.|[2602.01283](http://arxiv.org/abs/2602.01283)|null|
@@ -4273,7 +4273,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-02-24**|**Computing a Characteristic Orientation for Rotation-Independent Image Analysis**|Cristian Valero-Abundio et.al.|[2602.20930](http://arxiv.org/abs/2602.20930)|null|
-|**2026-02-24**|**Federated Learning for Cross-Modality Medical Image Segmentation via Augmentation-Driven Generalization**|Sachin Dudda Nagaraju et.al.|[2602.20773](http://arxiv.org/abs/2602.20773)|null|
+|**2026-02-24**|**Federated Learning for Cross-Modality Medical Image Segmentation via Augmentation-Driven Generalization**|Sachin Dudda Nagaraju et.al.|[2602.20773](http://arxiv.org/abs/2602.20773)|**[link](https://github.com/sachugowda/FedGINwithExtension)**|
 |**2026-02-23**|**Shape-informed cardiac mechanics surrogates in data-scarce regimes via geometric encoding and generative augmentation**|Davide Carrara et.al.|[2602.20306](http://arxiv.org/abs/2602.20306)|null|
 |**2026-02-23**|**The Sim-to-Real Gap in MRS Quantification: A Systematic Deep Learning Validation for GABA**|Zien Ma et.al.|[2602.20289](http://arxiv.org/abs/2602.20289)|null|
 |**2026-02-22**|**Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition**|Minxue Tang et.al.|[2602.19385](http://arxiv.org/abs/2602.19385)|null|
