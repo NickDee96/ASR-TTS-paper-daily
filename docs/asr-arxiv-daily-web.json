@@ -5139,7 +5139,7 @@
     "2602.19219": "|**2026-02-22**|**Controlled Face Manipulation and Synthesis for Data Augmentation**|Joris Kirchner et.al.|[2602.19219](http://arxiv.org/abs/2602.19219)|null|\n",
     "2602.18959": "|**2026-02-21**|**YOLOv10-Based Multi-Task Framework for Hand Localization and Laterality Classification in Surgical Videos**|Kedi Sun et.al.|[2602.18959](http://arxiv.org/abs/2602.18959)|null|\n",
     "2602.20930": "|**2026-02-24**|**Computing a Characteristic Orientation for Rotation-Independent Image Analysis**|Cristian Valero-Abundio et.al.|[2602.20930](http://arxiv.org/abs/2602.20930)|null|\n",
-    "2602.20773": "|**2026-02-24**|**Federated Learning for Cross-Modality Medical Image Segmentation via Augmentation-Driven Generalization**|Sachin Dudda Nagaraju et.al.|[2602.20773](http://arxiv.org/abs/2602.20773)|null|\n",
+    "2602.20773": "|**2026-02-24**|**Federated Learning for Cross-Modality Medical Image Segmentation via Augmentation-Driven Generalization**|Sachin Dudda Nagaraju et.al.|[2602.20773](http://arxiv.org/abs/2602.20773)|**[link](https://github.com/sachugowda/FedGINwithExtension)**|\n",
     "2602.20306": "|**2026-02-23**|**Shape-informed cardiac mechanics surrogates in data-scarce regimes via geometric encoding and generative augmentation**|Davide Carrara et.al.|[2602.20306](http://arxiv.org/abs/2602.20306)|null|\n",
     "2602.20289": "|**2026-02-23**|**The Sim-to-Real Gap in MRS Quantification: A Systematic Deep Learning Validation for GABA**|Zien Ma et.al.|[2602.20289](http://arxiv.org/abs/2602.20289)|null|\n",
     "2602.22765": "|**2026-02-26**|**Towards Better RL Training Data Utilization via Second-Order Rollout**|Zhe Yang et.al.|[2602.22765](http://arxiv.org/abs/2602.22765)|null|\n",
