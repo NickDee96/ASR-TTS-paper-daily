@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.03.03**
+📅 **Updated on 2026.03.04**
 
 ---
 
@@ -634,7 +634,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|
 |**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
 |**2026-01-19**|**Synthesizing the Virtual Advocate: A Multi-Persona Speech Generation Framework for Diverse Linguistic Jurisdictions in Indic Languages**|Aniket Deroy et.al.|[2602.11172](http://arxiv.org/abs/2602.11172)|null|
-|**2026-02-11**|**Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity**|Hugo L. Hammer et.al.|[2602.10735](http://arxiv.org/abs/2602.10735)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-02-11**|**Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity**|Hugo L. Hammer et.al.|[2602.10735](http://arxiv.org/abs/2602.10735)|null|
 |**2026-02-10**|**Emotion-Coherent Speech Data Augmentation and Self-Supervised Contrastive Style Training for Enhancing Kids's Story Speech Synthesis**|Raymond Chung et.al.|[2602.10164](http://arxiv.org/abs/2602.10164)|null|
 |**2026-02-10**|**Covo-Audio Technical Report**|Wenfu Wang et.al.|[2602.09823](http://arxiv.org/abs/2602.09823)|null|
 |**2026-02-10**|**TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization**|Waris Quamer et.al.|[2602.09389](http://arxiv.org/abs/2602.09389)|null|
@@ -654,7 +654,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-03**|**CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering**|Siyi Wang et.al.|[2602.03420](http://arxiv.org/abs/2602.03420)|null|
 |**2026-02-03**|**SWE-World: Building Software Engineering Agents in Docker-Free Environments**|Shuang Sun et.al.|[2602.03419](http://arxiv.org/abs/2602.03419)|null|
 |**2026-02-24**|**SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training**|Huatong Song et.al.|[2602.03411](http://arxiv.org/abs/2602.03411)|null|
-|**2026-02-01**|**VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis**|Chengyuan Ma et.al.|[2602.02591](http://arxiv.org/abs/2602.02591)|null|
+|**2026-02-01**|**VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis**|Chengyuan Ma et.al.|[2602.02591](http://arxiv.org/abs/2602.02591)|**[link](https://github.com/CF8339816/prog2_Chall4_UnitTesting_ChrisFrench0259182_260215)**|
 |**2026-02-02**|**LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency**|Jaejun Lee et.al.|[2602.01908](http://arxiv.org/abs/2602.01908)|null|
 |**2026-02-02**|**Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models**|Jinbin Bai et.al.|[2602.01842](http://arxiv.org/abs/2602.01842)|null|
 |**2026-02-03**|**ARTIS: Agentic Risk-Aware Test-Time Scaling via Iterative Simulation**|Xingshan Zeng et.al.|[2602.01709](http://arxiv.org/abs/2602.01709)|null|
@@ -1739,8 +1739,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-02**|**Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models**|Jinlong Li et.al.|[2603.01400](http://arxiv.org/abs/2603.01400)|null|
 |**2026-03-02**|**Quasar: Quantized Self-Speculative Acceleration for Rapid Inference via Memory-Efficient Verification**|Guang Huang et.al.|[2603.01399](http://arxiv.org/abs/2603.01399)|null|
 |**2026-03-02**|**3BASiL: An Algorithmic Framework for Sparse plus Low-Rank Compression of LLMs**|Mehdi Makni et.al.|[2603.01376](http://arxiv.org/abs/2603.01376)|null|
-|**2026-03-02**|**MixerCSeg: An Efficient Mixer Architecture for Crack Segmentation via Decoupled Mamba Attention**|Zilong Zhao et.al.|[2603.01361](http://arxiv.org/abs/2603.01361)|null|
-|**2026-03-01**|**AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models**|Changwoo Baek et.al.|[2603.01236](http://arxiv.org/abs/2603.01236)|null|
+|**2026-03-02**|**MixerCSeg: An Efficient Mixer Architecture for Crack Segmentation via Decoupled Mamba Attention**|Zilong Zhao et.al.|[2603.01361](http://arxiv.org/abs/2603.01361)|**[link](https://github.com/spiderforest/MixerCSeg)**|
+|**2026-03-01**|**AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models**|Changwoo Baek et.al.|[2603.01236](http://arxiv.org/abs/2603.01236)|**[link](https://github.com/cvsp-lab/AgilePruner)**|
 |**2026-03-01**|**VP-Hype: A Hybrid Mamba-Transformer Framework with Visual-Textual Prompting for Hyperspectral Image Classification**|Abdellah Zakaria Sellam et.al.|[2603.01174](http://arxiv.org/abs/2603.01174)|null|
 |**2026-03-01**|**GuiDINO: Rethinking Vision Foundation Model in Medical Image Segmentation**|Zhuonan Liang et.al.|[2603.01115](http://arxiv.org/abs/2603.01115)|null|
 |**2026-03-01**|**\textsc{Mobile-VTON}: High-Fidelity On-Device Virtual Try-On**|Zhenchen Wan et.al.|[2603.00947](http://arxiv.org/abs/2603.00947)|null|
@@ -4516,7 +4516,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-18**|**Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI**|Xinyue Gui et.al.|[2602.16157](http://arxiv.org/abs/2602.16157)|null|
 |**2026-02-03**|**IT-OSE: Exploring Optimal Sample Size for Industrial Data Augmentation**|Mingchun Sun et.al.|[2602.15878](http://arxiv.org/abs/2602.15878)|null|
 |**2026-02-17**|**RaCo: Ranking and Covariance for Practical Learned Keypoints**|Abhiram Shenoi et.al.|[2602.15755](http://arxiv.org/abs/2602.15755)|null|
-|**2026-02-22**|**Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields**|Tianyu Xiong et.al.|[2602.15155](http://arxiv.org/abs/2602.15155)|null|
+|**2026-02-22**|**Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields**|Tianyu Xiong et.al.|[2602.15155](http://arxiv.org/abs/2602.15155)|**[link](https://github.com/xtyinzz/DRR-INR)**|
 |**2026-02-16**|**Hidden Markov Individual-level Models of Infectious Disease Transmission**|Dirk Douwes-Schultz et.al.|[2602.15007](http://arxiv.org/abs/2602.15007)|null|
 |**2026-02-16**|**Data Augmentation for Pathological Speech Enhancement**|Mingchi Hou et.al.|[2602.14671](http://arxiv.org/abs/2602.14671)|null|
 |**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|null|
