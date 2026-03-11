@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.03.10**
+📅 **Updated on 2026.03.11**
 
 ## 🌟 About This Repository
 
@@ -1168,7 +1168,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-08**|**Lost in Translation? A Comparative Study on the Cross-Lingual Transfer of Composite Harms**|Vaibhav Shukla et.al.|[2602.07963](http://arxiv.org/abs/2602.07963)|null|
 |**2026-01-31**|**Vectra: A New Metric, Dataset, and Model for Visual Quality Assessment in E-Commerce In-Image Machine Translation**|Qingyu Wu et.al.|[2602.07014](http://arxiv.org/abs/2602.07014)|null|
 |**2026-02-06**|**MTQE.en-he: Machine Translation Quality Estimation for English-Hebrew**|Andy Rosenbaum et.al.|[2602.06546](http://arxiv.org/abs/2602.06546)|null|
-|**2026-02-05**|**Self-Improving Multilingual Long Reasoning via Translation-Reasoning Integrated Training**|Junxiao Liu et.al.|[2602.05940](http://arxiv.org/abs/2602.05940)|**[link](https://github.com/mribrahimlasi-ship-it/Self-Improving-Multilingual-Long-Reasoning-via-Translation-Reasoning-Integrated-Training)**|
+|**2026-02-05**|**Self-Improving Multilingual Long Reasoning via Translation-Reasoning Integrated Training**|Junxiao Liu et.al.|[2602.05940](http://arxiv.org/abs/2602.05940)|null|
 |**2026-02-05**|**Polyglots or Multitudes? Multilingual LLM Answers to Value-laden Multiple-Choice Questions**|Léo Labat et.al.|[2602.05932](http://arxiv.org/abs/2602.05932)|null|
 |**2026-02-05**|**Consensus-Aligned Neuron Efficient Fine-Tuning Large Language Models for Multi-Domain Machine Translation**|Shuting Jiang et.al.|[2602.05694](http://arxiv.org/abs/2602.05694)|null|
 |**2026-02-05**|**BhashaSetu: Cross-Lingual Knowledge Transfer from High-Resource to Extreme Low-Resource Languages**|Subhadip Maji et.al.|[2602.05599](http://arxiv.org/abs/2602.05599)|null|
@@ -4690,7 +4690,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-18**|**Peeking Ahead of the Field Study: Exploring VLM Personas as Support Tools for Embodied Studies in HCI**|Xinyue Gui et.al.|[2602.16157](http://arxiv.org/abs/2602.16157)|null|
 |**2026-02-03**|**IT-OSE: Exploring Optimal Sample Size for Industrial Data Augmentation**|Mingchun Sun et.al.|[2602.15878](http://arxiv.org/abs/2602.15878)|null|
 |**2026-02-17**|**RaCo: Ranking and Covariance for Practical Learned Keypoints**|Abhiram Shenoi et.al.|[2602.15755](http://arxiv.org/abs/2602.15755)|null|
-|**2026-02-22**|**Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields**|Tianyu Xiong et.al.|[2602.15155](http://arxiv.org/abs/2602.15155)|**[link](https://github.com/xtyinzz/DRR-INR)**|
+|**2026-02-22**|**Refine Now, Query Fast: A Decoupled Refinement Paradigm for Implicit Neural Fields**|Tianyu Xiong et.al.|[2602.15155](http://arxiv.org/abs/2602.15155)|null|
 |**2026-02-16**|**Hidden Markov Individual-level Models of Infectious Disease Transmission**|Dirk Douwes-Schultz et.al.|[2602.15007](http://arxiv.org/abs/2602.15007)|null|
 |**2026-02-16**|**Data Augmentation for Pathological Speech Enhancement**|Mingchi Hou et.al.|[2602.14671](http://arxiv.org/abs/2602.14671)|null|
 |**2026-02-16**|**Breaking Data Efficiency Dilemma: A Federated and Augmented Learning Framework For Alzheimer's Disease Detection via Speech**|Xiao Wei et.al.|[2602.14655](http://arxiv.org/abs/2602.14655)|null|
@@ -5560,7 +5560,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-05**|**Building Enterprise Realtime Voice Agents from Scratch: A Technical Tutorial**|Jielin Qiu et.al.|[2603.05413](http://arxiv.org/abs/2603.05413)|null|
 |**2026-03-05**|**Harnessing Synthetic Data from Generative AI for Statistical Inference**|Ahmad Abdel-Azim et.al.|[2603.05396](http://arxiv.org/abs/2603.05396)|null|
 |**2026-03-05**|**WavSLM: Single-Stream Speech Language Modeling via WavLM Distillation**|Luca Della Libera et.al.|[2603.05299](http://arxiv.org/abs/2603.05299)|null|
-|**2026-03-05**|**How far have we gone in Generative Image Restoration? A study on its capability, limitations and evaluation practices**|Xiang Yin et.al.|[2603.05010](http://arxiv.org/abs/2603.05010)|null|
+|**2026-03-05**|**How far have we gone in Generative Image Restoration? A study on its capability, limitations and evaluation practices**|Xiang Yin et.al.|[2603.05010](http://arxiv.org/abs/2603.05010)|**[link](https://github.com/yxyuanxiao/how-far-have-we-gone)**|
 |**2026-03-05**|**HiFlow: Hierarchical Feedback-Driven Optimization for Constrained Long-Form Text Generation**|Yifan Zhu et.al.|[2603.04996](http://arxiv.org/abs/2603.04996)|null|
 |**2026-03-05**|**Free Lunch for Pass@ $k$ ? Low Cost Diverse Sampling for Diffusion Language Models**|Sean Lamont et.al.|[2603.04893](http://arxiv.org/abs/2603.04893)|null|
 |**2026-03-04**|**Semi-Supervised Generative Learning via Latent Space Distribution Matching**|Kwong Yu Chong et.al.|[2603.04223](http://arxiv.org/abs/2603.04223)|null|
