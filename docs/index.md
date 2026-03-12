@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.03.11**
+📅 **Updated on 2026.03.12**
 
 ## 🌟 About This Repository
 
@@ -1176,7 +1176,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-02-10**|**From FusHa to Folk: Exploring Cross-Lingual Transfer in Arabic Language Models**|Abdulmuizz Khalak et.al.|[2602.09826](http://arxiv.org/abs/2602.09826)|null|
 |**2026-02-10**|**Life Cycle-Aware Evaluation of Knowledge Distillation for Machine Translation: Environmental Impact and Translation Quality Trade-offs**|Joseph Attieh et.al.|[2602.09691](http://arxiv.org/abs/2602.09691)|null|
 |**2026-02-10**|**LEMUR: A Corpus for Robust Fine-Tuning of Multilingual Law Embedding Models for Retrieval**|Narges Baba Ahmadi et.al.|[2602.09570](http://arxiv.org/abs/2602.09570)|null|
-|**2026-02-10**|**AfriNLLB: Efficient Translation Models for African Languages**|Yasmin Moslem et.al.|[2602.09373](http://arxiv.org/abs/2602.09373)|null|
+|**2026-02-10**|**AfriNLLB: Efficient Translation Models for African Languages**|Yasmin Moslem et.al.|[2602.09373](http://arxiv.org/abs/2602.09373)|**[link](https://github.com/AfriNLP/AfriNLLB)**|
 |**2026-02-10**|**Unsupervised Cross-Lingual Part-of-Speech Tagging with Monolingual Corpora Only**|Jianyu Zheng et.al.|[2602.09366](http://arxiv.org/abs/2602.09366)|null|
 |**2026-02-10**|**Positive-Unlabelled Active Learning to Curate a Dataset for Orca Resident Interpretation**|Bret Nestor et.al.|[2602.09295](http://arxiv.org/abs/2602.09295)|null|
 |**2026-02-09**|**Generalizing Sports Feedback Generation by Watching Competitions and Reading Books: A Rock Climbing Case Study**|Arushi Rai et.al.|[2602.08996](http://arxiv.org/abs/2602.08996)|null|
