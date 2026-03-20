@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.03.19**
+📅 **Updated on 2026.03.20**
 
 ---
 
@@ -51,7 +51,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-03-18**|**LoGSAM: Parameter-Efficient Cross-Modal Grounding for MRI Segmentation**|Mohammad Robaitul Islam Bhuiyan et.al.|[2603.17576](http://arxiv.org/abs/2603.17576)|null|
-|**2026-03-18**|**Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition**|Yuxiang Mei et.al.|[2603.17558](http://arxiv.org/abs/2603.17558)|null|
+|**2026-03-18**|**Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition**|Yuxiang Mei et.al.|[2603.17558](http://arxiv.org/abs/2603.17558)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-03-17**|**Over-the-air White-box Attack on the Wav2Vec Speech Recognition Neural Network**|Protopopov Alexey et.al.|[2603.16972](http://arxiv.org/abs/2603.16972)|null|
 |**2026-03-17**|**Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech**|Omnilingual SONAR Team et.al.|[2603.16606](http://arxiv.org/abs/2603.16606)|null|
 |**2026-03-17**|**RECOVER: Robust Entity Correction via agentic Orchestration of hypothesis Variants for Evidence-based Recovery**|Abhishek Kumar et.al.|[2603.16411](http://arxiv.org/abs/2603.16411)|null|
@@ -103,7 +103,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-05**|**Federated Heterogeneous Language Model Optimization for Hybrid Automatic Speech Recognition**|Mengze Hong et.al.|[2603.04945](http://arxiv.org/abs/2603.04945)|null|
 |**2026-03-05**|**Spectral dynamics reservoir computing for high-speed hardware-efficient neuromorphic processing**|Jiaxuan Chen et.al.|[2603.04901](http://arxiv.org/abs/2603.04901)|null|
 |**2026-02-16**|**Generating Realistic, Protocol-Compliant Maritime Radio Dialogues using Self-Instruct and Low-Rank Adaptation**|Gürsel Akdeniz et.al.|[2603.04423](http://arxiv.org/abs/2603.04423)|null|
-|**2026-03-04**|**FlowW2N: Whispered-to-Normal Speech Conversion via Flow-Matching**|Fabian Ritter-Gutierrez et.al.|[2603.04296](http://arxiv.org/abs/2603.04296)|null|
+|**2026-03-04**|**FlowW2N: Whispered-to-Normal Speech Conversion via Flow-Matching**|Fabian Ritter-Gutierrez et.al.|[2603.04296](http://arxiv.org/abs/2603.04296)|**[link](https://github.com/ayutaz/FlowW2N)**|
 |**2026-03-04**|**Robust LLM-based Audio-Visual Speech Recognition with Sparse Modality Alignment and Visual Unit-Guided Refinement**|Fei Su et.al.|[2603.03811](http://arxiv.org/abs/2603.03811)|null|
 |**2026-03-05**|**The PARLO Dementia Corpus: A German Multi-Center Resource for Alzheimer's Disease**|Franziska Braun et.al.|[2603.03471](http://arxiv.org/abs/2603.03471)|null|
 |**2026-03-07**|**ACES: Accent Subspaces for Coupling, Explanations, and Stress-Testing in Automatic Speech Recognition**|Swapnil Parekh et.al.|[2603.03359](http://arxiv.org/abs/2603.03359)|null|
@@ -4977,7 +4977,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2026-03-18**|**Towards Motion-aware Referring Image Segmentation**|Chaeyun Kim et.al.|[2603.17413](http://arxiv.org/abs/2603.17413)|null|
+|**2026-03-18**|**Towards Motion-aware Referring Image Segmentation**|Chaeyun Kim et.al.|[2603.17413](http://arxiv.org/abs/2603.17413)|**[link](https://github.com/golddohyun/MRaCL)**|
 |**2026-03-17**|**Machine intelligence supports the full chain of 2D dendrite synthesis**|Wenqiang Huang et.al.|[2603.16959](http://arxiv.org/abs/2603.16959)|null|
 |**2026-03-17**|**Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization**|Taiqin Chen et.al.|[2603.16662](http://arxiv.org/abs/2603.16662)|null|
 |**2026-03-17**|**Dexterous grasp data augmentation based on grasp synthesis with fingertip workspace cloud and contact-aware sampling**|Liqi Wu et.al.|[2603.16609](http://arxiv.org/abs/2603.16609)|null|
@@ -5945,9 +5945,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-18**|**Neuron-Level Emotion Control in Speech-Generative Large Audio-Language Models**|Xiutian Zhao et.al.|[2603.17231](http://arxiv.org/abs/2603.17231)|null|
 |**2026-03-17**|**Early Quantization Shrinks Codebook: A Simple Fix for Diversity-Preserving Tokenization**|Wenhao Zhao et.al.|[2603.17052](http://arxiv.org/abs/2603.17052)|null|
 |**2026-03-17**|**SCE-LITE-HQ: Smooth visual counterfactual explanations with generative foundation models**|Ahmed Zeid et.al.|[2603.17048](http://arxiv.org/abs/2603.17048)|null|
-|**2026-03-17**|**Dependence Fidelity and Downstream Inference Stability in Generative Models**|Nazia Riasat et.al.|[2603.17041](http://arxiv.org/abs/2603.17041)|null|
+|**2026-03-17**|**Dependence Fidelity and Downstream Inference Stability in Generative Models**|Nazia Riasat et.al.|[2603.17041](http://arxiv.org/abs/2603.17041)|**[link](https://github.com/NaziaRiasat/dependence-fidelity)**|
 |**2026-03-17**|**HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning**|Shenzhi Wang et.al.|[2603.17024](http://arxiv.org/abs/2603.17024)|null|
-|**2026-03-17**|**SegviGen: Repurposing 3D Generative Model for Part Segmentation**|Lin Li et.al.|[2603.16869](http://arxiv.org/abs/2603.16869)|null|
+|**2026-03-17**|**SegviGen: Repurposing 3D Generative Model for Part Segmentation**|Lin Li et.al.|[2603.16869](http://arxiv.org/abs/2603.16869)|**[link](https://github.com/Nelipot-Lee/SegviGen)**|
 |**2026-03-17**|**A Semantic Timbre Dataset for the Electric Guitar**|Joseph Cameron et.al.|[2603.16682](http://arxiv.org/abs/2603.16682)|null|
 |**2026-03-17**|**VideoMatGen: PBR Materials through Joint Generative Modeling**|Jon Hasselgren et.al.|[2603.16566](http://arxiv.org/abs/2603.16566)|null|
 |**2026-03-17**|**Unlearning for One-Step Generative Models via Unbalanced Optimal Transport**|Hyundo Choi et.al.|[2603.16489](http://arxiv.org/abs/2603.16489)|null|
@@ -5959,7 +5959,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-16**|**AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer**|Pengjun Fang et.al.|[2603.15597](http://arxiv.org/abs/2603.15597)|null|
 |**2026-03-16**|**Clinically Aware Synthetic Image Generation for Concept Coverage in Chest X-ray Models**|Amy Rafferty et.al.|[2603.15525](http://arxiv.org/abs/2603.15525)|null|
 |**2026-03-18**|**NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation**|Qinke Ni et.al.|[2603.15352](http://arxiv.org/abs/2603.15352)|null|
-|**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|**[link](https://github.com/Araachie/loom-cfm)**|
+|**2026-03-16**|**Faster Inference of Flow-Based Generative Models via Improved Data-Noise Coupling**|Aram Davtyan et.al.|[2603.15279](http://arxiv.org/abs/2603.15279)|null|
 |**2026-03-16**|**Modeling Matches as Language: A Generative Transformer Approach for Counterfactual Player Valuation in Football**|Miru Hong et.al.|[2603.15212](http://arxiv.org/abs/2603.15212)|null|
 |**2026-03-16**|**PhonemeDF: A Synthetic Speech Dataset for Audio Deepfake Detection and Naturalness Evaluation**|Vamshi Nallaguntla et.al.|[2603.15037](http://arxiv.org/abs/2603.15037)|null|
 |**2026-03-18**|**Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods**|Omer Ben Hayun et.al.|[2603.15026](http://arxiv.org/abs/2603.15026)|null|
