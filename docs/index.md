@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.03.23**
+📅 **Updated on 2026.03.24**
 
 ## 🌟 About This Repository
 
@@ -1869,10 +1869,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-19**|**A Pipelined Collaborative Speculative Decoding Framework for Efficient Edge-Cloud LLM Inference**|Yida Zhang et.al.|[2603.19133](http://arxiv.org/abs/2603.19133)|null|
 |**2026-03-19**|**LuMamba: Latent Unified Mamba for Electrode Topology-Invariant and Efficient EEG Modeling**|Danaé Broustail et.al.|[2603.19100](http://arxiv.org/abs/2603.19100)|null|
 |**2026-03-19**|**Towards Verifiable AI with Lightweight Cryptographic Proofs of Inference**|Pranay Anchuri et.al.|[2603.19025](http://arxiv.org/abs/2603.19025)|null|
-|**2026-03-19**|**End-to-End Simulation of Chemical Dynamics on a Quantum Computer**|Elliot C. Eklund et.al.|[2603.19007](http://arxiv.org/abs/2603.19007)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-03-19**|**End-to-End Simulation of Chemical Dynamics on a Quantum Computer**|Elliot C. Eklund et.al.|[2603.19007](http://arxiv.org/abs/2603.19007)|null|
 |**2026-03-19**|**Functional Subspace Watermarking for Large Language Models**|Zikang Ding et.al.|[2603.18793](http://arxiv.org/abs/2603.18793)|null|
 |**2026-03-19**|**6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models**|Rundong Su et.al.|[2603.18742](http://arxiv.org/abs/2603.18742)|null|
-|**2026-03-19**|**EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation**|Longfei Liu et.al.|[2603.18739](http://arxiv.org/abs/2603.18739)|**[link](https://github.com/Intellindust-AI-Lab/EdgeCrafter)**|
+|**2026-03-19**|**EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation**|Longfei Liu et.al.|[2603.18739](http://arxiv.org/abs/2603.18739)|null|
 |**2026-03-19**|**Multimodal Model for Computational Pathology:Representation Learning and Image Compression**|Peihang Wu et.al.|[2603.18660](http://arxiv.org/abs/2603.18660)|null|
 |**2026-03-19**|**AIMER: Calibration-Free Task-Agnostic MoE Pruning**|Zongfang Liu et.al.|[2603.18492](http://arxiv.org/abs/2603.18492)|null|
 |**2026-03-19**|**Prune-then-Quantize or Quantize-then-Prune? Understanding the Impact of Compression Order in Joint Model Compression**|Minjun Kim et.al.|[2603.18426](http://arxiv.org/abs/2603.18426)|null|
