@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.03.24**
+📅 **Updated on 2026.03.25**
 
 ## 🌟 About This Repository
 
@@ -1903,7 +1903,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-20**|**AE-LLM: Adaptive Efficiency Optimization for Large Language Models**|Kaito Tanaka et.al.|[2603.20492](http://arxiv.org/abs/2603.20492)|null|
 |**2026-03-20**|**Developing an ESG-Oriented Large Language Model through ESG Practices**|Gabriel Assis et.al.|[2603.20480](http://arxiv.org/abs/2603.20480)|null|
 |**2026-03-20**|**Diffutron: A Masked Diffusion Language Model for Turkish Language**|Şuayp Talha Kocabay et.al.|[2603.20466](http://arxiv.org/abs/2603.20466)|null|
-|**2026-03-20**|**Accurate and efficient simulation-based inference for massive black-hole binaries with LISA**|Alice Spadaro et.al.|[2603.20431](http://arxiv.org/abs/2603.20431)|null|
+|**2026-03-20**|**Accurate and efficient simulation-based inference for massive black-hole binaries with LISA**|Alice Spadaro et.al.|[2603.20431](http://arxiv.org/abs/2603.20431)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-03-20**|**TinyML Enhances CubeSat Mission Capabilities**|Luigi Capogrosso et.al.|[2603.20174](http://arxiv.org/abs/2603.20174)|null|
 |**2026-03-20**|**An Empirical Study of SFT-DPO Interaction and Parameterization in Small Language Models**|Yuming Feng et.al.|[2603.20100](http://arxiv.org/abs/2603.20100)|null|
 |**2026-03-20**|**TAPAS: Efficient Two-Server Asymmetric Private Aggregation Beyond Prio(+)**|Harish Karthikeyan et.al.|[2603.19949](http://arxiv.org/abs/2603.19949)|null|
@@ -5020,7 +5020,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-23**|**SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection**|Kexian Tang et.al.|[2603.22213](http://arxiv.org/abs/2603.22213)|null|
+|**2026-03-23**|**SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection**|Kexian Tang et.al.|[2603.22213](http://arxiv.org/abs/2603.22213)|**[link](https://github.com/Tangkexian/SPA)**|
 |**2026-03-23**|**Data Curation for Machine Learning Interatomic Potentials by Determinantal Point Processes**|Joanna Zou et.al.|[2603.22160](http://arxiv.org/abs/2603.22160)|null|
 |**2026-03-23**|**ROM: Real-time Overthinking Mitigation via Streaming Detection and Intervention**|Xinyan Wang et.al.|[2603.22016](http://arxiv.org/abs/2603.22016)|null|
 |**2026-03-23**|**Ctrl-A: Control-Driven Online Data Augmentation**|Jesper B. Christensen et.al.|[2603.21819](http://arxiv.org/abs/2603.21819)|null|
@@ -5088,7 +5088,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-08**|**Nwāchā Munā: A Devanagari Speech Corpus and Proximal Transfer Benchmark for Nepal Bhasha ASR**|Rishikesh Kumar Sharma et.al.|[2603.07554](http://arxiv.org/abs/2603.07554)|null|
 |**2026-03-08**|**An efficient method of posterior sampling for Poisson INGARCH models**|Yixuan Fan et.al.|[2603.07527](http://arxiv.org/abs/2603.07527)|null|
 |**2026-03-08**|**InterReal: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills**|Dayang Liang et.al.|[2603.07516](http://arxiv.org/abs/2603.07516)|null|
-|**2026-03-07**|**Neural Control and Learning of Simulated Hand Movements With an EMG-Based Closed-Loop Interface**|Balint K. Hodossy et.al.|[2603.07364](http://arxiv.org/abs/2603.07364)|**[link](https://github.com/Balint-H/closed-loop-neuromech)**|
+|**2026-03-07**|**Neural Control and Learning of Simulated Hand Movements With an EMG-Based Closed-Loop Interface**|Balint K. Hodossy et.al.|[2603.07364](http://arxiv.org/abs/2603.07364)|null|
 |**2026-03-07**|**MedSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering**|Trong-Thang Pham et.al.|[2603.07066](http://arxiv.org/abs/2603.07066)|null|
 |**2026-03-07**|**OV-DEIM: Real-time DETR-Style Open-Vocabulary Object Detection with GridSynthetic Augmentation**|Leilei Wang et.al.|[2603.07022](http://arxiv.org/abs/2603.07022)|null|
 |**2026-03-06**|**Learning From Design Procedure To Generate CAD Programs for Data Augmentation**|Yan-Ying Chen et.al.|[2603.06894](http://arxiv.org/abs/2603.06894)|null|
@@ -5989,7 +5989,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-03-23**|**GenOpticalFlow: A Generative Approach to Unsupervised Optical Flow Learning**|Yixuan Luo et.al.|[2603.22270](http://arxiv.org/abs/2603.22270)|null|
-|**2026-03-23**|**Gumbel Distillation for Parallel Text Generation**|Chi Zhang et.al.|[2603.22216](http://arxiv.org/abs/2603.22216)|**[link](https://github.com/hxixixh/gumbel-distill)**|
+|**2026-03-23**|**Gumbel Distillation for Parallel Text Generation**|Chi Zhang et.al.|[2603.22216](http://arxiv.org/abs/2603.22216)|null|
 |**2026-03-23**|**Dual-Space Knowledge Distillation with Key-Query Matching for Large Language Models with Vocabulary Mismatch**|Stella Eva Tsiapali et.al.|[2603.22056](http://arxiv.org/abs/2603.22056)|null|
 |**2026-03-23**|**DiT-Flow: Speech Enhancement Robust to Multiple Distortions based on Flow Matching in Latent Space and Diffusion Transformers**|Tianyu Cao et.al.|[2603.21608](http://arxiv.org/abs/2603.21608)|null|
 |**2026-03-23**|**SynSym: A Synthetic Data Generation Framework for Psychiatric Symptom Identification**|Migyeong Kang et.al.|[2603.21529](http://arxiv.org/abs/2603.21529)|null|
