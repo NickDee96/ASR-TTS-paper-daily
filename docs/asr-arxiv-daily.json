@@ -605,7 +605,7 @@
     "2603.16258": "|**2026-03-17**|**Is Semi-Automatic Transcription Useful in Corpus Creation? Preliminary Considerations on the KIParla Corpus**|Martina Simonotti et.al.|[2603.16258](http://arxiv.org/abs/2603.16258)|null|\n",
     "2603.16184": "|**2026-03-17**|**Polyglot-Lion: Efficient Multilingual ASR for Singapore via Balanced Fine-Tuning of Qwen3-ASR**|Quy-Anh Dang et.al.|[2603.16184](http://arxiv.org/abs/2603.16184)|null|\n",
     "2603.15807": "|**2026-03-16**|**Lost in Transcription: Subtitle Errors in Automatic Speech Recognition Reduce Speaker and Content Evaluations**|Kowe Kadoma et.al.|[2603.15807](http://arxiv.org/abs/2603.15807)|null|\n",
-    "2603.17576": "|**2026-03-18**|**LoGSAM: Parameter-Efficient Cross-Modal Grounding for MRI Segmentation**|Mohammad Robaitul Islam Bhuiyan et.al.|[2603.17576](http://arxiv.org/abs/2603.17576)|null|\n",
+    "2603.17576": "|**2026-03-27**|**LoGSAM: Parameter-Efficient Cross-Modal Grounding for MRI Segmentation**|Mohammad Robaitul Islam Bhuiyan et.al.|[2603.17576](http://arxiv.org/abs/2603.17576)|null|\n",
     "2603.17558": "|**2026-03-19**|**Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition**|Yuxiang Mei et.al.|[2603.17558](http://arxiv.org/abs/2603.17558)|null|\n",
     "2603.16972": "|**2026-03-17**|**Over-the-air White-box Attack on the Wav2Vec Speech Recognition Neural Network**|Protopopov Alexey et.al.|[2603.16972](http://arxiv.org/abs/2603.16972)|null|\n",
     "2603.18239": "|**2026-03-18**|**Impact of automatic speech recognition quality on Alzheimer's disease detection from spontaneous speech: a reproducible benchmark study with lexical modeling and statistical validation**|Himadri Samanta et.al.|[2603.18239](http://arxiv.org/abs/2603.18239)|null|\n",
@@ -627,7 +627,11 @@
     "2603.23513": "|**2026-03-05**|**Berta: an open-source, modular tool for AI-enabled clinical documentation**|Samridhi Vaid et.al.|[2603.23513](http://arxiv.org/abs/2603.23513)|null|\n",
     "2603.25727": "|**2026-03-26**|**Back to Basics: Revisiting ASR in the Age of Voice Agents**|Geeyang Tay et.al.|[2603.25727](http://arxiv.org/abs/2603.25727)|null|\n",
     "2603.25460": "|**2026-03-26**|**CLAR: CIF-Localized Alignment for Retrieval-Augmented Speech LLM-Based Contextual ASR**|Shangkun Huang et.al.|[2603.25460](http://arxiv.org/abs/2603.25460)|null|\n",
-    "2603.25150": "|**2026-03-26**|**Goodness-of-pronunciation without phoneme time alignment**|Jeremy H. M. Wong et.al.|[2603.25150](http://arxiv.org/abs/2603.25150)|null|\n"
+    "2603.25150": "|**2026-03-26**|**Goodness-of-pronunciation without phoneme time alignment**|Jeremy H. M. Wong et.al.|[2603.25150](http://arxiv.org/abs/2603.25150)|null|\n",
+    "2603.26515": "|**2026-03-27**|**JAL-Turn: Joint Acoustic-Linguistic Modeling for Real-Time and Robust Turn-Taking Detection in Full-Duplex Spoken Dialogue Systems**|Guangzhao Yang et.al.|[2603.26515](http://arxiv.org/abs/2603.26515)|null|\n",
+    "2603.26248": "|**2026-03-27**|**Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan**|Chihiro Taguchi et.al.|[2603.26248](http://arxiv.org/abs/2603.26248)|null|\n",
+    "2603.26246": "|**2026-03-27**|**Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR**|Shashi Kumar et.al.|[2603.26246](http://arxiv.org/abs/2603.26246)|null|\n",
+    "2603.25750": "|**2026-03-20**|**Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models**|Kyudan Jung et.al.|[2603.25750](http://arxiv.org/abs/2603.25750)|null|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",

@@ -31,10 +31,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎤 ASR {#asr}
 
-*📊 628 papers*
+*📊 632 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-27**|**JAL-Turn: Joint Acoustic-Linguistic Modeling for Real-Time and Robust Turn-Taking Detection in Full-Duplex Spoken Dialogue Systems**|Guangzhao Yang et.al.|[2603.26515](http://arxiv.org/abs/2603.26515)|null|
+|**2026-03-27**|**Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan**|Chihiro Taguchi et.al.|[2603.26248](http://arxiv.org/abs/2603.26248)|null|
+|**2026-03-27**|**Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR**|Shashi Kumar et.al.|[2603.26246](http://arxiv.org/abs/2603.26246)|null|
+|**2026-03-20**|**Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models**|Kyudan Jung et.al.|[2603.25750](http://arxiv.org/abs/2603.25750)|null|
 |**2026-03-26**|**Back to Basics: Revisiting ASR in the Age of Voice Agents**|Geeyang Tay et.al.|[2603.25727](http://arxiv.org/abs/2603.25727)|null|
 |**2026-03-26**|**CLAR: CIF-Localized Alignment for Retrieval-Augmented Speech LLM-Based Contextual ASR**|Shangkun Huang et.al.|[2603.25460](http://arxiv.org/abs/2603.25460)|null|
 |**2026-03-26**|**Goodness-of-pronunciation without phoneme time alignment**|Jeremy H. M. Wong et.al.|[2603.25150](http://arxiv.org/abs/2603.25150)|null|
@@ -55,7 +59,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-20**|**Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech**|Niclas Pokel et.al.|[2603.20112](http://arxiv.org/abs/2603.20112)|null|
 |**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
 |**2026-03-18**|**Impact of automatic speech recognition quality on Alzheimer's disease detection from spontaneous speech: a reproducible benchmark study with lexical modeling and statistical validation**|Himadri Samanta et.al.|[2603.18239](http://arxiv.org/abs/2603.18239)|null|
-|**2026-03-18**|**LoGSAM: Parameter-Efficient Cross-Modal Grounding for MRI Segmentation**|Mohammad Robaitul Islam Bhuiyan et.al.|[2603.17576](http://arxiv.org/abs/2603.17576)|null|
+|**2026-03-27**|**LoGSAM: Parameter-Efficient Cross-Modal Grounding for MRI Segmentation**|Mohammad Robaitul Islam Bhuiyan et.al.|[2603.17576](http://arxiv.org/abs/2603.17576)|null|
 |**2026-03-19**|**Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition**|Yuxiang Mei et.al.|[2603.17558](http://arxiv.org/abs/2603.17558)|null|
 |**2026-03-17**|**Over-the-air White-box Attack on the Wav2Vec Speech Recognition Neural Network**|Protopopov Alexey et.al.|[2603.16972](http://arxiv.org/abs/2603.16972)|null|
 |**2026-03-18**|**Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech**|Omnilingual SONAR Team et.al.|[2603.16606](http://arxiv.org/abs/2603.16606)|null|
