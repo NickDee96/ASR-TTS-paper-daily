@@ -50,7 +50,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-30**|**EBuddy: a workflow orchestrator for industrial human-machine collaboration**|Michele Banfi et.al.|[2603.28579](http://arxiv.org/abs/2603.28579)|null|
 |**2026-03-30**|**Users and Wizards in Conversations: How WoZ Interface Choices Define Human-Robot Interactions**|Ekaterina Torubarova et.al.|[2603.28338](http://arxiv.org/abs/2603.28338)|null|
 |**2026-03-30**|**Voice-Controlled Scratch for Children with (Motor) Disabilities**|Elias Goller et.al.|[2603.28246](http://arxiv.org/abs/2603.28246)|null|
-|**2026-03-30**|**On the Role of Encoder Depth: Pruning Whisper and LoRA Fine-Tuning in SLAM-ASR**|Ganesh Pavan Kartikeya Bharadwaj Kolluri et.al.|[2603.27981](http://arxiv.org/abs/2603.27981)|null|
+|**2026-03-30**|**On the Role of Encoder Depth: Pruning Whisper and LoRA Fine-Tuning in SLAM-ASR**|Ganesh Pavan Kartikeya Bharadwaj Kolluri et.al.|[2603.27981](http://arxiv.org/abs/2603.27981)|**[link](https://github.com/KarthikKolluriKB/SLAM-ASR-Encoder-Pruning-LoRA)**|
 |**2026-03-29**|**Investigation on the Robustness of Acoustic Foundation Models on Post Exercise Speech**|Xiangyuan Xue et.al.|[2603.27508](http://arxiv.org/abs/2603.27508)|null|
 |**2026-03-28**|**Two-Stage Acoustic Adaptation with Gated Cross-Attention Adapters for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-03-27**|**JAL-Turn: Joint Acoustic-Linguistic Modeling for Real-Time and Robust Turn-Taking Detection in Full-Duplex Spoken Dialogue Systems**|Guangzhao Yang et.al.|[2603.26515](http://arxiv.org/abs/2603.26515)|null|
@@ -93,7 +93,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-16**|**Vietnamese Automatic Speech Recognition: A Revisit**|Thi Vu et.al.|[2603.14779](http://arxiv.org/abs/2603.14779)|null|
 |**2026-03-04**|**BrainWhisperer: Leveraging Large-Scale ASR Models for Neural Speech Decoding**|Tommaso Boccato et.al.|[2603.13321](http://arxiv.org/abs/2603.13321)|null|
 |**2026-03-12**|**TASTE-Streaming: Towards Streamable Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2603.12350](http://arxiv.org/abs/2603.12350)|null|
-|**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](http://arxiv.org/abs/2603.12046)|**[link](https://github.com/umbertocappellazzo/Dr-SHAP-AV)**|
+|**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](http://arxiv.org/abs/2603.12046)|null|
 |**2026-03-11**|**Continued Pretraining for Low-Resource Swahili ASR: Achieving State-of-the-Art Performance with Minimal Labeled Data**|Hillary Mutisya et.al.|[2603.11378](http://arxiv.org/abs/2603.11378)|null|
 |**2026-03-11**|**Duration Aware Scheduling for ASR Serving Under Workload Drift**|Darshan Makwana et.al.|[2603.11273](http://arxiv.org/abs/2603.11273)|null|
 |**2026-03-11**|**Self-Speculative Decoding for LLM-based ASR with CTC Encoder Drafts**|George Saon et.al.|[2603.11243](http://arxiv.org/abs/2603.11243)|null|
@@ -699,8 +699,8 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[2604.00292](http://arxiv.org/abs/2604.00292)|null|
 |**2026-03-24**|**Fast elementwise operations on tensor trains with alternating cross interpolation**|Marc K. Ritter et.al.|[2604.00037](http://arxiv.org/abs/2604.00037)|null|
 |**2026-03-31**|**LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space**|Detai Xin et.al.|[2603.29339](http://arxiv.org/abs/2603.29339)|null|
-|**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|**[link](https://github.com/jessyjinzy/MM-Dia)**|
-|**2026-03-30**|**ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining**|Anuj Diwan et.al.|[2603.28737](http://arxiv.org/abs/2603.28737)|**[link](https://github.com/ajd12342/paraspeechclap)**|
+|**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
+|**2026-03-30**|**ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining**|Anuj Diwan et.al.|[2603.28737](http://arxiv.org/abs/2603.28737)|null|
 |**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
 |**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
 |**2026-03-26**|**Voxtral TTS**|Alexander H. Liu et.al.|[2603.25551](http://arxiv.org/abs/2603.25551)|null|
@@ -1235,7 +1235,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-29**|**Budget-Xfer: Budget-Constrained Source Language Selection for Cross-Lingual Transfer to African Languages**|Tewodros Kederalah Idris et.al.|[2603.27651](http://arxiv.org/abs/2603.27651)|null|
 |**2026-03-28**|**EuraGovExam: A Multilingual Multimodal Benchmark from Real-World Civil Service Exams**|JaeSeong Kim et.al.|[2603.27223](http://arxiv.org/abs/2603.27223)|null|
 |**2026-03-23**|**Do Multilingual VLMs Reason Equally? A Cross-Lingual Visual Reasoning Audit for Indian Languages**|Swastik R et.al.|[2603.26742](http://arxiv.org/abs/2603.26742)|null|
-|**2026-03-27**|**Toward Culturally Grounded Natural Language Processing**|Sina Bagheri Nezhad et.al.|[2603.26013](http://arxiv.org/abs/2603.26013)|null|
+|**2026-03-27**|**Toward Culturally Grounded Natural Language Processing**|Sina Bagheri Nezhad et.al.|[2603.26013](http://arxiv.org/abs/2603.26013)|**[link](https://github.com/Aryia-Behroziuan/References)**|
 |**2026-03-26**|**Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties**|Jannis Vamvas et.al.|[2603.25489](http://arxiv.org/abs/2603.25489)|null|
 |**2026-03-26**|**Translation or Recitation? Calibrating Evaluation Scores for Machine Translation of Extremely Low-Resource Languages**|Danlu Chen et.al.|[2603.25222](http://arxiv.org/abs/2603.25222)|null|
 |**2026-03-26**|**Cross-Preference Learning for Sentence-Level and Context-Aware Machine Translation**|Ying Li et.al.|[2603.25183](http://arxiv.org/abs/2603.25183)|null|
@@ -5307,9 +5307,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-02**|**Center-Aware Detection with Swin-based Co-DETR Framework for Cervical Cytology**|Yan Kong et.al.|[2604.02090](http://arxiv.org/abs/2604.02090)|null|
 |**2026-04-01**|**Improving Latent Generalization Using Test-time Compute**|Arslan Chaudhry et.al.|[2604.01430](http://arxiv.org/abs/2604.01430)|null|
-|**2026-04-01**|**PDA: Text-Augmented Defense Framework for Robust Vision-Language Models against Adversarial Image Attacks**|Jingning Xu et.al.|[2604.01010](http://arxiv.org/abs/2604.01010)|null|
+|**2026-04-01**|**PDA: Text-Augmented Defense Framework for Robust Vision-Language Models against Adversarial Image Attacks**|Jingning Xu et.al.|[2604.01010](http://arxiv.org/abs/2604.01010)|**[link](https://github.com/joliejuke-apps/yotako-010101101-property-2604)**|
 |**2026-04-01**|**Mine-JEPA: In-Domain Self-Supervised Learning for Mine-Like Object Classification in Side-Scan Sonar**|Taeyoun Kwon et.al.|[2604.00383](http://arxiv.org/abs/2604.00383)|null|
-|**2026-03-30**|**UltraG-Ray: Physics-Based Gaussian Ray Casting for Novel Ultrasound View Synthesis**|Felix Duelmer et.al.|[2603.29022](http://arxiv.org/abs/2603.29022)|null|
+|**2026-03-30**|**UltraG-Ray: Physics-Based Gaussian Ray Casting for Novel Ultrasound View Synthesis**|Felix Duelmer et.al.|[2603.29022](http://arxiv.org/abs/2603.29022)|**[link](https://github.com/jakobkla/UltraG-Ray)**|
 |**2026-03-30**|**LDDMM stochastic interpolants: an application to domain uncertainty quantification in hemodynamics**|Sarah Katz et.al.|[2603.28324](http://arxiv.org/abs/2603.28324)|null|
 |**2026-03-28**|**GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback**|Giorgio Giannone et.al.|[2603.27448](http://arxiv.org/abs/2603.27448)|null|
 |**2026-03-28**|**Evaluating Large and Lightweight Vision Models for Irregular Component Segmentation in E-Waste Disassembly**|Xinyao Zhang et.al.|[2603.27441](http://arxiv.org/abs/2603.27441)|null|
