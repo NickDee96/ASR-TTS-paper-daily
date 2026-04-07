@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.06**
+📅 **Updated on 2026.04.07**
 
 ## 🌟 About This Repository
 
@@ -1978,7 +1978,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-02**|**Strong nonlinear thermoelectricity generation and close-to-Carnot efficient heat engines in Superconductor-Insulator-2D electron gas junctions**|Leonardo Lucchesi et.al.|[2604.02123](http://arxiv.org/abs/2604.02123)|null|
 |**2026-04-02**|**AA-SVD : Anchored and Adaptive SVD for Large Language Model Compression**|Atul Kumar Sinha et.al.|[2604.02119](http://arxiv.org/abs/2604.02119)|null|
 |**2026-04-02**|**Diff-KD: Diffusion-based Knowledge Distillation for Collaborative Perception under Corruptions**|Pengcheng Lyu et.al.|[2604.02061](http://arxiv.org/abs/2604.02061)|null|
-|**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|null|
+|**2026-04-02**|**Test-Time Adaptation for Height Completion via Self-Supervised ViT Features and Monocular Foundation Models**|Osher Rafaeli et.al.|[2604.02009](http://arxiv.org/abs/2604.02009)|**[link](https://github.com/osherr1996/Prior2DSM)**|
 |**2026-04-02**|**Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning**|Rafael Pardinas et.al.|[2604.02007](http://arxiv.org/abs/2604.02007)|null|
 |**2026-04-02**|**MTLSI-Net: A Linear Semantic Interaction Network for Parameter-Efficient Multi-Task Dense Prediction**|Chen Liu et.al.|[2604.01995](http://arxiv.org/abs/2604.01995)|null|
 |**2026-04-02**|**Do We Need Bigger Models for Science? Task-Aware Retrieval with Small Language Models**|Florian Kelber et.al.|[2604.01965](http://arxiv.org/abs/2604.01965)|null|
