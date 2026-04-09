@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.08**
+📅 **Updated on 2026.04.09**
 
 ## 🌟 About This Repository
 
@@ -1960,9 +1960,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-04-07**|**Late Breaking Results: Hardware-Efficient Quantum Reservoir Computing via Quantized Readout**|Param Pathak et.al.|[2604.06075](http://arxiv.org/abs/2604.06075)|null|
 |**2026-04-07**|**CoStream: Codec-Guided Resource-Efficient System for Video Streaming Analytics**|Yulin Zou et.al.|[2604.06036](http://arxiv.org/abs/2604.06036)|null|
-|**2026-04-07**|**Leveraging Image Editing Foundation Models for Data-Efficient CT Metal Artifact Reduction**|Ahmet Rasim Emirdagi et.al.|[2604.05934](http://arxiv.org/abs/2604.05934)|**[link](https://github.com/ahmetemirdagi/CT-EditMAR)**|
+|**2026-04-07**|**Leveraging Image Editing Foundation Models for Data-Efficient CT Metal Artifact Reduction**|Ahmet Rasim Emirdagi et.al.|[2604.05934](http://arxiv.org/abs/2604.05934)|null|
 |**2026-04-07**|**HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference**|Bowen Zeng et.al.|[2604.05887](http://arxiv.org/abs/2604.05887)|null|
-|**2026-04-07**|**Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models**|Yinan Liu et.al.|[2604.05875](http://arxiv.org/abs/2604.05875)|**[link](https://github.com/ldp2211479/JCQL)**|
+|**2026-04-07**|**Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models**|Yinan Liu et.al.|[2604.05875](http://arxiv.org/abs/2604.05875)|null|
 |**2026-04-07**|**Neural Network Pruning via QUBO Optimization**|Osama Orabi et.al.|[2604.05856](http://arxiv.org/abs/2604.05856)|null|
 |**2026-04-07**|**Vision-Guided Iterative Refinement for Frontend Code Generation**|Hannah Sansford et.al.|[2604.05839](http://arxiv.org/abs/2604.05839)|null|
 |**2026-04-07**|**Constraint-Driven Warm-Freeze for Efficient Transfer Learning in Photovoltaic Systems**|Yasmeen Saeed et.al.|[2604.05807](http://arxiv.org/abs/2604.05807)|null|
@@ -5471,7 +5471,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-26**|**CVA: Context-aware Video-text Alignment for Video Temporal Grounding**|Sungho Moon et.al.|[2603.24934](http://arxiv.org/abs/2603.24934)|null|
 |**2026-03-26**|**Decoding Market Emotions in Cryptocurrency Tweets via Predictive Statement Classification with Machine Learning and Transformers**|Moein Shahiki Tash et.al.|[2603.24933](http://arxiv.org/abs/2603.24933)|null|
 |**2026-03-25**|**Amplified Patch-Level Differential Privacy for Free via Random Cropping**|Kaan Durmaz et.al.|[2603.24695](http://arxiv.org/abs/2603.24695)|null|
-|**2026-03-29**|**BCMDA: Bidirectional Correlation Maps Domain Adaptation for Mixed Domain Semi-Supervised Medical Image Segmentation**|Bentao Song et.al.|[2603.24691](http://arxiv.org/abs/2603.24691)|**[link](https://github.com/pascalcpp/BCMDA)**|
+|**2026-03-29**|**BCMDA: Bidirectional Correlation Maps Domain Adaptation for Mixed Domain Semi-Supervised Medical Image Segmentation**|Bentao Song et.al.|[2603.24691](http://arxiv.org/abs/2603.24691)|null|
 |**2026-03-25**|**How unconstrained machine-learning models learn physical symmetries**|Michelangelo Domina et.al.|[2603.24638](http://arxiv.org/abs/2603.24638)|null|
 |**2026-03-25**|**A Bayesian Dynamic Latent Space Model for Weighted Networks**|Roberto Casarin et.al.|[2603.24201](http://arxiv.org/abs/2603.24201)|null|
 |**2026-03-25**|**Enhancing and Reporting Robustness Boundary of Neural Code Models for Intelligent Code Understanding**|Tingxu Han et.al.|[2603.24119](http://arxiv.org/abs/2603.24119)|null|
