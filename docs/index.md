@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.10**
+📅 **Updated on 2026.04.11**
 
 ## 🌟 About This Repository
 
@@ -715,7 +715,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-02**|**T5Gemma-TTS Technical Report**|Chihiro Arata et.al.|[2604.01760](http://arxiv.org/abs/2604.01760)|null|
 |**2026-03-31**|**Combining Masked Language Modeling and Cross-Modal Contrastive Learning for Prosody-Aware TTS**|Kirill Borodin et.al.|[2604.01247](http://arxiv.org/abs/2604.01247)|null|
 |**2026-04-02**|**OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models**|Han Zhu et.al.|[2604.00688](http://arxiv.org/abs/2604.00688)|null|
-|**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[2604.00292](http://arxiv.org/abs/2604.00292)|**[link](https://github.com/sahilkumar15/MVC)**|
+|**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[2604.00292](http://arxiv.org/abs/2604.00292)|null|
 |**2026-03-24**|**Fast elementwise operations on tensor trains with alternating cross interpolation**|Marc K. Ritter et.al.|[2604.00037](http://arxiv.org/abs/2604.00037)|null|
 |**2026-03-31**|**LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space**|Detai Xin et.al.|[2603.29339](http://arxiv.org/abs/2603.29339)|null|
 |**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
@@ -1991,7 +1991,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-09**|**Initialisation Determines the Basin: Efficient Codebook Optimisation for Extreme LLM Quantization**|Ian W. Kennedy et.al.|[2604.08118](http://arxiv.org/abs/2604.08118)|null|
 |**2026-04-09**|**AtlasOCR: Building the First Open-Source Darija OCR Model with Vision Language Models**|Imane Momayiz et.al.|[2604.08070](http://arxiv.org/abs/2604.08070)|null|
 |**2026-04-09**|**A Comparative Study of Semantic Log Representations for Software Log-based Anomaly Detection**|Yuqing Wang et.al.|[2604.08028](http://arxiv.org/abs/2604.08028)|null|
-|**2026-04-09**|**Rethinking Residual Errors in Compensation-based LLM Quantization**|Shuaiting Li et.al.|[2604.07955](http://arxiv.org/abs/2604.07955)|null|
+|**2026-04-09**|**Rethinking Residual Errors in Compensation-based LLM Quantization**|Shuaiting Li et.al.|[2604.07955](http://arxiv.org/abs/2604.07955)|**[link](https://github.com/list0830/ResComp)**|
 |**2026-04-09**|**Pruning Extensions and Efficiency Trade-Offs for Sustainable Time Series Classification**|Raphael Fischer et.al.|[2604.07953](http://arxiv.org/abs/2604.07953)|null|
 |**2026-04-09**|**On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning**|Amirhossein Afsharrad et.al.|[2604.07944](http://arxiv.org/abs/2604.07944)|null|
 |**2026-04-09**|**SAT: Balancing Reasoning Accuracy and Efficiency with Stepwise Adaptive Thinking**|Weiyang Huang et.al.|[2604.07922](http://arxiv.org/abs/2604.07922)|null|
@@ -6546,7 +6546,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-09**|**CapTalk: Unified Voice Design for Single-Utterance and Dialogue Speech Generation**|Xiaosu Su et.al.|[2604.08363](http://arxiv.org/abs/2604.08363)|null|
 |**2026-04-09**|**Free-Energy Minimizing Policies Under Generative Model Ambiguity**|Arash Shafiei et.al.|[2604.08222](http://arxiv.org/abs/2604.08222)|null|
 |**2026-04-09**|**AT-ADD: All-Type Audio Deepfake Detection Challenge Evaluation Plan**|Yuankun Xie et.al.|[2604.08184](http://arxiv.org/abs/2604.08184)|null|
-|**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Jindi Lv et.al.|[2604.08168](http://arxiv.org/abs/2604.08168)|null|
+|**2026-04-09**|**ViVa: A Video-Generative Value Model for Robot Reinforcement Learning**|Jindi Lv et.al.|[2604.08168](http://arxiv.org/abs/2604.08168)|**[link](https://github.com/GigaAI-research/ViVa)**|
 |**2026-04-09**|**FlowEqProp: Training Flow Matching Generative Models with Gradient Equilibrium Propagation**|Alex Gower et.al.|[2604.08150](http://arxiv.org/abs/2604.08150)|null|
 |**2026-04-09**|**Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator**|Luozheng Qin et.al.|[2604.08121](http://arxiv.org/abs/2604.08121)|null|
 |**2026-04-09**|**Revise: A Framework for Revising OCRed text in Practical Information Systems with Data Contamination Strategy**|Gyuho Shim et.al.|[2604.08115](http://arxiv.org/abs/2604.08115)|null|
