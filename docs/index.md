@@ -2022,7 +2022,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-08**|**FedDetox: Robust Federated SLM Alignment via On-Device Data Sanitization**|Shunan Zhu et.al.|[2604.06833](http://arxiv.org/abs/2604.06833)|null|
 |**2026-04-08**|**Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM**|Chengyue Wu et.al.|[2604.06832](http://arxiv.org/abs/2604.06832)|null|
 |**2026-04-08**|**Cognitive Loop of Thought: Reversible Hierarchical Markov Chain for Efficient Mathematical Reasoning**|Jia-Chen Zhang et.al.|[2604.06805](http://arxiv.org/abs/2604.06805)|null|
-|**2026-04-08**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804](http://arxiv.org/abs/2604.06804)|null|
+|**2026-04-08**|**LASER: A Data-Centric Method for Low-Cost and Efficient SQL Rewriting based on SQL-GRPO**|Jiahui Li et.al.|[2604.06804](http://arxiv.org/abs/2604.06804)|**[link](https://github.com/LJHzju/LASER)**|
 |**2026-04-08**|**MoBiE: Efficient Inference of Mixture of Binary Experts under Post-Training Quantization**|Zhixiong Zhao et.al.|[2604.06798](http://arxiv.org/abs/2604.06798)|null|
 |**2026-04-08**|**StructKV: Preserving the Structural Skeleton for Scalable Long-Context Inference**|Zhirui Chen et.al.|[2604.06746](http://arxiv.org/abs/2604.06746)|null|
 |**2026-04-08**|**Extraction of linearized models from pre-trained networks via knowledge distillation**|Fumito Kimura et.al.|[2604.06732](http://arxiv.org/abs/2604.06732)|null|
