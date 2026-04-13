@@ -6538,10 +6538,19 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 1571 papers*
+*📊 1580 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images**|Guanyu Zhou et.al.|[2604.09531](http://arxiv.org/abs/2604.09531)|**[link](https://github.com/zlab-princeton/VisionFoundry)**|
+|**2026-04-10**|**SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data**|Qingwen Zhang et.al.|[2604.09411](http://arxiv.org/abs/2604.09411)|null|
+|**2026-04-10**|**Task-Aware LLM Routing with Multi-Level Task-Profile-Guided Data Synthesis for Cold-Start Scenarios**|Hui Liu et.al.|[2604.09377](http://arxiv.org/abs/2604.09377)|null|
+|**2026-04-10**|**VAG: Dual-Stream Video-Action Generation for Embodied Data Synthesis**|Xiaolei Lang et.al.|[2604.09330](http://arxiv.org/abs/2604.09330)|null|
+|**2026-04-10**|**GeRM: A Generative Rendering Model From Physically Realistic to Photorealistic**|Jiayuan Lu et.al.|[2604.09304](http://arxiv.org/abs/2604.09304)|null|
+|**2026-04-10**|**Deep Light Pollution Removal in Night Cityscape Photographs**|Hao Wang et.al.|[2604.09145](http://arxiv.org/abs/2604.09145)|null|
+|**2026-04-10**|**BlendFusion -- Scalable Synthetic Data Generation for Diffusion Model Training**|Thejas Venkatesh et.al.|[2604.09022](http://arxiv.org/abs/2604.09022)|null|
+|**2026-04-10**|**Using Synthetic Data for Machine Learning-based Childhood Vaccination Prediction in Narok, Kenya**|Jimmy Bach et.al.|[2604.08902](http://arxiv.org/abs/2604.08902)|null|
+|**2026-04-09**|**Deep Learning-Based Tracking and Lineage Reconstruction of Ligament Breakup**|Vrushank Ahire et.al.|[2604.08711](http://arxiv.org/abs/2604.08711)|null|
 |**2026-04-09**|**Synthetic Data for any Differentiable Target**|Tristan Thrush et.al.|[2604.08423](http://arxiv.org/abs/2604.08423)|null|
 |**2026-04-09**|**CapTalk: Unified Voice Design for Single-Utterance and Dialogue Speech Generation**|Xiaosu Su et.al.|[2604.08363](http://arxiv.org/abs/2604.08363)|null|
 |**2026-04-09**|**Free-Energy Minimizing Policies Under Generative Model Ambiguity**|Arash Shafiei et.al.|[2604.08222](http://arxiv.org/abs/2604.08222)|null|
@@ -6556,7 +6565,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-09**|**Stochastic Thermodynamics for Autoregressive Generative Models: A Non-Markovian Perspective**|Takahiro Sagawa et.al.|[2604.07867](http://arxiv.org/abs/2604.07867)|null|
 |**2026-04-08**|**Private Seeds, Public LLMs: Realistic and Privacy-Preserving Synthetic Data Generation**|Qian Ma et.al.|[2604.07486](http://arxiv.org/abs/2604.07486)|null|
 |**2026-04-08**|**Score Shocks: The Burgers Equation Structure of Diffusion Generative Models**|Krisanu Sarkar et.al.|[2604.07404](http://arxiv.org/abs/2604.07404)|null|
-|**2026-04-08**|**TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization**|Joseph L. Greene et.al.|[2604.07248](http://arxiv.org/abs/2604.07248)|null|
+|**2026-04-10**|**TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization**|Joseph L. Greene et.al.|[2604.07248](http://arxiv.org/abs/2604.07248)|null|
 |**2026-04-08**|**Dynamic Context Evolution for Scalable Synthetic Data Generation**|Ryan Lingo et.al.|[2604.07147](http://arxiv.org/abs/2604.07147)|null|
 |**2026-04-08**|**Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama**|Zhijun Li et.al.|[2604.07105](http://arxiv.org/abs/2604.07105)|null|
 |**2026-04-08**|**iTAG: Inverse Design for Natural Text Generation with Accurate Causal Graph Annotations**|Wenshuo Wang et.al.|[2604.06902](http://arxiv.org/abs/2604.06902)|null|
