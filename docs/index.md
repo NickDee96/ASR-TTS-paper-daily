@@ -1250,11 +1250,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🌐 Machine Translation {#machine-translation}
 
-*📊 744 papers*
+*📊 748 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-13**|**Efficient Training for Cross-lingual Speech Language Models**|Yan Zhou et.al.|[2604.11096](http://arxiv.org/abs/2604.11096)|null|
+|**2026-04-14**|**Cycle-Consistent Search: Question Reconstructability as a Proxy Reward for Search Agent Training**|Sohyun An et.al.|[2604.12967](http://arxiv.org/abs/2604.12967)|null|
+|**2026-04-14**|**Universal NER v2: Towards a Massively Multilingual Named Entity Recognition Benchmark**|Terra Blevins et.al.|[2604.12744](http://arxiv.org/abs/2604.12744)|null|
+|**2026-04-14**|**ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance**|Daniil Gurgurov et.al.|[2604.12378](http://arxiv.org/abs/2604.12378)|null|
+|**2026-04-13**|**INDOTABVQA: A Benchmark for Cross-Lingual Table Understanding in Bahasa Indonesia Documents**|Somraj Gautam et.al.|[2604.11970](http://arxiv.org/abs/2604.11970)|null|
+|**2026-04-13**|**Efficient Training for Cross-lingual Speech Language Models**|Yan Zhou et.al.|[2604.11096](http://arxiv.org/abs/2604.11096)|**[link](https://github.com/ictnlp/CSLM)**|
 |**2026-04-12**|**When Meaning Isn't Literal: Exploring Idiomatic Meaning Across Languages and Modalities**|Sarmistha Das et.al.|[2604.10787](http://arxiv.org/abs/2604.10787)|null|
 |**2026-04-12**|**Bridging Linguistic Gaps: Cross-Lingual Mapping in Pre-Training and Dataset for Enhanced Multilingual LLM Performance**|Weihua Zheng et.al.|[2604.10590](http://arxiv.org/abs/2604.10590)|null|
 |**2026-04-11**|**Training-Free Cross-Lingual Dysarthria Severity Assessment via Phonological Subspace Analysis in Self-Supervised Speech Representations**|Bernard Muller et.al.|[2604.10123](http://arxiv.org/abs/2604.10123)|null|
@@ -1274,7 +1278,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-07**|**Context-Aware Dialectal Arabic Machine Translation with Interactive Region and Register Selection**|Afroza Nowshin et.al.|[2604.06456](http://arxiv.org/abs/2604.06456)|null|
 |**2026-04-06**|**FLeX: Fourier-based Low-rank EXpansion for multilingual transfer**|Gaurav Narasimhan et.al.|[2604.06253](http://arxiv.org/abs/2604.06253)|null|
 |**2026-03-13**|**Cross-Lingual Transfer and Parameter-Efficient Adaptation in the Turkic Language Family: A Theoretical Framework for Low-Resource Language Models**|O. Ibrahimzade et.al.|[2604.06202](http://arxiv.org/abs/2604.06202)|null|
-|**2026-04-07**|**CLEAR: Cross-Lingual Enhancement in Alignment via Reverse-training**|Seungyoon Lee et.al.|[2604.05821](http://arxiv.org/abs/2604.05821)|null|
+|**2026-04-14**|**CLEAR: Cross-Lingual Enhancement in Alignment via Reverse-training**|Seungyoon Lee et.al.|[2604.05821](http://arxiv.org/abs/2604.05821)|null|
 |**2026-04-07**|**Improving Semantic Proximity in Information Retrieval through Cross-Lingual Alignment**|Seongtae Hong et.al.|[2604.05684](http://arxiv.org/abs/2604.05684)|null|
 |**2026-04-07**|**YoNER: A New Yorùbá Multi-domain Named Entity Recognition Dataset**|Peace Busola Falola et.al.|[2604.05624](http://arxiv.org/abs/2604.05624)|null|
 |**2026-04-07**|**INTERACT: An AI-Driven Extended Reality Framework for Accesible Communication Featuring Real-Time Sign Language Interpretation and Emotion Recognition**|Nikolaos D. Tantaroudas et.al.|[2604.05605](http://arxiv.org/abs/2604.05605)|null|
@@ -2001,10 +2005,38 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ⚡ Small Language Models {#small-language-models}
 
-*📊 3599 papers*
+*📊 3627 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation**|Dongqi Fu et.al.|[2604.12965](http://arxiv.org/abs/2604.12965)|null|
+|**2026-04-14**|**TCL: Enabling Fast and Efficient Cross-Hardware Tensor Program Optimization via Continual Learning**|Chaoyao Shen et.al.|[2604.12891](http://arxiv.org/abs/2604.12891)|null|
+|**2026-04-14**|**Evolving the Complete Muscle: Efficient Morphology-Control Co-design for Musculoskeletal Locomotion**|Lidong Sun et.al.|[2604.12855](http://arxiv.org/abs/2604.12855)|null|
+|**2026-04-14**|**Growing Pains: Extensible and Efficient LLM Benchmarking Via Fixed Parameter Calibration**|Eliya Habba et.al.|[2604.12843](http://arxiv.org/abs/2604.12843)|null|
+|**2026-04-14**|**DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding**|Hao Yan et.al.|[2604.12812](http://arxiv.org/abs/2604.12812)|null|
+|**2026-04-14**|**OSC: Hardware Efficient W4A4 Quantization via Outlier Separation in Channel Dimension**|Zhiyuan Zhang et.al.|[2604.12782](http://arxiv.org/abs/2604.12782)|null|
+|**2026-04-14**|**Efficient Adversarial Training via Criticality-Aware Fine-Tuning**|Wenyun Li et.al.|[2604.12780](http://arxiv.org/abs/2604.12780)|null|
+|**2026-04-14**|**CLASP: Class-Adaptive Layer Fusion and Dual-Stage Pruning for Multimodal Large Language Models**|Yunkai Dang et.al.|[2604.12767](http://arxiv.org/abs/2604.12767)|null|
+|**2026-04-14**|**BID-LoRA: A Parameter-Efficient Framework for Continual Learning and Unlearning**|Jagadeesh Rachapudi et.al.|[2604.12686](http://arxiv.org/abs/2604.12686)|null|
+|**2026-04-14**|**OFA-Diffusion Compression: Compressing Diffusion Model in One-Shot Manner**|Haoyang Jiang et.al.|[2604.12668](http://arxiv.org/abs/2604.12668)|null|
+|**2026-04-14**|**RPRA: Predicting an LLM-Judge for Efficient but Performant Inference**|Dylan R. Ashley et.al.|[2604.12634](http://arxiv.org/abs/2604.12634)|null|
+|**2026-04-14**|**KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance**|Linhao Yu et.al.|[2604.12627](http://arxiv.org/abs/2604.12627)|null|
+|**2026-04-14**|**Transforming External Knowledge into Triplets for Enhanced Retrieval in RAG of LLMs**|Xudong Wang et.al.|[2604.12610](http://arxiv.org/abs/2604.12610)|null|
+|**2026-04-14**|**Cross-Modal Knowledge Distillation for PET-Free Amyloid-Beta Detection from MRI**|Francesco Chiumento et.al.|[2604.12574](http://arxiv.org/abs/2604.12574)|null|
+|**2026-04-14**|**SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker**|Junbin Su et.al.|[2604.12502](http://arxiv.org/abs/2604.12502)|null|
+|**2026-04-14**|**Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection**|Hao Wang et.al.|[2604.12380](http://arxiv.org/abs/2604.12380)|null|
+|**2026-04-14**|**Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[2604.12374](http://arxiv.org/abs/2604.12374)|null|
+|**2026-04-14**|**Why and When Visual Token Pruning Fails? A Study on Relevant Visual Information Shift in MLLMs Decoding**|Jiwan Kim et.al.|[2604.12358](http://arxiv.org/abs/2604.12358)|null|
+|**2026-04-14**|**Unlocking the Potential of Grounding DINO in Videos: Parameter-Efficient Adaptation for Limited-Data Spatial-Temporal Localization**|Zanyi Wang et.al.|[2604.12346](http://arxiv.org/abs/2604.12346)|null|
+|**2026-04-14**|**Self-Adversarial One Step Generation via Condition Shifting**|Deyuan Liu et.al.|[2604.12322](http://arxiv.org/abs/2604.12322)|null|
+|**2026-04-14**|**Fine-tuning Factor Augmented Neural Lasso for Heterogeneous Environments**|Jinhang Chai et.al.|[2604.12288](http://arxiv.org/abs/2604.12288)|null|
+|**2026-04-14**|**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**|Ziliang Wang et.al.|[2604.12234](http://arxiv.org/abs/2604.12234)|null|
+|**2026-04-14**|**HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models**|Jawad Hossain et.al.|[2604.12229](http://arxiv.org/abs/2604.12229)|null|
+|**2026-04-13**|**Does Visual Token Pruning Improve Calibration? An Empirical Study on Confidence in MLLMs**|Kaizhen Tan et.al.|[2604.12035](http://arxiv.org/abs/2604.12035)|null|
+|**2026-04-13**|**ResBM: Residual Bottleneck Models for Low-Bandwidth Pipeline Parallelism**|Alan Aboudib et.al.|[2604.11947](http://arxiv.org/abs/2604.11947)|null|
+|**2026-04-13**|**Post-Newtonian inspiral waveform model for eccentric precessing binaries with higher-order modes and matter effects**|Gonzalo Morras et.al.|[2604.11903](http://arxiv.org/abs/2604.11903)|null|
+|**2026-04-13**|**Disposition Distillation at Small Scale: A Three-Arc Negative Result**|Hari Sadasivan et.al.|[2604.11867](http://arxiv.org/abs/2604.11867)|null|
+|**2026-04-14**|**Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems**|Mohammed Ezzaldin Babiker Abdullah et.al.|[2604.11807](http://arxiv.org/abs/2604.11807)|null|
 |**2026-04-13**|**Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis**|Yuqin Lu et.al.|[2604.11685](http://arxiv.org/abs/2604.11685)|null|
 |**2026-04-13**|**Back to Basics: Let Conversational Agents Remember with Just Retrieval and Generation**|Yuqian Wu et.al.|[2604.11628](http://arxiv.org/abs/2604.11628)|null|
 |**2026-04-13**|**Efficient Transpilation of OpenQASM 3.0 Dynamic Circuits to CUDA-Q: Performance and Expressiveness Advantages**|Vinooth Kulkarni et.al.|[2604.11599](http://arxiv.org/abs/2604.11599)|null|
@@ -5607,13 +5639,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🔄 Data Augmentation {#data-augmentation}
 
-*📊 1036 papers*
+*📊 1037 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**When Does Data Augmentation Help? Evaluating LLM and Back-Translation Methods for Hausa and Fongbe NLP**|Mahounan Pericles Adjovi et.al.|[2604.12540](http://arxiv.org/abs/2604.12540)|null|
 |**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|David Nordström et.al.|[2604.11809](http://arxiv.org/abs/2604.11809)|null|
 |**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|null|
-|**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|**[link](https://github.com/FACEONG/ComSim)**|
+|**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|null|
 |**2026-04-13**|**Speaker Attributed Automatic Speech Recognition Using Speech Aware LLMS**|Hagai Aronowitz et.al.|[2604.11269](http://arxiv.org/abs/2604.11269)|null|
 |**2026-04-13**|**AnomalyGen: Enhancing Log-Based Anomaly Detection with Code-Guided Data Augmentation**|Xinyu Li et.al.|[2604.11107](http://arxiv.org/abs/2604.11107)|null|
 |**2026-04-11**|**SMFormer: Empowering Self-supervised Stereo Matching via Foundation Models and Data Augmentation**|Yun Wang et.al.|[2604.10218](http://arxiv.org/abs/2604.10218)|null|
@@ -5628,7 +5661,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[2604.08469](http://arxiv.org/abs/2604.08469)|null|
 |**2026-04-09**|**Adversarial Label Invariant Graph Data Augmentations for Out-of-Distribution Generalization**|Simon Zhang et.al.|[2604.08404](http://arxiv.org/abs/2604.08404)|null|
 |**2026-04-09**|**A GAN and LLM-Driven Data Augmentation Framework for Dynamic Linguistic Pattern Modeling in Chinese Sarcasm Detection**|Wenxian Wang et.al.|[2604.08381](http://arxiv.org/abs/2604.08381)|null|
-|**2026-04-11**|**MVOS_HSI: A Python Library for Preprocessing Agricultural Crop Hyperspectral Data**|Rishik Aggarwal et.al.|[2604.07656](http://arxiv.org/abs/2604.07656)|null|
+|**2026-04-14**|**MVOS_HSI: A Python Library for Preprocessing Agricultural Crop Hyperspectral Data**|Rishik Aggarwal et.al.|[2604.07656](http://arxiv.org/abs/2604.07656)|null|
 |**2026-04-08**|**SBBTS: A Unified Schrödinger-Bass Framework for Synthetic Financial Time Series**|Alexandre Alouadi et.al.|[2604.07159](http://arxiv.org/abs/2604.07159)|null|
 |**2026-04-07**|**Context-Aware Dialectal Arabic Machine Translation with Interactive Region and Register Selection**|Afroza Nowshin et.al.|[2604.06456](http://arxiv.org/abs/2604.06456)|null|
 |**2026-03-26**|**Development of ML model for triboelectric nanogenerator based sign language detection system**|Meshv Patel et.al.|[2604.06220](http://arxiv.org/abs/2604.06220)|null|
@@ -6650,10 +6683,20 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 1602 papers*
+*📊 1612 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**Turbulent pair dispersion with Stochastic Generative Diffusion Models**|Andrei Pantea et.al.|[2604.12932](http://arxiv.org/abs/2604.12932)|null|
+|**2026-04-14**|**Generative Anonymization in Event Streams**|Adam T. Müller et.al.|[2604.12803](http://arxiv.org/abs/2604.12803)|**[link](https://github.com/muelleradam/KinematicEvent-HumanUpperBody-2026)**|
+|**2026-04-14**|**Statistical finite elements for sequential data synthesis in solid dynamics**|Igor Kavrakov et.al.|[2604.12688](http://arxiv.org/abs/2604.12688)|null|
+|**2026-04-14**|**Hierarchical generative modeling for the design of multi-component systems**|Rhyan Barrett et.al.|[2604.12607](http://arxiv.org/abs/2604.12607)|null|
+|**2026-04-14**|**DiffusionPrint: Learning Generative Fingerprints for Diffusion-Based Inpainting Localization**|Paschalis Giakoumoglou et.al.|[2604.12443](http://arxiv.org/abs/2604.12443)|null|
+|**2026-04-14**|**All in One: A Unified Synthetic Data Pipeline for Multimodal Video Understanding**|Tanzila Rahman et.al.|[2604.12335](http://arxiv.org/abs/2604.12335)|null|
+|**2026-04-14**|**An Empirical Comparison of Methods for Quantifying the Similarity of Numeric Datasets**|Marieke Stolte et.al.|[2604.12327](http://arxiv.org/abs/2604.12327)|null|
+|**2026-04-14**|**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**|Ziliang Wang et.al.|[2604.12234](http://arxiv.org/abs/2604.12234)|null|
+|**2026-04-14**|**Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference**|Anes Abdennebi et.al.|[2604.12168](http://arxiv.org/abs/2604.12168)|null|
+|**2026-04-13**|**Curvelet-Based Frequency-Aware Feature Enhancement for Deepfake Detection**|Salar Adel Sabri et.al.|[2604.12028](http://arxiv.org/abs/2604.12028)|null|
 |**2026-04-13**|**GenTac: Generative Modeling and Forecasting of Soccer Tactics**|Jiayuan Rao et.al.|[2604.11786](http://arxiv.org/abs/2604.11786)|null|
 |**2026-04-13**|**MorphoFlow: Sparse-Supervised Generative Shape Modeling with Adaptive Latent Relevance**|Mokshagna Sai Teja Karanam et.al.|[2604.11636](http://arxiv.org/abs/2604.11636)|null|
 |**2026-04-13**|**Minimizing classical resources in variational measurement-based quantum computation for generative modeling**|Arunava Majumder et.al.|[2604.11578](http://arxiv.org/abs/2604.11578)|null|
