@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.15**
+📅 **Updated on 2026.04.16**
 
 ## 🌟 About This Repository
 
@@ -2028,7 +2028,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-14**|**Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning**|NVIDIA et.al.|[2604.12374](http://arxiv.org/abs/2604.12374)|null|
 |**2026-04-14**|**Why and When Visual Token Pruning Fails? A Study on Relevant Visual Information Shift in MLLMs Decoding**|Jiwan Kim et.al.|[2604.12358](http://arxiv.org/abs/2604.12358)|null|
 |**2026-04-14**|**Unlocking the Potential of Grounding DINO in Videos: Parameter-Efficient Adaptation for Limited-Data Spatial-Temporal Localization**|Zanyi Wang et.al.|[2604.12346](http://arxiv.org/abs/2604.12346)|null|
-|**2026-04-14**|**Self-Adversarial One Step Generation via Condition Shifting**|Deyuan Liu et.al.|[2604.12322](http://arxiv.org/abs/2604.12322)|null|
+|**2026-04-14**|**Self-Adversarial One Step Generation via Condition Shifting**|Deyuan Liu et.al.|[2604.12322](http://arxiv.org/abs/2604.12322)|**[link](https://github.com/LINs-lab/APEX)**|
 |**2026-04-14**|**Fine-tuning Factor Augmented Neural Lasso for Heterogeneous Environments**|Jinhang Chai et.al.|[2604.12288](http://arxiv.org/abs/2604.12288)|null|
 |**2026-04-14**|**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**|Ziliang Wang et.al.|[2604.12234](http://arxiv.org/abs/2604.12234)|null|
 |**2026-04-14**|**HintMR: Eliciting Stronger Mathematical Reasoning in Small Language Models**|Jawad Hossain et.al.|[2604.12229](http://arxiv.org/abs/2604.12229)|null|
@@ -6691,7 +6691,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-14**|**Generative Anonymization in Event Streams**|Adam T. Müller et.al.|[2604.12803](http://arxiv.org/abs/2604.12803)|**[link](https://github.com/muelleradam/KinematicEvent-HumanUpperBody-2026)**|
 |**2026-04-14**|**Statistical finite elements for sequential data synthesis in solid dynamics**|Igor Kavrakov et.al.|[2604.12688](http://arxiv.org/abs/2604.12688)|null|
 |**2026-04-14**|**Hierarchical generative modeling for the design of multi-component systems**|Rhyan Barrett et.al.|[2604.12607](http://arxiv.org/abs/2604.12607)|null|
-|**2026-04-14**|**DiffusionPrint: Learning Generative Fingerprints for Diffusion-Based Inpainting Localization**|Paschalis Giakoumoglou et.al.|[2604.12443](http://arxiv.org/abs/2604.12443)|null|
+|**2026-04-14**|**DiffusionPrint: Learning Generative Fingerprints for Diffusion-Based Inpainting Localization**|Paschalis Giakoumoglou et.al.|[2604.12443](http://arxiv.org/abs/2604.12443)|**[link](https://github.com/mever-team/diffusionprint)**|
 |**2026-04-14**|**All in One: A Unified Synthetic Data Pipeline for Multimodal Video Understanding**|Tanzila Rahman et.al.|[2604.12335](http://arxiv.org/abs/2604.12335)|null|
 |**2026-04-14**|**An Empirical Comparison of Methods for Quantifying the Similarity of Numeric Datasets**|Marieke Stolte et.al.|[2604.12327](http://arxiv.org/abs/2604.12327)|null|
 |**2026-04-14**|**UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute**|Ziliang Wang et.al.|[2604.12234](http://arxiv.org/abs/2604.12234)|null|
