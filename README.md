@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.16**
+📅 **Updated on 2026.04.17**
 
 ---
 
@@ -753,7 +753,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-17**|**Neural networks for Text-to-Speech evaluation**|Ilya Trofimenko et.al.|[2604.08562](http://arxiv.org/abs/2604.08562)|null|
 |**2026-03-17**|**WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models**|Hanna Lee et.al.|[2604.08558](http://arxiv.org/abs/2604.08558)|null|
 |**2026-04-09**|**TASU2: Controllable CTC Simulation for Alignment and Low-Resource Adaptation of Speech LLMs**|Jing Peng et.al.|[2604.08384](http://arxiv.org/abs/2604.08384)|null|
-|**2026-04-09**|**Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video**|Chanhyuk Choi et.al.|[2604.07786](http://arxiv.org/abs/2604.07786)|**[link](https://github.com/ChanHyeok-Choi/C-MET)**|
+|**2026-04-09**|**Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video**|Chanhyuk Choi et.al.|[2604.07786](http://arxiv.org/abs/2604.07786)|null|
 |**2026-04-07**|**In-Context Learning in Speech Language Models: Analyzing the Role of Acoustic Features, Linguistic Structure, and Induction Heads**|Charlotte Pouw et.al.|[2604.06356](http://arxiv.org/abs/2604.06356)|null|
 |**2026-04-07**|**A Novel Automatic Framework for Speaker Drift Detection in Synthesized Speech**|Jia-Hong Huang et.al.|[2604.06327](http://arxiv.org/abs/2604.06327)|null|
 |**2026-04-06**|**Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency**|Guan-Ting Lin et.al.|[2604.04847](http://arxiv.org/abs/2604.04847)|null|
@@ -6790,7 +6790,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2026-04-15**|**Generative design of inorganic materials**|Jose Recatala-Gomez et.al.|[2604.14082](http://arxiv.org/abs/2604.14082)|null|
+|**2026-04-15**|**Generative design of inorganic materials**|Jose Recatala-Gomez et.al.|[2604.14082](http://arxiv.org/abs/2604.14082)|**[link](https://github.com/microsoft/mattergen)**|
 |**2026-04-15**|**How Can We Synthesize High-Quality Pretraining Data? A Systematic Study of Prompt Design, Generator Model, and Source Data**|Joel Niklaus et.al.|[2604.13977](http://arxiv.org/abs/2604.13977)|null|
 |**2026-04-15**|**A generative model for bipartite gene-sharing networks**|Jaime Iranzo et.al.|[2604.13963](http://arxiv.org/abs/2604.13963)|null|
 |**2026-04-15**|**LEGO-MOF: Equivariant Latent Manipulation for Editable, Generative, and Optimizable MOF Design**|Chaoran Zhang et.al.|[2604.13520](http://arxiv.org/abs/2604.13520)|null|
@@ -6809,7 +6809,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-13**|**MorphoFlow: Sparse-Supervised Generative Shape Modeling with Adaptive Latent Relevance**|Mokshagna Sai Teja Karanam et.al.|[2604.11636](http://arxiv.org/abs/2604.11636)|null|
 |**2026-04-13**|**Minimizing classical resources in variational measurement-based quantum computation for generative modeling**|Arunava Majumder et.al.|[2604.11578](http://arxiv.org/abs/2604.11578)|null|
 |**2026-04-13**|**MimicLM: Zero-Shot Voice Imitation through Autoregressive Modeling of Pseudo-Parallel Speech Corpora**|Tao Feng et.al.|[2604.11552](http://arxiv.org/abs/2604.11552)|null|
-|**2026-04-13**|**Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach**|Haolin Li et.al.|[2604.11547](http://arxiv.org/abs/2604.11547)|**[link](https://github.com/tdlhl/MedSSR)**|
+|**2026-04-13**|**Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach**|Haolin Li et.al.|[2604.11547](http://arxiv.org/abs/2604.11547)|null|
 |**2026-04-13**|**RedShell: A Generative AI-Based Approach to Ethical Hacking**|Ricardo Bessa et.al.|[2604.11506](http://arxiv.org/abs/2604.11506)|null|
 |**2026-04-13**|**Bridging What the Model Thinks and How It Speaks: Self-Aware Speech Language Models for Expressive Speech Generation**|Kuang Wang et.al.|[2604.11424](http://arxiv.org/abs/2604.11424)|null|
 |**2026-04-13**|**Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation**|Lester James V. Miranda et.al.|[2604.11290](http://arxiv.org/abs/2604.11290)|null|
