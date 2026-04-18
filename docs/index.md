@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.17**
+📅 **Updated on 2026.04.18**
 
 ## 🌟 About This Repository
 
@@ -743,11 +743,11 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-24**|**Fast elementwise operations on tensor trains with alternating cross interpolation**|Marc K. Ritter et.al.|[2604.00037](http://arxiv.org/abs/2604.00037)|null|
 |**2026-03-31**|**LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space**|Detai Xin et.al.|[2603.29339](http://arxiv.org/abs/2603.29339)|null|
 |**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
-|**2026-03-30**|**ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining**|Anuj Diwan et.al.|[2603.28737](http://arxiv.org/abs/2603.28737)|null|
+|**2026-03-30**|**ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining**|Anuj Diwan et.al.|[2603.28737](http://arxiv.org/abs/2603.28737)|**[link](https://github.com/ajd12342/paraspeechclap)**|
 |**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
 |**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
-|**2026-04-06**|**Voxtral TTS**|Mistral-AI et.al.|[2603.25551](http://arxiv.org/abs/2603.25551)|null|
-|**2026-04-09**|**YingMusic-Singer-Plus: Controllable Singing Voice Synthesis with Flexible Lyric Manipulation and Annotation-free Melody Guidance**|Chunbo Hao et.al.|[2603.24589](http://arxiv.org/abs/2603.24589)|null|
+|**2026-04-06**|**Voxtral TTS**|Mistral-AI et.al.|[2603.25551](http://arxiv.org/abs/2603.25551)|**[link](https://github.com/TrevorS/voxtral-mini-realtime-rs)**|
+|**2026-04-09**|**YingMusic-Singer-Plus: Controllable Singing Voice Synthesis with Flexible Lyric Manipulation and Annotation-free Melody Guidance**|Chunbo Hao et.al.|[2603.24589](http://arxiv.org/abs/2603.24589)|**[link](https://github.com/ASLP-lab/YingMusic-Singer-Plus)**|
 |**2026-03-25**|**Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation**|Shengfan Shen et.al.|[2603.24430](http://arxiv.org/abs/2603.24430)|null|
 |**2026-04-01**|**How Open is Open TTS? A Practical Evaluation of Open Source TTS Tools**|Teodora Răgman et.al.|[2603.24116](http://arxiv.org/abs/2603.24116)|null|
 |**2026-03-23**|**SelfTTS: cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation**|Lucas H. Ueda et.al.|[2603.22252](http://arxiv.org/abs/2603.22252)|null|
@@ -1285,7 +1285,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-20**|**Can We Still Hear the Accent? Investigating the Resilience of Native Language Signals in the LLM Era**|Nabelanita Utami et.al.|[2604.08568](http://arxiv.org/abs/2604.08568)|null|
 |**2026-04-08**|**Semantic-Emotional Resonance Embedding: A Semi-Supervised Paradigm for Cross-Lingual Speech Emotion Recognition**|Ya Zhao et.al.|[2604.07417](http://arxiv.org/abs/2604.07417)|null|
 |**2026-04-08**|**Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction**|Jackson Petty et.al.|[2604.07320](http://arxiv.org/abs/2604.07320)|null|
-|**2026-04-08**|**Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English**|Iza Škrjanec et.al.|[2604.07067](http://arxiv.org/abs/2604.07067)|null|
+|**2026-04-08**|**Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English**|Iza Škrjanec et.al.|[2604.07067](http://arxiv.org/abs/2604.07067)|**[link](https://github.com/izaskr/cross_lingual_transfer_dutch_english_forms)**|
 |**2026-04-08**|**Are LLMs Ready for Computer Science Education? A Cross-Domain, Cross-Lingual and Cognitive-Level Evaluation Using Professional Certification Exams**|Chen Gao et.al.|[2604.06898](http://arxiv.org/abs/2604.06898)|null|
 |**2026-04-08**|**Video-guided Machine Translation with Global Video Context**|Jian Chen et.al.|[2604.06789](http://arxiv.org/abs/2604.06789)|null|
 |**2026-04-08**|**To Lie or Not to Lie? Investigating The Biased Spread of Global Lies by LLMs**|Zohaib Khan et.al.|[2604.06552](http://arxiv.org/abs/2604.06552)|null|
@@ -5710,7 +5710,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-14**|**When Does Data Augmentation Help? Evaluating LLM and Back-Translation Methods for Hausa and Fongbe NLP**|Mahounan Pericles Adjovi et.al.|[2604.12540](http://arxiv.org/abs/2604.12540)|null|
 |**2026-04-13**|**Who Handles Orientation? Investigating Invariance in Feature Matching**|David Nordström et.al.|[2604.11809](http://arxiv.org/abs/2604.11809)|null|
 |**2026-04-13**|**Dual-Control Frequency-Aware Diffusion Model for Depth-Dependent Optical Microrobot Microscopy Image Generation**|Lan Wei et.al.|[2604.11680](http://arxiv.org/abs/2604.11680)|null|
-|**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|null|
+|**2026-04-13**|**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**|Yiran Qin et.al.|[2604.11386](http://arxiv.org/abs/2604.11386)|**[link](https://github.com/FACEONG/ComSim)**|
 |**2026-04-13**|**Speaker Attributed Automatic Speech Recognition Using Speech Aware LLMS**|Hagai Aronowitz et.al.|[2604.11269](http://arxiv.org/abs/2604.11269)|null|
 |**2026-04-13**|**AnomalyGen: Enhancing Log-Based Anomaly Detection with Code-Guided Data Augmentation**|Xinyu Li et.al.|[2604.11107](http://arxiv.org/abs/2604.11107)|null|
 |**2026-04-11**|**SMFormer: Empowering Self-supervised Stereo Matching via Foundation Models and Data Augmentation**|Yun Wang et.al.|[2604.10218](http://arxiv.org/abs/2604.10218)|null|
