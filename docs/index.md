@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.19**
+📅 **Updated on 2026.04.20**
 
 ## 🌟 About This Repository
 
@@ -5719,7 +5719,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-11**|**Masked Contrastive Pre-Training Improves Music Audio Key Detection**|Ori Yonay et.al.|[2604.10021](http://arxiv.org/abs/2604.10021)|null|
 |**2026-04-06**|**I Can't Believe TTA Is Not Better: When Test-Time Augmentation Hurts Medical Image Classification**|Daniel Nobrega Medeiros et.al.|[2604.09697](http://arxiv.org/abs/2604.09697)|null|
 |**2026-04-10**|**Synthesizing real-world distributions from high-dimensional Gaussian Noise with Fully Connected Neural Network**|Joanna Komorniczak et.al.|[2604.09091](http://arxiv.org/abs/2604.09091)|null|
-|**2026-04-10**|**Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting**|Jafar Bakhshaliyev et.al.|[2604.09067](http://arxiv.org/abs/2604.09067)|**[link](https://github.com/jafarbakhshaliyev/TPS)**|
+|**2026-04-10**|**Temporal Patch Shuffle (TPS): Leveraging Patch-Level Shuffling to Boost Generalization and Robustness in Time Series Forecasting**|Jafar Bakhshaliyev et.al.|[2604.09067](http://arxiv.org/abs/2604.09067)|null|
 |**2026-04-10**|**CAD 100K: A Comprehensive Multi-Task Dataset for Car Related Visual Anomaly Detection**|Jiahua Pang et.al.|[2604.09023](http://arxiv.org/abs/2604.09023)|null|
 |**2026-04-10**|**Lightweight and Generalizable Multi-Sensor Human Activity Recognition via Cascaded Fusion and Style-Augmented Decomposition**|Wang Chenglong et.al.|[2604.08910](http://arxiv.org/abs/2604.08910)|null|
 |**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[2604.08469](http://arxiv.org/abs/2604.08469)|null|
