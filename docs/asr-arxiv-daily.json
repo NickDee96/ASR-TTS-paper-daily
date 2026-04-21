@@ -670,7 +670,7 @@
     "2604.10736": "|**2026-04-16**|**BlasBench: An Open Benchmark for Irish Speech Recognition**|Jyoutir Raj et.al.|[2604.10736](http://arxiv.org/abs/2604.10736)|null|\n",
     "2604.10503": "|**2026-04-12**|**Cross-Cultural Bias in Mel-Scale Representations: Evidence and Alternatives from Speech and Music**|Shivam Chauhan et.al.|[2604.10503](http://arxiv.org/abs/2604.10503)|null|\n",
     "2604.10161": "|**2026-04-11**|**From Speech to Profile: A Protocol-Driven LLM Agent for Psychological Profile Generation**|Xingjian Yang et.al.|[2604.10161](http://arxiv.org/abs/2604.10161)|null|\n",
-    "2604.14001": "|**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|**[link](https://github.com/Aryan45-pixel/Transforming-Voice-Prompts-into-Visual-Creations-using-Transformers)**|\n",
+    "2604.14001": "|**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|null|\n",
     "2604.12398": "|**2026-04-14**|**Contextual Biasing for ASR in Speech LLM with Common Word Cues and Bias Word Position Prediction**|Sashi Novitasari et.al.|[2604.12398](http://arxiv.org/abs/2604.12398)|null|\n",
     "2604.14493": "|**2026-04-16**|**Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference**|Nenad Banfic et.al.|[2604.14493](http://arxiv.org/abs/2604.14493)|null|\n"
   },
@@ -1924,7 +1924,7 @@
     "2603.27223": "|**2026-03-28**|**EuraGovExam: A Multilingual Multimodal Benchmark from Real-World Civil Service Exams**|JaeSeong Kim et.al.|[2603.27223](http://arxiv.org/abs/2603.27223)|null|\n",
     "2603.26742": "|**2026-03-23**|**Do Multilingual VLMs Reason Equally? A Cross-Lingual Visual Reasoning Audit for Indian Languages**|Swastik R et.al.|[2603.26742](http://arxiv.org/abs/2603.26742)|null|\n",
     "2603.29937": "|**2026-03-31**|**Rewrite the News: Tracing Editorial Reuse Across News Agencies**|Soveatin Kuntur et.al.|[2603.29937](http://arxiv.org/abs/2603.29937)|null|\n",
-    "2603.29552": "|**2026-03-31**|**Bringing Up a Bilingual BabyLM: Investigating Multilingual Language Acquisition Using Small-Scale Models**|Linda Zeng et.al.|[2603.29552](http://arxiv.org/abs/2603.29552)|**[link](https://github.com/styfeng/bilingual-babyLM)**|\n",
+    "2603.29552": "|**2026-03-31**|**Bringing Up a Bilingual BabyLM: Investigating Multilingual Language Acquisition Using Small-Scale Models**|Linda Zeng et.al.|[2603.29552](http://arxiv.org/abs/2603.29552)|null|\n",
     "2603.29346": "|**2026-03-31**|**L-ReLF: A Framework for Lexical Dataset Creation**|Anass Sedrati et.al.|[2603.29346](http://arxiv.org/abs/2603.29346)|null|\n",
     "2603.29345": "|**2026-03-31**|**Open Machine Translation for Esperanto**|Ona de Gibert et.al.|[2603.29345](http://arxiv.org/abs/2603.29345)|null|\n",
     "2603.29217": "|**2026-03-31**|**Advancing LLM-based phoneme-to-grapheme for multilingual speech recognition**|Lukuang Dong et.al.|[2603.29217](http://arxiv.org/abs/2603.29217)|null|\n",

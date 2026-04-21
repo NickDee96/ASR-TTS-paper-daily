@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.20**
+📅 **Updated on 2026.04.21**
 
 ---
 
@@ -51,7 +51,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-04-16**|**Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference**|Nenad Banfic et.al.|[2604.14493](http://arxiv.org/abs/2604.14493)|null|
-|**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|**[link](https://github.com/Aryan45-pixel/Transforming-Voice-Prompts-into-Visual-Creations-using-Transformers)**|
+|**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|null|
 |**2026-04-14**|**Contextual Biasing for ASR in Speech LLM with Common Word Cues and Bias Word Position Prediction**|Sashi Novitasari et.al.|[2604.12398](http://arxiv.org/abs/2604.12398)|null|
 |**2026-04-13**|**Teaching the Teachers: Boosting unsupervised domain adaptation in speech recognition by ensemble update**|Rehan Ahmad et.al.|[2604.11256](http://arxiv.org/abs/2604.11256)|null|
 |**2026-04-13**|**Ti-Audio: The First Multi-Dialectal End-to-End Speech LLM for Tibetan**|Jialing Wang et.al.|[2604.11110](http://arxiv.org/abs/2604.11110)|null|
@@ -1355,7 +1355,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-03-11**|**Multi-lingual Multi-institutional Electronic Health Record based Predictive Model**|Kyunghoon Hur et.al.|[2604.00027](http://arxiv.org/abs/2604.00027)|null|
 |**2026-03-10**|**ASCAT: An Arabic Scientific Corpus and Benchmark for Advanced Translation Evaluation**|Serry Sibaee et.al.|[2604.00015](http://arxiv.org/abs/2604.00015)|null|
 |**2026-03-31**|**Rewrite the News: Tracing Editorial Reuse Across News Agencies**|Soveatin Kuntur et.al.|[2603.29937](http://arxiv.org/abs/2603.29937)|null|
-|**2026-03-31**|**Bringing Up a Bilingual BabyLM: Investigating Multilingual Language Acquisition Using Small-Scale Models**|Linda Zeng et.al.|[2603.29552](http://arxiv.org/abs/2603.29552)|**[link](https://github.com/styfeng/bilingual-babyLM)**|
+|**2026-03-31**|**Bringing Up a Bilingual BabyLM: Investigating Multilingual Language Acquisition Using Small-Scale Models**|Linda Zeng et.al.|[2603.29552](http://arxiv.org/abs/2603.29552)|null|
 |**2026-03-31**|**L-ReLF: A Framework for Lexical Dataset Creation**|Anass Sedrati et.al.|[2603.29346](http://arxiv.org/abs/2603.29346)|null|
 |**2026-03-31**|**Open Machine Translation for Esperanto**|Ona de Gibert et.al.|[2603.29345](http://arxiv.org/abs/2603.29345)|null|
 |**2026-03-31**|**Advancing LLM-based phoneme-to-grapheme for multilingual speech recognition**|Lukuang Dong et.al.|[2603.29217](http://arxiv.org/abs/2603.29217)|null|
