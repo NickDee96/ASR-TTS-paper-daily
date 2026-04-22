@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.21**
+📅 **Updated on 2026.04.22**
 
 ## 🌟 About This Repository
 
@@ -1281,7 +1281,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-18**|**RoIt-XMASA: Multi-Domain Multilingual Sentiment Analysis Dataset for Romanian and Italian**|Andrei-Marius Avram et.al.|[2604.17134](http://arxiv.org/abs/2604.17134)|null|
 |**2026-04-18**|**HELO-APR: Enhancing Low-Resource Program Repair through Cross-Lingual Knowledge Transfer**|Zhipeng Wang et.al.|[2604.17016](http://arxiv.org/abs/2604.17016)|null|
 |**2026-04-18**|**BIASEDTALES-ML: A Multilingual Dataset for Analyzing Narrative Attribute Distributions in LLM-Generated Stories**|Yuxuan Ouyang et.al.|[2604.17008](http://arxiv.org/abs/2604.17008)|null|
-|**2026-04-18**|**x1: Learning to Think Adaptively Across Languages and Cultures**|Yangfan Ye et.al.|[2604.16917](http://arxiv.org/abs/2604.16917)|**[link](https://github.com/YYF-Tommy/x1-adaptive-multilingual-reasoning)**|
+|**2026-04-18**|**x1: Learning to Think Adaptively Across Languages and Cultures**|Yangfan Ye et.al.|[2604.16917](http://arxiv.org/abs/2604.16917)|null|
 |**2026-04-17**|**Optimizing Korean-Centric LLMs via Token Pruning**|Hoyeol Kim et.al.|[2604.16235](http://arxiv.org/abs/2604.16235)|null|
 |**2026-04-17**|**C-Mining: Unsupervised Discovery of Seeds for Cultural Data Synthesis via Geometric Misalignment**|Pufan Zeng et.al.|[2604.15675](http://arxiv.org/abs/2604.15675)|null|
 |**2026-04-16**|**Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch**|Eleanor M. Lin et.al.|[2604.15490](http://arxiv.org/abs/2604.15490)|null|
@@ -2089,7 +2089,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-19**|**Towards a Data-Parameter Correspondence for LLMs: A Preliminary Discussion**|Ou Wu et.al.|[2604.17384](http://arxiv.org/abs/2604.17384)|null|
 |**2026-04-19**|**Leveraging Kernel Symmetry for Joint Compression and Error Mitigation in Edge Model Transfer**|Anis Hamadouche et.al.|[2604.17371](http://arxiv.org/abs/2604.17371)|null|
 |**2026-04-19**|**Towards Joint Quantization and Token Pruning of Vision-Language Models**|Xinqing Li et.al.|[2604.17320](http://arxiv.org/abs/2604.17320)|null|
-|**2026-04-19**|**CRISP: Compressing Redundancy in Chain-of-Thought via Intrinsic Saliency Pruning**|Yangsong Lan et.al.|[2604.17297](http://arxiv.org/abs/2604.17297)|**[link](https://github.com/yslanprime/CRISP)**|
+|**2026-04-19**|**CRISP: Compressing Redundancy in Chain-of-Thought via Intrinsic Saliency Pruning**|Yangsong Lan et.al.|[2604.17297](http://arxiv.org/abs/2604.17297)|null|
 |**2026-04-19**|**Depth Adaptive Efficient Visual Autoregressive Modeling**|Chunliang Li et.al.|[2604.17286](http://arxiv.org/abs/2604.17286)|null|
 |**2026-04-19**|**Guardrails in Logit Space: Safety Token Regularization for LLM Alignment**|Thong Bach et.al.|[2604.17210](http://arxiv.org/abs/2604.17210)|null|
 |**2026-04-19**|**Forecast Sports Outcomes under Efficient Market Hypothesis: Theoretical and Experimental Analysis of Odds-Only and Generalised Linear Models**|Kaito Goto et.al.|[2604.17194](http://arxiv.org/abs/2604.17194)|null|
@@ -5850,9 +5850,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-07**|**CLIP-Guided Data Augmentation for Night-Time Image Dehazing**|Xining Ge et.al.|[2604.05500](http://arxiv.org/abs/2604.05500)|null|
 |**2026-04-07**|**Reproducing AlphaZero on Tablut: Self-Play RL for an Asymmetric Board Game**|Tõnis Lees et.al.|[2604.05476](http://arxiv.org/abs/2604.05476)|null|
 |**2026-04-07**|**Data-Driven Function Calling Improvements in Large Language Model for Online Financial QA**|Xing Tang et.al.|[2604.05387](http://arxiv.org/abs/2604.05387)|null|
-|**2026-04-07**|**Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models**|Yizhou Dang et.al.|[2604.05309](http://arxiv.org/abs/2604.05309)|**[link](https://github.com/KingGugu/SSS4SR)**|
+|**2026-04-07**|**Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models**|Yizhou Dang et.al.|[2604.05309](http://arxiv.org/abs/2604.05309)|null|
 |**2026-04-06**|**A Patch-based Cross-view Regularized Framework for Backdoor Defense in Multimodal Large Language Models**|Tianmeng Fang et.al.|[2604.04488](http://arxiv.org/abs/2604.04488)|null|
-|**2026-04-06**|**Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection**|Weihao Cao et.al.|[2604.04444](http://arxiv.org/abs/2604.04444)|**[link](https://github.com/jokercao6/HSA-DINO)**|
+|**2026-04-06**|**Parameter-Efficient Semantic Augmentation for Enhancing Open-Vocabulary Object Detection**|Weihao Cao et.al.|[2604.04444](http://arxiv.org/abs/2604.04444)|null|
 |**2026-04-05**|**Measuring Robustness of Speech Recognition from MEG Signals Under Distribution Shift**|Sheng-You Chien et.al.|[2604.04129](http://arxiv.org/abs/2604.04129)|null|
 |**2026-04-04**|**Build on Priors: Vision--Language--Guided Neuro-Symbolic Imitation Learning for Data-Efficient Real-World Robot Manipulation**|Pierrick Lorang et.al.|[2604.03759](http://arxiv.org/abs/2604.03759)|null|
 |**2026-04-04**|**Learning Superpixel Ensemble and Hierarchy Graphs for Melanoma Detection**|Asmaa M. Elwer et.al.|[2604.03710](http://arxiv.org/abs/2604.03710)|null|
