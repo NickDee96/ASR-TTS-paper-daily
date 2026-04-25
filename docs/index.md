@@ -39,7 +39,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-23**|**Do LLM Decoders Listen Fairly? Benchmarking How Language Model Priors Shape Bias in Speech Recognition**|Srishti Ginjala et.al.|[2604.21276](http://arxiv.org/abs/2604.21276)|null|
 |**2026-04-22**|**"This Wasn't Made for Me": Recentering User Experience and Emotional Impact in the Evaluation of ASR Bias**|Siyu Liang et.al.|[2604.21148](http://arxiv.org/abs/2604.21148)|null|
 |**2026-04-22**|**Aligning Stuttered-Speech Research with End-User Needs: Scoping Review, Survey, and Guidelines**|Hawau Olamide Toyin et.al.|[2604.20535](http://arxiv.org/abs/2604.20535)|null|
-|**2026-04-22**|**ATIR: Towards Audio-Text Interleaved Contextual Retrieval**|Tong Zhao et.al.|[2604.20267](http://arxiv.org/abs/2604.20267)|null|
+|**2026-04-22**|**ATIR: Towards Audio-Text Interleaved Contextual Retrieval**|Tong Zhao et.al.|[2604.20267](http://arxiv.org/abs/2604.20267)|**[link](https://github.com/VincentZhao2002/ATIR)**|
 |**2026-04-10**|**Utterance-Level Methods for Identifying Reliable ASR-Output for Child Speech**|Gus Lathouwers et.al.|[2604.19801](http://arxiv.org/abs/2604.19801)|null|
 |**2026-04-21**|**Detecting Hallucinations in SpeechLLMs at Inference Time Using Attention Maps**|Jonas Waldendorf et.al.|[2604.19565](http://arxiv.org/abs/2604.19565)|null|
 |**2026-04-21**|**Voice of India: A Large-Scale Benchmark for Real-World Speech Recognition in India**|Kaushal Bhogale et.al.|[2604.19151](http://arxiv.org/abs/2604.19151)|null|
@@ -1290,7 +1290,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-23**|**FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation**|Jinhee Jang et.al.|[2604.21420](http://arxiv.org/abs/2604.21420)|null|
 |**2026-04-23**|**MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization**|Maziar Kianimoghadam Jouneghani et.al.|[2604.21370](http://arxiv.org/abs/2604.21370)|null|
 |**2026-04-22**|**COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling**|Noah Flynn et.al.|[2604.20720](http://arxiv.org/abs/2604.20720)|null|
-|**2026-04-22**|**ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**|Ioannis E. Livieris et.al.|[2604.20666](http://arxiv.org/abs/2604.20666)|null|
+|**2026-04-22**|**ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**|Ioannis E. Livieris et.al.|[2604.20666](http://arxiv.org/abs/2604.20666)|**[link](https://github.com/Arxiv-to-code/arxiv-260420666-orpheas-a-cross-lingual-greek-english-embedding-model-for-re)**|
 |**2026-04-22**|**Toward Cross-Lingual Quality Classifiers for Multilingual Pretraining Data Selection**|Yassine Turki et.al.|[2604.20549](http://arxiv.org/abs/2604.20549)|null|
 |**2026-04-22**|**Effects of Cross-lingual Evidence in Multilingual Medical Question Answering**|Anar Yeginbergen et.al.|[2604.20531](http://arxiv.org/abs/2604.20531)|null|
 |**2026-04-22**|**An Explainable Approach to Document-level Translation Evaluation with Topic Modeling**|Hyeokmin Lee et.al.|[2604.20334](http://arxiv.org/abs/2604.20334)|null|
@@ -1311,7 +1311,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-18**|**RoIt-XMASA: Multi-Domain Multilingual Sentiment Analysis Dataset for Romanian and Italian**|Andrei-Marius Avram et.al.|[2604.17134](http://arxiv.org/abs/2604.17134)|null|
 |**2026-04-18**|**HELO-APR: Enhancing Low-Resource Program Repair through Cross-Lingual Knowledge Transfer**|Zhipeng Wang et.al.|[2604.17016](http://arxiv.org/abs/2604.17016)|null|
 |**2026-04-18**|**BIASEDTALES-ML: A Multilingual Dataset for Analyzing Narrative Attribute Distributions in LLM-Generated Stories**|Yuxuan Ouyang et.al.|[2604.17008](http://arxiv.org/abs/2604.17008)|null|
-|**2026-04-18**|**x1: Learning to Think Adaptively Across Languages and Cultures**|Yangfan Ye et.al.|[2604.16917](http://arxiv.org/abs/2604.16917)|null|
+|**2026-04-18**|**x1: Learning to Think Adaptively Across Languages and Cultures**|Yangfan Ye et.al.|[2604.16917](http://arxiv.org/abs/2604.16917)|**[link](https://github.com/YYF-Tommy/x1-adaptive-multilingual-reasoning)**|
 |**2026-04-17**|**Optimizing Korean-Centric LLMs via Token Pruning**|Hoyeol Kim et.al.|[2604.16235](http://arxiv.org/abs/2604.16235)|null|
 |**2026-04-17**|**C-Mining: Unsupervised Discovery of Seeds for Cultural Data Synthesis via Geometric Misalignment**|Pufan Zeng et.al.|[2604.15675](http://arxiv.org/abs/2604.15675)|null|
 |**2026-04-16**|**Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch**|Eleanor M. Lin et.al.|[2604.15490](http://arxiv.org/abs/2604.15490)|null|
