@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.25**
+📅 **Updated on 2026.04.26**
 
 ---
 
@@ -757,12 +757,12 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-04-23**|**Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages**|Srija Anand et.al.|[2604.21481](http://arxiv.org/abs/2604.21481)|null|
-|**2026-04-23**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|null|
+|**2026-04-23**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|**[link](https://github.com/yongaifadian1/MAGIC-TTS)**|
 |**2026-04-21**|**Text-To-Speech with Chain-of-Details: modeling temporal dynamics in speech generation**|Jianbo Ma et.al.|[2604.19330](http://arxiv.org/abs/2604.19330)|null|
 |**2026-04-23**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-20**|**MINT-Bench: A Comprehensive Multilingual Benchmark for Instruction-Following Text-to-Speech**|Huakang Chen et.al.|[2604.17958](http://arxiv.org/abs/2604.17958)|null|
 |**2026-04-21**|**SCATR: Simple Calibrated Test-Time Ranking**|Divya Shyamal et.al.|[2604.16535](http://arxiv.org/abs/2604.16535)|null|
-|**2026-04-21**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|
+|**2026-04-21**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|**[link](https://github.com/lmxue/NVBench)**|
 |**2026-04-17**|**AST: Adaptive, Seamless, and Training-Free Precise Speech Editing**|Sihan Lv et.al.|[2604.16056](http://arxiv.org/abs/2604.16056)|null|
 |**2026-04-17**|**AgentV-RL: Scaling Reward Modeling with Agentic Verifier**|Jiazheng Zhang et.al.|[2604.16004](http://arxiv.org/abs/2604.16004)|null|
 |**2026-04-21**|**Qwen3.5-Omni Technical Report**|Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
@@ -1329,7 +1329,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-23**|**FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation**|Jinhee Jang et.al.|[2604.21420](http://arxiv.org/abs/2604.21420)|null|
 |**2026-04-23**|**MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization**|Maziar Kianimoghadam Jouneghani et.al.|[2604.21370](http://arxiv.org/abs/2604.21370)|null|
 |**2026-04-22**|**COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling**|Noah Flynn et.al.|[2604.20720](http://arxiv.org/abs/2604.20720)|null|
-|**2026-04-22**|**ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**|Ioannis E. Livieris et.al.|[2604.20666](http://arxiv.org/abs/2604.20666)|**[link](https://github.com/Arxiv-to-code/arxiv-260420666-orpheas-a-cross-lingual-greek-english-embedding-model-for-re)**|
+|**2026-04-22**|**ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**|Ioannis E. Livieris et.al.|[2604.20666](http://arxiv.org/abs/2604.20666)|null|
 |**2026-04-22**|**Toward Cross-Lingual Quality Classifiers for Multilingual Pretraining Data Selection**|Yassine Turki et.al.|[2604.20549](http://arxiv.org/abs/2604.20549)|null|
 |**2026-04-22**|**Effects of Cross-lingual Evidence in Multilingual Medical Question Answering**|Anar Yeginbergen et.al.|[2604.20531](http://arxiv.org/abs/2604.20531)|null|
 |**2026-04-22**|**An Explainable Approach to Document-level Translation Evaluation with Topic Modeling**|Hyeokmin Lee et.al.|[2604.20334](http://arxiv.org/abs/2604.20334)|null|
@@ -1350,7 +1350,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-18**|**RoIt-XMASA: Multi-Domain Multilingual Sentiment Analysis Dataset for Romanian and Italian**|Andrei-Marius Avram et.al.|[2604.17134](http://arxiv.org/abs/2604.17134)|null|
 |**2026-04-18**|**HELO-APR: Enhancing Low-Resource Program Repair through Cross-Lingual Knowledge Transfer**|Zhipeng Wang et.al.|[2604.17016](http://arxiv.org/abs/2604.17016)|null|
 |**2026-04-18**|**BIASEDTALES-ML: A Multilingual Dataset for Analyzing Narrative Attribute Distributions in LLM-Generated Stories**|Yuxuan Ouyang et.al.|[2604.17008](http://arxiv.org/abs/2604.17008)|null|
-|**2026-04-18**|**x1: Learning to Think Adaptively Across Languages and Cultures**|Yangfan Ye et.al.|[2604.16917](http://arxiv.org/abs/2604.16917)|**[link](https://github.com/YYF-Tommy/x1-adaptive-multilingual-reasoning)**|
+|**2026-04-18**|**x1: Learning to Think Adaptively Across Languages and Cultures**|Yangfan Ye et.al.|[2604.16917](http://arxiv.org/abs/2604.16917)|null|
 |**2026-04-17**|**Optimizing Korean-Centric LLMs via Token Pruning**|Hoyeol Kim et.al.|[2604.16235](http://arxiv.org/abs/2604.16235)|null|
 |**2026-04-17**|**C-Mining: Unsupervised Discovery of Seeds for Cultural Data Synthesis via Geometric Misalignment**|Pufan Zeng et.al.|[2604.15675](http://arxiv.org/abs/2604.15675)|null|
 |**2026-04-16**|**Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch**|Eleanor M. Lin et.al.|[2604.15490](http://arxiv.org/abs/2604.15490)|null|

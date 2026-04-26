@@ -1229,7 +1229,7 @@
     "2604.12456": "|**2026-04-22**|**X-VC: Zero-shot Streaming Voice Conversion in Codec Space**|Qixi Zheng et.al.|[2604.12456](http://arxiv.org/abs/2604.12456)|null|\n",
     "2604.12438": "|**2026-04-14**|**An Ultra-Low Latency, End-to-End Streaming Speech Synthesis Architecture via Block-Wise Generation and Depth-Wise Codec Decoding**|Tianhui Su et.al.|[2604.12438](http://arxiv.org/abs/2604.12438)|null|\n",
     "2604.14820": "|**2026-04-16**|**SWE-TRACE: Optimizing Long-Horizon SWE Agents Through Rubric Process Reward Models and Heuristic Test-Time Scaling**|Hao Han et.al.|[2604.14820](http://arxiv.org/abs/2604.14820)|null|\n",
-    "2604.16211": "|**2026-04-21**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|\n",
+    "2604.16211": "|**2026-04-21**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|**[link](https://github.com/lmxue/NVBench)**|\n",
     "2604.16056": "|**2026-04-17**|**AST: Adaptive, Seamless, and Training-Free Precise Speech Editing**|Sihan Lv et.al.|[2604.16056](http://arxiv.org/abs/2604.16056)|null|\n",
     "2604.16004": "|**2026-04-17**|**AgentV-RL: Scaling Reward Modeling with Agentic Verifier**|Jiazheng Zhang et.al.|[2604.16004](http://arxiv.org/abs/2604.16004)|null|\n",
     "2604.15804": "|**2026-04-21**|**Qwen3.5-Omni Technical Report**|Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|\n",
@@ -1238,7 +1238,7 @@
     "2604.19330": "|**2026-04-21**|**Text-To-Speech with Chain-of-Details: modeling temporal dynamics in speech generation**|Jianbo Ma et.al.|[2604.19330](http://arxiv.org/abs/2604.19330)|null|\n",
     "2604.19055": "|**2026-04-23**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|\n",
     "2604.21481": "|**2026-04-23**|**Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages**|Srija Anand et.al.|[2604.21481](http://arxiv.org/abs/2604.21481)|null|\n",
-    "2604.21164": "|**2026-04-23**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|null|\n"
+    "2604.21164": "|**2026-04-23**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|**[link](https://github.com/yongaifadian1/MAGIC-TTS)**|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -2007,13 +2007,13 @@
     "2604.17134": "|**2026-04-18**|**RoIt-XMASA: Multi-Domain Multilingual Sentiment Analysis Dataset for Romanian and Italian**|Andrei-Marius Avram et.al.|[2604.17134](http://arxiv.org/abs/2604.17134)|null|\n",
     "2604.17016": "|**2026-04-18**|**HELO-APR: Enhancing Low-Resource Program Repair through Cross-Lingual Knowledge Transfer**|Zhipeng Wang et.al.|[2604.17016](http://arxiv.org/abs/2604.17016)|null|\n",
     "2604.17008": "|**2026-04-18**|**BIASEDTALES-ML: A Multilingual Dataset for Analyzing Narrative Attribute Distributions in LLM-Generated Stories**|Yuxuan Ouyang et.al.|[2604.17008](http://arxiv.org/abs/2604.17008)|null|\n",
-    "2604.16917": "|**2026-04-18**|**x1: Learning to Think Adaptively Across Languages and Cultures**|Yangfan Ye et.al.|[2604.16917](http://arxiv.org/abs/2604.16917)|**[link](https://github.com/YYF-Tommy/x1-adaptive-multilingual-reasoning)**|\n",
+    "2604.16917": "|**2026-04-18**|**x1: Learning to Think Adaptively Across Languages and Cultures**|Yangfan Ye et.al.|[2604.16917](http://arxiv.org/abs/2604.16917)|null|\n",
     "2604.19678": "|**2026-04-21**|**Exploring Language-Agnosticity in Function Vectors: A Case Study in Machine Translation**|Nurkhan Laiyk et.al.|[2604.19678](http://arxiv.org/abs/2604.19678)|null|\n",
     "2604.19405": "|**2026-04-21**|**Lost in Translation: Do LVLM Judges Generalize Across Languages?**|Md Tahmid Rahman Laskar et.al.|[2604.19405](http://arxiv.org/abs/2604.19405)|null|\n",
     "2604.19144": "|**2026-04-21**|**ReflectMT: Internalizing Reflection for Efficient and High-Quality Machine Translation**|Kunquan Li et.al.|[2604.19144](http://arxiv.org/abs/2604.19144)|null|\n",
     "2604.18758": "|**2026-04-20**|**Syntax as a Rosetta Stone: Universal Dependencies for In-Context Coptic Translation**|Abhishek Purushothama et.al.|[2604.18758](http://arxiv.org/abs/2604.18758)|null|\n",
     "2604.20720": "|**2026-04-22**|**COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling**|Noah Flynn et.al.|[2604.20720](http://arxiv.org/abs/2604.20720)|null|\n",
-    "2604.20666": "|**2026-04-22**|**ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**|Ioannis E. Livieris et.al.|[2604.20666](http://arxiv.org/abs/2604.20666)|**[link](https://github.com/Arxiv-to-code/arxiv-260420666-orpheas-a-cross-lingual-greek-english-embedding-model-for-re)**|\n",
+    "2604.20666": "|**2026-04-22**|**ORPHEAS: A Cross-Lingual Greek-English Embedding Model for Retrieval-Augmented Generation**|Ioannis E. Livieris et.al.|[2604.20666](http://arxiv.org/abs/2604.20666)|null|\n",
     "2604.20549": "|**2026-04-22**|**Toward Cross-Lingual Quality Classifiers for Multilingual Pretraining Data Selection**|Yassine Turki et.al.|[2604.20549](http://arxiv.org/abs/2604.20549)|null|\n",
     "2604.20531": "|**2026-04-22**|**Effects of Cross-lingual Evidence in Multilingual Medical Question Answering**|Anar Yeginbergen et.al.|[2604.20531](http://arxiv.org/abs/2604.20531)|null|\n",
     "2604.20334": "|**2026-04-22**|**An Explainable Approach to Document-level Translation Evaluation with Topic Modeling**|Hyeokmin Lee et.al.|[2604.20334](http://arxiv.org/abs/2604.20334)|null|\n",
