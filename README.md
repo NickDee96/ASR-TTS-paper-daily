@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.04.27**
+📅 **Updated on 2026.04.28**
 
 ---
 
@@ -1364,7 +1364,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-16**|**Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch**|Eleanor M. Lin et.al.|[2604.15490](http://arxiv.org/abs/2604.15490)|null|
 |**2026-04-16**|**Fabricator or dynamic translator?**|Lisa Vasileva et.al.|[2604.15165](http://arxiv.org/abs/2604.15165)|null|
 |**2026-04-19**|**XQ-MEval: A Dataset with Cross-lingual Parallel Quality for Benchmarking Translation Metrics**|Jingxuan Liu et.al.|[2604.14934](http://arxiv.org/abs/2604.14934)|null|
-|**2026-04-15**|**Generating Concept Lexicalizations via Dictionary-Based Cross-Lingual Sense Projection**|David Basil et.al.|[2604.14397](http://arxiv.org/abs/2604.14397)|null|
+|**2026-04-15**|**Generating Concept Lexicalizations via Dictionary-Based Cross-Lingual Sense Projection**|David Basil et.al.|[2604.14397](http://arxiv.org/abs/2604.14397)|**[link](https://github.com/UAlberta-NLP/ExpandNet)**|
 |**2026-04-23**|**EuropeMedQA Study Protocol: A Multilingual, Multimodal Medical Examination Dataset for Language Model Evaluation**|Francesco Andrea Causio et.al.|[2604.14306](http://arxiv.org/abs/2604.14306)|null|
 |**2026-04-15**|**IndicDB -- Benchmarking Multilingual Text-to-SQL Capabilities in Indian Languages**|Aviral Dawar et.al.|[2604.13686](http://arxiv.org/abs/2604.13686)|null|
 |**2026-04-14**|**English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training**|Mehak Dhaliwal et.al.|[2604.13286](http://arxiv.org/abs/2604.13286)|null|
@@ -2159,7 +2159,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-23**|**On the Role of Preprocessing and Memristor Dynamics in Reservoir Computing for Image Classification**|Rishona Daniels et.al.|[2604.21602](http://arxiv.org/abs/2604.21602)|null|
 |**2026-04-23**|**Quantization of nilpotent coadjoint $GL_N$ -orbit closures in positive characteristics**|Filippo Ambrosio et.al.|[2604.21597](http://arxiv.org/abs/2604.21597)|null|
 |**2026-04-23**|**Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation**|Nikita Severin et.al.|[2604.21536](http://arxiv.org/abs/2604.21536)|null|
-|**2026-04-23**|**VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution**|Yixuan Zhu et.al.|[2604.21450](http://arxiv.org/abs/2604.21450)|**[link](https://github.com/EternalEvan/VARestorer)**|
+|**2026-04-23**|**VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution**|Yixuan Zhu et.al.|[2604.21450](http://arxiv.org/abs/2604.21450)|null|
 |**2026-04-23**|**Third Quantization for Order Parameter (I): BCS-BEC crossover with macroscopically coherent state**|Guo-Jian Qiao et.al.|[2604.21288](http://arxiv.org/abs/2604.21288)|null|
 |**2026-04-23**|**ImageHD: Energy-Efficient On-Device Continual Learning of Visual Representations via Hyperdimensional Computing**|Jebacyril Arockiaraj et.al.|[2604.21280](http://arxiv.org/abs/2604.21280)|null|
 |**2026-04-23**|**Listen and Chant Before You Read: The Ladder of Beauty in LM Pre-Training**|Yoshinori Nomura et.al.|[2604.21265](http://arxiv.org/abs/2604.21265)|null|
@@ -7097,7 +7097,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-22**|**Synthetic Data in Education: Empirical Insights from Traditional Resampling and Deep Generative Models**|Tapiwa Amion Chinodakufa et.al.|[2604.21031](http://arxiv.org/abs/2604.21031)|null|
 |**2026-04-22**|**Open-H-Embodiment: A Large-Scale Dataset for Enabling Foundation Models in Medical Robotics**|Open-H-Embodiment Consortium et.al.|[2604.21017](http://arxiv.org/abs/2604.21017)|null|
 |**2026-04-22**|**SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**|Ruohan Liu et.al.|[2604.20842](http://arxiv.org/abs/2604.20842)|null|
-|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|null|
+|**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841](http://arxiv.org/abs/2604.20841)|**[link](https://github.com/snuvclab/devi)**|
 |**2026-04-22**|**Autonomous Emergence of Hamiltonian in Deep Generative Models**|Wenjie Xi et.al.|[2604.20821](http://arxiv.org/abs/2604.20821)|null|
 |**2026-04-22**|**Generative Flow Networks for Model Adaptation in Digital Twins of Natural Systems**|Pascal Archambault et.al.|[2604.20707](http://arxiv.org/abs/2604.20707)|null|
 |**2026-04-22**|**Image Generators are Generalist Vision Learners**|Valentin Gabeur et.al.|[2604.20329](http://arxiv.org/abs/2604.20329)|null|
@@ -7117,7 +7117,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-20**|**Model in Distress: Sentiment Analysis on French Synthetic Social Media**|Pierre-Carl Langlais et.al.|[2604.18226](http://arxiv.org/abs/2604.18226)|null|
 |**2026-04-20**|**Class-specific diffusion models improve military object detection in a low-data domain**|Ella P. Fokkinga et.al.|[2604.18076](http://arxiv.org/abs/2604.18076)|null|
 |**2026-04-20**|**PlankFormer: Robust Plankton Instance Segmentation via MAE-Pretrained Vision Transformers and Pseudo Community Image Generation**|Masaharu Miyazaki et.al.|[2604.17856](http://arxiv.org/abs/2604.17856)|null|
-|**2026-04-21**|**IncreFA: Breaking the Static Wall of Generative Model Attribution**|Haotian Qin et.al.|[2604.17736](http://arxiv.org/abs/2604.17736)|**[link](https://github.com/Ant0ny44/IncreFA)**|
+|**2026-04-21**|**IncreFA: Breaking the Static Wall of Generative Model Attribution**|Haotian Qin et.al.|[2604.17736](http://arxiv.org/abs/2604.17736)|null|
 |**2026-04-19**|**Prior-Fitted Functional Flow: In-Context Generative Models for Pharmacokinetics**|César Ojeda et.al.|[2604.17670](http://arxiv.org/abs/2604.17670)|null|
 |**2026-04-19**|**HCFD: A Benchmark for Audio Deepfake Detection in Healthcare**|Mohd Mujtaba Akhtar et.al.|[2604.17642](http://arxiv.org/abs/2604.17642)|null|
 |**2026-04-19**|**Contrastive Analysis of Linguistic Representations in Large Language Model Outputs through Structured Synthetic Data Generation and Abstracted N-gram Associations**|S. A. Desimone et.al.|[2604.17398](http://arxiv.org/abs/2604.17398)|null|
