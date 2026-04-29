@@ -1330,12 +1330,16 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Machine Translation
 
-*📊 791 papers*
+*📊 795 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-04-28**|**Cross-Lingual Jailbreak Detection via Semantic Codebooks**|Shirin Alanova et.al.|[2604.25716](http://arxiv.org/abs/2604.25716)|null|
+|**2026-04-28**|**Backtranslation Augmented Direct Preference Optimization for Neural Machine Translation**|Mehrdad Ghassabi et.al.|[2604.25702](http://arxiv.org/abs/2604.25702)|null|
+|**2026-04-28**|**CroSearch-R1: Better Leveraging Cross-lingual Knowledge for Retrieval-Augmented Generation**|Rui Qi et.al.|[2604.25182](http://arxiv.org/abs/2604.25182)|null|
+|**2026-04-27**|**GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation**|Yunsu Kim et.al.|[2604.24929](http://arxiv.org/abs/2604.24929)|null|
 |**2026-04-27**|**Culture-Aware Machine Translation in Large Language Models: Benchmarking and Investigation**|Zekun Yuan et.al.|[2604.24361](http://arxiv.org/abs/2604.24361)|null|
 |**2026-04-27**|**IRIS: Interleaved Reinforcement with Incremental Staged Curriculum for Cross-Lingual Mathematical Reasoning**|Navya Gupta et.al.|[2604.24114](http://arxiv.org/abs/2604.24114)|null|
 |**2026-04-26**|**Translate or Simplify First: An Analysis of Cross-lingual Text Simplification in English and French**|Ido Dahan et.al.|[2604.23844](http://arxiv.org/abs/2604.23844)|null|
@@ -7144,12 +7148,19 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 1693 papers*
+*📊 1700 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-04-28**|**VAE-Inf: A statistically interpretable generative paradigm for imbalanced classification**|Hongfei Wu et.al.|[2604.25334](http://arxiv.org/abs/2604.25334)|null|
+|**2026-04-28**|**Exploring Time Conditioning in Diffusion Generative Models from Disjoint Noisy Data Manifolds**|Liuzhuozheng Li et.al.|[2604.25289](http://arxiv.org/abs/2604.25289)|null|
+|**2026-04-28**|**Prior-Aligned Data Cleaning for Tabular Foundation Models**|Laure Berti-Equille et.al.|[2604.25154](http://arxiv.org/abs/2604.25154)|null|
+|**2026-04-28**|**Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM**|Vinith M. Suriyakumar et.al.|[2604.25119](http://arxiv.org/abs/2604.25119)|null|
+|**2026-04-27**|**Sparse Personalized Text Generation with Multi-Trajectory Reasoning**|Bo Ni et.al.|[2604.24996](http://arxiv.org/abs/2604.24996)|null|
+|**2026-04-27**|**CoreFlow: Low-Rank Matrix Generative Models**|Dongze Wu et.al.|[2604.24959](http://arxiv.org/abs/2604.24959)|null|
+|**2026-04-27**|**MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives**|Tingwu Wang et.al.|[2604.24833](http://arxiv.org/abs/2604.24833)|null|
 |**2026-04-27**|**MIMIC: A Generative Multimodal Foundation Model for Biomolecules**|Siavash Golkar et.al.|[2604.24506](http://arxiv.org/abs/2604.24506)|null|
 |**2026-04-27**|**Seeing Is No Longer Believing: Frontier Image Generation Models, Synthetic Visual Evidence, and Real-World Risk**|Shuai Wu et.al.|[2604.24197](http://arxiv.org/abs/2604.24197)|null|
 |**2026-04-27**|**POCA: Pareto-Optimal Curriculum Alignment for Visual Text Generation**|Yaohou Fan et.al.|[2604.24171](http://arxiv.org/abs/2604.24171)|null|

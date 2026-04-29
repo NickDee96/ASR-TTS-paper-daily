@@ -2042,7 +2042,11 @@
     "2604.24114": "|**2026-04-27**|**IRIS: Interleaved Reinforcement with Incremental Staged Curriculum for Cross-Lingual Mathematical Reasoning**|Navya Gupta et.al.|[2604.24114](http://arxiv.org/abs/2604.24114)|null|\n",
     "2604.23844": "|**2026-04-26**|**Translate or Simplify First: An Analysis of Cross-lingual Text Simplification in English and French**|Ido Dahan et.al.|[2604.23844](http://arxiv.org/abs/2604.23844)|null|\n",
     "2604.23589": "|**2026-04-26**|**XITE: Cross-lingual Interpolation for Transfer using Embeddings**|Barah Fazili et.al.|[2604.23589](http://arxiv.org/abs/2604.23589)|null|\n",
-    "2604.23396": "|**2026-04-25**|**Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval**|Kidist Amde Mekonnen et.al.|[2604.23396](http://arxiv.org/abs/2604.23396)|null|\n"
+    "2604.23396": "|**2026-04-25**|**Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval**|Kidist Amde Mekonnen et.al.|[2604.23396](http://arxiv.org/abs/2604.23396)|null|\n",
+    "2604.25716": "|**2026-04-28**|**Cross-Lingual Jailbreak Detection via Semantic Codebooks**|Shirin Alanova et.al.|[2604.25716](http://arxiv.org/abs/2604.25716)|null|\n",
+    "2604.25702": "|**2026-04-28**|**Backtranslation Augmented Direct Preference Optimization for Neural Machine Translation**|Mehrdad Ghassabi et.al.|[2604.25702](http://arxiv.org/abs/2604.25702)|null|\n",
+    "2604.25182": "|**2026-04-28**|**CroSearch-R1: Better Leveraging Cross-lingual Knowledge for Retrieval-Augmented Generation**|Rui Qi et.al.|[2604.25182](http://arxiv.org/abs/2604.25182)|null|\n",
+    "2604.24929": "|**2026-04-27**|**GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation**|Yunsu Kim et.al.|[2604.24929](http://arxiv.org/abs/2604.24929)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -8707,6 +8711,13 @@
     "2604.23350": "|**2026-04-25**|**GeoFunFlow-3D: A Physics-Guided Generative Flow Matching Framework for High-Fidelity 3D Aerodynamic Inference over Complex Geometries**|Ruiling Jiang et.al.|[2604.23350](http://arxiv.org/abs/2604.23350)|null|\n",
     "2604.22993": "|**2026-04-24**|**Passage of particles through matter and the effective straggling-function: High-fidelity accelerated simulation via Physics-Informed Machine Learning**|Oleksandr Borysov et.al.|[2604.22993](http://arxiv.org/abs/2604.22993)|null|\n",
     "2604.22989": "|**2026-04-24**|**CheXmix: Unified Generative Pretraining for Vision Language Models in Medical Imaging**|Ashwin Kumar et.al.|[2604.22989](http://arxiv.org/abs/2604.22989)|null|\n",
-    "2604.22847": "|**2026-04-22**|**Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes**|Tim Merino et.al.|[2604.22847](http://arxiv.org/abs/2604.22847)|null|\n"
+    "2604.22847": "|**2026-04-22**|**Dream-Cubed: Controllable Generative Modeling in Minecraft by Training on Billions of Cubes**|Tim Merino et.al.|[2604.22847](http://arxiv.org/abs/2604.22847)|null|\n",
+    "2604.25334": "|**2026-04-28**|**VAE-Inf: A statistically interpretable generative paradigm for imbalanced classification**|Hongfei Wu et.al.|[2604.25334](http://arxiv.org/abs/2604.25334)|null|\n",
+    "2604.25289": "|**2026-04-28**|**Exploring Time Conditioning in Diffusion Generative Models from Disjoint Noisy Data Manifolds**|Liuzhuozheng Li et.al.|[2604.25289](http://arxiv.org/abs/2604.25289)|null|\n",
+    "2604.25154": "|**2026-04-28**|**Prior-Aligned Data Cleaning for Tabular Foundation Models**|Laure Berti-Equille et.al.|[2604.25154](http://arxiv.org/abs/2604.25154)|null|\n",
+    "2604.25119": "|**2026-04-28**|**Evaluation without Generation: Non-Generative Assessment of Harmful Model Specialization with Applications to CSAM**|Vinith M. Suriyakumar et.al.|[2604.25119](http://arxiv.org/abs/2604.25119)|null|\n",
+    "2604.24996": "|**2026-04-27**|**Sparse Personalized Text Generation with Multi-Trajectory Reasoning**|Bo Ni et.al.|[2604.24996](http://arxiv.org/abs/2604.24996)|null|\n",
+    "2604.24959": "|**2026-04-27**|**CoreFlow: Low-Rank Matrix Generative Models**|Dongze Wu et.al.|[2604.24959](http://arxiv.org/abs/2604.24959)|null|\n",
+    "2604.24833": "|**2026-04-27**|**MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives**|Tingwu Wang et.al.|[2604.24833](http://arxiv.org/abs/2604.24833)|null|\n"
   }
 }
