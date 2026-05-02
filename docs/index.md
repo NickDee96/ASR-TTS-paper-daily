@@ -1312,7 +1312,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-30**|**Beyond Semantics: Measuring Fine-Grained Emotion Preservation in Small Language Model-Based Machine Translation**|Dawid Wisniewski et.al.|[2604.27920](http://arxiv.org/abs/2604.27920)|**[link](https://github.com/dwisniewski/mt_emo)**|
+|**2026-04-30**|**Beyond Semantics: Measuring Fine-Grained Emotion Preservation in Small Language Model-Based Machine Translation**|Dawid Wisniewski et.al.|[2604.27920](http://arxiv.org/abs/2604.27920)|null|
 |**2026-04-30**|**Language Ideologies in a Multilingual Society: An LLM-based Analysis of Luxembourgish News Comments**|Emilia Milano et.al.|[2604.27661](http://arxiv.org/abs/2604.27661)|null|
 |**2026-04-30**|**Cross-lingual Comparison of Research Funding Projects with Multilingual Sentence-BERT: Evidence from KAKENHI, NIH, NSF, and UKRI**|Miki Kimura-Ida et.al.|[2604.27315](http://arxiv.org/abs/2604.27315)|null|
 |**2026-04-29**|**Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs**|Serpil Karabüklü et.al.|[2604.27232](http://arxiv.org/abs/2604.27232)|null|
@@ -6112,7 +6112,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-20**|**Mix and Match: Context Pairing for Scalable Topic-Controlled Educational Summarisation**|Nathikan Yodthapa et.al.|[2604.18087](http://arxiv.org/abs/2604.18087)|null|
 |**2026-04-20**|**Heterogeneity in Formal Linguistic Competence of Language Models: Is Data the Real Bottleneck?**|H S V N S Kowndinya Renduchintala et.al.|[2604.17930](http://arxiv.org/abs/2604.17930)|null|
 |**2026-04-20**|**LLM-AUG: Robust Wireless Data Augmentation with In-Context Learning in Large Language Models**|Pranshav Gajjar et.al.|[2604.17770](http://arxiv.org/abs/2604.17770)|null|
-|**2026-04-19**|**SegTTA: Training-Free Test-Time Augmentation for Zero-Shot Medical Imaging Segmentation**|Yihong Yao et.al.|[2604.17451](http://arxiv.org/abs/2604.17451)|null|
+|**2026-04-19**|**SegTTA: Training-Free Test-Time Augmentation for Zero-Shot Medical Imaging Segmentation**|Yihong Yao et.al.|[2604.17451](http://arxiv.org/abs/2604.17451)|**[link](https://github.com/AIGeeksGroup/SegTTA)**|
 |**2026-04-19**|**Improving post-operative discharge destination prediction of geriatric patients with generative data augmentation**|Pegah Golchian et.al.|[2604.17250](http://arxiv.org/abs/2604.17250)|null|
 |**2026-04-19**|**Cross-Modal Attention Analysis and Optimization in Vision-Language Models: A Study on Visual Reliability**|Lijie Zhou et.al.|[2604.17217](http://arxiv.org/abs/2604.17217)|null|
 |**2026-04-18**|**A Two-Stage Deep Learning Framework for Segmentation of Ten Gastrointestinal Organs from Coronal MR Enterography**|Ashiqur Rahman et.al.|[2604.17118](http://arxiv.org/abs/2604.17118)|null|
@@ -7176,13 +7176,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|**[link](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)**|
-|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|**[link](https://github.com/phyco-video/phyco-video.github.io)**|
-|**2026-04-30**|**Conditional Generative Models Enable Targeted Exploration of MAX Phase Design Space**|Jamie Swain et.al.|[2604.27709](http://arxiv.org/abs/2604.27709)|**[link](https://github.com/j-swaine/Conditional-Generation-of-MAX-Phases)**|
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
+|**2026-04-30**|**Conditional Generative Models Enable Targeted Exploration of MAX Phase Design Space**|Jamie Swain et.al.|[2604.27709](http://arxiv.org/abs/2604.27709)|null|
 |**2026-04-30**|**Generative structure search for efficient and diverse discovery of molecular and crystal structures**|Yifang Qin et.al.|[2604.27636](http://arxiv.org/abs/2604.27636)|null|
 |**2026-04-30**|**WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning**|Ke Xu et.al.|[2604.27629](http://arxiv.org/abs/2604.27629)|null|
 |**2026-04-30**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
-|**2026-04-30**|**Secure Cross-Silo Synthetic Genomic Data Generation**|Daniil Filienko et.al.|[2604.27456](http://arxiv.org/abs/2604.27456)|**[link](https://github.com/ppmluwt/federated-sdg-genomics)**|
+|**2026-04-30**|**Secure Cross-Silo Synthetic Genomic Data Generation**|Daniil Filienko et.al.|[2604.27456](http://arxiv.org/abs/2604.27456)|null|
 |**2026-04-30**|**From Coarse to Fine: Benchmarking and Reward Modeling for Writing-Centric Generation Tasks**|Qingyu Ren et.al.|[2604.27453](http://arxiv.org/abs/2604.27453)|null|
 |**2026-04-30**|**Sampler-Robust Optimization under Generative Models**|Ziwei Zhang et.al.|[2604.27447](http://arxiv.org/abs/2604.27447)|null|
 |**2026-04-30**|**Personalizing Cancer Models under Data Scarcity via Parameter Decomposition**|Logan Rose et.al.|[2604.27408](http://arxiv.org/abs/2604.27408)|null|
