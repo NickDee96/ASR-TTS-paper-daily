@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.01**
+📅 **Updated on 2026.05.02**
 
 ## 🌟 About This Repository
 
@@ -1312,7 +1312,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-30**|**Beyond Semantics: Measuring Fine-Grained Emotion Preservation in Small Language Model-Based Machine Translation**|Dawid Wisniewski et.al.|[2604.27920](http://arxiv.org/abs/2604.27920)|null|
+|**2026-04-30**|**Beyond Semantics: Measuring Fine-Grained Emotion Preservation in Small Language Model-Based Machine Translation**|Dawid Wisniewski et.al.|[2604.27920](http://arxiv.org/abs/2604.27920)|**[link](https://github.com/dwisniewski/mt_emo)**|
 |**2026-04-30**|**Language Ideologies in a Multilingual Society: An LLM-based Analysis of Luxembourgish News Comments**|Emilia Milano et.al.|[2604.27661](http://arxiv.org/abs/2604.27661)|null|
 |**2026-04-30**|**Cross-lingual Comparison of Research Funding Projects with Multilingual Sentence-BERT: Evidence from KAKENHI, NIH, NSF, and UKRI**|Miki Kimura-Ida et.al.|[2604.27315](http://arxiv.org/abs/2604.27315)|null|
 |**2026-04-29**|**Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs**|Serpil Karabüklü et.al.|[2604.27232](http://arxiv.org/abs/2604.27232)|null|
@@ -6086,7 +6086,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-25**|**Transferable Physical-World Adversarial Patches Against Object Detection in Autonomous Driving**|Zihui Zhu et.al.|[2604.23105](http://arxiv.org/abs/2604.23105)|null|
 |**2026-04-24**|**AnemiaVision: Non-Invasive Anemia Detection via Smartphone Imagery Using EfficientNet-B3 with TrivialAugmentWide, Mixup Augmentation, and Persistent Patient History Management**|Rahul Patel et.al.|[2604.22964](http://arxiv.org/abs/2604.22964)|null|
 |**2026-04-22**|**Accelerating New Product Introduction for Visual Quality Inspection via Few-Shot Diffusion-Based Defect Synthesis**|Serkan Hamdi Güğül et.al.|[2604.22850](http://arxiv.org/abs/2604.22850)|null|
-|**2026-04-24**|**GCImOpt: Learning efficient goal-conditioned policies by imitating optimal trajectories**|Jon Goikoetxea et.al.|[2604.22724](http://arxiv.org/abs/2604.22724)|**[link](https://github.com/jongoiko/gcimopt)**|
+|**2026-04-24**|**GCImOpt: Learning efficient goal-conditioned policies by imitating optimal trajectories**|Jon Goikoetxea et.al.|[2604.22724](http://arxiv.org/abs/2604.22724)|null|
 |**2026-04-24**|**Transferable Physical-World Adversarial Patches Against Pedestrian Detection Models**|Shihui Yan et.al.|[2604.22552](http://arxiv.org/abs/2604.22552)|null|
 |**2026-04-23**|**Scalable Multimodal Beam Alignment in V2X: An Anti-Imbalance Graph Learning Approach**|Jiahui Liang et.al.|[2604.21585](http://arxiv.org/abs/2604.21585)|null|
 |**2026-04-23**|**VFM $^{4}$ SDG: Unveiling the Power of VFMs for Single-Domain Generalized Object Detection**|Yupeng Zhang et.al.|[2604.21502](http://arxiv.org/abs/2604.21502)|null|
@@ -7176,13 +7176,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|null|
-|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|null|
-|**2026-04-30**|**Conditional Generative Models Enable Targeted Exploration of MAX Phase Design Space**|Jamie Swain et.al.|[2604.27709](http://arxiv.org/abs/2604.27709)|null|
+|**2026-04-30**|**Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling**|Keming Wu et.al.|[2604.28185](http://arxiv.org/abs/2604.28185)|**[link](https://github.com/EvolvingLMMs-Lab/Evolving-Visual-Generation)**|
+|**2026-04-30**|**PhyCo: Learning Controllable Physical Priors for Generative Motion**|Sriram Narayanan et.al.|[2604.28169](http://arxiv.org/abs/2604.28169)|**[link](https://github.com/phyco-video/phyco-video.github.io)**|
+|**2026-04-30**|**Conditional Generative Models Enable Targeted Exploration of MAX Phase Design Space**|Jamie Swain et.al.|[2604.27709](http://arxiv.org/abs/2604.27709)|**[link](https://github.com/j-swaine/Conditional-Generation-of-MAX-Phases)**|
 |**2026-04-30**|**Generative structure search for efficient and diverse discovery of molecular and crystal structures**|Yifang Qin et.al.|[2604.27636](http://arxiv.org/abs/2604.27636)|null|
 |**2026-04-30**|**WaferSAGE: Large Language Model-Powered Wafer Defect Analysis via Synthetic Data Generation and Rubric-Guided Reinforcement Learning**|Ke Xu et.al.|[2604.27629](http://arxiv.org/abs/2604.27629)|null|
 |**2026-04-30**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
-|**2026-04-30**|**Secure Cross-Silo Synthetic Genomic Data Generation**|Daniil Filienko et.al.|[2604.27456](http://arxiv.org/abs/2604.27456)|null|
+|**2026-04-30**|**Secure Cross-Silo Synthetic Genomic Data Generation**|Daniil Filienko et.al.|[2604.27456](http://arxiv.org/abs/2604.27456)|**[link](https://github.com/ppmluwt/federated-sdg-genomics)**|
 |**2026-04-30**|**From Coarse to Fine: Benchmarking and Reward Modeling for Writing-Centric Generation Tasks**|Qingyu Ren et.al.|[2604.27453](http://arxiv.org/abs/2604.27453)|null|
 |**2026-04-30**|**Sampler-Robust Optimization under Generative Models**|Ziwei Zhang et.al.|[2604.27447](http://arxiv.org/abs/2604.27447)|null|
 |**2026-04-30**|**Personalizing Cancer Models under Data Scarcity via Parameter Decomposition**|Logan Rose et.al.|[2604.27408](http://arxiv.org/abs/2604.27408)|null|
