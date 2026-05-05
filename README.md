@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.04**
+📅 **Updated on 2026.05.05**
 
 ---
 
@@ -772,11 +772,11 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2026-05-01**|**LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation**|Venkata Pushpak Teja Menta et.al.|[2605.00777](http://arxiv.org/abs/2605.00777)|**[link](https://github.com/praxelhq/lase)**|
+|**2026-05-01**|**LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation**|Venkata Pushpak Teja Menta et.al.|[2605.00777](http://arxiv.org/abs/2605.00777)|null|
 |**2026-04-30**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
 |**2026-04-30**|**I'm Fine, But My Voice Isn't: Cross-Modal Affective Dissonance Detection for Reflective Journaling**|Sumin Lee et.al.|[2604.27517](http://arxiv.org/abs/2604.27517)|null|
 |**2026-04-29**|**EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses**|Shuhao Xu et.al.|[2604.26417](http://arxiv.org/abs/2604.26417)|null|
-|**2026-04-28**|**PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech**|Venkata Pushpak Teja Menta et.al.|[2604.25476](http://arxiv.org/abs/2604.25476)|**[link](https://github.com/praxelhq/psp-eval)**|
+|**2026-04-28**|**PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech**|Venkata Pushpak Teja Menta et.al.|[2604.25476](http://arxiv.org/abs/2604.25476)|null|
 |**2026-04-28**|**Praxy Voice: Voice-Prompt Recovery + BUPS for Commercial-Class Indic TTS from a Frozen Non-Indic Base at Zero Commercial-Training-Data Cost**|Venkata Pushpak Teja Menta et.al.|[2604.25441](http://arxiv.org/abs/2604.25441)|null|
 |**2026-04-28**|**Doing More With Less: Revisiting the Effectiveness of LLM Pruning for Test-Time Scaling**|Ocean Monjur et.al.|[2604.25098](http://arxiv.org/abs/2604.25098)|null|
 |**2026-04-26**|**AMAVA: Adaptive Motion-Aware Video-to-Audio Framework for Visually-Impaired Assistance**|Benjamin Klein et.al.|[2604.23909](http://arxiv.org/abs/2604.23909)|null|
@@ -6213,7 +6213,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-17**|**ECG-Lens: Benchmarking ML & DL Models on PTB-XL Dataset**|Saloni Garg et.al.|[2604.15822](http://arxiv.org/abs/2604.15822)|null|
 |**2026-04-17**|**From Seeing to Simulating: Generative High-Fidelity Simulation with Digital Cousins for Generalizable Robot Learning and Evaluation**|Jasper Lu et.al.|[2604.15805](http://arxiv.org/abs/2604.15805)|null|
 |**2026-04-17**|**SIMMER: Cross-Modal Food Image--Recipe Retrieval via MLLM-Based Embedding**|Keisuke Gomi et.al.|[2604.15628](http://arxiv.org/abs/2604.15628)|null|
-|**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Zhengdong Hong et.al.|[2604.15281](http://arxiv.org/abs/2604.15281)|**[link](https://github.com/Wushr-Lance/R3D-Policy)**|
+|**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Zhengdong Hong et.al.|[2604.15281](http://arxiv.org/abs/2604.15281)|null|
 |**2026-04-16**|**Detecting Regime Transitions in Dynamical Systems via the Mixup Euler Characteristic Profile**|Sushovan Majhi et.al.|[2604.15262](http://arxiv.org/abs/2604.15262)|null|
 |**2026-04-16**|**A Bayesian Approach to Unit-level Dependent Multi-type Survey Data**|Zewei Kong et.al.|[2604.15217](http://arxiv.org/abs/2604.15217)|null|
 |**2026-04-16**|**Structure as Computation: Developmental Generation of Minimal Neural Circuits**|Duan Zhou et.al.|[2604.15143](http://arxiv.org/abs/2604.15143)|null|
