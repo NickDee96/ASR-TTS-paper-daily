@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.06**
+📅 **Updated on 2026.05.07**
 
 ---
 
@@ -1438,7 +1438,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-14**|**Universal NER v2: Towards a Massively Multilingual Named Entity Recognition Benchmark**|Terra Blevins et.al.|[2604.12744](http://arxiv.org/abs/2604.12744)|null|
 |**2026-04-14**|**ReasonXL: Shifting LLM Reasoning Language Without Sacrificing Performance**|Daniil Gurgurov et.al.|[2604.12378](http://arxiv.org/abs/2604.12378)|null|
 |**2026-04-13**|**INDOTABVQA: A Benchmark for Cross-Lingual Table Understanding in Bahasa Indonesia Documents**|Somraj Gautam et.al.|[2604.11970](http://arxiv.org/abs/2604.11970)|null|
-|**2026-04-13**|**Efficient Training for Cross-lingual Speech Language Models**|Yan Zhou et.al.|[2604.11096](http://arxiv.org/abs/2604.11096)|null|
+|**2026-04-13**|**Efficient Training for Cross-lingual Speech Language Models**|Yan Zhou et.al.|[2604.11096](http://arxiv.org/abs/2604.11096)|**[link](https://github.com/ictnlp/CSLM)**|
 |**2026-04-12**|**When Meaning Isn't Literal: Exploring Idiomatic Meaning Across Languages and Modalities**|Sarmistha Das et.al.|[2604.10787](http://arxiv.org/abs/2604.10787)|null|
 |**2026-04-12**|**Bridging Linguistic Gaps: Cross-Lingual Mapping in Pre-Training and Dataset for Enhanced Multilingual LLM Performance**|Weihua Zheng et.al.|[2604.10590](http://arxiv.org/abs/2604.10590)|null|
 |**2026-04-11**|**Training-Free Cross-Lingual Dysarthria Severity Assessment via Phonological Subspace Analysis in Self-Supervised Speech Representations**|Bernard Muller et.al.|[2604.10123](http://arxiv.org/abs/2604.10123)|null|
@@ -6235,7 +6235,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-05-05**|**Leveraging Code Automorphisms for Improved Syndrome-Based Neural Decoding**|Raphaël Le Bidan et.al.|[2605.03620](http://arxiv.org/abs/2605.03620)|null|
-|**2026-05-05**|**Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation**|Jian Xu et.al.|[2605.03573](http://arxiv.org/abs/2605.03573)|null|
+|**2026-05-05**|**Stochastic Schrödinger Diffusion Models for Pure-State Ensemble Generation**|Jian Xu et.al.|[2605.03573](http://arxiv.org/abs/2605.03573)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-05-05**|**Tracing Like a Clinician: Anatomy-Guided Spatial Priors for Cephalometric Landmark Detection**|Sidhartha Mohapatra et.al.|[2605.03358](http://arxiv.org/abs/2605.03358)|null|
 |**2026-05-04**|**Synthetic Data Generation for Long-Tail Medical Image Classification: A Case Study in Skin Lesions**|Jiaxiang Jiang et.al.|[2605.03221](http://arxiv.org/abs/2605.03221)|null|
 |**2026-05-04**|**One Sequence to Segment Them All: Efficient Data Augmentation for CT and MRI Cross-Domain 3D Spine Segmentation**|Nathan Molinier et.al.|[2605.03098](http://arxiv.org/abs/2605.03098)|null|
@@ -6243,7 +6243,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-04**|**mdok-style at SemEval-2026 Task 10: Finetuning LLMs for Conspiracy Detection**|Dominik Macko et.al.|[2605.02712](http://arxiv.org/abs/2605.02712)|null|
 |**2026-05-04**|**Automatic Reflection Level Classification in Hungarian Student Essays**|Zsolt Csibi et.al.|[2605.02402](http://arxiv.org/abs/2605.02402)|null|
 |**2026-05-03**|**LLM-Augmented Semantic Steering of Text Embedding Projection Spaces**|Wei Liu et.al.|[2605.01957](http://arxiv.org/abs/2605.01957)|null|
-|**2026-05-01**|**WILD SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather**|Hamed Khatounabadi et.al.|[2605.01081](http://arxiv.org/abs/2605.01081)|**[link](https://github.com/Kh-Hamed/WILD-SAM)**|
+|**2026-05-01**|**WILD SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather**|Hamed Khatounabadi et.al.|[2605.01081](http://arxiv.org/abs/2605.01081)|null|
 |**2026-04-23**|**Robust Cross-Domain WiFi Fall Detection via Physics-Driven Attention-Enhanced Transformers**|Yingzhe Wang et.al.|[2605.00869](http://arxiv.org/abs/2605.00869)|null|
 |**2026-04-20**|**Deep Learning for Multi-Antenna Modulation Recognition of Radio Signals**|Tao Chen et.al.|[2605.00849](http://arxiv.org/abs/2605.00849)|null|
 |**2026-05-01**|**Towards Improving Speaker Distance Estimation through Generative Impulse Response Augmentation**|Anton Ratnarajah et.al.|[2605.00721](http://arxiv.org/abs/2605.00721)|null|
