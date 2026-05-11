@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.10**
+📅 **Updated on 2026.05.11**
 
 ## 🌟 About This Repository
 
@@ -755,7 +755,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|**[link](https://github.com/yanghaha0908/WavCube)**|
+|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|null|
 |**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
 |**2026-05-07**|**BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models**|Sai Babu Patarlapalli et.al.|[2605.05561](http://arxiv.org/abs/2605.05561)|null|
 |**2026-05-06**|**VocalParse: Towards Unified and Scalable Singing Voice Transcription with Large Audio Language Models**|Yukun Chen et.al.|[2605.04613](http://arxiv.org/abs/2605.04613)|null|
@@ -7412,7 +7412,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-05**|**Self-Improvement for Fast, High-Quality Plan Generation**|Robert Gieselmann et.al.|[2605.03625](http://arxiv.org/abs/2605.03625)|null|
 |**2026-05-05**|**A Few-Step Generative Model on Cumulative Flow Maps**|Zhiqi Li et.al.|[2605.03623](http://arxiv.org/abs/2605.03623)|null|
 |**2026-05-05**|**Expanding functional protein sequence space using high entropy generative models**|Roberto Netti et.al.|[2605.03578](http://arxiv.org/abs/2605.03578)|null|
-|**2026-05-05**|**PDSL: Propagation Dynamics Aware Framework for Source Localization**|Yansong Wang et.al.|[2605.03550](http://arxiv.org/abs/2605.03550)|**[link](https://github.com/MrYansong/PDSL)**|
+|**2026-05-05**|**PDSL: Propagation Dynamics Aware Framework for Source Localization**|Yansong Wang et.al.|[2605.03550](http://arxiv.org/abs/2605.03550)|null|
 |**2026-05-05**|**Erase Persona, Forget Lore: Benchmarking Multimodal Copyright Unlearning in Large Vision Language Models**|JuneHyoung Kwon et.al.|[2605.03547](http://arxiv.org/abs/2605.03547)|null|
 |**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359](http://arxiv.org/abs/2605.03359)|null|
 |**2026-05-05**|**On the Spectral Structure and Objective Equivalence of Orthogonal Multilabel Fisher Discriminants**|Brian Keith-Norambuena et.al.|[2605.03283](http://arxiv.org/abs/2605.03283)|null|
