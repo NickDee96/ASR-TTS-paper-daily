@@ -44,12 +44,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ASR
 
-*📊 713 papers*
+*📊 714 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-05-08**|**Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation**|Anna Seo Gyeong Choi et.al.|[2605.07084](http://arxiv.org/abs/2605.07084)|null|
 |**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|null|
 |**2026-05-05**|**A Comprehensive Analysis of Tokenization and Self-Supervised Learning in End-to-End Automatic Speech Recognition applied on French Language**|Thibault Bañeras-Roux et.al.|[2605.03696](http://arxiv.org/abs/2605.03696)|null|
 |**2026-05-05**|**A Paradigm for Interpreting Metrics and Identifying Critical Errors in Automatic Speech Recognition**|Thibault Bañeras-Roux et.al.|[2605.03671](http://arxiv.org/abs/2605.03671)|null|
@@ -65,7 +66,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-05**|**HATS: An Open data set Integrating Human Perception Applied to the Evaluation of Automatic Speech Recognition Metrics**|Thibault Bañeras Roux et.al.|[2604.27542](http://arxiv.org/abs/2604.27542)|null|
 |**2026-04-30**|**Qualitative Evaluation of Language Model Rescoring in Automatic Speech Recognition**|Thibault Bañeras-Roux et.al.|[2604.27533](http://arxiv.org/abs/2604.27533)|null|
 |**2026-04-30**|**BUT System Description for CHiME-9 MCoRec Challenge**|Dominik Klement et.al.|[2604.27436](http://arxiv.org/abs/2604.27436)|null|
-|**2026-04-29**|**Multimodal LLMs are not all you need for Pediatric Speech Language Pathology**|Darren Fürst et.al.|[2604.26568](http://arxiv.org/abs/2604.26568)|null|
+|**2026-04-29**|**Multimodal LLMs are not all you need for Pediatric Speech Language Pathology**|Darren Fürst et.al.|[2604.26568](http://arxiv.org/abs/2604.26568)|**[link](https://github.com/N0tAScooby/Multimodal-LLMs-are-not-all-you-need-for-Pediatric-Speech-Language-Pathology)**|
 |**2026-04-29**|**Text-Utilization for Encoder-dominated Speech Recognition Models**|Albert Zeyer et.al.|[2604.26514](http://arxiv.org/abs/2604.26514)|null|
 |**2026-04-29**|**StarDrinks: An English and Korean Test Set for SLU Evaluation in a Drink Ordering Scenario**|Marcely Zanon Boito et.al.|[2604.26500](http://arxiv.org/abs/2604.26500)|null|
 |**2026-04-28**|**WhisperPipe: A Resource-Efficient Streaming Architecture for Real-Time Automatic Speech Recognition**|Erfan Ramezani et.al.|[2604.25611](http://arxiv.org/abs/2604.25611)|null|
@@ -776,12 +777,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## TTS
 
-*📊 571 papers*
+*📊 572 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|**[link](https://github.com/zhengkid/AutoTTS)**|
 |**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|null|
 |**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
 |**2026-05-07**|**BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models**|Sai Babu Patarlapalli et.al.|[2605.05561](http://arxiv.org/abs/2605.05561)|null|
@@ -1366,12 +1368,18 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Machine Translation
 
-*📊 823 papers*
+*📊 829 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-05-08**|**CommandSwarm: Safety-Aware Natural Language-to-Behavior-Tree Generation for Robotic Swarms**|Mohammed Majid et.al.|[2605.07764](http://arxiv.org/abs/2605.07764)|null|
+|**2026-05-08**|**Why do Large Language Models Fail in Low-resource Translation? Unraveling the Token Dynamics of Large Language Models for Machine Translation**|Shenbin Qian et.al.|[2605.07533](http://arxiv.org/abs/2605.07533)|null|
+|**2026-05-08**|**Vaporizer: Breaking Watermarking Schemes for Large Language Model Outputs**|Jonathan Hong Jin Ng et.al.|[2605.07481](http://arxiv.org/abs/2605.07481)|null|
+|**2026-05-08**|**Data Contamination in Neural Hieroglyphic Translation: A Reproducibility Study**|Ammar Toutou et.al.|[2605.07453](http://arxiv.org/abs/2605.07453)|null|
+|**2026-05-08**|**MIPIAD: Multilingual Indirect Prompt Injection Attack Defense with Qwen -- TF-IDF Hybrid and Meta-Ensemble Learning**|Al Muhit Muhtadi et.al.|[2605.07269](http://arxiv.org/abs/2605.07269)|null|
+|**2026-05-08**|**MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocal**|Youngjoon Jang et.al.|[2605.07249](http://arxiv.org/abs/2605.07249)|null|
 |**2026-05-07**|**In Data or Invisible: Toward a Better Digital Representation of Low-Resource Languages with Knowledge Graphs**|Ndeye-Emilie Mbengue et.al.|[2605.05931](http://arxiv.org/abs/2605.05931)|null|
 |**2026-05-07**|**Which Are the Low-Resource Languages of the Semantic Web?**|Ndeye-Emilie Mbengue et.al.|[2605.05929](http://arxiv.org/abs/2605.05929)|null|
 |**2026-05-06**|**UFAL-CUNI at SemEval-2026 Task 11: An Efficient Modular Neuro-symbolic Method for Syllogistic Reasoning**|Ivan Kartáč et.al.|[2605.04941](http://arxiv.org/abs/2605.04941)|null|
@@ -1381,13 +1389,13 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-05**|**The Impact of Vocabulary Overlaps on Knowledge Transfer in Multilingual Machine Translation**|Oona Itkonen et.al.|[2605.04196](http://arxiv.org/abs/2605.04196)|null|
 |**2026-04-10**|**A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight Decay**|JiangBo Zhao et.al.|[2605.04055](http://arxiv.org/abs/2605.04055)|null|
 |**2026-05-05**|**LLM-XTM: Enhancing Cross-Lingual Topic Models with Large Language Models**|Minh Chu Xuan et.al.|[2605.03299](http://arxiv.org/abs/2605.03299)|null|
-|**2026-05-03**|**Multilingual Safety Alignment via Self-Distillation**|Ruiyang Qin et.al.|[2605.02971](http://arxiv.org/abs/2605.02971)|null|
+|**2026-05-07**|**Multilingual Safety Alignment via Self-Distillation**|Ruiyang Qin et.al.|[2605.02971](http://arxiv.org/abs/2605.02971)|null|
 |**2026-05-04**|**Reliability-Oriented Multilingual Orthopedic Diagnosis: A Domain-Adaptive Modeling and a Conceptual Validation Framework**|Danish Ali et.al.|[2605.02266](http://arxiv.org/abs/2605.02266)|null|
 |**2026-05-03**|**A Multimodal Dataset for Visually Grounded Ambiguity in Machine Translation**|Jingheng Pan et.al.|[2605.02035](http://arxiv.org/abs/2605.02035)|null|
 |**2026-05-02**|**Auditing demographic bias in AI-based emergency police dispatch: a cross-lingual evaluation of eleven large language models**|William Guey et.al.|[2605.01451](http://arxiv.org/abs/2605.01451)|null|
 |**2026-05-02**|**Attention Sinks in Massively Multilingual Neural Machine Translation:Discovery, Analysis, and Mitigation**|Hillary Mutisya et.al.|[2605.01229](http://arxiv.org/abs/2605.01229)|null|
 |**2026-05-02**|**Lost in the Tower of Babel: The Adverse Effects of Incidental Multilingualism in LLMs**|Anjishnu Mukherjee et.al.|[2605.01224](http://arxiv.org/abs/2605.01224)|null|
-|**2026-05-04**|**Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring**|Indraneil Paul et.al.|[2605.00754](http://arxiv.org/abs/2605.00754)|null|
+|**2026-05-08**|**Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring**|Indraneil Paul et.al.|[2605.00754](http://arxiv.org/abs/2605.00754)|null|
 |**2026-05-01**|**ML-Bench&Guard: Policy-Grounded Multilingual Safety Benchmark and Guardrail for Large Language Models**|Yunhan Zhao et.al.|[2605.00689](http://arxiv.org/abs/2605.00689)|null|
 |**2026-05-01**|**Is Textual Similarity Invariant under Machine Translation? Evidence Based on the Political Manifesto Corpus**|Daria Boratyn et.al.|[2605.00618](http://arxiv.org/abs/2605.00618)|null|
 |**2026-05-01**|**Language-free Experience at Expo 2025 Osaka**|Michael Paul et.al.|[2605.00373](http://arxiv.org/abs/2605.00373)|null|

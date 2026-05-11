@@ -695,7 +695,7 @@
     "2604.23284": "|**2026-04-25**|**Au-M-ol: A Unified Model for Medical Audio and Language Understanding**|Meizhu Liu et.al.|[2604.23284](http://arxiv.org/abs/2604.23284)|null|\n",
     "2604.22817": "|**2026-04-14**|**In-Sync: Adaptation of Speech Aware Large Language Models for ASR with Word Level Timestamp Predictions**|Xulin Fan et.al.|[2604.22817](http://arxiv.org/abs/2604.22817)|null|\n",
     "2604.25611": "|**2026-04-28**|**WhisperPipe: A Resource-Efficient Streaming Architecture for Real-Time Automatic Speech Recognition**|Erfan Ramezani et.al.|[2604.25611](http://arxiv.org/abs/2604.25611)|null|\n",
-    "2604.26568": "|**2026-04-29**|**Multimodal LLMs are not all you need for Pediatric Speech Language Pathology**|Darren Fürst et.al.|[2604.26568](http://arxiv.org/abs/2604.26568)|null|\n",
+    "2604.26568": "|**2026-04-29**|**Multimodal LLMs are not all you need for Pediatric Speech Language Pathology**|Darren Fürst et.al.|[2604.26568](http://arxiv.org/abs/2604.26568)|**[link](https://github.com/N0tAScooby/Multimodal-LLMs-are-not-all-you-need-for-Pediatric-Speech-Language-Pathology)**|\n",
     "2604.26514": "|**2026-04-29**|**Text-Utilization for Encoder-dominated Speech Recognition Models**|Albert Zeyer et.al.|[2604.26514](http://arxiv.org/abs/2604.26514)|null|\n",
     "2604.26500": "|**2026-04-29**|**StarDrinks: An English and Korean Test Set for SLU Evaluation in a Drink Ordering Scenario**|Marcely Zanon Boito et.al.|[2604.26500](http://arxiv.org/abs/2604.26500)|null|\n",
     "2604.27866": "|**2026-04-30**|**LRS-VoxMM: A benchmark for in-the-wild audio-visual speech recognition**|Doyeop Kwak et.al.|[2604.27866](http://arxiv.org/abs/2604.27866)|null|\n",
@@ -712,7 +712,8 @@
     "2605.02715": "|**2026-05-04**|**Dimensionality-Aware Anomaly Detection in Learned Representations of Self-Supervised Speech Models**|Sandra Arcos-Holzinger et.al.|[2605.02715](http://arxiv.org/abs/2605.02715)|null|\n",
     "2605.02207": "|**2026-05-04**|**MultiSense-Pneumo: A Multimodal Learning Framework for Pneumonia Screening in Resource-Constrained Settings**|Dineth Jayakody et.al.|[2605.02207](http://arxiv.org/abs/2605.02207)|null|\n",
     "2605.01673": "|**2026-05-03**|**Delayed Commitment for Representation Readiness in Stage-wise Audio-Visual Learning**|Xinmeng Xu et.al.|[2605.01673](http://arxiv.org/abs/2605.01673)|null|\n",
-    "2605.02928": "|**2026-04-26**|**Keyword spotting using convolutional neural network for speech recognition in Hindi**|Saru Bharti et.al.|[2605.02928](http://arxiv.org/abs/2605.02928)|null|\n"
+    "2605.02928": "|**2026-04-26**|**Keyword spotting using convolutional neural network for speech recognition in Hindi**|Saru Bharti et.al.|[2605.02928](http://arxiv.org/abs/2605.02928)|null|\n",
+    "2605.07084": "|**2026-05-08**|**Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation**|Anna Seo Gyeong Choi et.al.|[2605.07084](http://arxiv.org/abs/2605.07084)|null|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
@@ -1285,7 +1286,8 @@
     "2605.04461": "|**2026-05-06**|**Stream-T1: Test-Time Scaling for Streaming Video Generation**|Yijing Tu et.al.|[2605.04461](http://arxiv.org/abs/2605.04461)|null|\n",
     "2605.06407": "|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407](http://arxiv.org/abs/2605.06407)|null|\n",
     "2605.05611": "|**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|\n",
-    "2605.05561": "|**2026-05-07**|**BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models**|Sai Babu Patarlapalli et.al.|[2605.05561](http://arxiv.org/abs/2605.05561)|null|\n"
+    "2605.05561": "|**2026-05-07**|**BitCal-TTS: Bit-Calibrated Test-Time Scaling for Quantized Reasoning Models**|Sai Babu Patarlapalli et.al.|[2605.05561](http://arxiv.org/abs/2605.05561)|null|\n",
+    "2605.08083": "|**2026-05-08**|**LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling**|Tong Zheng et.al.|[2605.08083](http://arxiv.org/abs/2605.08083)|**[link](https://github.com/zhengkid/AutoTTS)**|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -2091,7 +2093,7 @@
     "2604.27315": "|**2026-04-30**|**Cross-lingual Comparison of Research Funding Projects with Multilingual Sentence-BERT: Evidence from KAKENHI, NIH, NSF, and UKRI**|Miki Kimura-Ida et.al.|[2604.27315](http://arxiv.org/abs/2604.27315)|null|\n",
     "2604.27232": "|**2026-04-29**|**Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs**|Serpil Karabüklü et.al.|[2604.27232](http://arxiv.org/abs/2604.27232)|null|\n",
     "2604.27137": "|**2026-04-29**|**Cross-Lingual Response Consistency in Large Language Models: An ILR-Informed Evaluation of Claude Across Six Languages**|Camelia Baluta et.al.|[2604.27137](http://arxiv.org/abs/2604.27137)|null|\n",
-    "2605.00754": "|**2026-05-04**|**Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring**|Indraneil Paul et.al.|[2605.00754](http://arxiv.org/abs/2605.00754)|null|\n",
+    "2605.00754": "|**2026-05-08**|**Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring**|Indraneil Paul et.al.|[2605.00754](http://arxiv.org/abs/2605.00754)|null|\n",
     "2605.00689": "|**2026-05-01**|**ML-Bench&Guard: Policy-Grounded Multilingual Safety Benchmark and Guardrail for Large Language Models**|Yunhan Zhao et.al.|[2605.00689](http://arxiv.org/abs/2605.00689)|null|\n",
     "2605.00618": "|**2026-05-01**|**Is Textual Similarity Invariant under Machine Translation? Evidence Based on the Political Manifesto Corpus**|Daria Boratyn et.al.|[2605.00618](http://arxiv.org/abs/2605.00618)|null|\n",
     "2605.00373": "|**2026-05-01**|**Language-free Experience at Expo 2025 Osaka**|Michael Paul et.al.|[2605.00373](http://arxiv.org/abs/2605.00373)|null|\n",
@@ -2102,7 +2104,7 @@
     "2605.01229": "|**2026-05-02**|**Attention Sinks in Massively Multilingual Neural Machine Translation:Discovery, Analysis, and Mitigation**|Hillary Mutisya et.al.|[2605.01229](http://arxiv.org/abs/2605.01229)|null|\n",
     "2605.01224": "|**2026-05-02**|**Lost in the Tower of Babel: The Adverse Effects of Incidental Multilingualism in LLMs**|Anjishnu Mukherjee et.al.|[2605.01224](http://arxiv.org/abs/2605.01224)|null|\n",
     "2605.03299": "|**2026-05-05**|**LLM-XTM: Enhancing Cross-Lingual Topic Models with Large Language Models**|Minh Chu Xuan et.al.|[2605.03299](http://arxiv.org/abs/2605.03299)|null|\n",
-    "2605.02971": "|**2026-05-03**|**Multilingual Safety Alignment via Self-Distillation**|Ruiyang Qin et.al.|[2605.02971](http://arxiv.org/abs/2605.02971)|null|\n",
+    "2605.02971": "|**2026-05-07**|**Multilingual Safety Alignment via Self-Distillation**|Ruiyang Qin et.al.|[2605.02971](http://arxiv.org/abs/2605.02971)|null|\n",
     "2605.04941": "|**2026-05-06**|**UFAL-CUNI at SemEval-2026 Task 11: An Efficient Modular Neuro-symbolic Method for Syllogistic Reasoning**|Ivan Kartáč et.al.|[2605.04941](http://arxiv.org/abs/2605.04941)|null|\n",
     "2605.04500": "|**2026-05-06**|**Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties**|Jinju Kim et.al.|[2605.04500](http://arxiv.org/abs/2605.04500)|null|\n",
     "2605.04458": "|**2026-05-06**|**DoGMaTiQ: Automated Generation of Question-and-Answer Nuggets for Report Evaluation**|Bryan Li et.al.|[2605.04458](http://arxiv.org/abs/2605.04458)|null|\n",
@@ -2110,7 +2112,13 @@
     "2605.04196": "|**2026-05-05**|**The Impact of Vocabulary Overlaps on Knowledge Transfer in Multilingual Machine Translation**|Oona Itkonen et.al.|[2605.04196](http://arxiv.org/abs/2605.04196)|null|\n",
     "2605.04055": "|**2026-04-10**|**A Self-Attentive Meta-Optimizer with Group-Adaptive Learning Rates and Weight Decay**|JiangBo Zhao et.al.|[2605.04055](http://arxiv.org/abs/2605.04055)|null|\n",
     "2605.05931": "|**2026-05-07**|**In Data or Invisible: Toward a Better Digital Representation of Low-Resource Languages with Knowledge Graphs**|Ndeye-Emilie Mbengue et.al.|[2605.05931](http://arxiv.org/abs/2605.05931)|null|\n",
-    "2605.05929": "|**2026-05-07**|**Which Are the Low-Resource Languages of the Semantic Web?**|Ndeye-Emilie Mbengue et.al.|[2605.05929](http://arxiv.org/abs/2605.05929)|null|\n"
+    "2605.05929": "|**2026-05-07**|**Which Are the Low-Resource Languages of the Semantic Web?**|Ndeye-Emilie Mbengue et.al.|[2605.05929](http://arxiv.org/abs/2605.05929)|null|\n",
+    "2605.07764": "|**2026-05-08**|**CommandSwarm: Safety-Aware Natural Language-to-Behavior-Tree Generation for Robotic Swarms**|Mohammed Majid et.al.|[2605.07764](http://arxiv.org/abs/2605.07764)|null|\n",
+    "2605.07533": "|**2026-05-08**|**Why do Large Language Models Fail in Low-resource Translation? Unraveling the Token Dynamics of Large Language Models for Machine Translation**|Shenbin Qian et.al.|[2605.07533](http://arxiv.org/abs/2605.07533)|null|\n",
+    "2605.07481": "|**2026-05-08**|**Vaporizer: Breaking Watermarking Schemes for Large Language Model Outputs**|Jonathan Hong Jin Ng et.al.|[2605.07481](http://arxiv.org/abs/2605.07481)|null|\n",
+    "2605.07453": "|**2026-05-08**|**Data Contamination in Neural Hieroglyphic Translation: A Reproducibility Study**|Ammar Toutou et.al.|[2605.07453](http://arxiv.org/abs/2605.07453)|null|\n",
+    "2605.07269": "|**2026-05-08**|**MIPIAD: Multilingual Indirect Prompt Injection Attack Defense with Qwen -- TF-IDF Hybrid and Meta-Ensemble Learning**|Al Muhit Muhtadi et.al.|[2605.07269](http://arxiv.org/abs/2605.07269)|null|\n",
+    "2605.07249": "|**2026-05-08**|**MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocal**|Youngjoon Jang et.al.|[2605.07249](http://arxiv.org/abs/2605.07249)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
