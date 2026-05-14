@@ -7455,7 +7455,7 @@
     "2605.02712": "|**2026-05-04**|**mdok-style at SemEval-2026 Task 10: Finetuning LLMs for Conspiracy Detection**|Dominik Macko et.al.|[2605.02712](http://arxiv.org/abs/2605.02712)|null|\n",
     "2605.02402": "|**2026-05-04**|**Automatic Reflection Level Classification in Hungarian Student Essays**|Zsolt Csibi et.al.|[2605.02402](http://arxiv.org/abs/2605.02402)|null|\n",
     "2605.01957": "|**2026-05-03**|**LLM-Augmented Semantic Steering of Text Embedding Projection Spaces**|Wei Liu et.al.|[2605.01957](http://arxiv.org/abs/2605.01957)|null|\n",
-    "2605.01081": "|**2026-05-01**|**WILD SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather**|Hamed Khatounabadi et.al.|[2605.01081](http://arxiv.org/abs/2605.01081)|**[link](https://github.com/Kh-Hamed/WILD-SAM)**|\n",
+    "2605.01081": "|**2026-05-01**|**WILD SAM: A Simulated-and-Real Data Augmentation for Autonomous Driving Perception under Challenging Weather**|Hamed Khatounabadi et.al.|[2605.01081](http://arxiv.org/abs/2605.01081)|null|\n",
     "2605.00869": "|**2026-04-23**|**Robust Cross-Domain WiFi Fall Detection via Physics-Driven Attention-Enhanced Transformers**|Yingzhe Wang et.al.|[2605.00869](http://arxiv.org/abs/2605.00869)|null|\n",
     "2605.00849": "|**2026-04-20**|**Deep Learning for Multi-Antenna Modulation Recognition of Radio Signals**|Tao Chen et.al.|[2605.00849](http://arxiv.org/abs/2605.00849)|null|\n",
     "2605.03620": "|**2026-05-05**|**Leveraging Code Automorphisms for Improved Syndrome-Based Neural Decoding**|Raphaël Le Bidan et.al.|[2605.03620](http://arxiv.org/abs/2605.03620)|null|\n",
@@ -7497,7 +7497,13 @@
     "2605.12144": "|**2026-05-12**|**PoseCompass: Intelligent Synthetic Pose Selection for Visual Localization**|Yanan Zhou et.al.|[2605.12144](http://arxiv.org/abs/2605.12144)|null|\n",
     "2605.11898": "|**2026-05-12**|**Few-Shot Synthetic Data Generation with Diffusion Models for Downstream Vision Tasks**|Daniil Dushenev et.al.|[2605.11898](http://arxiv.org/abs/2605.11898)|null|\n",
     "2605.11875": "|**2026-05-12**|**Modulation Consistency-based Contrastive Learning for Self-Supervised Automatic Modulation Classification**|Chenxu Wang et.al.|[2605.11875](http://arxiv.org/abs/2605.11875)|null|\n",
-    "2605.11134": "|**2026-05-11**|**Spurious Correlation Learning in Preference Optimization: Mechanisms, Consequences, and Mitigation via Tie Training**|Christian Moya et.al.|[2605.11134](http://arxiv.org/abs/2605.11134)|null|\n"
+    "2605.11134": "|**2026-05-11**|**Spurious Correlation Learning in Preference Optimization: Mechanisms, Consequences, and Mitigation via Tie Training**|Christian Moya et.al.|[2605.11134](http://arxiv.org/abs/2605.11134)|null|\n",
+    "2605.13815": "|**2026-05-13**|**OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation**|Youquan Liu et.al.|[2605.13815](http://arxiv.org/abs/2605.13815)|null|\n",
+    "2605.13544": "|**2026-05-13**|**CA-GCL: Cross-Anatomy Global-Local Contrastive Learning for Robust 3D Medical Image Understanding**|Hanwen Zhang et.al.|[2605.13544](http://arxiv.org/abs/2605.13544)|null|\n",
+    "2605.13415": "|**2026-05-13**|**Continual Learning with Multilingual Foundation Model**|Barathi Ganesh HB et.al.|[2605.13415](http://arxiv.org/abs/2605.13415)|null|\n",
+    "2605.13401": "|**2026-05-13**|**Trajectory-Level Data Augmentation for Offline Reinforcement Learning**|Tobias Schmähling et.al.|[2605.13401](http://arxiv.org/abs/2605.13401)|null|\n",
+    "2605.12904": "|**2026-05-13**|**VIP-COP: Context Optimization for Tabular Foundation Models**|Yilong Chen et.al.|[2605.12904](http://arxiv.org/abs/2605.12904)|null|\n",
+    "2605.12762": "|**2026-05-12**|**Multi-Quantile Regression for Extreme Precipitation Downscaling**|Hamed Najafi et.al.|[2605.12762](http://arxiv.org/abs/2605.12762)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
