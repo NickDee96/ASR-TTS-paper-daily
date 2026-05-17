@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.16**
+📅 **Updated on 2026.05.17**
 
 ---
 
@@ -1403,7 +1403,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-13**|**Granite Embedding Multilingual R2 Models**|Parul Awasthy et.al.|[2605.13521](http://arxiv.org/abs/2605.13521)|null|
 |**2026-05-13**|**Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing**|Daniel Fernández-González et.al.|[2605.13373](http://arxiv.org/abs/2605.13373)|null|
 |**2026-05-13**|**What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation**|Shaomu Tan et.al.|[2605.13368](http://arxiv.org/abs/2605.13368)|null|
-|**2026-05-13**|**Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization**|Yuhan Wu et.al.|[2605.13229](http://arxiv.org/abs/2605.13229)|**[link](https://github.com/nju-websoft/CTO)**|
+|**2026-05-13**|**Improving Code Translation with Syntax-Guided and Semantic-aware Preference Optimization**|Yuhan Wu et.al.|[2605.13229](http://arxiv.org/abs/2605.13229)|null|
 |**2026-05-13**|**DiM\textsuperscript{3}: Bridging Multilingual and Multimodal Models via Direction- and Magnitude-Aware Merging**|Zijing Wang et.al.|[2605.12960](http://arxiv.org/abs/2605.12960)|null|
 |**2026-05-13**|**ATD-Trans: A Geographically Grounded Japanese-English Travelogue Translation Dataset**|Shohei Higashiyama et.al.|[2605.12933](http://arxiv.org/abs/2605.12933)|null|
 |**2026-05-12**|**Enhancing Multilingual Counterfactual Generation through Alignment-as-Preference Optimization**|Yilong Wang et.al.|[2605.11632](http://arxiv.org/abs/2605.11632)|null|
