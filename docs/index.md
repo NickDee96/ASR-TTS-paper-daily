@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.17**
+📅 **Updated on 2026.05.18**
 
 ## 🌟 About This Repository
 
@@ -807,7 +807,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-21**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|
 |**2026-04-17**|**AST: Adaptive, Seamless, and Training-Free Precise Speech Editing**|Sihan Lv et.al.|[2604.16056](http://arxiv.org/abs/2604.16056)|null|
 |**2026-04-17**|**AgentV-RL: Scaling Reward Modeling with Agentic Verifier**|Jiazheng Zhang et.al.|[2604.16004](http://arxiv.org/abs/2604.16004)|null|
-|**2026-04-21**|**Qwen3.5-Omni Technical Report**|Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
+|**2026-04-21**|**Qwen3.5-Omni Technical Report**| Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
 |**2026-04-16**|**SWE-TRACE: Optimizing Long-Horizon SWE Agents Through Rubric Process Reward Models and Heuristic Test-Time Scaling**|Hao Han et.al.|[2604.14820](http://arxiv.org/abs/2604.14820)|null|
 |**2026-04-14**|**Giving Voice to the Constitution: Low-Resource Text-to-Speech for Quechua and Spanish Using a Bilingual Legal Corpus**|John E. Ortega et.al.|[2604.13288](http://arxiv.org/abs/2604.13288)|null|
 |**2026-04-14**|**ProSDD: Learning Prosodic Representations for Speech Deepfake Detection against Expressive and Emotional Attacks**|Aurosweta Mahapatra et.al.|[2604.13229](http://arxiv.org/abs/2604.13229)|null|
@@ -1440,7 +1440,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-20**|**Syntax as a Rosetta Stone: Universal Dependencies for In-Context Coptic Translation**|Abhishek Purushothama et.al.|[2604.18758](http://arxiv.org/abs/2604.18758)|null|
 |**2026-04-20**|**LQM: Linguistically Motivated Multidimensional Quality Metrics for Machine Translation**|Samar M. Magdy et.al.|[2604.18490](http://arxiv.org/abs/2604.18490)|null|
 |**2026-04-20**|**Multilingual Training and Evaluation Resources for Vision-Language Models**|Daniela Baiamonte et.al.|[2604.18347](http://arxiv.org/abs/2604.18347)|null|
-|**2026-04-22**|**Prosody as Supervision: Bridging the Non-Verbal--Verbal for Multilingual Speech Emotion Recognition**|Girish et.al.|[2604.17647](http://arxiv.org/abs/2604.17647)|null|
+|**2026-04-22**|**Prosody as Supervision: Bridging the Non-Verbal--Verbal for Multilingual Speech Emotion Recognition**| Girish et.al.|[2604.17647](http://arxiv.org/abs/2604.17647)|null|
 |**2026-04-19**|**Copy First, Translate Later: Interpreting Translation Dynamics in Multilingual Pretraining**|Felicia Körner et.al.|[2604.17633](http://arxiv.org/abs/2604.17633)|null|
 |**2026-04-19**|**Project Prometheus: Bridging the Intent Gap in Agentic Program Repair via Reverse-Engineered Executable Specifications**|Yongchao Wang et.al.|[2604.17464](http://arxiv.org/abs/2604.17464)|null|
 |**2026-04-21**|**Who Watches the Watchmen? Humans Disagree With Translation Metrics on Unseen Domains**|Finn Schmidt et.al.|[2604.17393](http://arxiv.org/abs/2604.17393)|null|
