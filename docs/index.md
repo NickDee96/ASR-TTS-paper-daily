@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.18**
+📅 **Updated on 2026.05.19**
 
 ## 🌟 About This Repository
 
@@ -2235,11 +2235,11 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828](http://arxiv.org/abs/2605.15828)|null|
 |**2026-05-15**|**BiomedAP: A Vision-Informed Dual-Anchor Framework with Gated Cross-Modal Fusion for Robust Medical Vision-Language Adaptation**|Huanyang Tong et.al.|[2605.15736](http://arxiv.org/abs/2605.15736)|null|
 |**2026-05-15**|**ElasticDiT: Efficient Diffusion Transformers via Elastic Architecture and Sparse Attention for High-Resolution Image Generation on Mobile Devices**|Kunpeng Du et.al.|[2605.15684](http://arxiv.org/abs/2605.15684)|null|
-|**2026-05-15**|**IO-SVD: Input-Output Whitened SVD for Adaptive-Rank LLM Compression**|Ali Abbasi et.al.|[2605.15626](http://arxiv.org/abs/2605.15626)|null|
+|**2026-05-15**|**IO-SVD: Input-Output Whitened SVD for Adaptive-Rank LLM Compression**|Ali Abbasi et.al.|[2605.15626](http://arxiv.org/abs/2605.15626)|**[link](https://github.com/mint-vu/IO-SVD)**|
 |**2026-05-15**|**LRCP: Low-Rank Compressibility Guided Visual Token Pruning for Efficient LVLMs**|Hongyu Lu et.al.|[2605.15621](http://arxiv.org/abs/2605.15621)|null|
 |**2026-05-15**|**Measuring Maximum Activations in Open Large Language Models**|Luxuan Chen et.al.|[2605.15572](http://arxiv.org/abs/2605.15572)|null|
 |**2026-05-15**|**RoiMAM: Region-of-Interest Medical Attention Model for Efficient Vision-Language Understanding**|Jiayan Yang et.al.|[2605.15561](http://arxiv.org/abs/2605.15561)|null|
-|**2026-05-15**|**Characterizing Learning in Deep Neural Networks using Tractable Algorithmic Complexity Analysis**|Pedram Bakhtiarifard et.al.|[2605.15551](http://arxiv.org/abs/2605.15551)|null|
+|**2026-05-15**|**Characterizing Learning in Deep Neural Networks using Tractable Algorithmic Complexity Analysis**|Pedram Bakhtiarifard et.al.|[2605.15551](http://arxiv.org/abs/2605.15551)|**[link](https://github.com/saintslab/QuBD)**|
 |**2026-05-15**|**DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding**|Yichao Liu et.al.|[2605.15542](http://arxiv.org/abs/2605.15542)|null|
 |**2026-05-15**|**STS: Efficient Sparse Attention with Speculative Token Sparsity**|Ceyu Xu et.al.|[2605.15508](http://arxiv.org/abs/2605.15508)|null|
 |**2026-05-15**|**PrismQuant: Rate-Distortion-Optimal Vector Quantization for Gaussian-Mixture Sources**|Bumsu Park et.al.|[2605.15507](http://arxiv.org/abs/2605.15507)|null|
