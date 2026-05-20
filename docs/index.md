@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.19**
+📅 **Updated on 2026.05.20**
 
 ## 🌟 About This Repository
 
@@ -819,7 +819,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-04-23**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-20**|**MINT-Bench: A Comprehensive Multilingual Benchmark for Instruction-Following Text-to-Speech**|Huakang Chen et.al.|[2604.17958](http://arxiv.org/abs/2604.17958)|null|
 |**2026-04-21**|**SCATR: Simple Calibrated Test-Time Ranking**|Divya Shyamal et.al.|[2604.16535](http://arxiv.org/abs/2604.16535)|null|
-|**2026-04-21**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|**[link](https://github.com/lmxue/NVBench)**|
+|**2026-04-21**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|
 |**2026-04-17**|**AST: Adaptive, Seamless, and Training-Free Precise Speech Editing**|Sihan Lv et.al.|[2604.16056](http://arxiv.org/abs/2604.16056)|null|
 |**2026-04-17**|**AgentV-RL: Scaling Reward Modeling with Agentic Verifier**|Jiazheng Zhang et.al.|[2604.16004](http://arxiv.org/abs/2604.16004)|null|
 |**2026-04-21**|**Qwen3.5-Omni Technical Report**| Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
@@ -6578,7 +6578,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-18**|**Modality vs. Morphology: A Framework for Time Series Classification for Biological Signals**|Jordan Tschida et.al.|[2605.18483](http://arxiv.org/abs/2605.18483)|null|
 |**2026-05-18**|**UTOPYA: A Multimodal Deep Learning Framework for Physics-Informed Anomaly Detection and Time-Series Prediction**|Robson W. S. Pessoa et.al.|[2605.18188](http://arxiv.org/abs/2605.18188)|null|
 |**2026-05-18**|**DuIVRS-2: An LLM-based Interactive Voice Response System for Large-scale POI Attribute Acquisition**|Le Zhang et.al.|[2605.17900](http://arxiv.org/abs/2605.17900)|null|
-|**2026-05-18**|**DAD4TS: Data-Augmentation-Oriented Diffusion Model for Time-Series Forecasting with Small-Scale Data**|Masahiro Suzuki et.al.|[2605.17866](http://arxiv.org/abs/2605.17866)|null|
+|**2026-05-18**|**DAD4TS: Data-Augmentation-Oriented Diffusion Model for Time-Series Forecasting with Small-Scale Data**|Masahiro Suzuki et.al.|[2605.17866](http://arxiv.org/abs/2605.17866)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-05-16**|**ATRACT: A Trustworthy Robotic Autonomous system to support Casualty Triage**|Tasweer Ahmad et.al.|[2605.17123](http://arxiv.org/abs/2605.17123)|null|
 |**2026-05-16**|**The Learnability Gap in Medical Latent Diffusion**|Mischa Dombrowski et.al.|[2605.17087](http://arxiv.org/abs/2605.17087)|null|
 |**2026-05-16**|**The Unlearnability Phenomenon in RLVR for Language Models**|Yulin Chen et.al.|[2605.16787](http://arxiv.org/abs/2605.16787)|null|
