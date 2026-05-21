@@ -730,14 +730,18 @@
     "2605.14340": "|**2026-05-14**|**Refining Pseudo-Audio Prompts with Speech-Text Alignment for Text-Only Domain Adaptation in LLM-Based ASR**|Ryo Magoshi et.al.|[2605.14340](http://arxiv.org/abs/2605.14340)|null|\n",
     "2605.16026": "|**2026-05-15**|**From Flat Language Labels to Typological Priors: Structured Language Conditioning for Multilingual Speech-to-Speech Translation**|Yu Pan et.al.|[2605.16026](http://arxiv.org/abs/2605.16026)|null|\n",
     "2605.18548": "|**2026-05-18**|**STT-Arena: A More Realistic Environment for Tool-Using with Spatio-Temporal Dynamics**|Tingfeng Hui et.al.|[2605.18548](http://arxiv.org/abs/2605.18548)|**[link](https://github.com/Miaow-Lab/STT-Arena)**|\n",
-    "2605.18222": "|**2026-05-18**|**Contextual Biasing for Streaming ASR via CTC-based Word Spotting**|Kai-Chen Tsai et.al.|[2605.18222](http://arxiv.org/abs/2605.18222)|null|\n",
+    "2605.18222": "|**2026-05-19**|**Contextual Biasing for Streaming ASR via CTC-based Word Spotting**|Kai-Chen Tsai et.al.|[2605.18222](http://arxiv.org/abs/2605.18222)|null|\n",
     "2605.17860": "|**2026-05-18**|**PAREDA: A Multi-Accent Speech Dataset of Natural Language Processing Research Discussions**|Sicheng Jin et.al.|[2605.17860](http://arxiv.org/abs/2605.17860)|null|\n",
     "2605.17710": "|**2026-05-18**|**Sometin Beta Pass Notin (SBPN): Improving Multilingual ASR for Nigerian Languages via Knowledge Distillation**|Sewade Ogun et.al.|[2605.17710](http://arxiv.org/abs/2605.17710)|null|\n",
     "2605.17684": "|**2026-05-17**|**EGI: A Multimodal Emotional AI Framework for Enhancing Scrum Master Real-time Self-Awareness**|Jingni Huang et.al.|[2605.17684](http://arxiv.org/abs/2605.17684)|null|\n",
     "2605.17443": "|**2026-05-17**|**Analyzing Error Propagation in Korean Spoken QA with ASR-LLM Cascades**|Donghyuk Jung et.al.|[2605.17443](http://arxiv.org/abs/2605.17443)|null|\n",
     "2605.16896": "|**2026-05-16**|**JSPG: Dynamic Dictionary Filtering via Joint Semantic-Pinyin-Glyph Retrieval for Chinese Contextual ASR**|Shilin Zhou et.al.|[2605.16896](http://arxiv.org/abs/2605.16896)|null|\n",
     "2605.16545": "|**2026-05-15**|**Symphony for Speech-to-Text: Supporting Real-Time Medical Voice Interfaces**|Arne Nix et.al.|[2605.16545](http://arxiv.org/abs/2605.16545)|null|\n",
-    "2605.16364": "|**2026-05-09**|**WASIL: In-the-Wild Arabic Spoken Interactions with LLMs**|Zien Sheikh Ali et.al.|[2605.16364](http://arxiv.org/abs/2605.16364)|null|\n"
+    "2605.16364": "|**2026-05-09**|**WASIL: In-the-Wild Arabic Spoken Interactions with LLMs**|Zien Sheikh Ali et.al.|[2605.16364](http://arxiv.org/abs/2605.16364)|null|\n",
+    "2605.19833": "|**2026-05-19**|**Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation**|Zhifei Xie et.al.|[2605.19833](http://arxiv.org/abs/2605.19833)|null|\n",
+    "2605.19711": "|**2026-05-19**|**Can Large Language Models Reliably Correct Errors in Low-Resource ASR? A Contamination-Aware Case Study on West Frisian**|Yun Hao et.al.|[2605.19711](http://arxiv.org/abs/2605.19711)|null|\n",
+    "2605.19266": "|**2026-05-19**|**FormalASR: End-to-End Spoken Chinese to Formal Text**|Wanyi Ning et.al.|[2605.19266](http://arxiv.org/abs/2605.19266)|null|\n",
+    "2605.19069": "|**2026-05-18**|**Benchmarking Commercial ASR Systems on Code-Switching Speech: Arabic, Persian, and German**|Sajjad Abdoli et.al.|[2605.19069](http://arxiv.org/abs/2605.19069)|null|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",

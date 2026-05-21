@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.20**
+📅 **Updated on 2026.05.21**
 
 ---
 
@@ -44,14 +44,18 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ASR
 
-*📊 738 papers*
+*📊 742 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-05-19**|**Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation**|Zhifei Xie et.al.|[2605.19833](http://arxiv.org/abs/2605.19833)|null|
+|**2026-05-19**|**Can Large Language Models Reliably Correct Errors in Low-Resource ASR? A Contamination-Aware Case Study on West Frisian**|Yun Hao et.al.|[2605.19711](http://arxiv.org/abs/2605.19711)|null|
+|**2026-05-19**|**FormalASR: End-to-End Spoken Chinese to Formal Text**|Wanyi Ning et.al.|[2605.19266](http://arxiv.org/abs/2605.19266)|null|
+|**2026-05-18**|**Benchmarking Commercial ASR Systems on Code-Switching Speech: Arabic, Persian, and German**|Sajjad Abdoli et.al.|[2605.19069](http://arxiv.org/abs/2605.19069)|null|
 |**2026-05-18**|**STT-Arena: A More Realistic Environment for Tool-Using with Spatio-Temporal Dynamics**|Tingfeng Hui et.al.|[2605.18548](http://arxiv.org/abs/2605.18548)|**[link](https://github.com/Miaow-Lab/STT-Arena)**|
-|**2026-05-18**|**Contextual Biasing for Streaming ASR via CTC-based Word Spotting**|Kai-Chen Tsai et.al.|[2605.18222](http://arxiv.org/abs/2605.18222)|null|
+|**2026-05-19**|**Contextual Biasing for Streaming ASR via CTC-based Word Spotting**|Kai-Chen Tsai et.al.|[2605.18222](http://arxiv.org/abs/2605.18222)|null|
 |**2026-05-18**|**PAREDA: A Multi-Accent Speech Dataset of Natural Language Processing Research Discussions**|Sicheng Jin et.al.|[2605.17860](http://arxiv.org/abs/2605.17860)|null|
 |**2026-05-18**|**Sometin Beta Pass Notin (SBPN): Improving Multilingual ASR for Nigerian Languages via Knowledge Distillation**|Sewade Ogun et.al.|[2605.17710](http://arxiv.org/abs/2605.17710)|null|
 |**2026-05-17**|**EGI: A Multimodal Emotional AI Framework for Enhancing Scrum Master Real-time Self-Awareness**|Jingni Huang et.al.|[2605.17684](http://arxiv.org/abs/2605.17684)|null|
