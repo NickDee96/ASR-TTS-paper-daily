@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.23**
+📅 **Updated on 2026.05.24**
 
 ---
 
@@ -6784,7 +6784,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-10**|**A Real-Calibrated Synthetic-First Data Engine**|Yukang Shen et.al.|[2605.09699](http://arxiv.org/abs/2605.09699)|null|
 |**2026-05-10**|**S2P-Net: A Spectral-Spatial Polar Network for Rotation-Invariant Object Recognition in Low-Data Regimes**|Albert Heruth et.al.|[2605.09667](http://arxiv.org/abs/2605.09667)|null|
 |**2026-05-10**|**LLM-Driven Performance-Space Augmentation for Meta-Learning-Based Algorithm Selection**|Darren Zhu et.al.|[2605.09518](http://arxiv.org/abs/2605.09518)|null|
-|**2026-05-10**|**AtteConDA: Attention-Based Conflict Suppression in Multi-Condition Diffusion Models and Synthetic Data Augmentation**|Shogo Noguchi et.al.|[2605.09425](http://arxiv.org/abs/2605.09425)|null|
+|**2026-05-10**|**AtteConDA: Attention-Based Conflict Suppression in Multi-Condition Diffusion Models and Synthetic Data Augmentation**|Shogo Noguchi et.al.|[2605.09425](http://arxiv.org/abs/2605.09425)|**[link](https://github.com/ShogoNoguchi/AtteConDA)**|
 |**2026-05-10**|**Reinforcing Multimodal Reasoning Against Visual Degradation**|Rui Liu et.al.|[2605.09262](http://arxiv.org/abs/2605.09262)|null|
 |**2026-05-09**|**CauSim: Scaling Causal Reasoning with Increasingly Complex Causal Simulators**|Nicolás Astorga et.al.|[2605.09079](http://arxiv.org/abs/2605.09079)|null|
 |**2026-05-08**|**Quantifying Exposure Information Uncertainty in Regional Risk Assessment**|Chenhao Wu et.al.|[2605.08272](http://arxiv.org/abs/2605.08272)|null|
@@ -7976,7 +7976,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-19**|**Tweedie's Formulae and Diffusion Generative Models Beyond Gaussian**|Wenpin Tang et.al.|[2605.19391](http://arxiv.org/abs/2605.19391)|null|
 |**2026-05-20**|**Generative Recursive Reasoning**|Junyeob Baek et.al.|[2605.19376](http://arxiv.org/abs/2605.19376)|null|
 |**2026-05-19**|**Multi-Scale Generative Modeling with Heat Dissipation Flow Matching**|Jun Ma et.al.|[2605.19371](http://arxiv.org/abs/2605.19371)|null|
-|**2026-05-19**|**What Makes Synthetic Data Effective in Image Segmentation**|Jinjin Zhang et.al.|[2605.19289](http://arxiv.org/abs/2605.19289)|null|
+|**2026-05-19**|**What Makes Synthetic Data Effective in Image Segmentation**|Jinjin Zhang et.al.|[2605.19289](http://arxiv.org/abs/2605.19289)|**[link](https://github.com/zhang0jhon/SENSE)**|
 |**2026-05-18**|**Generative Pseudo-Force Fields for Molecular Generation**|Stefaan Simon Pierre Hessmann et.al.|[2605.19050](http://arxiv.org/abs/2605.19050)|null|
 |**2026-05-18**|**Markov Chain Decoders Overcome the Heavy-Tail Limitations of Lipschitz Generative Models**|Abdelhakim Ziani et.al.|[2605.18931](http://arxiv.org/abs/2605.18931)|null|
 |**2026-05-18**|**WavFlow: Audio Generation in Waveform Space**|Feiyan Zhou et.al.|[2605.18749](http://arxiv.org/abs/2605.18749)|null|
