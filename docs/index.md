@@ -1378,10 +1378,12 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🌐 Machine Translation {#machine-translation}
 
-*📊 871 papers*
+*📊 873 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions**|Anastasiia Sedova et.al.|[2605.23885](http://arxiv.org/abs/2605.23885)|null|
+|**2026-05-21**|**Multilingual Steering by Design: Multilingual Sparse Autoencoders and Principled Layer Selection**|Yusser Al Ghussin et.al.|[2605.23036](http://arxiv.org/abs/2605.23036)|null|
 |**2026-05-21**|**Moral Semantics Survive Machine Translation: Cross-Lingual Evidence from Moral Foundations Corpora**|Maciej Skorski et.al.|[2605.22660](http://arxiv.org/abs/2605.22660)|null|
 |**2026-05-21**|**Polite on the Surface, Wrong in Practice: A Curated Dataset for Fixing Honorific Failures in Multilingual Bangla Generation**|Md. Asaduzzaman Shuvo et.al.|[2605.22487](http://arxiv.org/abs/2605.22487)|null|
 |**2026-05-21**|**Cross-Lingual Consensus: Aligning Multilingual Cultural Knowledge via Multilingual Self-Consistency**|Andrew Ivan Soegeng et.al.|[2605.22137](http://arxiv.org/abs/2605.22137)|null|
