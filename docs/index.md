@@ -31,16 +31,25 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎤 ASR {#asr}
 
-*📊 750 papers*
+*📊 759 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-27**|**Bandwidth-Efficient and Privacy-Preserving Edge-Cloud Many-to-Many Speech Translation**|Yexing Du et.al.|[2605.28642](http://arxiv.org/abs/2605.28642)|null|
+|**2026-05-27**|**Diffusion Large Language Models for Visual Speech Recognition**|Jeong Hun Yeo et.al.|[2605.28456](http://arxiv.org/abs/2605.28456)|**[link](https://github.com/JeongHun0716/dllm-vsr)**|
+|**2026-05-27**|**Breaking the Script Barrier: Enabling Automatic Alignment for PoS-based ASR Error Analysis in Non-Latin Scripts**|Prasenjit K Mudi et.al.|[2605.28438](http://arxiv.org/abs/2605.28438)|null|
+|**2026-05-27**|**Building Community-Centred NLP Resources for Puno Quechua**|Elwin Huaman et.al.|[2605.28253](http://arxiv.org/abs/2605.28253)|null|
+|**2026-05-27**|**When Helpful Context Leaks: Privacy Risks in Domain-Adapted ASR**|Maike Züfle et.al.|[2605.28211](http://arxiv.org/abs/2605.28211)|null|
+|**2026-05-27**|**Data-Efficient On-Policy Distillation for Automatic Speech Recognition**|Yu Lin et.al.|[2605.28139](http://arxiv.org/abs/2605.28139)|null|
+|**2026-05-27**|**Syllabic-Structure Decoder for Automatic Speech Recognition in Vietnamese**|Nghia Hieu Nguyen et.al.|[2605.27874](http://arxiv.org/abs/2605.27874)|null|
+|**2026-05-27**|**TARQ: Tail-Aware Reconstruction Quantization for Rare-Word Robust Automatic Speech Recognition**|Xinyu Wang et.al.|[2605.27808](http://arxiv.org/abs/2605.27808)|null|
+|**2026-05-26**|**UNIQUE: Universal Top-k Sparse Attention for Training-free Inference and Sparsity-aware Training**|Keqi Deng et.al.|[2605.27740](http://arxiv.org/abs/2605.27740)|null|
 |**2026-05-26**|**FalAR: A Large-scale Speaker-Annotated European Portuguese Speech Corpus of Parliamentary Sessions**|Francisco Teixeira et.al.|[2605.27062](http://arxiv.org/abs/2605.27062)|null|
 |**2026-05-25**|**Proactive for Uncertainty: Cause-Aware Error Diagnosis and Interactive Clarification for Spoken Dialogue Systems**|Yizhou Peng et.al.|[2605.25404](http://arxiv.org/abs/2605.25404)|null|
 |**2026-05-23**|**Phonetic Modeling of Dialectal Variation in Vietnamese Speech**|Quan Ngoc Hoang et.al.|[2605.24451](http://arxiv.org/abs/2605.24451)|null|
 |**2026-05-13**|**Direct Preference Optimization for English-Mandarin Code-Switching Speech Recognition in Audio LLMs**|Trung Nguyen Quang et.al.|[2605.23975](http://arxiv.org/abs/2605.23975)|null|
 |**2026-05-22**|**AI Security Research Should Better Incentivize Defense Research**|Youqian Zhang et.al.|[2605.23448](http://arxiv.org/abs/2605.23448)|null|
-|**2026-05-22**|**Convex Low-resource Accent-Robust Language Detection in Speech Recognition**|Miria Feng et.al.|[2605.23235](http://arxiv.org/abs/2605.23235)|**[link](https://github.com/pilancilab/CLD)**|
+|**2026-05-22**|**Convex Low-resource Accent-Robust Language Detection in Speech Recognition**|Miria Feng et.al.|[2605.23235](http://arxiv.org/abs/2605.23235)|null|
 |**2026-05-21**|**Plug-in Losses for Evidential Deep Learning: A Simplified Framework for Uncertainty Estimation that Includes the Softmax Classifier**|Berk Hayta et.al.|[2605.22746](http://arxiv.org/abs/2605.22746)|null|
 |**2026-05-20**|**SCRIBE: Diagnostic Evaluation and Rich Transcription Models for Indic ASR**|Kavya Manohar et.al.|[2605.20712](http://arxiv.org/abs/2605.20712)|null|
 |**2026-05-19**|**Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation**|Zhifei Xie et.al.|[2605.19833](http://arxiv.org/abs/2605.19833)|null|
