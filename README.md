@@ -6918,12 +6918,22 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 1208 papers*
+*📊 1218 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-05-28**|**A Fully Convolutional Approach to Denoising Structural Dynamics Data from X-Ray Photon Correlation Spectroscopy**|Nisar Nellikunnummel et.al.|[2605.29975](http://arxiv.org/abs/2605.29975)|null|
+|**2026-05-28**|**CityGen: Structure-Guided City-Style Synthesis for Cross-City Autonomous Driving**|Zezhong Qian et.al.|[2605.29935](http://arxiv.org/abs/2605.29935)|null|
+|**2026-05-28**|**Mitigating Stethoscope-Induced Shortcuts in Respiratory Sound Classification under Federated Domain Generalization with Causality-Inspired Interventions**|Heejoon Koo et.al.|[2605.29862](http://arxiv.org/abs/2605.29862)|null|
+|**2026-05-28**|**Optimizing Latent Representations for Robust Building Damage Assessment Onboard Earth Observation Satellites**|Thomas Goudemant et.al.|[2605.29575](http://arxiv.org/abs/2605.29575)|null|
+|**2026-05-28**|**VE2VF: Vision-Enabled to Vision-Free Distillation via Real-world Reinforcement Learning for Robust Contact-Rich Manipulation**|Victor Kowalski et.al.|[2605.29564](http://arxiv.org/abs/2605.29564)|null|
+|**2026-05-28**|**GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection**|Jiacong Liu et.al.|[2605.29539](http://arxiv.org/abs/2605.29539)|null|
+|**2026-05-28**|**Learning to Perturb Hidden Representations for Generalizable Deep Learning**|Hua Li et.al.|[2605.29525](http://arxiv.org/abs/2605.29525)|null|
+|**2026-05-28**|**V2XCrafter: Learning to Generate Driving Scene Across Agents**|Yihang Tao et.al.|[2605.29471](http://arxiv.org/abs/2605.29471)|null|
+|**2026-05-28**|**AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing**|Yuexin Li et.al.|[2605.29434](http://arxiv.org/abs/2605.29434)|null|
+|**2026-05-27**|**Evolutionary Refinement of Generative Graph Topologies: A Hybrid WGAN-GA Approach**|James Sargant et.al.|[2605.29161](http://arxiv.org/abs/2605.29161)|null|
 |**2026-05-27**|**FedEHR-Gen: Federated Synthetic Time-Series EHR Generation via Latent Space Alignment and Distribution-Aware Aggregation**|Jun Bai et.al.|[2605.27892](http://arxiv.org/abs/2605.27892)|null|
 |**2026-05-26**|**ReverseMath: Answer Inversion for Scalable and Verifiable Mathematical Problem Generation**|Raoyuan Zhao et.al.|[2605.27709](http://arxiv.org/abs/2605.27709)|null|
 |**2026-05-26**|**On the Equivariant Learning of the $Q$ -tensor Order Parameter**|Julia Navarro et.al.|[2605.27679](http://arxiv.org/abs/2605.27679)|null|
@@ -6937,7 +6947,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-23**|**FDDet: Achieving Data-Efficient Food Defect Detection Under Real-World Scenarios**|Ruihao Xu et.al.|[2605.24508](http://arxiv.org/abs/2605.24508)|null|
 |**2026-05-22**|**Generator-Refiner-Examiner: A Tri-Module Data Augmentation Framework for 3D Human Avatar Learning from Monocular Videos**|Gangjian Zhang et.al.|[2605.23555](http://arxiv.org/abs/2605.23555)|null|
 |**2026-05-22**|**Class-Dependent Hybrid Data Augmentation for Multiclass Migraine Classification under Severe Class Imbalance**|Elvin Somón et.al.|[2605.23453](http://arxiv.org/abs/2605.23453)|null|
-|**2026-05-27**|**SSDAU: Structured Semantic Data Augmentation for Joint Entity and Relation Extraction**|Jiawei He et.al.|[2605.23440](http://arxiv.org/abs/2605.23440)|null|
+|**2026-05-28**|**SSDAU: Structured Semantic Data Augmentation for Joint Entity and Relation Extraction**|Jiawei He et.al.|[2605.23440](http://arxiv.org/abs/2605.23440)|null|
 |**2026-05-21**|**DreamerNLplus: Interpretable Modeling of Mental Health Dynamics from Social Media Timelines using Hybrid Rule-Based and RAG Methods**|Maryia Zhyrko et.al.|[2605.23052](http://arxiv.org/abs/2605.23052)|null|
 |**2026-05-21**|**Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling**|David Méndez et.al.|[2605.22484](http://arxiv.org/abs/2605.22484)|null|
 |**2026-05-20**|**BodyReLux: Temporally Consistent Full-Body Video Relighting**|Li Ma et.al.|[2605.21766](http://arxiv.org/abs/2605.21766)|null|
