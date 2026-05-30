@@ -70,7 +70,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-23**|**Phonetic Modeling of Dialectal Variation in Vietnamese Speech**|Quan Ngoc Hoang et.al.|[2605.24451](http://arxiv.org/abs/2605.24451)|null|
 |**2026-05-13**|**Direct Preference Optimization for English-Mandarin Code-Switching Speech Recognition in Audio LLMs**|Trung Nguyen Quang et.al.|[2605.23975](http://arxiv.org/abs/2605.23975)|null|
 |**2026-05-22**|**AI Security Research Should Better Incentivize Defense Research**|Youqian Zhang et.al.|[2605.23448](http://arxiv.org/abs/2605.23448)|null|
-|**2026-05-22**|**Convex Low-resource Accent-Robust Language Detection in Speech Recognition**|Miria Feng et.al.|[2605.23235](http://arxiv.org/abs/2605.23235)|null|
+|**2026-05-22**|**Convex Low-resource Accent-Robust Language Detection in Speech Recognition**|Miria Feng et.al.|[2605.23235](http://arxiv.org/abs/2605.23235)|**[link](https://github.com/pilancilab/CLD)**|
 |**2026-05-21**|**Plug-in Losses for Evidential Deep Learning: A Simplified Framework for Uncertainty Estimation that Includes the Softmax Classifier**|Berk Hayta et.al.|[2605.22746](http://arxiv.org/abs/2605.22746)|null|
 |**2026-05-20**|**SCRIBE: Diagnostic Evaluation and Rich Transcription Models for Indic ASR**|Kavya Manohar et.al.|[2605.20712](http://arxiv.org/abs/2605.20712)|null|
 |**2026-05-19**|**Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation**|Zhifei Xie et.al.|[2605.19833](http://arxiv.org/abs/2605.19833)|null|
@@ -2413,9 +2413,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-28**|**RTP-LLM: High-Performance Alibaba LLM Inference Engine**|Boyu Tan et.al.|[2605.29639](http://arxiv.org/abs/2605.29639)|null|
 |**2026-05-28**|**State-Anchored Complete-View Distillation for Robust Conversational Multimodal Emotion Recognition**|Zhaoyan Pan et.al.|[2605.29590](http://arxiv.org/abs/2605.29590)|null|
 |**2026-05-28**|**On the Construction and Implications of Low-Loss Valleys in LoRA-based Bayesian Inference**|Daniel Dold et.al.|[2605.29580](http://arxiv.org/abs/2605.29580)|null|
-|**2026-05-28**|**Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization**|Ruoran Xu et.al.|[2605.29547](http://arxiv.org/abs/2605.29547)|null|
+|**2026-05-28**|**Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization**|Ruoran Xu et.al.|[2605.29547](http://arxiv.org/abs/2605.29547)|**[link](https://github.com/RuoranXu/S-Adam)**|
 |**2026-05-28**|**AsymVLM: Asymmetric Token Pruning for Efficient Vision-Language Model Inference**|Yilin Feng et.al.|[2605.29535](http://arxiv.org/abs/2605.29535)|null|
-|**2026-05-28**|**Kronecker Embeddings: Byte-Level Structured Token Representations for Parameter-Efficient Language Models**|Rohan Shravan et.al.|[2605.29459](http://arxiv.org/abs/2605.29459)|null|
+|**2026-05-28**|**Kronecker Embeddings: Byte-Level Structured Token Representations for Parameter-Efficient Language Models**|Rohan Shravan et.al.|[2605.29459](http://arxiv.org/abs/2605.29459)|**[link](https://github.com/theschoolofai/kronecker-embeddings)**|
 |**2026-05-28**|**Large language model for unified and accurate description of multidimensional nuclear properties**|S. J. Guo et.al.|[2605.29408](http://arxiv.org/abs/2605.29408)|null|
 |**2026-05-28**|**Revisiting Observation Reduction for Web Agents: Comprehensive Evaluation with a Lightweight Framework**|Masafumi Enomoto et.al.|[2605.29397](http://arxiv.org/abs/2605.29397)|null|
 |**2026-05-28**|**Aligned but Fragile: Enhancing LLM Safety Robustness via Zeroth-Order Optimization**|Zhihao Liu et.al.|[2605.29396](http://arxiv.org/abs/2605.29396)|null|
@@ -6991,7 +6991,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-28**|**GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection**|Jiacong Liu et.al.|[2605.29539](http://arxiv.org/abs/2605.29539)|null|
 |**2026-05-28**|**Learning to Perturb Hidden Representations for Generalizable Deep Learning**|Hua Li et.al.|[2605.29525](http://arxiv.org/abs/2605.29525)|null|
 |**2026-05-28**|**V2XCrafter: Learning to Generate Driving Scene Across Agents**|Yihang Tao et.al.|[2605.29471](http://arxiv.org/abs/2605.29471)|null|
-|**2026-05-28**|**AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing**|Yuexin Li et.al.|[2605.29434](http://arxiv.org/abs/2605.29434)|**[link](https://github.com/imethanlee/AliMark)**|
+|**2026-05-28**|**AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing**|Yuexin Li et.al.|[2605.29434](http://arxiv.org/abs/2605.29434)|null|
 |**2026-05-27**|**Evolutionary Refinement of Generative Graph Topologies: A Hybrid WGAN-GA Approach**|James Sargant et.al.|[2605.29161](http://arxiv.org/abs/2605.29161)|null|
 |**2026-05-27**|**FedEHR-Gen: Federated Synthetic Time-Series EHR Generation via Latent Space Alignment and Distribution-Aware Aggregation**|Jun Bai et.al.|[2605.27892](http://arxiv.org/abs/2605.27892)|null|
 |**2026-05-26**|**ReverseMath: Answer Inversion for Scalable and Verifiable Mathematical Problem Generation**|Raoyuan Zhao et.al.|[2605.27709](http://arxiv.org/abs/2605.27709)|null|
