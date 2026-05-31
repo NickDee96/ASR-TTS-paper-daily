@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.05.30**
+📅 **Updated on 2026.05.31**
 
 ## 🌟 About This Repository
 
@@ -2362,9 +2362,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-28**|**RTP-LLM: High-Performance Alibaba LLM Inference Engine**|Boyu Tan et.al.|[2605.29639](http://arxiv.org/abs/2605.29639)|null|
 |**2026-05-28**|**State-Anchored Complete-View Distillation for Robust Conversational Multimodal Emotion Recognition**|Zhaoyan Pan et.al.|[2605.29590](http://arxiv.org/abs/2605.29590)|null|
 |**2026-05-28**|**On the Construction and Implications of Low-Loss Valleys in LoRA-based Bayesian Inference**|Daniel Dold et.al.|[2605.29580](http://arxiv.org/abs/2605.29580)|null|
-|**2026-05-28**|**Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization**|Ruoran Xu et.al.|[2605.29547](http://arxiv.org/abs/2605.29547)|**[link](https://github.com/RuoranXu/S-Adam)**|
+|**2026-05-28**|**Singularity-aware Optimization via Randomized Geometric Probing: Towards Stable Non-smooth Optimization**|Ruoran Xu et.al.|[2605.29547](http://arxiv.org/abs/2605.29547)|null|
 |**2026-05-28**|**AsymVLM: Asymmetric Token Pruning for Efficient Vision-Language Model Inference**|Yilin Feng et.al.|[2605.29535](http://arxiv.org/abs/2605.29535)|null|
-|**2026-05-28**|**Kronecker Embeddings: Byte-Level Structured Token Representations for Parameter-Efficient Language Models**|Rohan Shravan et.al.|[2605.29459](http://arxiv.org/abs/2605.29459)|**[link](https://github.com/theschoolofai/kronecker-embeddings)**|
+|**2026-05-28**|**Kronecker Embeddings: Byte-Level Structured Token Representations for Parameter-Efficient Language Models**|Rohan Shravan et.al.|[2605.29459](http://arxiv.org/abs/2605.29459)|null|
 |**2026-05-28**|**Large language model for unified and accurate description of multidimensional nuclear properties**|S. J. Guo et.al.|[2605.29408](http://arxiv.org/abs/2605.29408)|null|
 |**2026-05-28**|**Revisiting Observation Reduction for Web Agents: Comprehensive Evaluation with a Lightweight Framework**|Masafumi Enomoto et.al.|[2605.29397](http://arxiv.org/abs/2605.29397)|null|
 |**2026-05-28**|**Aligned but Fragile: Enhancing LLM Safety Robustness via Zeroth-Order Optimization**|Zhihao Liu et.al.|[2605.29396](http://arxiv.org/abs/2605.29396)|null|
