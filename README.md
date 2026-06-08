@@ -44,17 +44,22 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ASR
 
-*📊 791 papers*
+*📊 796 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2026-06-04**|**FiLM-Based Speaker Conditioning of a SpeechLLM for Pathological Speech Recognition**|Fernando López et.al.|[2606.06211](http://arxiv.org/abs/2606.06211)|**[link](https://github.com/ferugit/film-spk-asr)**|
-|**2026-06-04**|**Multi-task Learning is Not Enough: Representational Entanglement in Dual-output Second Language Speech Recognition**|Seung Hwan Cho et.al.|[2606.06065](http://arxiv.org/abs/2606.06065)|null|
+|**2026-06-05**|**Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders**|Georgii Aparin et.al.|[2606.07473](http://arxiv.org/abs/2606.07473)|null|
+|**2026-06-05**|**The Lipreading Gap: Do VSR Models Perceive Visual Speech Like Human Lipreaders?**|Rishabh Jain et.al.|[2606.07435](http://arxiv.org/abs/2606.07435)|null|
+|**2026-06-05**|**Assessing True Generalisability of Audio-Visual Speech Recognisers**|Zhaofeng Lin et.al.|[2606.07259](http://arxiv.org/abs/2606.07259)|null|
+|**2026-06-05**|**Contrastive Training with LLM-generated Near-Misses for Robust Code-Switching Speech Recognition**|Tung X. Nguyen et.al.|[2606.06985](http://arxiv.org/abs/2606.06985)|null|
+|**2026-06-05**|**Hearing the Unspoken: Language Model Priors for Acoustic Adversarial Attacks**|Jiani Xie et.al.|[2606.06833](http://arxiv.org/abs/2606.06833)|null|
+|**2026-06-04**|**FiLM-Based Speaker Conditioning of a SpeechLLM for Pathological Speech Recognition**|Fernando López et.al.|[2606.06211](http://arxiv.org/abs/2606.06211)|null|
+|**2026-06-05**|**Multi-task Learning is Not Enough: Representational Entanglement in Dual-output Second Language Speech Recognition**|Seung Hwan Cho et.al.|[2606.06065](http://arxiv.org/abs/2606.06065)|null|
 |**2026-06-04**|**Beyond WER: A Paired Acoustic Stress Test for Ambient Clinical Scribes**|Xiao-Hang Jiang et.al.|[2606.05909](http://arxiv.org/abs/2606.05909)|null|
 |**2026-06-04**|**Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs**|Gio Paik et.al.|[2606.05846](http://arxiv.org/abs/2606.05846)|null|
-|**2026-06-04**|**M2S-AVSR: Modality-aware Multi-view Self-supervised Representation for Robust Audio-Visual Speech Recognition**|Fei Su et.al.|[2606.05763](http://arxiv.org/abs/2606.05763)|null|
+|**2026-06-05**|**M2S-AVSR: Modality-aware Multi-view Self-supervised Representation for Robust Audio-Visual Speech Recognition**|Fei Su et.al.|[2606.05763](http://arxiv.org/abs/2606.05763)|null|
 |**2026-06-04**|**Beyond Waveform Robustness: Robust Feature-Vocoder Adversarial Attacks on Automatic Speech Recognition**|Yifan Liao et.al.|[2606.05678](http://arxiv.org/abs/2606.05678)|null|
 |**2026-06-03**|**Age-Aware Adapter Tuning for Children's Speech Recognition**|Jialu Li et.al.|[2606.05440](http://arxiv.org/abs/2606.05440)|null|
 |**2026-06-03**|**Multilingual Long-Form Speech Instruction Following: KIT's Submission to IWSLT 2026**|Enes Yavuz Ugan et.al.|[2606.04730](http://arxiv.org/abs/2606.04730)|null|
@@ -65,7 +70,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-26**|**FSA-GRPO: Teaching Auditory LLMs to Use Few-shot Demonstrations**|Haolong Zheng et.al.|[2606.02615](http://arxiv.org/abs/2606.02615)|null|
 |**2026-06-01**|**SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation**|Priyaranjan Pattnayak et.al.|[2606.02548](http://arxiv.org/abs/2606.02548)|null|
 |**2026-06-01**|**WAXAL-NET: Finetuned Edge ASR Across 19 African Languages**|Victor Tolulope Olufemi et.al.|[2606.02375](http://arxiv.org/abs/2606.02375)|null|
-|**2026-06-02**|**MOSS-Audio Technical Report**|Chen Yang et.al.|[2606.01802](http://arxiv.org/abs/2606.01802)|null|
+|**2026-06-05**|**MOSS-Audio Technical Report**|Chen Yang et.al.|[2606.01802](http://arxiv.org/abs/2606.01802)|null|
 |**2026-05-31**|**MURMUR: An Efficient Inference System for Long-Form ASR**|Wei-Tzu Lee et.al.|[2606.01483](http://arxiv.org/abs/2606.01483)|null|
 |**2026-05-31**|**Spiking and Event-driven Neuromorphic Mamba Models for Efficient Speech Recognition**|Tauseef Ahmed et.al.|[2606.01135](http://arxiv.org/abs/2606.01135)|null|
 |**2026-05-31**|**PolySpeech-100: A Large-Scale Benchmark for Speech Understanding Across 100+ Languages and Dialects**|Sicheng Yang et.al.|[2606.01016](http://arxiv.org/abs/2606.01016)|null|
@@ -854,7 +859,7 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## TTS
 
-*📊 620 papers*
+*📊 621 papers*
 
 <div align="center">
 
@@ -863,6 +868,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-05**|**Audio-Oscar: A Multi-Agent System for Complex Audio Scene Generation, Orchestration, and Refinement**|Yifan Duan et.al.|[2606.07397](http://arxiv.org/abs/2606.07397)|null|
 |**2026-06-05**|**KIT's Submission to Cross-Lingual Voice Cloning in IWSLT 2026**|Seymanur Akti et.al.|[2606.07240](http://arxiv.org/abs/2606.07240)|null|
 |**2026-06-05**|**dots.tts Technical Report**|Shi Lian et.al.|[2606.07080](http://arxiv.org/abs/2606.07080)|null|
+|**2026-06-05**|**VoxCPM2 Technical Report**|Yixuan Zhou et.al.|[2606.06928](http://arxiv.org/abs/2606.06928)|null|
 |**2026-06-04**|**GLASS: GRPO-Trained LoRA for Acoustic Style Steering in Zero-Shot Text-to-Speech**|Jaehoon Kang et.al.|[2606.05889](http://arxiv.org/abs/2606.05889)|null|
 |**2026-06-04**|**UniVoice: A Unified Model for Speech and Singing Voice Generation**|Junjie Zheng et.al.|[2606.05852](http://arxiv.org/abs/2606.05852)|null|
 |**2026-06-03**|**Task-Vector Arithmetic for Emotional Expressivity Control in Language-Model-Based Text-to-Speech**|Daniel Oliveira de Brito et.al.|[2606.05367](http://arxiv.org/abs/2606.05367)|null|
@@ -1493,13 +1499,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Machine Translation
 
-*📊 942 papers*
+*📊 944 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-06-05**|**mmPISA-bench: Do LLMs Reason Equally Well Across 43 Languages?**|Yerzhan Sapenov et.al.|[2606.07069](http://arxiv.org/abs/2606.07069)|null|
+|**2026-06-04**|**Multilingual Multi-Speaker Unit Vocoders: A Systematic Analysis of Discrete Speech Representations**|Naman Kothari et.al.|[2606.06740](http://arxiv.org/abs/2606.06740)|null|
+|**2026-06-04**|**Improving Cross-Lingual Factual Recall via Consistency-Driven Reinforcement Learning**|Jonathan von Rad et.al.|[2606.06586](http://arxiv.org/abs/2606.06586)|null|
 |**2026-06-04**|**A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation**|Petr Parshakov et.al.|[2606.06420](http://arxiv.org/abs/2606.06420)|null|
 |**2026-06-04**|**"Chi nas dal soch el sent de legn" -- Auditing Text Corpora for Lombard**|Edoardo Signoroni et.al.|[2606.06349](http://arxiv.org/abs/2606.06349)|null|
 |**2026-06-04**|**Learning Emotion-discriminative Representations for Zero-Shot Cross-lingual Speech Emotion Recognition**|Jinyi Mi et.al.|[2606.06200](http://arxiv.org/abs/2606.06200)|null|
@@ -2470,7 +2478,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-05**|**LRMIL: Efficient Low-Resolution Multiple Instance Learning via High-Resolution Knowledge Distillation for Whole Slide Image Classification**|Yonghan Shin et.al.|[2606.06864](http://arxiv.org/abs/2606.06864)|null|
 |**2026-06-05**|**Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry**|Sijia Chen et.al.|[2606.06848](http://arxiv.org/abs/2606.06848)|null|
 |**2026-06-05**|**High-Speed Multi-Dimensional Optical Field Measurement via MMF-MCF Spatial-Temporal Mapping Architecture**|Yuxuan Xiong et.al.|[2606.06841](http://arxiv.org/abs/2606.06841)|null|
-|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
+|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 |**2026-06-04**|**Explainable Runtime Dependency Tracking for AI-RAN Conflict Monitoring**|Christie Djidjev et.al.|[2606.06663](http://arxiv.org/abs/2606.06663)|null|
 |**2026-06-04**|**WAV: Multi-Resolution Block Residual Routing for Deep Decoder-Only Transformers**|Kehan Wang et.al.|[2606.06564](http://arxiv.org/abs/2606.06564)|null|
 |**2026-06-04**|**FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models**|Haoyu Huang et.al.|[2606.06547](http://arxiv.org/abs/2606.06547)|null|
@@ -2491,7 +2499,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-04**|**Magnetic flux as a quantized Lorentz pseudoscalar and its relation to electric charge quantization**|Cyril Belardinelli et.al.|[2606.05955](http://arxiv.org/abs/2606.05955)|null|
 |**2026-06-04**|**VoCodec: A Low-bitrate Streamable Neural Speech Codec with Voicing-driven Quantization**|Xiao-Hang Jiang et.al.|[2606.05892](http://arxiv.org/abs/2606.05892)|null|
 |**2026-06-04**|**An Ultra-Low-Bitrate Neural Speech Codec with Plain-to-Pseudo Synergistic Vector Quantization**|Xiao-Hang Jiang et.al.|[2606.05876](http://arxiv.org/abs/2606.05876)|null|
-|**2026-06-04**|**YouZhi: Towards High-Concurrency Financial LLMs via Adaptive GQA-to-MLA Transition**|PSBC LLM Team et.al.|[2606.05868](http://arxiv.org/abs/2606.05868)|null|
+|**2026-06-04**|**YouZhi: Towards High-Concurrency Financial LLMs via Adaptive GQA-to-MLA Transition**| PSBC LLM Team et.al.|[2606.05868](http://arxiv.org/abs/2606.05868)|null|
 |**2026-06-04**|**LLMCodec: Adapting Video Codecs for Efficient Weight Compression of Large Language Models**|Rui Wang et.al.|[2606.05861](http://arxiv.org/abs/2606.05861)|null|
 |**2026-06-04**|**Domain-Adapted Small Language Models with Hybrid Post-Processing: Achieving Cost-Efficient, Low-Latency Multi-Label Structured Prediction via LoRA Fine-Tuning on Scarce Data**|Srinivasan Manoharan et.al.|[2606.05781](http://arxiv.org/abs/2606.05781)|null|
 |**2026-06-04**|**Periodic Symmetry-Adapted Encoding: Qubit Reduction in Crystalline Electronic Structure**|Dario Picozzi et.al.|[2606.05777](http://arxiv.org/abs/2606.05777)|null|
@@ -7201,7 +7209,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---:|:---|:---:|:---:|:---:|
 |**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
 |**2026-06-05**|**DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios**|Tongzhou Yu et.al.|[2606.07226](http://arxiv.org/abs/2606.07226)|null|
-|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
+|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-04**|**Robust Ensemble of Selectively Strengthened and Augmented Predictors**|Parsa Memarzadehsaghezi et.al.|[2606.06265](http://arxiv.org/abs/2606.06265)|null|
 |**2026-06-04**|**Deep reinforcement learning with spatial and temporal awareness for active boundary control of buoyancy-driven convection**|Giorgio Maria Cavallazzi et.al.|[2606.06191](http://arxiv.org/abs/2606.06191)|null|
