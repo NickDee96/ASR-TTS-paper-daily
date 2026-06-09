@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.08**
+📅 **Updated on 2026.06.09**
 
 ## 🌟 About This Repository
 
@@ -1526,15 +1526,15 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-25**|**Testing the Deliteralization Hypothesis in Human and Machine Translation**|Malik Marmonier et.al.|[2605.25686](http://arxiv.org/abs/2605.25686)|null|
 |**2026-05-25**|**Beyond Literal Translation: Evaluating Cultural Effectiveness in Social Media UGC**|Linjuan Wu et.al.|[2605.25626](http://arxiv.org/abs/2605.25626)|null|
 |**2026-05-25**|**Learning to Route Languages for Multilingual Policy Optimization**|Geyang Guo et.al.|[2605.25360](http://arxiv.org/abs/2605.25360)|null|
-|**2026-05-25**|**AI-Associated Lexical Shifts Across 34 Languages: Cross-Lingual Convergence and Diachronic Uptake in News Writing**|Thomas Stephan Juzek et.al.|[2605.25358](http://arxiv.org/abs/2605.25358)|null|
+|**2026-05-25**|**AI-Associated Lexical Shifts Across 34 Languages: Cross-Lingual Convergence and Diachronic Uptake in News Writing**|Thomas Stephan Juzek et.al.|[2605.25358](http://arxiv.org/abs/2605.25358)|**[link](https://github.com/fsu-nlp/lexa-index)**|
 |**2026-05-24**|**Multilingual Humour-Aware Retrieval with Dense and Re-Ranking Models**|Georgios Arampatzis et.al.|[2605.25165](http://arxiv.org/abs/2605.25165)|null|
 |**2026-05-24**|**MultiHaluDet: Multilingual Hallucination Detection via LLM Hidden State Probing**|Riasad Alvi et.al.|[2605.24919](http://arxiv.org/abs/2605.24919)|null|
 |**2026-05-24**|**Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation**|Klaudia-Doris Thellmann et.al.|[2605.24904](http://arxiv.org/abs/2605.24904)|null|
 |**2026-05-24**|**Translators as Invisible Teachers of AI: Copyright, Translation Memory, and the Political Economy of Linguistic Data**|Masaru Yamada et.al.|[2605.24842](http://arxiv.org/abs/2605.24842)|null|
 |**2026-05-23**|**The Tokenizer Tax Across 25 European Languages: Domain Invariance, Cross-Lingual Few-Shot Effects, and the Ukrainian Penalty**|Volodymyr Ovcharov et.al.|[2605.24718](http://arxiv.org/abs/2605.24718)|null|
 |**2026-05-23**|**Mix-MoE: Improving Multilingual Machine Translation of Large Language Models through Mixed MoEs**|Bo Li et.al.|[2605.24681](http://arxiv.org/abs/2605.24681)|null|
-|**2026-05-23**|**VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation**|Bo Li et.al.|[2605.24675](http://arxiv.org/abs/2605.24675)|null|
-|**2026-05-23**|**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic**|Yosef Worku Alemneh et.al.|[2605.24556](http://arxiv.org/abs/2605.24556)|null|
+|**2026-05-23**|**VaaWIT: Visual-Aware Adaptation of Large Language Models for Multilingual Web Image Translation**|Bo Li et.al.|[2605.24675](http://arxiv.org/abs/2605.24675)|**[link](https://github.com/Ufere/Assingment_1)**|
+|**2026-05-23**|**The Multilingual Curse at the Retrieval Layer: Evidence from Amharic**|Yosef Worku Alemneh et.al.|[2605.24556](http://arxiv.org/abs/2605.24556)|**[link](https://github.com/rasyosef/amharic-neural-ir)**|
 |**2026-05-23**|**Discovering Lexical Gaps Using Embeddings from Multilingual LLMs**|Yoonwon Jung et.al.|[2605.24310](http://arxiv.org/abs/2605.24310)|null|
 |**2026-05-13**|**SLAP: Stratified Loss-based Pruning for On-Policy Data-Efficient Instruction Tuning**|Run Zou et.al.|[2605.23969](http://arxiv.org/abs/2605.23969)|null|
 |**2026-05-22**|**Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions**|Anastasiia Sedova et.al.|[2605.23885](http://arxiv.org/abs/2605.23885)|null|
