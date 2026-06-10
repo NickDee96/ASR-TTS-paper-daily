@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.09**
+📅 **Updated on 2026.06.10**
 
 ---
 
@@ -8550,12 +8550,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 2040 papers*
+*📊 2042 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-06-09**|**Boosting ECG Classification Performance by Pre-training with Synthesized Data**|Naoki Nonaka et.al.|[2606.10802](http://arxiv.org/abs/2606.10802)|null|
+|**2026-06-09**|**Toward Proactive RF Charging Scheduling: Generative AI for Decision Support**|Amirhossein Azarbahram et.al.|[2606.10600](http://arxiv.org/abs/2606.10600)|null|
 |**2026-06-08**|**Data Synthesis and Parameter-Efficient Fine-Tuning for Low-Resource NMT: A Case Study on Q'eqchi' Mayan**|Alexander Chulzhanov et.al.|[2606.09767](http://arxiv.org/abs/2606.09767)|null|
 |**2026-06-08**|**What Makes Synthetic Speech Sound Sarcastic? A Prosody-Controlled Perception Study**|Zhu Li et.al.|[2606.09717](http://arxiv.org/abs/2606.09717)|null|
 |**2026-06-08**|**OpenBibleTTS: Large-Scale Speech Resources and TTS Models for Low-Resource Languages**|David Guzmán et.al.|[2606.09553](http://arxiv.org/abs/2606.09553)|null|
