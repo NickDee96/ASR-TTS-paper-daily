@@ -2508,12 +2508,46 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 4787 papers*
+*📊 4821 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-06-10**|**Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**|Cheng-Yu Yang et.al.|[2606.12412](http://arxiv.org/abs/2606.12412)|**[link](https://github.com/elmma/mllm-reroute)**|
+|**2026-06-10**|**Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs**|Deep Gandhi et.al.|[2606.12280](http://arxiv.org/abs/2606.12280)|null|
+|**2026-06-10**|**Finding Sparse Subnetworks in One Training Cycle via Progressive Magnitude-Based Pruning**|Romana Qureshi et.al.|[2606.12278](http://arxiv.org/abs/2606.12278)|null|
+|**2026-06-10**|**BenDi: An Energy-Efficient Quasi-Stochastic Systolic Architecture for Edge Bioelectronics**|Bochen Ye et.al.|[2606.12235](http://arxiv.org/abs/2606.12235)|null|
+|**2026-06-10**|**Adapting Prithvi-EO for Fallow Detection for Food-Water Nexus: ViT-Adapter Necks and Parameter-Efficient Backbone tuning of Geospatial Foundation Model**|Sk Muhammad Asif et.al.|[2606.12218](http://arxiv.org/abs/2606.12218)|null|
+|**2026-06-10**|**LLM-Based User Personas for Recommendations at Scale**|Haoting Wang et.al.|[2606.12198](http://arxiv.org/abs/2606.12198)|null|
+|**2026-06-10**|**Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions**|José Medina et.al.|[2606.12171](http://arxiv.org/abs/2606.12171)|null|
+|**2026-06-10**|**Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation**|Selen Erkan et.al.|[2606.12117](http://arxiv.org/abs/2606.12117)|null|
+|**2026-06-10**|**Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning**|Chuanke Pang et.al.|[2606.12109](http://arxiv.org/abs/2606.12109)|null|
+|**2026-06-10**|**Efficient Time Series Clustering from Multiscale Reservoir Dynamics with Granular-Ball Anchoring Graph Optimization**|Yifan Wang et.al.|[2606.12077](http://arxiv.org/abs/2606.12077)|null|
+|**2026-06-10**|**MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning**|Shang Ma et.al.|[2606.12018](http://arxiv.org/abs/2606.12018)|null|
+|**2026-06-10**|**Modular quantization and black holes**|Suchetan Das et.al.|[2606.11984](http://arxiv.org/abs/2606.11984)|null|
+|**2026-06-10**|**Efficient Multinomial Logistic Bandit via Frequent Directions**|Linzhe He et.al.|[2606.11968](http://arxiv.org/abs/2606.11968)|null|
+|**2026-06-10**|**Categorical Prior Lock-in: Why In-Context Learning Fails for Structured Data**|Antonio Pelusi et.al.|[2606.11961](http://arxiv.org/abs/2606.11961)|null|
+|**2026-06-10**|**From Content to Knowledge: Lightning Fast Long-Video Understanding with Neural Knowledge Representations**|Yuchen Guan et.al.|[2606.11913](http://arxiv.org/abs/2606.11913)|null|
+|**2026-06-10**|**Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training**|Michal Chudoba et.al.|[2606.11854](http://arxiv.org/abs/2606.11854)|null|
+|**2026-06-10**|**Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning**|Zhirui Chen et.al.|[2606.11853](http://arxiv.org/abs/2606.11853)|null|
+|**2026-06-10**|**Towards Data-free and Training-free Compression for Speech Foundation Models Using Parameter Clustering**|Haoning Xu et.al.|[2606.11836](http://arxiv.org/abs/2606.11836)|null|
+|**2026-06-10**|**Parametric Channel Estimation with Hardware Impaired Hybrid Beamformers: Sensing, Communications, and Power Efficiency Tradeoffs**|Enrique T. R. Pinto et.al.|[2606.11829](http://arxiv.org/abs/2606.11829)|null|
+|**2026-06-10**|**Efficient Graph Indexing for Interval-Aware Vector Search**|Siyuan Liang et.al.|[2606.11789](http://arxiv.org/abs/2606.11789)|null|
+|**2026-06-10**|**A Comprehensive Ecosystem for Open-Domain Customized Video Generation**|Jingxu Zhang et.al.|[2606.11783](http://arxiv.org/abs/2606.11783)|null|
+|**2026-06-10**|**What Limits Does Quantization Place on Dense Top- $k$ Retrieval? A Theoretical Study**|Koki Okajima et.al.|[2606.11780](http://arxiv.org/abs/2606.11780)|null|
+|**2026-06-10**|**RCAP: Robust, Class-Aware, Probabilistic Dynamic Dataset Pruning**|Atif Hassan et.al.|[2606.11761](http://arxiv.org/abs/2606.11761)|null|
+|**2026-06-10**|**Parameter-Efficient Adapter Tuning for Tabular-Image Multimodal Learning**|Jiaqi Luo et.al.|[2606.11682](http://arxiv.org/abs/2606.11682)|null|
+|**2026-06-10**|**Quantization Limitations of Leakage Suppression in Self-Calibrating Monostatic Integrated Sensing and Communication MIMO Systems**|Jan Adler et.al.|[2606.11665](http://arxiv.org/abs/2606.11665)|null|
+|**2026-06-10**|**Benchmarking Neural Speech Compression from a Rate-Distortion Perspective**|Jun Xu et.al.|[2606.11631](http://arxiv.org/abs/2606.11631)|null|
+|**2026-06-10**|**Physics-Distilled Neural Network enabled by Large Language Models for Manufacturing Process-Property Predictive Modeling**|Ge Song et.al.|[2606.11605](http://arxiv.org/abs/2606.11605)|null|
+|**2026-06-10**|**AVIS: Adaptive Test-Time Scaling for Vision-Language Models**|Ahmadreza Jeddi et.al.|[2606.11576](http://arxiv.org/abs/2606.11576)|null|
+|**2026-06-10**|**FreqKD: Frequency-Decoupled Cross-Modal Knowledge Distillation for Infrared Object Detection**|Keval Thaker et.al.|[2606.11572](http://arxiv.org/abs/2606.11572)|null|
+|**2026-06-10**|**Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices**|Kaan Arda Akyol et.al.|[2606.11556](http://arxiv.org/abs/2606.11556)|null|
+|**2026-06-10**|**PriME-Deal: Privacy-Preserving Bilateral Data Trading with Efficient Matchmaking and Auditable Fair Exchange on Blockchain**|Jie Zhang et.al.|[2606.11539](http://arxiv.org/abs/2606.11539)|null|
+|**2026-06-09**|**SirenFNO: Efficient and Full Frequency Learning of Fourier Neural Operators**|Pengqing Shi et.al.|[2606.11518](http://arxiv.org/abs/2606.11518)|null|
+|**2026-06-09**|**NSVQ: Mitigating Codebook Collapse by Stabilizing Encoder Drift in Vector Quantization**|Hao Lu et.al.|[2606.11363](http://arxiv.org/abs/2606.11363)|null|
+|**2026-06-09**|**TileFuse: A Fused Mixed-Precision Kernel Library for Efficient Quantized LLM Inference on AMD NPUs**|Wesley Pang et.al.|[2606.11357](http://arxiv.org/abs/2606.11357)|null|
 |**2026-06-09**|**FADA: Accessible fetal ultrasound interpretation and annotation with a selectively distilled unified vision-language model**|Mahmood Alzubaidi et.al.|[2606.11106](http://arxiv.org/abs/2606.11106)|null|
 |**2026-06-09**|**Arithmetic Packing on Wide Integer Datapaths in DSP Primitives of Modern FPGA Devices**|Titus Bornträger et.al.|[2606.11065](http://arxiv.org/abs/2606.11065)|null|
 |**2026-06-09**|**Generation of Diverse and Functional Robot Designs using Superquadrics Parametrisation and Quality-Diversity**|Leni Le Goff et.al.|[2606.11037](http://arxiv.org/abs/2606.11037)|null|
@@ -7314,12 +7348,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 1266 papers*
+*📊 1269 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-06-10**|**Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions**|José Medina et.al.|[2606.12171](http://arxiv.org/abs/2606.12171)|null|
+|**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048](http://arxiv.org/abs/2606.12048)|null|
+|**2026-06-09**|**FlexiBrain: Resolution-Agnostic Voxel-Level Encoding for Native fMRI**|Mo Wang et.al.|[2606.11500](http://arxiv.org/abs/2606.11500)|null|
 |**2026-06-09**|**Optimizing 2D Input Representations and Sub-phase Fusion Strategies for Differential Diagnosis of Asthma and COPD Using CNN- and GRU-Based Networks**|Ipek Sen et.al.|[2606.10972](http://arxiv.org/abs/2606.10972)|null|
 |**2026-06-09**|**A Systematic Approach for Selecting Trajectories for Data Augmentation**|Adam Nordling et.al.|[2606.10938](http://arxiv.org/abs/2606.10938)|null|
 |**2026-06-09**|**Conservation Laws from Data Symmetry in Neural Networks**|Jakob Galley et.al.|[2606.10913](http://arxiv.org/abs/2606.10913)|null|
@@ -7336,7 +7373,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-06**|**Beyond Raw Signals: Undecoded Generative Latents as Privileged Synthetic Data**|Cristian Sbrolli et.al.|[2606.08336](http://arxiv.org/abs/2606.08336)|null|
 |**2026-05-27**|**Multimodal Group Emotion Recognition In-the-Wild Towards a Privacy-Safe Non-Individual Approach**|Anderson Augusma et.al.|[2606.07585](http://arxiv.org/abs/2606.07585)|null|
 |**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
-|**2026-06-05**|**DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios**|Tongzhou Yu et.al.|[2606.07226](http://arxiv.org/abs/2606.07226)|null|
+|**2026-06-10**|**DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios**|Tongzhou Yu et.al.|[2606.07226](http://arxiv.org/abs/2606.07226)|null|
 |**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-04**|**Robust Ensemble of Selectively Strengthened and Augmented Predictors**|Parsa Memarzadehsaghezi et.al.|[2606.06265](http://arxiv.org/abs/2606.06265)|null|
@@ -8599,12 +8636,20 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 2051 papers*
+*📊 2059 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-06-10**|**DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation**|Kangning Zhang et.al.|[2606.12245](http://arxiv.org/abs/2606.12245)|null|
+|**2026-06-10**|**Bridging the Smart City Cybersecurity Data Gap Through AI-Driven Synthetic Dataset Generation**|Stephanie Polczynski et.al.|[2606.12225](http://arxiv.org/abs/2606.12225)|null|
+|**2026-06-10**|**Implicit Neural Representations of Individual Behavior**|Andrew Kang et.al.|[2606.12200](http://arxiv.org/abs/2606.12200)|null|
+|**2026-06-10**|**The Hidden Cost of Pairwise Verification in Synthetic Speech Source Tracing**|Anton Firc et.al.|[2606.11666](http://arxiv.org/abs/2606.11666)|null|
+|**2026-06-10**|**SARA: A Dual-Stream VAE for High-Fidelity Speech Generation via Integrating Semantic and Acoustic Representations**|Peijie Chen et.al.|[2606.11611](http://arxiv.org/abs/2606.11611)|null|
+|**2026-06-09**|**Fixed-Parameter Tractability of Private Synthetic Data Generation**|Badih Ghazi et.al.|[2606.11283](http://arxiv.org/abs/2606.11283)|null|
+|**2026-06-08**|**My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents**|César Ojeda et.al.|[2606.11256](http://arxiv.org/abs/2606.11256)|null|
+|**2026-06-08**|**Physics-informed generative AI for semiconductor manufacturing: Enforcing hard physical constraints in generative models by construction**|Yaser Mike Banad et.al.|[2606.11247](http://arxiv.org/abs/2606.11247)|null|
 |**2026-06-09**|**Itô maps for any-step SDEs**|Zhengkai Pan et.al.|[2606.11156](http://arxiv.org/abs/2606.11156)|null|
 |**2026-06-09**|**Boosting ECG Classification Performance by Pre-training with Synthesized Data**|Naoki Nonaka et.al.|[2606.10802](http://arxiv.org/abs/2606.10802)|null|
 |**2026-06-09**|**Toward Proactive RF Charging Scheduling: Generative AI for Decision Support**|Amirhossein Azarbahram et.al.|[2606.10600](http://arxiv.org/abs/2606.10600)|null|
