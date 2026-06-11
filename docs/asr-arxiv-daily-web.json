@@ -809,7 +809,7 @@
     "2606.10853": "|**2026-06-09**|**Speech Encoder Fusion for LLM-based Automatic Speech Recognition**|Jakob Poncelet et.al.|[2606.10853](http://arxiv.org/abs/2606.10853)|null|\n",
     "2606.10838": "|**2026-06-09**|**Towards Deep Contextual Reasoning from Broad Descriptions for ASR with Speech-LLM via Metadata-Driven Reasoning Chains**|Jakob Poncelet et.al.|[2606.10838](http://arxiv.org/abs/2606.10838)|null|\n",
     "2606.10654": "|**2026-06-09**|**Speaker Group Encoding in Self-supervised Speech Recognition Models**|Felix Herron et.al.|[2606.10654](http://arxiv.org/abs/2606.10654)|null|\n",
-    "2606.10464": "|**2026-06-09**|**GC-LoRA: Gated Convolutional LoRA for Parameter-Efficient Acoustic Adaptation**|Natarajan Balaji Shankar et.al.|[2606.10464](http://arxiv.org/abs/2606.10464)|**[link](https://github.com/balaji1312/gc_lora)**|\n",
+    "2606.10464": "|**2026-06-09**|**GC-LoRA: Gated Convolutional LoRA for Parameter-Efficient Acoustic Adaptation**|Natarajan Balaji Shankar et.al.|[2606.10464](http://arxiv.org/abs/2606.10464)|null|\n",
     "2606.10454": "|**2026-06-09**|**Entropy-Aware Domain-Routed Mixture-of-Experts Speech-LLM Framework: A Case Study of Multi-Domain Child-Adult ASR**|Mohan Shi et.al.|[2606.10454](http://arxiv.org/abs/2606.10454)|null|\n",
     "2606.10439": "|**2026-06-09**|**Enhancing Multilingual LLM-based ASR with Mixture of Experts and Dynamic Downsampling**|Guodong Lin et.al.|[2606.10439](http://arxiv.org/abs/2606.10439)|null|\n",
     "2606.10368": "|**2026-06-09**|**Speech Meets ELF: Audio Conditional Continuous-Target Diffusion for Speech Recognition and Translation**|Xuanchen Li et.al.|[2606.10368](http://arxiv.org/abs/2606.10368)|null|\n"
@@ -1413,7 +1413,7 @@
     "2605.27258": "|**2026-05-27**|**PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis**|Bowen Li et.al.|[2605.27258](http://arxiv.org/abs/2605.27258)|null|\n",
     "2605.27190": "|**2026-05-26**|**Learning When to Think While Listening in Large Audio-Language Models**|Zhiyuan Song et.al.|[2605.27190](http://arxiv.org/abs/2605.27190)|null|\n",
     "2605.27030": "|**2026-05-26**|**Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling**|Xinglin Wang et.al.|[2605.27030](http://arxiv.org/abs/2605.27030)|null|\n",
-    "2605.26136": "|**2026-05-21**|**Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake Perception**|Nicolas M. Müller et.al.|[2605.26136](http://arxiv.org/abs/2605.26136)|null|\n",
+    "2605.26136": "|**2026-05-21**|**Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake Perception**|Nicolas M. Müller et.al.|[2605.26136](http://arxiv.org/abs/2605.26136)|**[link](https://github.com/Ufere/Assingment_1)**|\n",
     "2605.28805": "|**2026-05-27**|**OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration**|Xinchen Zhang et.al.|[2605.28805](http://arxiv.org/abs/2605.28805)|null|\n",
     "2605.27772": "|**2026-05-26**|**Do Audio LLMs Listen or Read? Analyzing and Mitigating Paralinguistic Failures with VoxParadox**|Jiacheng Pang et.al.|[2605.27772](http://arxiv.org/abs/2605.27772)|null|\n",
     "2605.30073": "|**2026-05-28**|**Native Audio-Visual Alignment for Generation**|Longbin Ji et.al.|[2605.30073](http://arxiv.org/abs/2605.30073)|null|\n",

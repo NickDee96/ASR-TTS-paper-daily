@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.10**
+📅 **Updated on 2026.06.11**
 
 ---
 
@@ -55,7 +55,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-09**|**Speech Encoder Fusion for LLM-based Automatic Speech Recognition**|Jakob Poncelet et.al.|[2606.10853](http://arxiv.org/abs/2606.10853)|null|
 |**2026-06-09**|**Towards Deep Contextual Reasoning from Broad Descriptions for ASR with Speech-LLM via Metadata-Driven Reasoning Chains**|Jakob Poncelet et.al.|[2606.10838](http://arxiv.org/abs/2606.10838)|null|
 |**2026-06-09**|**Speaker Group Encoding in Self-supervised Speech Recognition Models**|Felix Herron et.al.|[2606.10654](http://arxiv.org/abs/2606.10654)|null|
-|**2026-06-09**|**GC-LoRA: Gated Convolutional LoRA for Parameter-Efficient Acoustic Adaptation**|Natarajan Balaji Shankar et.al.|[2606.10464](http://arxiv.org/abs/2606.10464)|**[link](https://github.com/balaji1312/gc_lora)**|
+|**2026-06-09**|**GC-LoRA: Gated Convolutional LoRA for Parameter-Efficient Acoustic Adaptation**|Natarajan Balaji Shankar et.al.|[2606.10464](http://arxiv.org/abs/2606.10464)|null|
 |**2026-06-09**|**Entropy-Aware Domain-Routed Mixture-of-Experts Speech-LLM Framework: A Case Study of Multi-Domain Child-Adult ASR**|Mohan Shi et.al.|[2606.10454](http://arxiv.org/abs/2606.10454)|null|
 |**2026-06-09**|**Enhancing Multilingual LLM-based ASR with Mixture of Experts and Dynamic Downsampling**|Guodong Lin et.al.|[2606.10439](http://arxiv.org/abs/2606.10439)|null|
 |**2026-06-09**|**Speech Meets ELF: Audio Conditional Continuous-Target Diffusion for Speech Recognition and Translation**|Xuanchen Li et.al.|[2606.10368](http://arxiv.org/abs/2606.10368)|null|
@@ -921,7 +921,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-27**|**PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis**|Bowen Li et.al.|[2605.27258](http://arxiv.org/abs/2605.27258)|null|
 |**2026-05-26**|**Learning When to Think While Listening in Large Audio-Language Models**|Zhiyuan Song et.al.|[2605.27190](http://arxiv.org/abs/2605.27190)|null|
 |**2026-05-26**|**Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling**|Xinglin Wang et.al.|[2605.27030](http://arxiv.org/abs/2605.27030)|null|
-|**2026-05-21**|**Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake Perception**|Nicolas M. Müller et.al.|[2605.26136](http://arxiv.org/abs/2605.26136)|null|
+|**2026-05-21**|**Eroding Trust in Real Speech: A Large-Scale Study of Human Audio Deepfake Perception**|Nicolas M. Müller et.al.|[2605.26136](http://arxiv.org/abs/2605.26136)|**[link](https://github.com/Ufere/Assingment_1)**|
 |**2026-05-25**|**Continual Speaker Identity Unlearning with Minimal Interference**|Jinju Kim et.al.|[2605.25962](http://arxiv.org/abs/2605.25962)|null|
 |**2026-05-26**|**CosyEdit2: Speech-Editing-Oriented Reinforcement Learning Unlocks Better Zero-Shot TTS**|Junyang Chen et.al.|[2605.25930](http://arxiv.org/abs/2605.25930)|null|
 |**2026-05-25**|**Toward Natural Emotional Text-To-Speech System with Fine-Grained Non-Verbal Expression Control**|Wangzixi Zhou et.al.|[2605.25504](http://arxiv.org/abs/2605.25504)|null|
