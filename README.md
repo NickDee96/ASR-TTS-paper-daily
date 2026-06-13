@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.12**
+📅 **Updated on 2026.06.13**
 
 ---
 
@@ -922,7 +922,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-04**|**UniVoice: A Unified Model for Speech and Singing Voice Generation**|Junjie Zheng et.al.|[2606.05852](http://arxiv.org/abs/2606.05852)|null|
 |**2026-06-03**|**Task-Vector Arithmetic for Emotional Expressivity Control in Language-Model-Based Text-to-Speech**|Daniel Oliveira de Brito et.al.|[2606.05367](http://arxiv.org/abs/2606.05367)|null|
 |**2026-06-03**|**FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors**|Sepehr Dehdashtian et.al.|[2606.05101](http://arxiv.org/abs/2606.05101)|null|
-|**2026-06-02**|**WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling**|Wenxi Chen et.al.|[2606.03455](http://arxiv.org/abs/2606.03455)|**[link](https://github.com/cwx-worst-one/WavTTS)**|
+|**2026-06-02**|**WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling**|Wenxi Chen et.al.|[2606.03455](http://arxiv.org/abs/2606.03455)|null|
 |**2026-06-01**|**UniVocal: Unified Speech-Singing Code-Switching Synthesis**|Yufei Shi et.al.|[2606.01677](http://arxiv.org/abs/2606.01677)|null|
 |**2026-05-31**|**Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech**|Hongfei Du et.al.|[2606.01479](http://arxiv.org/abs/2606.01479)|null|
 |**2026-05-30**|**Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection**|Xinwei Cao et.al.|[2606.00684](http://arxiv.org/abs/2606.00684)|null|
@@ -7411,7 +7411,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-10**|**Bayesian machine learning approach for recurrent events studies using Soft Bayesian Additive Regression Trees (SBART)**|MengXing Chen et.al.|[2606.12701](http://arxiv.org/abs/2606.12701)|null|
 |**2026-06-10**|**Crossing the Validation Crisis: Cross-Validation Reduces Benchmarking Variance Surprisingly Well**|Célestin Eve et.al.|[2606.12552](http://arxiv.org/abs/2606.12552)|null|
 |**2026-06-10**|**Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions**|José Medina et.al.|[2606.12171](http://arxiv.org/abs/2606.12171)|null|
-|**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048](http://arxiv.org/abs/2606.12048)|null|
+|**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048](http://arxiv.org/abs/2606.12048)|**[link](https://github.com/balazsgyenes/kirurc)**|
 |**2026-06-09**|**FlexiBrain: Resolution-Agnostic Voxel-Level Encoding for Native fMRI**|Mo Wang et.al.|[2606.11500](http://arxiv.org/abs/2606.11500)|null|
 |**2026-06-09**|**Optimizing 2D Input Representations and Sub-phase Fusion Strategies for Differential Diagnosis of Asthma and COPD Using CNN- and GRU-Based Networks**|Ipek Sen et.al.|[2606.10972](http://arxiv.org/abs/2606.10972)|null|
 |**2026-06-09**|**A Systematic Approach for Selecting Trajectories for Data Augmentation**|Adam Nordling et.al.|[2606.10938](http://arxiv.org/abs/2606.10938)|null|
@@ -7434,11 +7434,11 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-04**|**Robust Ensemble of Selectively Strengthened and Augmented Predictors**|Parsa Memarzadehsaghezi et.al.|[2606.06265](http://arxiv.org/abs/2606.06265)|null|
 |**2026-06-04**|**Deep reinforcement learning with spatial and temporal awareness for active boundary control of buoyancy-driven convection**|Giorgio Maria Cavallazzi et.al.|[2606.06191](http://arxiv.org/abs/2606.06191)|null|
-|**2026-06-04**|**AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding**|Qize Yu et.al.|[2606.06155](http://arxiv.org/abs/2606.06155)|null|
+|**2026-06-04**|**AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding**|Qize Yu et.al.|[2606.06155](http://arxiv.org/abs/2606.06155)|**[link](https://github.com/Skywalker-yqz/AffordanceVLA)**|
 |**2026-06-04**|**Beyond Soft Masks: Hard-Perturbation Mixup Explainer for Robust GNN Explainability**|Jialiang Yin et.al.|[2606.05756](http://arxiv.org/abs/2606.05756)|null|
 |**2026-06-04**|**Trace-Class Results for MCMC Algorithms for Student-t Regression Models**|Yasuyuki Hamura et.al.|[2606.05672](http://arxiv.org/abs/2606.05672)|null|
 |**2026-06-03**|**Deep Learning-assisted AMD Staging based on OCT and OCT Angiography**|Yukun Guo et.al.|[2606.05379](http://arxiv.org/abs/2606.05379)|null|
-|**2026-06-03**|**OA-CutMix: Correcting the Label Bias of CutMix**|Tobias Christian Nauen et.al.|[2606.04820](http://arxiv.org/abs/2606.04820)|null|
+|**2026-06-03**|**OA-CutMix: Correcting the Label Bias of CutMix**|Tobias Christian Nauen et.al.|[2606.04820](http://arxiv.org/abs/2606.04820)|**[link](https://github.com/tobna/oa-cutmix)**|
 |**2026-06-03**|**Multilingual Long-Form Speech Instruction Following: KIT's Submission to IWSLT 2026**|Enes Yavuz Ugan et.al.|[2606.04730](http://arxiv.org/abs/2606.04730)|null|
 |**2026-06-02**|**Channel-Oriented Design for EEG-to-Music Reconstruction**|Jiaxin Qing et.al.|[2606.04040](http://arxiv.org/abs/2606.04040)|null|
 |**2026-06-02**|**CoughSense: Five-Class Respiratory Disease Classification via Whisper Encoder Fine-Tuning and Dual-Encoder Cross-Attention Fusion with Balanced Contrastive Learning**|Nikhil Vincent et.al.|[2606.02998](http://arxiv.org/abs/2606.02998)|null|
