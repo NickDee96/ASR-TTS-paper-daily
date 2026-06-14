@@ -81,7 +81,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-05**|**Assessing True Generalisability of Audio-Visual Speech Recognisers**|Zhaofeng Lin et.al.|[2606.07259](http://arxiv.org/abs/2606.07259)|null|
 |**2026-06-05**|**Contrastive Training with LLM-generated Near-Misses for Robust Code-Switching Speech Recognition**|Tung X. Nguyen et.al.|[2606.06985](http://arxiv.org/abs/2606.06985)|null|
 |**2026-06-05**|**Hearing the Unspoken: Language Model Priors for Acoustic Adversarial Attacks**|Jiani Xie et.al.|[2606.06833](http://arxiv.org/abs/2606.06833)|null|
-|**2026-06-04**|**FiLM-Based Speaker Conditioning of a SpeechLLM for Pathological Speech Recognition**|Fernando López et.al.|[2606.06211](http://arxiv.org/abs/2606.06211)|null|
+|**2026-06-04**|**FiLM-Based Speaker Conditioning of a SpeechLLM for Pathological Speech Recognition**|Fernando López et.al.|[2606.06211](http://arxiv.org/abs/2606.06211)|**[link](https://github.com/ferugit/film-spk-asr)**|
 |**2026-06-10**|**Multi-task Learning is Not Enough: Representational Entanglement in Dual-output Second Language Speech Recognition**|Seung Hwan Cho et.al.|[2606.06065](http://arxiv.org/abs/2606.06065)|null|
 |**2026-06-04**|**Beyond WER: A Paired Acoustic Stress Test for Ambient Clinical Scribes**|Xiao-Hang Jiang et.al.|[2606.05909](http://arxiv.org/abs/2606.05909)|null|
 |**2026-06-04**|**Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs**|Gio Paik et.al.|[2606.05846](http://arxiv.org/abs/2606.05846)|null|
@@ -2540,7 +2540,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---:|:---|:---:|:---:|:---:|
 |**2026-06-11**|**Simplex-Constrained Sparse Bagging: Transitioning from Uniform Priors to Sparse Posteriors in Ensemble Learning**|Meher Sai Preetam et.al.|[2606.13589](http://arxiv.org/abs/2606.13589)|null|
 |**2026-06-11**|**Tuning perpendicular magnetic anisotropy in ultra-low damping Li $_{0.5}$Al$_{x}$Fe$_{(2.5-x)}$O$_4$ thin films for efficient spin-orbit torque switching**|Daisy O'Mahoney et.al.|[2606.13573](http://arxiv.org/abs/2606.13573)|null|
-|**2026-06-11**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|null|
+|**2026-06-11**|**MiniMax Sparse Attention**|Xunhao Lai et.al.|[2606.13392](http://arxiv.org/abs/2606.13392)|**[link](https://github.com/mturac/sparse-attention-viz)**|
 |**2026-06-11**|**Representation-Induced Symmetry Trapping in Adaptive Variational Quantum Simulations of Multi-Reference Topologies**|Hermawan Kresno Dipojono et.al.|[2606.13387](http://arxiv.org/abs/2606.13387)|null|
 |**2026-06-11**|**Physics-Guided Spatiotemporal Learning for Coastal Wave Peak Period Estimation from Video**|Abubakar Hamisu Kamagata et.al.|[2606.13302](http://arxiv.org/abs/2606.13302)|null|
 |**2026-06-11**|**Quantizing Time-Series Models As Dynamical Systems: Trajectory-Based Quantization Sensitivity Score**|Mariya Pavlova et.al.|[2606.13300](http://arxiv.org/abs/2606.13300)|null|
@@ -7469,7 +7469,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-31**|**GiPL: Generative augmented iterative Pseudo-Labeling for Cross-Domain Few-Shot Object Detection**|Jiacong Liu et.al.|[2605.29539](http://arxiv.org/abs/2605.29539)|null|
 |**2026-05-28**|**Learning to Perturb Hidden Representations for Generalizable Deep Learning**|Hua Li et.al.|[2605.29525](http://arxiv.org/abs/2605.29525)|null|
 |**2026-05-28**|**V2XCrafter: Learning to Generate Driving Scene Across Agents**|Yihang Tao et.al.|[2605.29471](http://arxiv.org/abs/2605.29471)|null|
-|**2026-05-28**|**AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing**|Yuexin Li et.al.|[2605.29434](http://arxiv.org/abs/2605.29434)|null|
+|**2026-05-28**|**AliMark: Enhancing Robustness of Sentence-Level Watermarking Against Text Paraphrasing**|Yuexin Li et.al.|[2605.29434](http://arxiv.org/abs/2605.29434)|**[link](https://github.com/imethanlee/AliMark)**|
 |**2026-05-27**|**Evolutionary Refinement of Generative Graph Topologies: A Hybrid WGAN-GA Approach**|James Sargant et.al.|[2605.29161](http://arxiv.org/abs/2605.29161)|null|
 |**2026-05-27**|**FedEHR-Gen: Federated Synthetic Time-Series EHR Generation via Latent Space Alignment and Distribution-Aware Aggregation**|Jun Bai et.al.|[2605.27892](http://arxiv.org/abs/2605.27892)|null|
 |**2026-05-26**|**ReverseMath: Answer Inversion for Scalable and Verifiable Mathematical Problem Generation**|Raoyuan Zhao et.al.|[2605.27709](http://arxiv.org/abs/2605.27709)|null|
