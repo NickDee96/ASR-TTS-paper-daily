@@ -31,12 +31,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎤 ASR {#asr}
 
-*📊 822 papers*
+*📊 825 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models**|Ravi Ranjan et.al.|[2606.14647](http://arxiv.org/abs/2606.14647)|null|
+|**2026-06-12**|**MoDiCoL: A Modular Diagnostic Continual Learning Dataset for Robust Speech Recognition**|Theresa Pekarek Rosin et.al.|[2606.14459](http://arxiv.org/abs/2606.14459)|null|
+|**2026-06-12**|**Learning to Hear Hesitation: Continual Learning for Disfluency-Aware ASR**|Henri-Leon Kordt et.al.|[2606.14391](http://arxiv.org/abs/2606.14391)|null|
 |**2026-06-11**|**Leveraging Audio-LLMs to Filter Speech-to-Speech Training Data**|Qixu Chen et.al.|[2606.13507](http://arxiv.org/abs/2606.13507)|null|
-|**2026-06-11**|**Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations**|Xinxin Li et.al.|[2606.13464](http://arxiv.org/abs/2606.13464)|null|
+|**2026-06-12**|**Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations**|Xinxin Li et.al.|[2606.13464](http://arxiv.org/abs/2606.13464)|null|
 |**2026-06-11**|**Positional Encoding in the Context of Memristor-Based Analog Computation for Automatic Speech Recognition**|Benedikt Hilmes et.al.|[2606.13379](http://arxiv.org/abs/2606.13379)|null|
 |**2026-06-11**|**Towards Personalized Federated Learning for Dysarthric Speech Recognition**|Tao Zhong et.al.|[2606.13253](http://arxiv.org/abs/2606.13253)|null|
 |**2026-06-11**|**PiDA: Phonetically-Informed Data Augmentation for Robust Vietnamese Speech Translation**|Giang Son Nguyen et.al.|[2606.12911](http://arxiv.org/abs/2606.12911)|null|
@@ -66,7 +69,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-05**|**Assessing True Generalisability of Audio-Visual Speech Recognisers**|Zhaofeng Lin et.al.|[2606.07259](http://arxiv.org/abs/2606.07259)|null|
 |**2026-06-05**|**Contrastive Training with LLM-generated Near-Misses for Robust Code-Switching Speech Recognition**|Tung X. Nguyen et.al.|[2606.06985](http://arxiv.org/abs/2606.06985)|null|
 |**2026-06-05**|**Hearing the Unspoken: Language Model Priors for Acoustic Adversarial Attacks**|Jiani Xie et.al.|[2606.06833](http://arxiv.org/abs/2606.06833)|null|
-|**2026-06-04**|**FiLM-Based Speaker Conditioning of a SpeechLLM for Pathological Speech Recognition**|Fernando López et.al.|[2606.06211](http://arxiv.org/abs/2606.06211)|**[link](https://github.com/ferugit/film-spk-asr)**|
+|**2026-06-04**|**FiLM-Based Speaker Conditioning of a SpeechLLM for Pathological Speech Recognition**|Fernando López et.al.|[2606.06211](http://arxiv.org/abs/2606.06211)|null|
 |**2026-06-10**|**Multi-task Learning is Not Enough: Representational Entanglement in Dual-output Second Language Speech Recognition**|Seung Hwan Cho et.al.|[2606.06065](http://arxiv.org/abs/2606.06065)|null|
 |**2026-06-04**|**Beyond WER: A Paired Acoustic Stress Test for Ambient Clinical Scribes**|Xiao-Hang Jiang et.al.|[2606.05909](http://arxiv.org/abs/2606.05909)|null|
 |**2026-06-04**|**Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs**|Gio Paik et.al.|[2606.05846](http://arxiv.org/abs/2606.05846)|null|
@@ -860,10 +863,12 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🗣️ TTS {#tts}
 
-*📊 644 papers*
+*📊 646 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Unsupervised Approaches for Global Prosodic Embedding Extraction**|Martin Meza et.al.|[2606.14004](http://arxiv.org/abs/2606.14004)|null|
+|**2026-06-12**|**Mask, Sample, Revise: A Revisable CTMC Inference Stack for Guided Discrete Flow Matching Text-to-Speech**|Alef Iury Siqueira Ferreira et.al.|[2606.13989](http://arxiv.org/abs/2606.13989)|null|
 |**2026-06-11**|**Endpoint Anticipation for Low-Latency Spoken Dialogue**|Sathvik Udupa et.al.|[2606.13450](http://arxiv.org/abs/2606.13450)|null|
 |**2026-06-11**|**Emo-LiPO: Listwise Preference Optimization for Fine-Grained Emotion Intensity Control in LLM-based Text-to-Speech**|Yihang Lin et.al.|[2606.13006](http://arxiv.org/abs/2606.13006)|null|
 |**2026-06-11**|**Self-Guidance: Enhancing Neural Codecs via Decoder Manifold Alignment**|Xiang Li et.al.|[2606.12940](http://arxiv.org/abs/2606.12940)|null|
@@ -1511,10 +1516,11 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🌐 Machine Translation {#machine-translation}
 
-*📊 965 papers*
+*📊 966 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**When Language Representations Interact: Separability and Cross-Lingual Effects in LLMs**|Boris Marinov et.al.|[2606.14347](http://arxiv.org/abs/2606.14347)|null|
 |**2026-06-11**|**Leveraging Audio-LLMs to Filter Speech-to-Speech Training Data**|Qixu Chen et.al.|[2606.13507](http://arxiv.org/abs/2606.13507)|null|
 |**2026-06-11**|**When Similar Means Different: Evaluating LLMs on Arabic--Hebrew Cognates**|Junhong Liang et.al.|[2606.13218](http://arxiv.org/abs/2606.13218)|null|
 |**2026-06-11**|**Layer-Resolved Optimal Transport for Hallucination Detection in NMT and Abstractive Summarization**|Mariia Onyshchuk et.al.|[2606.13216](http://arxiv.org/abs/2606.13216)|null|
@@ -2483,10 +2489,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ⚡ Small Language Models {#small-language-models}
 
-*📊 4869 papers*
+*📊 4873 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Persona-Pruner: Sculpting Lightweight Models for Role-Playing**|Jinsu Kim et.al.|[2606.14695](http://arxiv.org/abs/2606.14695)|null|
+|**2026-06-12**|**HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification**|Mohammed Arif Mainuddin et.al.|[2606.14684](http://arxiv.org/abs/2606.14684)|null|
+|**2026-06-12**|**When to Write and When to Suppress: Route-Specialized Dual Adapters for Memory-Assisted Knowledge Editing**|Yining Huang et.al.|[2606.14668](http://arxiv.org/abs/2606.14668)|null|
+|**2026-06-12**|**SED:Lightweight Saliency prediction for Event-based data via Distillation**|Romaric Mazna et.al.|[2606.14631](http://arxiv.org/abs/2606.14631)|null|
 |**2026-06-12**|**An Efficient Private Algorithm for Community Detection**|Vincent Cohen-Addad et.al.|[2606.14540](http://arxiv.org/abs/2606.14540)|null|
 |**2026-06-12**|**Optimal Decoding of Small Codes by Density Matrix Propagation**|Anthony Benois et.al.|[2606.14455](http://arxiv.org/abs/2606.14455)|null|
 |**2026-06-12**|**MUFFLe: Efficient Model Update Compression via Generalized Deduplication for Federated Learning**|Xiaobo Zhao et.al.|[2606.14354](http://arxiv.org/abs/2606.14354)|null|
@@ -7394,9 +7404,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-27**|**Multimodal Group Emotion Recognition In-the-Wild Towards a Privacy-Safe Non-Individual Approach**|Anderson Augusma et.al.|[2606.07585](http://arxiv.org/abs/2606.07585)|null|
 |**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
 |**2026-06-10**|**DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios**|Tongzhou Yu et.al.|[2606.07226](http://arxiv.org/abs/2606.07226)|null|
-|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
+|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
-|**2026-06-04**|**Robust Ensemble of Selectively Strengthened and Augmented Predictors**|Parsa Memarzadehsaghezi et.al.|[2606.06265](http://arxiv.org/abs/2606.06265)|**[link](https://github.com/PaMem27/RESSAP)**|
+|**2026-06-04**|**Robust Ensemble of Selectively Strengthened and Augmented Predictors**|Parsa Memarzadehsaghezi et.al.|[2606.06265](http://arxiv.org/abs/2606.06265)|null|
 |**2026-06-04**|**Deep reinforcement learning with spatial and temporal awareness for active boundary control of buoyancy-driven convection**|Giorgio Maria Cavallazzi et.al.|[2606.06191](http://arxiv.org/abs/2606.06191)|null|
 |**2026-06-04**|**AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding**|Qize Yu et.al.|[2606.06155](http://arxiv.org/abs/2606.06155)|null|
 |**2026-06-04**|**Beyond Soft Masks: Hard-Perturbation Mixup Explainer for Robust GNN Explainability**|Jialiang Yin et.al.|[2606.05756](http://arxiv.org/abs/2606.05756)|null|
@@ -8646,10 +8656,11 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 2077 papers*
+*📊 2078 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**From Self-Supervised Speech Models to Mixture-of-Experts for Robust Anti-Spoofing**|Hugo Daumain et.al.|[2606.14639](http://arxiv.org/abs/2606.14639)|null|
 |**2026-06-12**|**Regional Climate Model Emulation with Diffusion Approaches: What is the Added Value of Generative Machine Learning?**|Mikel N. Legasa et.al.|[2606.14570](http://arxiv.org/abs/2606.14570)|null|
 |**2026-06-12**|**Achieving Precise Text-To-Cypher Via Grounded Knowledge Graph Data Generation**|Francesco Cazzaro et.al.|[2606.14325](http://arxiv.org/abs/2606.14325)|null|
 |**2026-06-12**|**TACO: A Benchmark for Open-Domain Text-to-SQL with Ambiguous and Cross-Database Queries**|Chao Deng et.al.|[2606.14201](http://arxiv.org/abs/2606.14201)|null|
