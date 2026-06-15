@@ -2697,7 +2697,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-05**|**LRMIL: Efficient Low-Resolution Multiple Instance Learning via High-Resolution Knowledge Distillation for Whole Slide Image Classification**|Yonghan Shin et.al.|[2606.06864](http://arxiv.org/abs/2606.06864)|null|
 |**2026-06-05**|**Distilling first-principles accuracy into compact machine learning potentials for condensed-phase chemistry**|Sijia Chen et.al.|[2606.06848](http://arxiv.org/abs/2606.06848)|null|
 |**2026-06-05**|**High-Speed Multi-Dimensional Optical Field Measurement via MMF-MCF Spatial-Temporal Mapping Architecture**|Yuxuan Xiong et.al.|[2606.06841](http://arxiv.org/abs/2606.06841)|null|
-|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
+|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 |**2026-06-04**|**Explainable Runtime Dependency Tracking for AI-RAN Conflict Monitoring**|Christie Djidjev et.al.|[2606.06663](http://arxiv.org/abs/2606.06663)|null|
 |**2026-06-04**|**WAV: Multi-Resolution Block Residual Routing for Deep Decoder-Only Transformers**|Kehan Wang et.al.|[2606.06564](http://arxiv.org/abs/2606.06564)|null|
 |**2026-06-04**|**FAIR-Calib: Frontier-Aware Instability-Reweighted Calibration for Post-Training Quantization of Diffusion Large Language Models**|Haoyu Huang et.al.|[2606.06547](http://arxiv.org/abs/2606.06547)|null|
@@ -2718,7 +2718,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-04**|**Magnetic flux as a quantized Lorentz pseudoscalar and its relation to electric charge quantization**|Cyril Belardinelli et.al.|[2606.05955](http://arxiv.org/abs/2606.05955)|null|
 |**2026-06-04**|**VoCodec: A Low-bitrate Streamable Neural Speech Codec with Voicing-driven Quantization**|Xiao-Hang Jiang et.al.|[2606.05892](http://arxiv.org/abs/2606.05892)|null|
 |**2026-06-04**|**An Ultra-Low-Bitrate Neural Speech Codec with Plain-to-Pseudo Synergistic Vector Quantization**|Xiao-Hang Jiang et.al.|[2606.05876](http://arxiv.org/abs/2606.05876)|null|
-|**2026-06-04**|**YouZhi: Towards High-Concurrency Financial LLMs via Adaptive GQA-to-MLA Transition**| PSBC LLM Team et.al.|[2606.05868](http://arxiv.org/abs/2606.05868)|null|
+|**2026-06-04**|**YouZhi: Towards High-Concurrency Financial LLMs via Adaptive GQA-to-MLA Transition**|PSBC LLM Team et.al.|[2606.05868](http://arxiv.org/abs/2606.05868)|null|
 |**2026-06-04**|**LLMCodec: Adapting Video Codecs for Efficient Weight Compression of Large Language Models**|Rui Wang et.al.|[2606.05861](http://arxiv.org/abs/2606.05861)|null|
 |**2026-06-04**|**Domain-Adapted Small Language Models with Hybrid Post-Processing: Achieving Cost-Efficient, Low-Latency Multi-Label Structured Prediction via LoRA Fine-Tuning on Scarce Data**|Srinivasan Manoharan et.al.|[2606.05781](http://arxiv.org/abs/2606.05781)|null|
 |**2026-06-04**|**Periodic Symmetry-Adapted Encoding: Qubit Reduction in Crystalline Electronic Structure**|Dario Picozzi et.al.|[2606.05777](http://arxiv.org/abs/2606.05777)|null|
@@ -7457,7 +7457,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-27**|**Multimodal Group Emotion Recognition In-the-Wild Towards a Privacy-Safe Non-Individual Approach**|Anderson Augusma et.al.|[2606.07585](http://arxiv.org/abs/2606.07585)|null|
 |**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
 |**2026-06-10**|**DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios**|Tongzhou Yu et.al.|[2606.07226](http://arxiv.org/abs/2606.07226)|null|
-|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
+|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-04**|**Robust Ensemble of Selectively Strengthened and Augmented Predictors**|Parsa Memarzadehsaghezi et.al.|[2606.06265](http://arxiv.org/abs/2606.06265)|**[link](https://github.com/PaMem27/RESSAP)**|
 |**2026-06-04**|**Deep reinforcement learning with spatial and temporal awareness for active boundary control of buoyancy-driven convection**|Giorgio Maria Cavallazzi et.al.|[2606.06191](http://arxiv.org/abs/2606.06191)|null|
