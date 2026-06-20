@@ -7647,7 +7647,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-10**|**Bayesian machine learning approach for recurrent events studies using Soft Bayesian Additive Regression Trees (SBART)**|MengXing Chen et.al.|[2606.12701](http://arxiv.org/abs/2606.12701)|null|
 |**2026-06-10**|**Crossing the Validation Crisis: Cross-Validation Reduces Benchmarking Variance Surprisingly Well**|Célestin Eve et.al.|[2606.12552](http://arxiv.org/abs/2606.12552)|null|
 |**2026-06-10**|**Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions**|José Medina et.al.|[2606.12171](http://arxiv.org/abs/2606.12171)|null|
-|**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048](http://arxiv.org/abs/2606.12048)|null|
+|**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048](http://arxiv.org/abs/2606.12048)|**[link](https://github.com/balazsgyenes/kirurc)**|
 |**2026-06-09**|**FlexiBrain: Resolution-Agnostic Voxel-Level Encoding for Native fMRI**|Mo Wang et.al.|[2606.11500](http://arxiv.org/abs/2606.11500)|null|
 |**2026-06-09**|**Optimizing 2D Input Representations and Sub-phase Fusion Strategies for Differential Diagnosis of Asthma and COPD Using CNN- and GRU-Based Networks**|Ipek Sen et.al.|[2606.10972](http://arxiv.org/abs/2606.10972)|null|
 |**2026-06-09**|**A Systematic Approach for Selecting Trajectories for Data Augmentation**|Adam Nordling et.al.|[2606.10938](http://arxiv.org/abs/2606.10938)|null|
