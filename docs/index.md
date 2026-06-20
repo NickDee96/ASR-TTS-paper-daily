@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.19**
+📅 **Updated on 2026.06.20**
 
 ## 🌟 About This Repository
 
@@ -1576,7 +1576,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-15**|**RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting**|Arunkumar V et.al.|[2606.16925](http://arxiv.org/abs/2606.16925)|null|
 |**2026-06-15**|**How Far Can Machine Translation Quality Take You? Extrinsic Discourse Evaluation in Goal-Oriented Setups**|Wafaa Mohammed et.al.|[2606.16596](http://arxiv.org/abs/2606.16596)|null|
 |**2026-06-14**|**Beyond English: Uncovering the Multilingual Gap in Vision-Language-Action Models**|Hanyang Chen et.al.|[2606.15714](http://arxiv.org/abs/2606.15714)|null|
-|**2026-06-17**|**Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus**|Yuheng Lu et.al.|[2606.15345](http://arxiv.org/abs/2606.15345)|**[link](https://github.com/paddler2022/XBCP)**|
+|**2026-06-17**|**Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus**|Yuheng Lu et.al.|[2606.15345](http://arxiv.org/abs/2606.15345)|null|
 |**2026-06-13**|**Evaluating and Preserving Lexical Stress in English-to-Chinese Speech-to-Speech Translation**|Yuchen Song et.al.|[2606.15266](http://arxiv.org/abs/2606.15266)|null|
 |**2026-06-13**|**A Practical Evaluation Method for Long-Form Simultaneous Speech-to-Speech Translation**|Yulin Xue et.al.|[2606.15059](http://arxiv.org/abs/2606.15059)|null|
 |**2026-06-13**|**Equity with Efficiency: An Empirical Study of Tokenizers for Multilingual Large Language Models**|Kieron Seven Jun Wei Lee et.al.|[2606.15044](http://arxiv.org/abs/2606.15044)|null|
@@ -7554,7 +7554,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-17**|**Rethinking Text-to-Image as Semantic-Aware Data Augmentation for Indoor Scene Recognition**|Trong-Vu Hoang et.al.|[2606.18555](http://arxiv.org/abs/2606.18555)|null|
 |**2026-06-16**|**Vines-DB: An RGB image dataset for multi-species ornamental vine segmentation**|Saroj Burlakoti et.al.|[2606.18484](http://arxiv.org/abs/2606.18484)|null|
 |**2026-06-16**|**Structural MRI Synthesis for Alzheimer's Disease via Conditional Diffusion on Anatomical Masks**|Muge Zhang et.al.|[2606.18354](http://arxiv.org/abs/2606.18354)|null|
-|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|**[link](https://github.com/jiyewise/MOCHI)**|
+|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
 |**2026-06-16**|**GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments**|Jiawei Zhang et.al.|[2606.17520](http://arxiv.org/abs/2606.17520)|null|
 |**2026-06-16**|**Improving Linear Regression on Small Datasets via Gaussian Process and Extreme Value Theory-Based Data Augmentation**|Ibrahim Salay et.al.|[2606.17486](http://arxiv.org/abs/2606.17486)|null|
 |**2026-06-10**|**Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework**|Wang Rui et.al.|[2606.17077](http://arxiv.org/abs/2606.17077)|null|
@@ -8885,7 +8885,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-16**|**Split-Head Quantum Generative Adversarial Network for Crystalline Material Discovery**|Huan-Ming Chang et.al.|[2606.17852](http://arxiv.org/abs/2606.17852)|null|
 |**2026-06-16**|**An Analysis of the Effectiveness of Synthetic Speech Data for ASR Fine-tuning in Selected Indic Languages**|Sujith Pulikodan et.al.|[2606.17662](http://arxiv.org/abs/2606.17662)|null|
 |**2026-06-16**|**Perron--Frobenius Operator Matching for Generative Modeling**|Shiqi Zhang et.al.|[2606.17465](http://arxiv.org/abs/2606.17465)|null|
-|**2026-06-15**|**BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering**|Yi-Ruei Liu et.al.|[2606.17049](http://arxiv.org/abs/2606.17049)|**[link](https://github.com/shigon255/BRDFusion)**|
+|**2026-06-15**|**BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering**|Yi-Ruei Liu et.al.|[2606.17049](http://arxiv.org/abs/2606.17049)|null|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Decision-Weighted Flow Matching for Contextual Stochastic Optimization**|Jize Xie et.al.|[2606.16790](http://arxiv.org/abs/2606.16790)|null|
 |**2026-06-15**|**A comparison of human and LLM-simulated participants in a writing style task**|Felix Gröner et.al.|[2606.16778](http://arxiv.org/abs/2606.16778)|null|
