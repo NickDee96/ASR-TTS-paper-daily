@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.20**
+📅 **Updated on 2026.06.21**
 
 ## 🌟 About This Repository
 
@@ -7584,7 +7584,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-10**|**Bayesian machine learning approach for recurrent events studies using Soft Bayesian Additive Regression Trees (SBART)**|MengXing Chen et.al.|[2606.12701](http://arxiv.org/abs/2606.12701)|null|
 |**2026-06-10**|**Crossing the Validation Crisis: Cross-Validation Reduces Benchmarking Variance Surprisingly Well**|Célestin Eve et.al.|[2606.12552](http://arxiv.org/abs/2606.12552)|null|
 |**2026-06-10**|**Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions**|José Medina et.al.|[2606.12171](http://arxiv.org/abs/2606.12171)|null|
-|**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048](http://arxiv.org/abs/2606.12048)|**[link](https://github.com/balazsgyenes/kirurc)**|
+|**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048](http://arxiv.org/abs/2606.12048)|null|
 |**2026-06-09**|**FlexiBrain: Resolution-Agnostic Voxel-Level Encoding for Native fMRI**|Mo Wang et.al.|[2606.11500](http://arxiv.org/abs/2606.11500)|null|
 |**2026-06-09**|**Optimizing 2D Input Representations and Sub-phase Fusion Strategies for Differential Diagnosis of Asthma and COPD Using CNN- and GRU-Based Networks**|Ipek Sen et.al.|[2606.10972](http://arxiv.org/abs/2606.10972)|null|
 |**2026-06-09**|**A Systematic Approach for Selecting Trajectories for Data Augmentation**|Adam Nordling et.al.|[2606.10938](http://arxiv.org/abs/2606.10938)|null|
@@ -8889,7 +8889,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Decision-Weighted Flow Matching for Contextual Stochastic Optimization**|Jize Xie et.al.|[2606.16790](http://arxiv.org/abs/2606.16790)|null|
 |**2026-06-15**|**A comparison of human and LLM-simulated participants in a writing style task**|Felix Gröner et.al.|[2606.16778](http://arxiv.org/abs/2606.16778)|null|
-|**2026-06-15**|**MMDiff: Extending Diffusion Transformers for Multi-Modal Generation**|Yagmur Akarken et.al.|[2606.16673](http://arxiv.org/abs/2606.16673)|null|
+|**2026-06-15**|**MMDiff: Extending Diffusion Transformers for Multi-Modal Generation**|Yagmur Akarken et.al.|[2606.16673](http://arxiv.org/abs/2606.16673)|**[link](https://github.com/yagmurakarken/mmdiff)**|
 |**2026-06-15**|**An Energy-Driven Framework for Privacy-Aware Synthetic Data Generation**|Pierpaolo Massoli et.al.|[2606.16488](http://arxiv.org/abs/2606.16488)|null|
 |**2026-06-15**|**Unified Audio Generation and Editing via Joint Condition Modeling and Progressive Training**|Haocheng Dong et.al.|[2606.16435](http://arxiv.org/abs/2606.16435)|null|
 |**2026-06-15**|**State-Grounded Multi-Agent Synthetic Data Generation for Tool-Augmented LLMs**|Rahul Khedar et.al.|[2606.16307](http://arxiv.org/abs/2606.16307)|null|
