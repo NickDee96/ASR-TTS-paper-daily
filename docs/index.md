@@ -59,7 +59,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-14**|**ROMPAR: Morphological Completion and Demographic Unlearning for Romanian-Accented Speech Recognition**|Andrei-Marius Avram et.al.|[2606.15984](http://arxiv.org/abs/2606.15984)|null|
 |**2026-06-14**|**MambAdapter: Lightweight Mamba-Based Adapters for Parameter-Efficient Transfer Learning in Speech and Audio**|Salman Hussain Ali et.al.|[2606.15638](http://arxiv.org/abs/2606.15638)|null|
 |**2026-06-13**|**A Practical Evaluation Method for Long-Form Simultaneous Speech-to-Speech Translation**|Yulin Xue et.al.|[2606.15059](http://arxiv.org/abs/2606.15059)|null|
-|**2026-06-12**|**Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models**|Ravi Ranjan et.al.|[2606.14647](http://arxiv.org/abs/2606.14647)|null|
+|**2026-06-12**|**Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models**|Ravi Ranjan et.al.|[2606.14647](http://arxiv.org/abs/2606.14647)|**[link](https://github.com/raviranjan-ai/LEAFX-interspeech-2026)**|
 |**2026-06-12**|**MoDiCoL: A Modular Diagnostic Continual Learning Dataset for Robust Speech Recognition**|Theresa Pekarek Rosin et.al.|[2606.14459](http://arxiv.org/abs/2606.14459)|null|
 |**2026-06-12**|**Learning to Hear Hesitation: Continual Learning for Disfluency-Aware ASR**|Henri-Leon Kordt et.al.|[2606.14391](http://arxiv.org/abs/2606.14391)|null|
 |**2026-06-11**|**Leveraging Audio-LLMs to Filter Speech-to-Speech Training Data**|Qixu Chen et.al.|[2606.13507](http://arxiv.org/abs/2606.13507)|null|
@@ -944,7 +944,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-04**|**UniVoice: A Unified Model for Speech and Singing Voice Generation**|Junjie Zheng et.al.|[2606.05852](http://arxiv.org/abs/2606.05852)|null|
 |**2026-06-03**|**Task-Vector Arithmetic for Emotional Expressivity Control in Language-Model-Based Text-to-Speech**|Daniel Oliveira de Brito et.al.|[2606.05367](http://arxiv.org/abs/2606.05367)|null|
 |**2026-06-03**|**FoeGlass: Simple In-Context Learning Is Enough for Red Teaming Audio Deepfake Detectors**|Sepehr Dehdashtian et.al.|[2606.05101](http://arxiv.org/abs/2606.05101)|null|
-|**2026-06-02**|**WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling**|Wenxi Chen et.al.|[2606.03455](http://arxiv.org/abs/2606.03455)|null|
+|**2026-06-02**|**WavTTS: Towards High-Quality Zero-Shot TTS via Direct Raw Waveform Modeling**|Wenxi Chen et.al.|[2606.03455](http://arxiv.org/abs/2606.03455)|**[link](https://github.com/cwx-worst-one/WavTTS)**|
 |**2026-06-01**|**UniVocal: Unified Speech-Singing Code-Switching Synthesis**|Yufei Shi et.al.|[2606.01677](http://arxiv.org/abs/2606.01677)|null|
 |**2026-05-31**|**Sparse Autoencoders for Interpretable Emotion Control in Text-to-Speech**|Hongfei Du et.al.|[2606.01479](http://arxiv.org/abs/2606.01479)|null|
 |**2026-05-30**|**Local Diagnostics of Continuous Normalizing Flow for Out-of-Distribution Detection**|Xinwei Cao et.al.|[2606.00684](http://arxiv.org/abs/2606.00684)|null|
@@ -1571,7 +1571,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-16**|**LLM Parameters for Math Across Languages: Shared or Separate?**|Behzad Shomali et.al.|[2606.18453](http://arxiv.org/abs/2606.18453)|null|
 |**2026-06-16**|**When English Isn't the Best Teacher: Source Language Effects in Cross-Lingual In-Context Learning**|Fred Philippy et.al.|[2606.18033](http://arxiv.org/abs/2606.18033)|null|
 |**2026-06-15**|**Translating the Untranslatable: An Operationalizable Ontology for Untranslatability**|Jacob Bremerman et.al.|[2606.17354](http://arxiv.org/abs/2606.17354)|null|
-|**2026-06-15**|**Synergizing Zero-Shot Cross-Lingual Alzheimer Detection with Language-Invariant Multimodal Bi-Geometric Adversarial Learning**|Girish et.al.|[2606.17254](http://arxiv.org/abs/2606.17254)|null|
+|**2026-06-15**|**Synergizing Zero-Shot Cross-Lingual Alzheimer Detection with Language-Invariant Multimodal Bi-Geometric Adversarial Learning**| Girish et.al.|[2606.17254](http://arxiv.org/abs/2606.17254)|null|
 |**2026-06-15**|**Speaking in Self-Assessing Tongues: On the Verbalized Confidence of LLMs in Machine Translation**|Ali Marashian et.al.|[2606.17234](http://arxiv.org/abs/2606.17234)|null|
 |**2026-06-15**|**RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting**|Arunkumar V et.al.|[2606.16925](http://arxiv.org/abs/2606.16925)|null|
 |**2026-06-15**|**How Far Can Machine Translation Quality Take You? Extrinsic Discourse Evaluation in Goal-Oriented Setups**|Wafaa Mohammed et.al.|[2606.16596](http://arxiv.org/abs/2606.16596)|null|
@@ -7603,7 +7603,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-27**|**Multimodal Group Emotion Recognition In-the-Wild Towards a Privacy-Safe Non-Individual Approach**|Anderson Augusma et.al.|[2606.07585](http://arxiv.org/abs/2606.07585)|null|
 |**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
 |**2026-06-15**|**DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios**|Tongzhou Yu et.al.|[2606.07226](http://arxiv.org/abs/2606.07226)|null|
-|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
+|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-04**|**Robust Ensemble of Selectively Strengthened and Augmented Predictors**|Parsa Memarzadehsaghezi et.al.|[2606.06265](http://arxiv.org/abs/2606.06265)|null|
 |**2026-06-04**|**Deep reinforcement learning with spatial and temporal awareness for active boundary control of buoyancy-driven convection**|Giorgio Maria Cavallazzi et.al.|[2606.06191](http://arxiv.org/abs/2606.06191)|null|
@@ -8885,7 +8885,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-16**|**Split-Head Quantum Generative Adversarial Network for Crystalline Material Discovery**|Huan-Ming Chang et.al.|[2606.17852](http://arxiv.org/abs/2606.17852)|null|
 |**2026-06-16**|**An Analysis of the Effectiveness of Synthetic Speech Data for ASR Fine-tuning in Selected Indic Languages**|Sujith Pulikodan et.al.|[2606.17662](http://arxiv.org/abs/2606.17662)|null|
 |**2026-06-16**|**Perron--Frobenius Operator Matching for Generative Modeling**|Shiqi Zhang et.al.|[2606.17465](http://arxiv.org/abs/2606.17465)|null|
-|**2026-06-15**|**BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering**|Yi-Ruei Liu et.al.|[2606.17049](http://arxiv.org/abs/2606.17049)|null|
+|**2026-06-15**|**BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering**|Yi-Ruei Liu et.al.|[2606.17049](http://arxiv.org/abs/2606.17049)|**[link](https://github.com/shigon255/BRDFusion)**|
 |**2026-06-15**|**Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data**|Kareem Amin et.al.|[2606.16952](http://arxiv.org/abs/2606.16952)|null|
 |**2026-06-15**|**Decision-Weighted Flow Matching for Contextual Stochastic Optimization**|Jize Xie et.al.|[2606.16790](http://arxiv.org/abs/2606.16790)|null|
 |**2026-06-15**|**A comparison of human and LLM-simulated participants in a writing style task**|Felix Gröner et.al.|[2606.16778](http://arxiv.org/abs/2606.16778)|null|
