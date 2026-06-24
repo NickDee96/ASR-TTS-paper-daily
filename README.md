@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.23**
+📅 **Updated on 2026.06.24**
 
 ---
 
@@ -1628,7 +1628,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-22**|**Machine Translation and Post-Editing: Comparative Evaluation of Different MT Systems and Post-Editor Groups in Specialised Translation**|Joachim Minder et.al.|[2606.23002](http://arxiv.org/abs/2606.23002)|null|
 |**2026-06-22**|**Cross-lingual Retrieval-Augmented Classification for Dysarthria Severity Assessment**|Taeyoung Jeong et.al.|[2606.22910](http://arxiv.org/abs/2606.22910)|null|
 |**2026-06-22**|**IndicGuard: A Multilingual Safety Guard Model and Dataset for Indic Languages**|Parth Bramhecha et.al.|[2606.22841](http://arxiv.org/abs/2606.22841)|null|
-|**2026-06-21**|**Deep Learning-Based Sign Language Recognition from Videos and Cross-Lingual Translation to Indian Vernaculars**|Chandranath Adak et.al.|[2606.22494](http://arxiv.org/abs/2606.22494)|null|
+|**2026-06-21**|**Deep Learning-Based Sign Language Recognition from Videos and Cross-Lingual Translation to Indian Vernaculars**|Ramesh Nandipalli et.al.|[2606.22494](http://arxiv.org/abs/2606.22494)|null|
 |**2026-06-20**|**Evaluating Large Language Models for Hausa and Fongbe Machine Translation: Benchmarks, Failures, and Metric Reliability**|Mahounan Pericles Adjovi et.al.|[2606.22269](http://arxiv.org/abs/2606.22269)|null|
 |**2026-06-20**|**Cultural Targets, Structural Frames, Binding Morals: A Cross-Lingual Audit of Online Hate in Multicultural Singapore**|Emilio Ferrara et.al.|[2606.21996](http://arxiv.org/abs/2606.21996)|null|
 |**2026-06-20**|**Are Multilingual Models Actually Improving? Isolating True Cross-Lingual Transfer**|Prasoon Bajpai et.al.|[2606.21954](http://arxiv.org/abs/2606.21954)|null|
@@ -7682,7 +7682,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-06-21**|**Biological Sex Determination in Cadavers Using Deep Learning Algorithms from Computed Tomography Images of Pelvis and Skull**|Giovanna Herculano Tormena et.al.|[2606.22515](http://arxiv.org/abs/2606.22515)|null|
-|**2026-06-21**|**Enhancing Protein Representation Learning via Manifold Restore Mixing**|Yizhou Dang et.al.|[2606.22307](http://arxiv.org/abs/2606.22307)|**[link](https://github.com/KingGugu/MRM)**|
+|**2026-06-21**|**Enhancing Protein Representation Learning via Manifold Restore Mixing**|Yizhou Dang et.al.|[2606.22307](http://arxiv.org/abs/2606.22307)|null|
 |**2026-06-20**|**Ordering Stochastic Block Models via prior transitivity**|Lapo Santi et.al.|[2606.22148](http://arxiv.org/abs/2606.22148)|null|
 |**2026-06-20**|**A Standard Processing Pipeline for High-accuracy Measurement of Few-shot Regression on Laser Induced Breakdown Spectroscopy**|Hao Li et.al.|[2606.21960](http://arxiv.org/abs/2606.21960)|null|
 |**2026-06-20**|**AugCodec: A Low-Bitrate Disentangled Neural Speech Codec via Data Augmentation**|Dongmei Wang et.al.|[2606.21893](http://arxiv.org/abs/2606.21893)|null|
