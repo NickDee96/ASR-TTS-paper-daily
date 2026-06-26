@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.25**
+📅 **Updated on 2026.06.26**
 
 ## 🌟 About This Repository
 
@@ -76,9 +76,9 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-14**|**Scaling Human and G2P Supervision for Robust Phonetic Transcription**|Alexander Metzger et.al.|[2606.16019](http://arxiv.org/abs/2606.16019)|null|
 |**2026-06-14**|**Stringalign: Moving beyond summary statistics with a transparent Unicode-aware tool for evaluating automatic transcription models**|Yngve Mardal Moe et.al.|[2606.16015](http://arxiv.org/abs/2606.16015)|null|
 |**2026-06-14**|**ROMPAR: Morphological Completion and Demographic Unlearning for Romanian-Accented Speech Recognition**|Andrei-Marius Avram et.al.|[2606.15984](http://arxiv.org/abs/2606.15984)|null|
-|**2026-06-14**|**MambAdapter: Lightweight Mamba-Based Adapters for Parameter-Efficient Transfer Learning in Speech and Audio**|Salman Hussain Ali et.al.|[2606.15638](http://arxiv.org/abs/2606.15638)|**[link](https://github.com/salman-ha/MambAdapter)**|
+|**2026-06-14**|**MambAdapter: Lightweight Mamba-Based Adapters for Parameter-Efficient Transfer Learning in Speech and Audio**|Salman Hussain Ali et.al.|[2606.15638](http://arxiv.org/abs/2606.15638)|null|
 |**2026-06-13**|**A Practical Evaluation Method for Long-Form Simultaneous Speech-to-Speech Translation**|Yulin Xue et.al.|[2606.15059](http://arxiv.org/abs/2606.15059)|null|
-|**2026-06-12**|**Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models**|Ravi Ranjan et.al.|[2606.14647](http://arxiv.org/abs/2606.14647)|**[link](https://github.com/raviranjan-ai/LEAFX-interspeech-2026)**|
+|**2026-06-12**|**Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models**|Ravi Ranjan et.al.|[2606.14647](http://arxiv.org/abs/2606.14647)|null|
 |**2026-06-12**|**MoDiCoL: A Modular Diagnostic Continual Learning Dataset for Robust Speech Recognition**|Theresa Pekarek Rosin et.al.|[2606.14459](http://arxiv.org/abs/2606.14459)|null|
 |**2026-06-12**|**Learning to Hear Hesitation: Continual Learning for Disfluency-Aware ASR**|Henri-Leon Kordt et.al.|[2606.14391](http://arxiv.org/abs/2606.14391)|null|
 |**2026-06-11**|**Leveraging Audio-LLMs to Filter Speech-to-Speech Training Data**|Qixu Chen et.al.|[2606.13507](http://arxiv.org/abs/2606.13507)|null|
@@ -7730,7 +7730,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-17**|**Rethinking Text-to-Image as Semantic-Aware Data Augmentation for Indoor Scene Recognition**|Trong-Vu Hoang et.al.|[2606.18555](http://arxiv.org/abs/2606.18555)|null|
 |**2026-06-16**|**Vines-DB: An RGB image dataset for multi-species ornamental vine segmentation**|Saroj Burlakoti et.al.|[2606.18484](http://arxiv.org/abs/2606.18484)|null|
 |**2026-06-16**|**Structural MRI Synthesis for Alzheimer's Disease via Conditional Diffusion on Anatomical Masks**|Muge Zhang et.al.|[2606.18354](http://arxiv.org/abs/2606.18354)|null|
-|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
+|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|**[link](https://github.com/jiyewise/MOCHI)**|
 |**2026-06-16**|**GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments**|Jiawei Zhang et.al.|[2606.17520](http://arxiv.org/abs/2606.17520)|null|
 |**2026-06-16**|**Improving Linear Regression on Small Datasets via Gaussian Process and Extreme Value Theory-Based Data Augmentation**|Ibrahim Salay et.al.|[2606.17486](http://arxiv.org/abs/2606.17486)|null|
 |**2026-06-10**|**Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework**|Wang Rui et.al.|[2606.17077](http://arxiv.org/abs/2606.17077)|null|
@@ -9062,10 +9062,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-21**|**The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination**|Hooman Tavakoli Ghinani et.al.|[2606.22574](http://arxiv.org/abs/2606.22574)|null|
 |**2026-06-21**|**Generative Robust Optimisation**|Yuhui Yin et.al.|[2606.22536](http://arxiv.org/abs/2606.22536)|null|
 |**2026-06-21**|**Scalable Multi-Task Data Generation via Reinforcement Learning for Language-Conditioned Bimanual Dexterous Manipulation**|Zechu Li et.al.|[2606.22471](http://arxiv.org/abs/2606.22471)|null|
-|**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416](http://arxiv.org/abs/2606.22416)|null|
+|**2026-06-21**|**Gen2Balance: Generative Balancing for Long-Tailed Video Action Recognition**|Prajwal Gatti et.al.|[2606.22416](http://arxiv.org/abs/2606.22416)|**[link](https://github.com/prajwalgatti/Gen2Balance)**|
 |**2026-06-23**|**ZeroGVC: Zero-Shot Generative Video Compression with Autoregressive Diffusion Priors**|Yixin Gao et.al.|[2606.22371](http://arxiv.org/abs/2606.22371)|null|
 |**2026-06-20**|**DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects**|Yi Yang et.al.|[2606.22116](http://arxiv.org/abs/2606.22116)|null|
-|**2026-06-20**|**A Generative Model for Extremely Sparse Edge-Exchangeable Networks**|Valentin Kilian et.al.|[2606.22105](http://arxiv.org/abs/2606.22105)|null|
+|**2026-06-20**|**A Generative Model for Extremely Sparse Edge-Exchangeable Networks**|Valentin Kilian et.al.|[2606.22105](http://arxiv.org/abs/2606.22105)|**[link](https://github.com/ValentinKil/ExtremelySparseEdgesExchangeable)**|
 |**2026-06-20**|**Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery**|Amir H. M. Labeb et.al.|[2606.21945](http://arxiv.org/abs/2606.21945)|null|
 |**2026-06-20**|**ProsoCodec: Prosody-Oriented Speech Codec for Voice Conversion**|Jeongsoo Choi et.al.|[2606.21888](http://arxiv.org/abs/2606.21888)|null|
 |**2026-06-19**|**CuratorKIT : Data Curation and Synthetic Data Generation for LLM Post-Training**|Soham Bhattacharjee et.al.|[2606.21631](http://arxiv.org/abs/2606.21631)|null|
