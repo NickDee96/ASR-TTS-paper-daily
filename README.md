@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.26**
+📅 **Updated on 2026.06.27**
 
 ---
 
@@ -53,7 +53,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-25**|**SamaVaani: Auditing and Debiasing Multilingual Clinical ASR for Indian Languages**|Subham Kumar et.al.|[2606.26901](http://arxiv.org/abs/2606.26901)|null|
 |**2026-06-25**|**FBK's Long-form SpeechLLMs for IWSLT 2026 Instruction Following**|Zhihang Xie et.al.|[2606.26819](http://arxiv.org/abs/2606.26819)|null|
 |**2026-06-25**|**How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring**|Yang Gao et.al.|[2606.25487](http://arxiv.org/abs/2606.25487)|null|
-|**2026-06-24**|**Fully Differentiable Neural Forced Alignment via Soft Dynamic Programming**|Rotem Rousso et.al.|[2606.25460](http://arxiv.org/abs/2606.25460)|null|
+|**2026-06-24**|**Fully Differentiable Neural Forced Alignment via Soft Dynamic Programming**|Rotem Rousso et.al.|[2606.25460](http://arxiv.org/abs/2606.25460)|**[link](https://github.com/RotemRousso/FDNFA)**|
 |**2026-06-24**|**Does Translation-Enhanced Speech Encoder Pre-training Affect Speech LLMs?**|Tomoya Mizumoto et.al.|[2606.25444](http://arxiv.org/abs/2606.25444)|null|
 |**2026-06-19**|**Error-Aware TF-IDF Retrieval-Augmented Generation for ASR Error Correction**|Mohammad Aref Jafari-Raddani et.al.|[2606.24915](http://arxiv.org/abs/2606.24915)|null|
 |**2026-06-23**|**Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR**|Nenad Banfic et.al.|[2606.24169](http://arxiv.org/abs/2606.24169)|null|
@@ -7808,10 +7808,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-23**|**SBM With Multiple Samples: Improved Spectral Recovery**|Sie Hendrata Dharmawan et.al.|[2606.24141](http://arxiv.org/abs/2606.24141)|null|
 |**2026-06-23**|**MinInter: Minimizing Trajectory Interpolation During Data Augmentation for Imitation Learning**|Qingyang Wang et.al.|[2606.24078](http://arxiv.org/abs/2606.24078)|null|
 |**2026-06-22**|**Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach**|Inioluwa Emmanuel et.al.|[2606.23851](http://arxiv.org/abs/2606.23851)|null|
-|**2026-06-22**|**Hessian-augmented Supervised Learning for Hamilton-Jacobi-Bellman PDEs**|Matías Gómez-Aedo et.al.|[2606.23827](http://arxiv.org/abs/2606.23827)|null|
+|**2026-06-22**|**Hessian-augmented Supervised Learning for Hamilton-Jacobi-Bellman PDEs**|Matías Gómez-Aedo et.al.|[2606.23827](http://arxiv.org/abs/2606.23827)|**[link](https://github.com/mgomezaedo/HJB-Hessian-Learning)**|
 |**2026-06-21**|**Systematic Exploration of 4-Expert Heterogeneous Mixture-of-Experts via Automated Pipeline Search**|Yashkumar R Lukhi et.al.|[2606.23739](http://arxiv.org/abs/2606.23739)|null|
 |**2026-06-21**|**Biological Sex Determination in Cadavers Using Deep Learning Algorithms from Computed Tomography Images of Pelvis and Skull**|Giovanna Herculano Tormena et.al.|[2606.22515](http://arxiv.org/abs/2606.22515)|null|
-|**2026-06-21**|**Enhancing Protein Representation Learning via Manifold Restore Mixing**|Yizhou Dang et.al.|[2606.22307](http://arxiv.org/abs/2606.22307)|null|
+|**2026-06-21**|**Enhancing Protein Representation Learning via Manifold Restore Mixing**|Yizhou Dang et.al.|[2606.22307](http://arxiv.org/abs/2606.22307)|**[link](https://github.com/KingGugu/MRM)**|
 |**2026-06-20**|**Ordering Stochastic Block Models via prior transitivity**|Lapo Santi et.al.|[2606.22148](http://arxiv.org/abs/2606.22148)|null|
 |**2026-06-20**|**A Standard Processing Pipeline for High-accuracy Measurement of Few-shot Regression on Laser Induced Breakdown Spectroscopy**|Hao Li et.al.|[2606.21960](http://arxiv.org/abs/2606.21960)|null|
 |**2026-06-20**|**AugCodec: A Low-Bitrate Disentangled Neural Speech Codec via Data Augmentation**|Dongmei Wang et.al.|[2606.21893](http://arxiv.org/abs/2606.21893)|null|
