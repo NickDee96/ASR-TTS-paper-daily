@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.27**
+📅 **Updated on 2026.06.28**
 
 ---
 
@@ -53,7 +53,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-25**|**SamaVaani: Auditing and Debiasing Multilingual Clinical ASR for Indian Languages**|Subham Kumar et.al.|[2606.26901](http://arxiv.org/abs/2606.26901)|null|
 |**2026-06-25**|**FBK's Long-form SpeechLLMs for IWSLT 2026 Instruction Following**|Zhihang Xie et.al.|[2606.26819](http://arxiv.org/abs/2606.26819)|null|
 |**2026-06-25**|**How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring**|Yang Gao et.al.|[2606.25487](http://arxiv.org/abs/2606.25487)|null|
-|**2026-06-24**|**Fully Differentiable Neural Forced Alignment via Soft Dynamic Programming**|Rotem Rousso et.al.|[2606.25460](http://arxiv.org/abs/2606.25460)|**[link](https://github.com/RotemRousso/FDNFA)**|
+|**2026-06-24**|**Fully Differentiable Neural Forced Alignment via Soft Dynamic Programming**|Rotem Rousso et.al.|[2606.25460](http://arxiv.org/abs/2606.25460)|**[link](https://github.com/MLSpeech/FALCON)**|
 |**2026-06-24**|**Does Translation-Enhanced Speech Encoder Pre-training Affect Speech LLMs?**|Tomoya Mizumoto et.al.|[2606.25444](http://arxiv.org/abs/2606.25444)|null|
 |**2026-06-19**|**Error-Aware TF-IDF Retrieval-Augmented Generation for ASR Error Correction**|Mohammad Aref Jafari-Raddani et.al.|[2606.24915](http://arxiv.org/abs/2606.24915)|null|
 |**2026-06-23**|**Data Scale, Not Latency, Shapes Cross-Lingual Encoder Transfer in Streaming ASR**|Nenad Banfic et.al.|[2606.24169](http://arxiv.org/abs/2606.24169)|null|

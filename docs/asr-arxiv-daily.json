@@ -865,7 +865,7 @@
     "2606.24080": "|**2026-06-23**|**Audio--Image Alignment as a Continued-Pretraining Stage Improves Low-Resource ASR**|Sujith Pulikodan et.al.|[2606.24080](http://arxiv.org/abs/2606.24080)|null|\n",
     "2606.23948": "|**2026-06-22**|**Layer-wise Probing of wav2vec 2.0 and Whisper for Consonant Cluster Reduction in African American English**|Hamid Mojarad et.al.|[2606.23948](http://arxiv.org/abs/2606.23948)|null|\n",
     "2606.25487": "|**2026-06-25**|**How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring**|Yang Gao et.al.|[2606.25487](http://arxiv.org/abs/2606.25487)|null|\n",
-    "2606.25460": "|**2026-06-24**|**Fully Differentiable Neural Forced Alignment via Soft Dynamic Programming**|Rotem Rousso et.al.|[2606.25460](http://arxiv.org/abs/2606.25460)|**[link](https://github.com/RotemRousso/FDNFA)**|\n",
+    "2606.25460": "|**2026-06-24**|**Fully Differentiable Neural Forced Alignment via Soft Dynamic Programming**|Rotem Rousso et.al.|[2606.25460](http://arxiv.org/abs/2606.25460)|**[link](https://github.com/MLSpeech/FALCON)**|\n",
     "2606.25444": "|**2026-06-24**|**Does Translation-Enhanced Speech Encoder Pre-training Affect Speech LLMs?**|Tomoya Mizumoto et.al.|[2606.25444](http://arxiv.org/abs/2606.25444)|null|\n",
     "2606.24915": "|**2026-06-19**|**Error-Aware TF-IDF Retrieval-Augmented Generation for ASR Error Correction**|Mohammad Aref Jafari-Raddani et.al.|[2606.24915](http://arxiv.org/abs/2606.24915)|null|\n",
     "2606.26901": "|**2026-06-25**|**SamaVaani: Auditing and Debiasing Multilingual Clinical ASR for Indian Languages**|Subham Kumar et.al.|[2606.26901](http://arxiv.org/abs/2606.26901)|null|\n",
