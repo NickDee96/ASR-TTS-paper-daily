@@ -2675,8 +2675,8 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-06-25**|**RoPEMover: Depth-Aware Object Relocation via Positional Embeddings**|Ipek Oztas et.al.|[2606.27332](http://arxiv.org/abs/2606.27332)|null|
-|**2026-06-25**|**Hallucination in World Models is Predictable and Preventable**|Nicklas Hansen et.al.|[2606.27326](http://arxiv.org/abs/2606.27326)|null|
-|**2026-06-25**|**ViQ: Text-Aligned Visual Quantized Representations at Any Resolution**|Xumin Yu et.al.|[2606.27313](http://arxiv.org/abs/2606.27313)|null|
+|**2026-06-25**|**Hallucination in World Models is Predictable and Preventable**|Nicklas Hansen et.al.|[2606.27326](http://arxiv.org/abs/2606.27326)|**[link](https://github.com/nicklashansen/mmbench2)**|
+|**2026-06-25**|**ViQ: Text-Aligned Visual Quantized Representations at Any Resolution**|Xumin Yu et.al.|[2606.27313](http://arxiv.org/abs/2606.27313)|**[link](https://github.com/yuxumin/ViQ)**|
 |**2026-06-25**|**Resource-Aware Neuro-Symbolic Reasoning for Local Small Language Models**|Carlos Ramírez Ovalle et.al.|[2606.27281](http://arxiv.org/abs/2606.27281)|null|
 |**2026-06-25**|**Smaller Models, Unexpected Costs: Trade-offs in LLM Quantization for Automated Program Repair**|Fernando Vallecillos-Ruiz et.al.|[2606.27205](http://arxiv.org/abs/2606.27205)|null|
 |**2026-06-25**|**TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference**|Tinghao Wang et.al.|[2606.27161](http://arxiv.org/abs/2606.27161)|null|
@@ -9159,7 +9159,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-25**|**LISA: Likelihood Score Alignment for Visual-condition Controllable Generation**|Yanghao Wang et.al.|[2606.27192](http://arxiv.org/abs/2606.27192)|null|
 |**2026-06-25**|**Tractography-Driven Synthetic Data Generation for Fiber Bundle Segmentation in Tracer Histology**|Kyriaki-Margarita Bintsi et.al.|[2606.26898](http://arxiv.org/abs/2606.26898)|null|
 |**2026-06-25**|**Perception, Verdict, and Evolution: Hindsight-Driven Self-Refining Forensics Agent for AI-Generated Image Detection**|Yangjun Wu et.al.|[2606.26552](http://arxiv.org/abs/2606.26552)|null|
-|**2026-06-25**|**PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing**|Shengbin Guo et.al.|[2606.26551](http://arxiv.org/abs/2606.26551)|null|
+|**2026-06-25**|**PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing**|Shengbin Guo et.al.|[2606.26551](http://arxiv.org/abs/2606.26551)|**[link](https://github.com/Previsior/PhyEditBench)**|
 |**2026-06-24**|**TEMPO-Diffusion: Temporally Exposed Malicious Poisoning of Diffusion Models**|William Aiken et.al.|[2606.26285](http://arxiv.org/abs/2606.26285)|null|
 |**2026-06-24**|**Dataset Usage Inference without Shadow Models or Held-out Data**|Wojciech Łapacz et.al.|[2606.26257](http://arxiv.org/abs/2606.26257)|null|
 |**2026-06-24**|**LCG: Long-Context Consistent Image Generation with Sparse Relational Attention**|Zihao Wang et.al.|[2606.26171](http://arxiv.org/abs/2606.26171)|null|
