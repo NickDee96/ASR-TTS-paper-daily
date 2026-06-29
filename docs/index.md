@@ -12,7 +12,7 @@ layout: default
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.28**
+📅 **Updated on 2026.06.29**
 
 ## 🌟 About This Repository
 
@@ -960,7 +960,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-11**|**PRISM: Prosody-Integrated Multi-Agent Reasoning Framework for Empathetic Spoken Dialogue**|Wen Zhang et.al.|[2606.12902](http://arxiv.org/abs/2606.12902)|null|
 |**2026-06-10**|**A Type Theory of Sense: Witnessed Choice in Stratified Semantic Spaces**|Iman Poernomo et.al.|[2606.12504](http://arxiv.org/abs/2606.12504)|null|
 |**2026-06-10**|**Real-Time Language Model Jamming: A Case Study for Live Music Accompaniment Generation**|Bowen Zheng et.al.|[2606.11886](http://arxiv.org/abs/2606.11886)|null|
-|**2026-06-11**|**UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction**|Sangmin Lee et.al.|[2606.11681](http://arxiv.org/abs/2606.11681)|null|
+|**2026-06-11**|**UR-BERT: Scaling Text Encoders for Massively Multilingual TTS Through Universal Romanization and Speech Token Prediction**|Sangmin Lee et.al.|[2606.11681](http://arxiv.org/abs/2606.11681)|**[link](https://github.com/sanghyang00/ur-bert)**|
 |**2026-06-10**|**SARA: A Dual-Stream VAE for High-Fidelity Speech Generation via Integrating Semantic and Acoustic Representations**|Peijie Chen et.al.|[2606.11611](http://arxiv.org/abs/2606.11611)|null|
 |**2026-06-09**|**The Dynamics of Human and AI-Generated Language: How Semantics Fluctuates across Different Timescales**|Han-Jen Chang et.al.|[2606.11371](http://arxiv.org/abs/2606.11371)|null|
 |**2026-06-09**|**Anchoring the Unknown: Open-Set Model Attribution via Proxy-Anchor Learning**|Cristian-Teodor Neamtu et.al.|[2606.10758](http://arxiv.org/abs/2606.10758)|null|
@@ -2624,8 +2624,8 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-06-25**|**RoPEMover: Depth-Aware Object Relocation via Positional Embeddings**|Ipek Oztas et.al.|[2606.27332](http://arxiv.org/abs/2606.27332)|null|
-|**2026-06-25**|**Hallucination in World Models is Predictable and Preventable**|Nicklas Hansen et.al.|[2606.27326](http://arxiv.org/abs/2606.27326)|**[link](https://github.com/nicklashansen/mmbench2)**|
-|**2026-06-25**|**ViQ: Text-Aligned Visual Quantized Representations at Any Resolution**|Xumin Yu et.al.|[2606.27313](http://arxiv.org/abs/2606.27313)|**[link](https://github.com/yuxumin/ViQ)**|
+|**2026-06-25**|**Hallucination in World Models is Predictable and Preventable**|Nicklas Hansen et.al.|[2606.27326](http://arxiv.org/abs/2606.27326)|null|
+|**2026-06-25**|**ViQ: Text-Aligned Visual Quantized Representations at Any Resolution**|Xumin Yu et.al.|[2606.27313](http://arxiv.org/abs/2606.27313)|null|
 |**2026-06-25**|**Resource-Aware Neuro-Symbolic Reasoning for Local Small Language Models**|Carlos Ramírez Ovalle et.al.|[2606.27281](http://arxiv.org/abs/2606.27281)|null|
 |**2026-06-25**|**Smaller Models, Unexpected Costs: Trade-offs in LLM Quantization for Automated Program Repair**|Fernando Vallecillos-Ruiz et.al.|[2606.27205](http://arxiv.org/abs/2606.27205)|null|
 |**2026-06-25**|**TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference**|Tinghao Wang et.al.|[2606.27161](http://arxiv.org/abs/2606.27161)|null|
