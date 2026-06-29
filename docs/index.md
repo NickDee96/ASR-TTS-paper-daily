@@ -1641,7 +1641,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-16**|**LLM Parameters for Math Across Languages: Shared or Separate?**|Behzad Shomali et.al.|[2606.18453](http://arxiv.org/abs/2606.18453)|null|
 |**2026-06-16**|**When English Isn't the Best Teacher: Source Language Effects in Cross-Lingual In-Context Learning**|Fred Philippy et.al.|[2606.18033](http://arxiv.org/abs/2606.18033)|null|
 |**2026-06-15**|**Translating the Untranslatable: An Operationalizable Ontology for Untranslatability**|Jacob Bremerman et.al.|[2606.17354](http://arxiv.org/abs/2606.17354)|null|
-|**2026-06-15**|**Synergizing Zero-Shot Cross-Lingual Alzheimer Detection with Language-Invariant Multimodal Bi-Geometric Adversarial Learning**| Girish et.al.|[2606.17254](http://arxiv.org/abs/2606.17254)|null|
+|**2026-06-15**|**Synergizing Zero-Shot Cross-Lingual Alzheimer Detection with Language-Invariant Multimodal Bi-Geometric Adversarial Learning**|Girish et.al.|[2606.17254](http://arxiv.org/abs/2606.17254)|null|
 |**2026-06-15**|**Speaking in Self-Assessing Tongues: On the Verbalized Confidence of LLMs in Machine Translation**|Ali Marashian et.al.|[2606.17234](http://arxiv.org/abs/2606.17234)|null|
 |**2026-06-15**|**RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting**|Arunkumar V et.al.|[2606.16925](http://arxiv.org/abs/2606.16925)|null|
 |**2026-06-15**|**How Far Can Machine Translation Quality Take You? Extrinsic Discourse Evaluation in Goal-Oriented Setups**|Wafaa Mohammed et.al.|[2606.16596](http://arxiv.org/abs/2606.16596)|null|
@@ -2662,7 +2662,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-24**|**A Path-Survival Analytical Framework for SCL Decoding of Polar Code**|Xianbin Wang et.al.|[2606.25522](http://arxiv.org/abs/2606.25522)|null|
 |**2026-06-24**|**Quantization Inflates Reasoning: Token Inflation as a Hidden Cost of Low-Bit Reasoning Models**|Xinyu Lian et.al.|[2606.25519](http://arxiv.org/abs/2606.25519)|null|
 |**2026-06-24**|**Distill on a Diet: Efficient Knowledge Distillation via Learnable Data Pruning**|Yifan Wu et.al.|[2606.25488](http://arxiv.org/abs/2606.25488)|null|
-|**2026-06-24**|**Brevity is the Soul of Inference Efficiency: Inducing Concision in VLMs via Data Curation**| DatologyAI et.al.|[2606.25432](http://arxiv.org/abs/2606.25432)|null|
+|**2026-06-24**|**Brevity is the Soul of Inference Efficiency: Inducing Concision in VLMs via Data Curation**|DatologyAI et.al.|[2606.25432](http://arxiv.org/abs/2606.25432)|null|
 |**2026-06-24**|**Lightweight PCGAE-Net: Parallel CrossGate Attention and Bottleneck AutoEncoder for Efficient 5G Channel Prediction**|Uma Kishore Godavarti et.al.|[2606.25401](http://arxiv.org/abs/2606.25401)|null|
 |**2026-06-24**|**Primal-Dual Halpern-PAGE Algorithm for Constrained Stochastic Weakly Convex Optimization**|Lixin Tang et.al.|[2606.25355](http://arxiv.org/abs/2606.25355)|null|
 |**2026-06-24**|**Efficient and Trainable Language Model Test-Time Scaling via Local Branch Routing**|Yutong Yin et.al.|[2606.25354](http://arxiv.org/abs/2606.25354)|null|
@@ -7821,7 +7821,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-05-27**|**Multimodal Group Emotion Recognition In-the-Wild Towards a Privacy-Safe Non-Individual Approach**|Anderson Augusma et.al.|[2606.07585](http://arxiv.org/abs/2606.07585)|null|
 |**2026-06-05**|**Implicit Data Synthesis for Contrastive Unsupervised Data Augmentation**|Patrick Kage et.al.|[2606.07498](http://arxiv.org/abs/2606.07498)|null|
 |**2026-06-15**|**DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios**|Tongzhou Yu et.al.|[2606.07226](http://arxiv.org/abs/2606.07226)|null|
-|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**| Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
+|**2026-06-05**|**SEAM: Shortcut-Aware Real-Time Detection of Scripted vs. Spontaneous Speech for Interview Guardrails**|Vsevolod et.al.|[2606.06837](http://arxiv.org/abs/2606.06837)|null|
 |**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345](http://arxiv.org/abs/2606.06345)|null|
 |**2026-06-04**|**Robust Ensemble of Selectively Strengthened and Augmented Predictors**|Parsa Memarzadehsaghezi et.al.|[2606.06265](http://arxiv.org/abs/2606.06265)|null|
 |**2026-06-04**|**Deep reinforcement learning with spatial and temporal awareness for active boundary control of buoyancy-driven convection**|Giorgio Maria Cavallazzi et.al.|[2606.06191](http://arxiv.org/abs/2606.06191)|null|
