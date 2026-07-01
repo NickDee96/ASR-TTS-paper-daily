@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.06.30**
+📅 **Updated on 2026.07.01**
 
 ---
 
@@ -2726,7 +2726,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-28**|**Randomized neural operator for parametric PDEs with fast training and conformal uncertainty quantification**|Zirui Deng et.al.|[2606.29440](http://arxiv.org/abs/2606.29440)|null|
 |**2026-06-28**|**TriageRA-CCF: Source-Side Clinical Confidence and Coverage Signals for Adaptive Rank Budgeting in Medical LLMs**|Shucan Ji et.al.|[2606.29375](http://arxiv.org/abs/2606.29375)|null|
 |**2026-06-28**|**W4A4 Quantization for Inference on Wan2.2-I2V-A14B**|Yidong Chen et.al.|[2606.29337](http://arxiv.org/abs/2606.29337)|null|
-|**2026-06-28**|**Generalization Analysis of Transformers in Distribution Regression**|Peilin Liu et.al.|[2606.29256](http://arxiv.org/abs/2606.29256)|**[link](https://github.com/ZiqiDai313/ICL_final)**|
+|**2026-06-28**|**Generalization Analysis of Transformers in Distribution Regression**|Peilin Liu et.al.|[2606.29256](http://arxiv.org/abs/2606.29256)|null|
 |**2026-06-28**|**Breaking the Rounding Trap: Securing LLMs against Quantization-Conditioned Backdoors**|Aoying Zheng et.al.|[2606.29239](http://arxiv.org/abs/2606.29239)|null|
 |**2026-06-28**|**BaRA: Bayesian Adaptive Rank Allocation for Parameter-Efficient Fine-Tuning**|Zhibin Duan et.al.|[2606.29184](http://arxiv.org/abs/2606.29184)|null|
 |**2026-06-28**|**DistilledGemma: Balanced Efficiency-Accuracy for Person-Place Relation Extraction from Multilingual Historical Articles**|Youssef Aboelwafa et.al.|[2606.29130](http://arxiv.org/abs/2606.29130)|null|
@@ -7935,7 +7935,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-17**|**Rethinking Text-to-Image as Semantic-Aware Data Augmentation for Indoor Scene Recognition**|Trong-Vu Hoang et.al.|[2606.18555](http://arxiv.org/abs/2606.18555)|null|
 |**2026-06-16**|**Vines-DB: An RGB image dataset for multi-species ornamental vine segmentation**|Saroj Burlakoti et.al.|[2606.18484](http://arxiv.org/abs/2606.18484)|null|
 |**2026-06-16**|**Structural MRI Synthesis for Alzheimer's Disease via Conditional Diffusion on Anatomical Masks**|Muge Zhang et.al.|[2606.18354](http://arxiv.org/abs/2606.18354)|null|
-|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|null|
+|**2026-06-16**|**MOCHI: Motion Enhancement of Collaborative Human-object Interactions**|Jiye Lee et.al.|[2606.18243](http://arxiv.org/abs/2606.18243)|**[link](https://github.com/jiyewise/MOCHI)**|
 |**2026-06-16**|**GASE: Gaussian Splatting-Based Automated System for Reconstructing Embodied-Simulation Environments**|Jiawei Zhang et.al.|[2606.17520](http://arxiv.org/abs/2606.17520)|null|
 |**2026-06-16**|**Improving Linear Regression on Small Datasets via Gaussian Process and Extreme Value Theory-Based Data Augmentation**|Ibrahim Salay et.al.|[2606.17486](http://arxiv.org/abs/2606.17486)|null|
 |**2026-06-10**|**Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework**|Wang Rui et.al.|[2606.17077](http://arxiv.org/abs/2606.17077)|null|
