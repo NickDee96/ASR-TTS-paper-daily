@@ -52,7 +52,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |:---:|:---|:---:|:---:|:---:|
 |**2026-07-02**|**NAVER LABS Europe Submission to the Instruction-following 2026 Short Track**|Marcely Zanon Boito et.al.|[2607.01960](http://arxiv.org/abs/2607.01960)|null|
 |**2026-07-02**|**Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving**|Ruchao Fan et.al.|[2607.01733](http://arxiv.org/abs/2607.01733)|null|
-|**2026-07-02**|**H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**|Yujie Guo et.al.|[2607.01566](http://arxiv.org/abs/2607.01566)|null|
+|**2026-07-02**|**H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**|Yujie Guo et.al.|[2607.01566](http://arxiv.org/abs/2607.01566)|**[link](https://github.com/NKU-HLT/H-SAGE)**|
 |**2026-07-02**|**Beyond Words: Towards Effective Modeling of Non-Verbal Vocalizations in ASR**|Gene Yang et.al.|[2607.01563](http://arxiv.org/abs/2607.01563)|null|
 |**2026-07-01**|**From Monolingual to Multilingual: Evaluating Mamba for ASR in South African Languages**|Jesujoba O. Alabi et.al.|[2607.01502](http://arxiv.org/abs/2607.01502)|null|
 |**2026-07-01**|**From Technical Metrics to User Perception: A User Study of a Multimodal Human-Robot Interaction System for Object Detection and Grasping**|Jian Song et.al.|[2607.00530](http://arxiv.org/abs/2607.00530)|null|
