@@ -2722,7 +2722,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-07-02**|**Program-as-Weights: A Programming Paradigm for Fuzzy Functions**|Wentao Zhang et.al.|[2607.02512](http://arxiv.org/abs/2607.02512)|null|
-|**2026-07-02**|**Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning**|Xuehui Wang et.al.|[2607.02484](http://arxiv.org/abs/2607.02484)|**[link](https://github.com/SJTU-DeepVisionLab/EADP)**|
+|**2026-07-02**|**Combating Textual Noise and Redundancy: Entropy-Aware Dense Visual Token Pruning**|Xuehui Wang et.al.|[2607.02484](http://arxiv.org/abs/2607.02484)|null|
 |**2026-07-02**|**OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers**|Donghyun Lee et.al.|[2607.02461](http://arxiv.org/abs/2607.02461)|null|
 |**2026-07-02**|**QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition**|Quoc Bao Phan et.al.|[2607.02426](http://arxiv.org/abs/2607.02426)|null|
 |**2026-07-02**|**When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression**|Tien-Phat Nguyen et.al.|[2607.02237](http://arxiv.org/abs/2607.02237)|null|
