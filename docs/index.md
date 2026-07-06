@@ -1688,7 +1688,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-16**|**LLM Parameters for Math Across Languages: Shared or Separate?**|Behzad Shomali et.al.|[2606.18453](http://arxiv.org/abs/2606.18453)|null|
 |**2026-06-16**|**When English Isn't the Best Teacher: Source Language Effects in Cross-Lingual In-Context Learning**|Fred Philippy et.al.|[2606.18033](http://arxiv.org/abs/2606.18033)|null|
 |**2026-06-15**|**Translating the Untranslatable: An Operationalizable Ontology for Untranslatability**|Jacob Bremerman et.al.|[2606.17354](http://arxiv.org/abs/2606.17354)|null|
-|**2026-06-15**|**Synergizing Zero-Shot Cross-Lingual Alzheimer Detection with Language-Invariant Multimodal Bi-Geometric Adversarial Learning**| Girish et.al.|[2606.17254](http://arxiv.org/abs/2606.17254)|null|
+|**2026-06-15**|**Synergizing Zero-Shot Cross-Lingual Alzheimer Detection with Language-Invariant Multimodal Bi-Geometric Adversarial Learning**|Girish et.al.|[2606.17254](http://arxiv.org/abs/2606.17254)|null|
 |**2026-06-15**|**Speaking in Self-Assessing Tongues: On the Verbalized Confidence of LLMs in Machine Translation**|Ali Marashian et.al.|[2606.17234](http://arxiv.org/abs/2606.17234)|null|
 |**2026-06-15**|**RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting**|Arunkumar V et.al.|[2606.16925](http://arxiv.org/abs/2606.16925)|null|
 |**2026-06-15**|**How Far Can Machine Translation Quality Take You? Extrinsic Discourse Evaluation in Goal-Oriented Setups**|Wafaa Mohammed et.al.|[2606.16596](http://arxiv.org/abs/2606.16596)|null|
