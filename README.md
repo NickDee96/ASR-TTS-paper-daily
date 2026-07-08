@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.07.07**
+📅 **Updated on 2026.07.08**
 
 ---
 
@@ -9422,15 +9422,21 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 2243 papers*
+*📊 2249 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-07**|**Mitigating Domain Shift in Conditioned Floor Plan Generation: Synthetic Pre-training for Data-Efficient Adaptation**|Matthieu Ospici et.al.|[2607.06483](http://arxiv.org/abs/2607.06483)|null|
+|**2026-07-07**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405](http://arxiv.org/abs/2607.06405)|null|
+|**2026-07-07**|**Generalized Synthetic Image Detection with Enhanced RGB-Noise Representation Learning**|Zhen Li et.al.|[2607.06354](http://arxiv.org/abs/2607.06354)|null|
+|**2026-07-07**|**MoWorld: A Flash World Model**|Team Moxin et.al.|[2607.06216](http://arxiv.org/abs/2607.06216)|null|
+|**2026-07-07**|**Property-Driven Synthetic Data Engineering for Data-Scarce Software Systems: Reflections from the Breast Cancer Domain**|Aurora Francesca Zanenga et.al.|[2607.06133](http://arxiv.org/abs/2607.06133)|null|
+|**2026-07-06**|**Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction**|Gregor Kobsik et.al.|[2607.05568](http://arxiv.org/abs/2607.05568)|null|
 |**2026-07-06**|**ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions**|Thomas Thebaud et.al.|[2607.05276](http://arxiv.org/abs/2607.05276)|null|
 |**2026-07-06**|**A Distributional Framework for Generative Modeling of Molecular Crystals**|Michael Kilgour et.al.|[2607.05266](http://arxiv.org/abs/2607.05266)|null|
-|**2026-07-06**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
+|**2026-07-07**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|
 |**2026-07-06**|**Non-asymptotic Convergence of Stochastic Gradient Descent in Score-based Generative Models**|Stanislas Strasman et.al.|[2607.04775](http://arxiv.org/abs/2607.04775)|null|
 |**2026-07-06**|**DriftST: One-Step Generative Inference of Spatial Transcriptomics from H\&E Histology**|Yuhang Yang et.al.|[2607.04740](http://arxiv.org/abs/2607.04740)|null|
 |**2026-07-06**|**Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs**|Gabriel Poesia et.al.|[2607.04631](http://arxiv.org/abs/2607.04631)|null|
@@ -9446,7 +9452,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-03**|**AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms**|Emmanuel Bengio et.al.|[2607.03513](http://arxiv.org/abs/2607.03513)|null|
 |**2026-07-03**|**A Bayesian Framework for Evaluating Scenario Compatibility in Generative Population Synthesis**|Zhenlin Qin et.al.|[2607.03190](http://arxiv.org/abs/2607.03190)|null|
 |**2026-07-03**|**Open-Set Source Tracing as Compositional Factors via Structured Prototypes**|Santiago Rubio et.al.|[2607.03134](http://arxiv.org/abs/2607.03134)|null|
-|**2026-07-03**|**CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training**|Max Van Puyvelde et.al.|[2607.02998](http://arxiv.org/abs/2607.02998)|null|
+|**2026-07-07**|**CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training**|Max Van Puyvelde et.al.|[2607.02998](http://arxiv.org/abs/2607.02998)|null|
 |**2026-07-02**|**Global Pose Control for Generative View Synthesis in Normalized Object Coordinate Space**|Zhibing Li et.al.|[2607.02712](http://arxiv.org/abs/2607.02712)|null|
 |**2026-07-02**|**BiSLW: Bi-Spectral Latent Watermarking for Generative Diffusion Models**|Aryan Pandit et.al.|[2607.02643](http://arxiv.org/abs/2607.02643)|null|
 |**2026-07-02**|**Post-Generation Curation of Synthetic Images via Homogeneous-Heterogeneous Splitting**|Disheng Liu et.al.|[2607.02637](http://arxiv.org/abs/2607.02637)|null|

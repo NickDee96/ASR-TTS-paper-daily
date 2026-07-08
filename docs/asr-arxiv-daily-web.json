@@ -11515,7 +11515,7 @@
     "2607.01457": "|**2026-07-01**|**Grounded Optimization: A Layered Engineering Framework for Reducing LLM Hallucination in Automated Personal Document Rewriting**|Shashank Indukuri et.al.|[2607.01457](http://arxiv.org/abs/2607.01457)|null|\n",
     "2607.05276": "|**2026-07-06**|**ProPS: Prompted Profile Synthesis for Natural Language-Conditioned Speaker Embedding Distributions**|Thomas Thebaud et.al.|[2607.05276](http://arxiv.org/abs/2607.05276)|null|\n",
     "2607.05266": "|**2026-07-06**|**A Distributional Framework for Generative Modeling of Molecular Crystals**|Michael Kilgour et.al.|[2607.05266](http://arxiv.org/abs/2607.05266)|null|\n",
-    "2607.05196": "|**2026-07-06**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|\n",
+    "2607.05196": "|**2026-07-07**|**Unified Audio Intelligence Without Regressing on Text Intelligence**|Zhifeng Kong et.al.|[2607.05196](http://arxiv.org/abs/2607.05196)|null|\n",
     "2607.04775": "|**2026-07-06**|**Non-asymptotic Convergence of Stochastic Gradient Descent in Score-based Generative Models**|Stanislas Strasman et.al.|[2607.04775](http://arxiv.org/abs/2607.04775)|null|\n",
     "2607.04740": "|**2026-07-06**|**DriftST: One-Step Generative Inference of Spatial Transcriptomics from H\\&E Histology**|Yuhang Yang et.al.|[2607.04740](http://arxiv.org/abs/2607.04740)|null|\n",
     "2607.04631": "|**2026-07-06**|**Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs**|Gabriel Poesia et.al.|[2607.04631](http://arxiv.org/abs/2607.04631)|null|\n",
@@ -11531,10 +11531,16 @@
     "2607.03513": "|**2026-07-03**|**AquaGen: Scaling generative models to molecular dynamics precision on thousands of atoms**|Emmanuel Bengio et.al.|[2607.03513](http://arxiv.org/abs/2607.03513)|null|\n",
     "2607.03190": "|**2026-07-03**|**A Bayesian Framework for Evaluating Scenario Compatibility in Generative Population Synthesis**|Zhenlin Qin et.al.|[2607.03190](http://arxiv.org/abs/2607.03190)|null|\n",
     "2607.03134": "|**2026-07-03**|**Open-Set Source Tracing as Compositional Factors via Structured Prototypes**|Santiago Rubio et.al.|[2607.03134](http://arxiv.org/abs/2607.03134)|null|\n",
-    "2607.02998": "|**2026-07-03**|**CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training**|Max Van Puyvelde et.al.|[2607.02998](http://arxiv.org/abs/2607.02998)|null|\n",
+    "2607.02998": "|**2026-07-07**|**CONFLUX: A Latent Diffusion Model for 3D Chest-CT Synthesis with RL Post-Training**|Max Van Puyvelde et.al.|[2607.02998](http://arxiv.org/abs/2607.02998)|null|\n",
     "2607.02712": "|**2026-07-02**|**Global Pose Control for Generative View Synthesis in Normalized Object Coordinate Space**|Zhibing Li et.al.|[2607.02712](http://arxiv.org/abs/2607.02712)|null|\n",
     "2607.02643": "|**2026-07-02**|**BiSLW: Bi-Spectral Latent Watermarking for Generative Diffusion Models**|Aryan Pandit et.al.|[2607.02643](http://arxiv.org/abs/2607.02643)|null|\n",
     "2607.02637": "|**2026-07-02**|**Post-Generation Curation of Synthetic Images via Homogeneous-Heterogeneous Splitting**|Disheng Liu et.al.|[2607.02637](http://arxiv.org/abs/2607.02637)|null|\n",
-    "2607.02582": "|**2026-07-01**|**Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report**|Austin T. Hoag et.al.|[2607.02582](http://arxiv.org/abs/2607.02582)|null|\n"
+    "2607.02582": "|**2026-07-01**|**Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report**|Austin T. Hoag et.al.|[2607.02582](http://arxiv.org/abs/2607.02582)|null|\n",
+    "2607.06483": "|**2026-07-07**|**Mitigating Domain Shift in Conditioned Floor Plan Generation: Synthetic Pre-training for Data-Efficient Adaptation**|Matthieu Ospici et.al.|[2607.06483](http://arxiv.org/abs/2607.06483)|null|\n",
+    "2607.06405": "|**2026-07-07**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405](http://arxiv.org/abs/2607.06405)|null|\n",
+    "2607.06354": "|**2026-07-07**|**Generalized Synthetic Image Detection with Enhanced RGB-Noise Representation Learning**|Zhen Li et.al.|[2607.06354](http://arxiv.org/abs/2607.06354)|null|\n",
+    "2607.06216": "|**2026-07-07**|**MoWorld: A Flash World Model**|Team Moxin et.al.|[2607.06216](http://arxiv.org/abs/2607.06216)|null|\n",
+    "2607.06133": "|**2026-07-07**|**Property-Driven Synthetic Data Engineering for Data-Scarce Software Systems: Reflections from the Breast Cancer Domain**|Aurora Francesca Zanenga et.al.|[2607.06133](http://arxiv.org/abs/2607.06133)|null|\n",
+    "2607.05568": "|**2026-07-06**|**Harnessing Generative Image Models for Training-Free Primitive Shape Abstraction**|Gregor Kobsik et.al.|[2607.05568](http://arxiv.org/abs/2607.05568)|null|\n"
   }
 }
