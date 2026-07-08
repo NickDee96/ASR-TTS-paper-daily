@@ -892,7 +892,7 @@
     "2607.00530": "|**2026-07-01**|**From Technical Metrics to User Perception: A User Study of a Multimodal Human-Robot Interaction System for Object Detection and Grasping**|Jian Song et.al.|[2607.00530](http://arxiv.org/abs/2607.00530)|null|\n",
     "2607.01960": "|**2026-07-02**|**NAVER LABS Europe Submission to the Instruction-following 2026 Short Track**|Marcely Zanon Boito et.al.|[2607.01960](http://arxiv.org/abs/2607.01960)|null|\n",
     "2607.01733": "|**2026-07-02**|**Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving**|Ruchao Fan et.al.|[2607.01733](http://arxiv.org/abs/2607.01733)|null|\n",
-    "2607.01566": "|**2026-07-02**|**H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**|Yujie Guo et.al.|[2607.01566](http://arxiv.org/abs/2607.01566)|null|\n",
+    "2607.01566": "|**2026-07-02**|**H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**|Yujie Guo et.al.|[2607.01566](http://arxiv.org/abs/2607.01566)|**[link](https://github.com/NKU-HLT/H-SAGE)**|\n",
     "2607.01563": "|**2026-07-02**|**Beyond Words: Towards Effective Modeling of Non-Verbal Vocalizations in ASR**|Gene Yang et.al.|[2607.01563](http://arxiv.org/abs/2607.01563)|null|\n",
     "2607.01502": "|**2026-07-01**|**From Monolingual to Multilingual: Evaluating Mamba for ASR in South African Languages**|Jesujoba O. Alabi et.al.|[2607.01502](http://arxiv.org/abs/2607.01502)|null|\n",
     "2607.05365": "|**2026-07-06**|**SPEARBench: A Benchmark for Naturalness Evaluation in Streaming Speech-to-Speech Language Models**|Thomas Thebaud et.al.|[2607.05365](http://arxiv.org/abs/2607.05365)|null|\n",
@@ -904,8 +904,11 @@
     "2607.04814": "|**2026-07-06**|**Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition**|Andrei Florian et.al.|[2607.04814](http://arxiv.org/abs/2607.04814)|null|\n",
     "2607.03670": "|**2026-07-04**|**CHILDES-Aligned: A Curated Children's Speech Dataset via Multi-Model Timestamp Ensembling**|Haolong Zheng et.al.|[2607.03670](http://arxiv.org/abs/2607.03670)|null|\n",
     "2607.03658": "|**2026-07-04**|**QuaSR: Quality-Aware Sample Reweighting for Pacific Indigenous Speech Recognition**|Yishun Li et.al.|[2607.03658](http://arxiv.org/abs/2607.03658)|null|\n",
-    "2607.03207": "|**2026-07-03**|**S-DiverSe: Spanish Diverse Speech**|Fernando López et.al.|[2607.03207](http://arxiv.org/abs/2607.03207)|null|\n",
-    "2607.02862": "|**2026-07-03**|**Jointly Improving Dialect Identification and ASR in Indian Languages using Multimodal Feature Fusion**|Saurabh Kumar et.al.|[2607.02862](http://arxiv.org/abs/2607.02862)|null|\n"
+    "2607.03207": "|**2026-07-03**|**S-DiverSe: Spanish Diverse Speech**|Fernando López et.al.|[2607.03207](http://arxiv.org/abs/2607.03207)|**[link](https://github.com/ferugit/s-diverse)**|\n",
+    "2607.02862": "|**2026-07-03**|**Jointly Improving Dialect Identification and ASR in Indian Languages using Multimodal Feature Fusion**|Saurabh Kumar et.al.|[2607.02862](http://arxiv.org/abs/2607.02862)|null|\n",
+    "2607.06289": "|**2026-07-07**|**From Sinhala to Dhivehi: Cross-Lingual Transfer Learning for Low-Resource Speech Recognition**|Lukmal Ilyas et.al.|[2607.06289](http://arxiv.org/abs/2607.06289)|null|\n",
+    "2607.06088": "|**2026-07-07**|**Flow Matching-Based Speech Source Separation with Best-of-N Biometric Sampling**|Anastasia Zorkina et.al.|[2607.06088](http://arxiv.org/abs/2607.06088)|null|\n",
+    "2607.05612": "|**2026-07-06**|**Revisiting the Relation Between Language Model Perplexity and ASR Word Error Rate for Modern End-to-End Speech Recognition**|Mohammad Zeineldeen et.al.|[2607.05612](http://arxiv.org/abs/2607.05612)|null|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
@@ -1608,7 +1611,10 @@
     "2607.04140": "|**2026-07-05**|**DELTA-TTS: Adapting Autoregressive Model into Diffusion Language Model for Text-to-Speech**|Junwon Moon et.al.|[2607.04140](http://arxiv.org/abs/2607.04140)|null|\n",
     "2607.03985": "|**2026-07-04**|**NouveauVoice: Generating Novel Pseudo Speakers for Voice Anonymization**|Meiying Melissa Chen et.al.|[2607.03985](http://arxiv.org/abs/2607.03985)|null|\n",
     "2607.02763": "|**2026-07-02**|**LuxSQA: Ask Me in Luxembourgish with TTS-Augmented Spoken Question Answering**|Nina Hosseini-Kivanani et.al.|[2607.02763](http://arxiv.org/abs/2607.02763)|null|\n",
-    "2607.02633": "|**2026-07-02**|**GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech**|Antonis Asonitis et.al.|[2607.02633](http://arxiv.org/abs/2607.02633)|null|\n"
+    "2607.02633": "|**2026-07-02**|**GRAFT: Grafted Reference Audio for Fine-grained Pronunciation in Zero-shot Text-to-Speech**|Antonis Asonitis et.al.|[2607.02633](http://arxiv.org/abs/2607.02633)|null|\n",
+    "2607.06461": "|**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461](http://arxiv.org/abs/2607.06461)|null|\n",
+    "2607.06054": "|**2026-07-07**|**BlueMagpie-TTS: A Token-Efficient Tokenizer, Language Model, and TTS for Taiwanese-Accent Code-Switching Speech**|Ho Lam Chung et.al.|[2607.06054](http://arxiv.org/abs/2607.06054)|null|\n",
+    "2607.06027": "|**2026-07-07**|**Fréchet Distance Loss on Speech Representations for Text-to-Speech Synthesis**|Ho-Lam Chung et.al.|[2607.06027](http://arxiv.org/abs/2607.06027)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -2640,7 +2646,10 @@
     "2607.03836": "|**2026-07-04**|**When Simpler Is Better: Evaluating Translation Pipelines for Medieval Latin Manuscripts**|Nguyen Kim Hai Bui et.al.|[2607.03836](http://arxiv.org/abs/2607.03836)|null|\n",
     "2607.03160": "|**2026-07-03**|**The Role of Prompt Language and Translation-Theory-Driven Prompts in Large Language Models: A Case Study on Spanish-Chinese Journalistic Translation**|Haohong Lai et.al.|[2607.03160](http://arxiv.org/abs/2607.03160)|null|\n",
     "2607.02966": "|**2026-07-03**|**Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG**|Haotian Zhou et.al.|[2607.02966](http://arxiv.org/abs/2607.02966)|null|\n",
-    "2607.02920": "|**2026-07-03**|**Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment**|Anisha Pattanayak et.al.|[2607.02920](http://arxiv.org/abs/2607.02920)|null|\n"
+    "2607.02920": "|**2026-07-03**|**Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment**|Anisha Pattanayak et.al.|[2607.02920](http://arxiv.org/abs/2607.02920)|null|\n",
+    "2607.06457": "|**2026-07-07**|**Andha-Dhun: A First Look at Audio Descriptions in Hindi**|Ritabrata Chakraborty et.al.|[2607.06457](http://arxiv.org/abs/2607.06457)|null|\n",
+    "2607.06289": "|**2026-07-07**|**From Sinhala to Dhivehi: Cross-Lingual Transfer Learning for Low-Resource Speech Recognition**|Lukmal Ilyas et.al.|[2607.06289](http://arxiv.org/abs/2607.06289)|null|\n",
+    "2607.05849": "|**2026-07-07**|**CoPiT: Cognitive Pivot Translation for Digraphic Low-Resource Mongolian in the Traditional Script**|Burte Bayarsaikhan et.al.|[2607.05849](http://arxiv.org/abs/2607.05849)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -7915,7 +7924,29 @@
     "2607.03760": "|**2026-07-04**|**GeoSAM-Lite: A Lightweight Foundation Model for Onboard Remote Sensing Segmentation**|Yongcong Wang et.al.|[2607.03760](http://arxiv.org/abs/2607.03760)|null|\n",
     "2607.03756": "|**2026-07-04**|**Spatially variant arbitrary polarization shaping for optical skyrmions generation**|Yu-Hao Lei et.al.|[2607.03756](http://arxiv.org/abs/2607.03756)|null|\n",
     "2607.03734": "|**2026-07-04**|**Fault Detection and Explainable Classification in Automotive HIL Validation via Denoising Autoencoders and In-Context Large Language Models**|Mohammad Abboush et.al.|[2607.03734](http://arxiv.org/abs/2607.03734)|null|\n",
-    "2607.03688": "|**2026-07-04**|**PathMark: Protecting Intellectual Property of Mixture-of-Expert LLMs via Path Watermarks**|Yudong Gao et.al.|[2607.03688](http://arxiv.org/abs/2607.03688)|null|\n"
+    "2607.03688": "|**2026-07-04**|**PathMark: Protecting Intellectual Property of Mixture-of-Expert LLMs via Path Watermarks**|Yudong Gao et.al.|[2607.03688](http://arxiv.org/abs/2607.03688)|null|\n",
+    "2607.06499": "|**2026-07-07**|**Clustering-Embedded Model Predictive Path Integral Control: Avoiding Averaging-Induced Failure and Enabling Efficient Cluster Selection for Dynamic Obstacles**|Zidong Liu et.al.|[2607.06499](http://arxiv.org/abs/2607.06499)|**[link](https://github.com/macs-lab/CE-MPPI)**|\n",
+    "2607.06481": "|**2026-07-07**|**Prompt-Adapter Context Routing for Parameter-Efficient Multi-Shot Long Video Extrapolation**|Anna Córdoba et.al.|[2607.06481](http://arxiv.org/abs/2607.06481)|null|\n",
+    "2607.06456": "|**2026-07-07**|**A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks**|Sayma Nowshin Chowdhury et.al.|[2607.06456](http://arxiv.org/abs/2607.06456)|null|\n",
+    "2607.06335": "|**2026-07-07**|**Bridging Diffusion Pruning and Step Distillation with Teacher-Aligned Repair**|Jincheng Ying et.al.|[2607.06335](http://arxiv.org/abs/2607.06335)|null|\n",
+    "2607.06293": "|**2026-07-07**|**Calculating strongly correlated ground states from the non-Markovian dissipative dynamics of Gaussian fermions**|Giuliano Chiriacò et.al.|[2607.06293](http://arxiv.org/abs/2607.06293)|null|\n",
+    "2607.06243": "|**2026-07-07**|**Inverse-designed photonic interfaces beyond eigenmode expansion limits**|Chengfei Shang et.al.|[2607.06243](http://arxiv.org/abs/2607.06243)|null|\n",
+    "2607.06225": "|**2026-07-07**|**Compiling Bioinformatics Recurrences**|Bala Vinaithirthan et.al.|[2607.06225](http://arxiv.org/abs/2607.06225)|null|\n",
+    "2607.06173": "|**2026-07-07**|**MobileWan: Closing the Quality Gap for Mobile Video Diffusion**|Mohsen Ghafoorian et.al.|[2607.06173](http://arxiv.org/abs/2607.06173)|null|\n",
+    "2607.06085": "|**2026-07-07**|**Efficient Pareto-Front Generation for Electric Machines using IGA and Second Order Derivatives**|Theodor Komann et.al.|[2607.06085](http://arxiv.org/abs/2607.06085)|null|\n",
+    "2607.06083": "|**2026-07-07**|**MSA-DCNN: A Data-Efficient Multi-Scale Deformable CNN for Medical Image Classification**|Hamza Hussaini et.al.|[2607.06083](http://arxiv.org/abs/2607.06083)|null|\n",
+    "2607.06071": "|**2026-07-07**|**Quantization of the classical Mpemba effect**|Jannis Melles et.al.|[2607.06071](http://arxiv.org/abs/2607.06071)|null|\n",
+    "2607.05995": "|**2026-07-07**|**Discovering Frequent Closed Embedded Sub-DAGs in Spatio-Temporal Event Data**|Piotr S. Maciąg et.al.|[2607.05995](http://arxiv.org/abs/2607.05995)|null|\n",
+    "2607.05933": "|**2026-07-07**|**Energy-Efficient GPU DVFS for Fine-Tuning of SLMs on Resource-constrained Embedded Devices**|Jurn-Gyu Park et.al.|[2607.05933](http://arxiv.org/abs/2607.05933)|null|\n",
+    "2607.05891": "|**2026-07-07**|**Few-Medoids: An Embarrassingly Simple Coreset Selection Method for Few-Shot Knowledge Distillation**|Cemil-Andrei Dilmac et.al.|[2607.05891](http://arxiv.org/abs/2607.05891)|null|\n",
+    "2607.05832": "|**2026-07-07**|**BaCon: Efficient Batch Processing of Counting Queries [Full Version]**|Yuxi Liu et.al.|[2607.05832](http://arxiv.org/abs/2607.05832)|null|\n",
+    "2607.05750": "|**2026-07-07**|**ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation**|Yunhan Xu et.al.|[2607.05750](http://arxiv.org/abs/2607.05750)|null|\n",
+    "2607.05736": "|**2026-07-07**|**Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings**|Qiwei Han et.al.|[2607.05736](http://arxiv.org/abs/2607.05736)|null|\n",
+    "2607.05734": "|**2026-07-07**|**SCOReD: Student-Aware CoT Optimization for Recommendation Distillation**|Haz Sameen Shahgir et.al.|[2607.05734](http://arxiv.org/abs/2607.05734)|null|\n",
+    "2607.05711": "|**2026-07-07**|**FourTune: Towards Fully 4-Bit Efficient Post-Training for Diffusion Models**|Bowen Xue et.al.|[2607.05711](http://arxiv.org/abs/2607.05711)|null|\n",
+    "2607.05667": "|**2026-07-06**|**Clustered Codebook Quantization for 2D Gaussian-based Image Compression**|Runze Cheng et.al.|[2607.05667](http://arxiv.org/abs/2607.05667)|null|\n",
+    "2607.05605": "|**2026-07-06**|**Patch Knowledge Transfer for Efficient AI-Generated Image Quality Assessment**|Jiquan Yuan et.al.|[2607.05605](http://arxiv.org/abs/2607.05605)|null|\n",
+    "2607.05571": "|**2026-07-06**|**CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming**|H. Chad Lane et.al.|[2607.05571](http://arxiv.org/abs/2607.05571)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -9290,7 +9321,12 @@
     "2607.04563": "|**2026-07-06**|**Fidelity-Diversity Metrics for Text**|Amanda Wang et.al.|[2607.04563](http://arxiv.org/abs/2607.04563)|null|\n",
     "2607.04546": "|**2026-07-05**|**Mask2Real-WM: Segmentation Masks as a Sim-to-Real Bridge for Controllable Dexterous World Models**|Riccardo O. Feingold et.al.|[2607.04546](http://arxiv.org/abs/2607.04546)|null|\n",
     "2607.02718": "|**2026-07-02**|**Diagnosing Aerial-View Object Detectors with Foundational Image Generative Models**|Stanislav Panev et.al.|[2607.02718](http://arxiv.org/abs/2607.02718)|null|\n",
-    "2607.02596": "|**2026-07-01**|**CIPHER: Causal Intervention Pathways for Healthcare Equity and Robustness**|Xinyu Jia et.al.|[2607.02596](http://arxiv.org/abs/2607.02596)|null|\n"
+    "2607.02596": "|**2026-07-01**|**CIPHER: Causal Intervention Pathways for Healthcare Equity and Robustness**|Xinyu Jia et.al.|[2607.02596](http://arxiv.org/abs/2607.02596)|null|\n",
+    "2607.06484": "|**2026-07-07**|**Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles**|Marwan Lazrag et.al.|[2607.06484](http://arxiv.org/abs/2607.06484)|null|\n",
+    "2607.06140": "|**2026-07-07**|**CurateEvo: Data-Curation Evolving for Agentic Post-Training**|Dingzirui Wang et.al.|[2607.06140](http://arxiv.org/abs/2607.06140)|null|\n",
+    "2607.06097": "|**2026-07-07**|**PVCap: Towards Accurate 3D Dense Captioning via PseudoCap and VoxelCapNet**|Xiaopei Wu et.al.|[2607.06097](http://arxiv.org/abs/2607.06097)|null|\n",
+    "2607.05953": "|**2026-07-07**|**Few-Shot Class-Incremental Audio Classification Using Pseudo-Incrementally Trained Embedding Learner and Continually Updated Stochastic Classifier**|Yanxiong Li et.al.|[2607.05953](http://arxiv.org/abs/2607.05953)|null|\n",
+    "2607.05850": "|**2026-07-07**|**Breaking Spurious Correlations via Generative Randomization and Cross-Variant Self-Supervised Learning**|Suraj Yadav et.al.|[2607.05850](http://arxiv.org/abs/2607.05850)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
