@@ -8129,10 +8129,10 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-29**|**Consistency as Inductive Bias: Learning Cross-View Invariance for Robust Multimodal Reasoning**|Xin Zou et.al.|[2606.29812](http://arxiv.org/abs/2606.29812)|null|
 |**2026-06-28**|**Hierarchical Policy Learning via Spectral Decomposition**|Shuxin Cao et.al.|[2606.29570](http://arxiv.org/abs/2606.29570)|null|
 |**2026-07-08**|**PIE-ADA: Physics-Informed Ensemble with Adaptive Data Augmentation for Photometric Transient Classification**|Deba Priyo Guha et.al.|[2606.29367](http://arxiv.org/abs/2606.29367)|null|
-|**2026-06-27**|**Character Recognition of Nepali Number Plate**|Satyasa Khadka et.al.|[2606.28946](http://arxiv.org/abs/2606.28946)|**[link](https://github.com/napsnu/Nepali-Number-Plate-Detection-and-Character-Recognition)**|
+|**2026-06-27**|**Character Recognition of Nepali Number Plate**|Satyasa Khadka et.al.|[2606.28946](http://arxiv.org/abs/2606.28946)|null|
 |**2026-06-27**|**PASTA: A Paraphrasing And Self-Training Approach for Knowledge Updating in LLMs**|Takayuki Yamamoto et.al.|[2606.28898](http://arxiv.org/abs/2606.28898)|null|
 |**2026-06-27**|**A Task-Driven and Quality-Assured Agent Framework for SAR Data Generation**|Xuanting Wu et.al.|[2606.28896](http://arxiv.org/abs/2606.28896)|null|
-|**2026-06-26**|**Counterfactual Residual Data Augmentation for Regression**|Hossein Mohebbi et.al.|[2606.28460](http://arxiv.org/abs/2606.28460)|**[link](https://github.com/crda-project/crda-project.github.io)**|
+|**2026-06-26**|**Counterfactual Residual Data Augmentation for Regression**|Hossein Mohebbi et.al.|[2606.28460](http://arxiv.org/abs/2606.28460)|null|
 |**2026-06-25**|**MedDiffuseMix: Preserving Diagnostic Evidence with Saliency-Aware Diffusion Medical Image Data Augmentatio**|Teerath Kumar et.al.|[2606.28419](http://arxiv.org/abs/2606.28419)|null|
 |**2026-06-25**|**Advancing Speaker-Based Vocal Effort Classification with WavLM and Data Augmentation in Naturalistic Non-Calibrated Speech Recordings**|Zahra Omidi et.al.|[2606.27543](http://arxiv.org/abs/2606.27543)|null|
 |**2026-06-25**|**Anatomy-Guided Residual Motion Diffusion for Controllable 4D Cardiac MRI Synthesis**|Yiheng Cao et.al.|[2606.26764](http://arxiv.org/abs/2606.26764)|null|
@@ -9501,7 +9501,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-08**|**Latent graph encoding of multimodal neuroimaging features with generative AI architectures**|Ishaan Batta et.al.|[2607.07027](http://arxiv.org/abs/2607.07027)|null|
 |**2026-07-08**|**EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments**|Ziyu Luo et.al.|[2607.07015](http://arxiv.org/abs/2607.07015)|null|
 |**2026-07-08**|**From DESI to Euclid: A Generative Bridge to Unbiased Galaxy Structures**|Renhao Ye et.al.|[2607.06891](http://arxiv.org/abs/2607.06891)|null|
-|**2026-07-07**|**Generative Diffusion Models of Stochastic Graph Signals**|Yiğit Berkay Uslu et.al.|[2607.06833](http://arxiv.org/abs/2607.06833)|null|
+|**2026-07-07**|**Generative Diffusion Models of Stochastic Graph Signals**|Yiğit Berkay Uslu et.al.|[2607.06833](http://arxiv.org/abs/2607.06833)|**[link](https://github.com/yigit-uslu/GNN-Diffusion-Stock-Forecasting)**|
 |**2026-07-07**|**RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation**|Shujie Zhang et.al.|[2607.06699](http://arxiv.org/abs/2607.06699)|null|
 |**2026-07-07**|**Spectral Born machines: classically trainable quantum generative models for discrete data**|Austin Huang et.al.|[2607.06675](http://arxiv.org/abs/2607.06675)|null|
 |**2026-07-07**|**From Jumps to Signatures: a Generative Method for Temporal Point Processes**|Niels Cariou-Kotlarek et.al.|[2607.06652](http://arxiv.org/abs/2607.06652)|null|
