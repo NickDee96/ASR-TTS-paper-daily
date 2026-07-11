@@ -2766,9 +2766,9 @@ This repository provides a **daily-updated collection** of the latest research p
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
-|**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|**[link](https://github.com/fabiotosi92/ZipDepth)**|
+|**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771](http://arxiv.org/abs/2607.08771)|null|
 |**2026-07-09**|**The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs**|Baha Rababah et.al.|[2607.08734](http://arxiv.org/abs/2607.08734)|null|
-|**2026-07-09**|**Multi-Resolution Feature Stem for Diabetic Retinopathy lesion segmentation**|Indranil Dutta et.al.|[2607.08679](http://arxiv.org/abs/2607.08679)|**[link](https://github.com/taeheej/Multi-Resolution-Feature-Stem-for-Diabetic-Retinopathy-lesion-segmentation)**|
+|**2026-07-09**|**Multi-Resolution Feature Stem for Diabetic Retinopathy lesion segmentation**|Indranil Dutta et.al.|[2607.08679](http://arxiv.org/abs/2607.08679)|null|
 |**2026-07-09**|**It Takes Few to TANGO: A Quantized Distributed Model for Binaural Speech Enhancement**|Zahra Benslimane et.al.|[2607.08645](http://arxiv.org/abs/2607.08645)|null|
 |**2026-07-09**|**BiSCo-LLM: Lookup-Free Binary Spherical Coding for Extreme Low-Bit Large Language Model Compression**|Yuantian Shao et.al.|[2607.08643](http://arxiv.org/abs/2607.08643)|null|
 |**2026-07-09**|**An Efficient Method for Gibbs Free Energy Evaluation under Volume Compression**|Zhiyuan Gao et.al.|[2607.08608](http://arxiv.org/abs/2607.08608)|null|
