@@ -995,12 +995,14 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## TTS
 
-*📊 715 papers*
+*📊 717 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|
+|**2026-07-15**|**Dialogs: a studio-quality expressive conversational Russian speech corpus for dialog assistants**|Ilya Shigabeev et.al.|[2607.14310](http://arxiv.org/abs/2607.14310)|null|
 |**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|
 |**2026-07-15**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|
 |**2026-07-14**|**A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential**|Gendo Kumoi et.al.|[2607.12235](http://arxiv.org/abs/2607.12235)|null|
@@ -1756,7 +1758,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-02**|**SPLIT: Cross-Lingual Empathy and Cultural Grounding in English and Ukrainian LLM Responses**|Anna Chorna et.al.|[2607.02049](http://arxiv.org/abs/2607.02049)|null|
 |**2026-07-01**|**Disentangling Speaker and Language Effects in Cross-Lingual Speaker Verification for Iberian Languages**|Pol Buitrago et.al.|[2607.01161](http://arxiv.org/abs/2607.01161)|null|
 |**2026-07-01**|**MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors**|Jiahui Liang et.al.|[2607.00848](http://arxiv.org/abs/2607.00848)|null|
-|**2026-07-02**|**MSQA: A Natively Sourced Multilingual and Multicultural SimpleQA Benchmark**|Xianru Chen et.al.|[2607.00724](http://arxiv.org/abs/2607.00724)|null|
+|**2026-07-15**|**MSQA: A Natively Sourced Multilingual and Multicultural SimpleQA Benchmark**|Xianru Chen et.al.|[2607.00724](http://arxiv.org/abs/2607.00724)|null|
 |**2026-06-30**|**Cross-lingual Relation Extraction with Large Language Models: Zero-Shot, Few-Shot, and Fine-Tuned Evaluation on Romanian**|Dragos-Mitrut Vasile et.al.|[2606.31718](http://arxiv.org/abs/2606.31718)|null|
 |**2026-06-30**|**How Bilingual Are SSL Speech Models? Cross-Lingual Probing of Articulatory Encoding with Finnish and Russian EMA**|Ailín Pollio San Pedro et.al.|[2606.31527](http://arxiv.org/abs/2606.31527)|null|
 |**2026-06-28**|**Which Tokens Need Context? A Reference-Based Analysis of Translation Responsibility Using Fertility and Entropy**|Ramakrishna Appicharla et.al.|[2606.29489](http://arxiv.org/abs/2606.29489)|null|
@@ -2790,14 +2792,41 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 5438 papers*
+*📊 5465 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-16**|**Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA**|Sushant Gautam et.al.|[2607.15241](http://arxiv.org/abs/2607.15241)|null|
+|**2026-07-16**|**Backpropagating Pauli Propagation**|Sheng-Hsuan Lin et.al.|[2607.15184](http://arxiv.org/abs/2607.15184)|null|
+|**2026-07-16**|**On-board AI-based Channel Estimation for LEO NTNs**|Mahdi Abdollahpour et.al.|[2607.15127](http://arxiv.org/abs/2607.15127)|null|
+|**2026-07-16**|**Long-Context Fine-Tuning with Limited VRAM**|Vladimir Fedosov et.al.|[2607.15105](http://arxiv.org/abs/2607.15105)|null|
+|**2026-07-16**|**SQD-Enabled Circuit Compression for Resource-Efficient Quantum Chemistry**|Kangyu Zheng et.al.|[2607.15076](http://arxiv.org/abs/2607.15076)|null|
+|**2026-07-16**|**Pattern-Guided Design Space Exploration for FPGA Accelerator Design**|Jialiang Zhang et.al.|[2607.15068](http://arxiv.org/abs/2607.15068)|null|
+|**2026-07-16**|**Parameter-efficient Prompt Tuning of Vision Foundation Model With Adaptive Focal Loss for Interpretable MCI Screening**|Javad Khoramdel et.al.|[2607.15047](http://arxiv.org/abs/2607.15047)|null|
+|**2026-07-16**|**URVC: A Unified Real-Time Neural Video Coding Model with Temporal, Spatial, and Perceptual Adaptivity**|Xihua Sheng et.al.|[2607.15033](http://arxiv.org/abs/2607.15033)|null|
+|**2026-07-16**|**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**|Xinhao Li et.al.|[2607.14935](http://arxiv.org/abs/2607.14935)|null|
+|**2026-07-16**|**Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition**|Tong Jin et.al.|[2607.14897](http://arxiv.org/abs/2607.14897)|null|
+|**2026-07-16**|**Lossy compression of weighted graph adjacency matrices by transform coding**|Kenta Yanagiya et.al.|[2607.14834](http://arxiv.org/abs/2607.14834)|null|
+|**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|
+|**2026-07-16**|**VideoSEMA: a scalable and efficient Mamba-like attention for video understanding**|Nhat Thanh Tran et.al.|[2607.14711](http://arxiv.org/abs/2607.14711)|null|
+|**2026-07-16**|**Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models**|Mingxi Fu et.al.|[2607.14703](http://arxiv.org/abs/2607.14703)|null|
+|**2026-07-16**|**Stop Thinking, Start Looking: Efficient Post-Training for Multimodal Document Question Answering via Reasoning-Free Alignment**|Harikrishnan P M et.al.|[2607.14682](http://arxiv.org/abs/2607.14682)|null|
+|**2026-07-16**|**D-cut: Adaptive Verification Depth Pruning for Batched Speculative Decoding**|Tianyu Liu et.al.|[2607.14647](http://arxiv.org/abs/2607.14647)|null|
+|**2026-07-16**|**Cross-Layer Error Compensation and Finite-Sample Feature-Statistics Matching for Extreme Low-Bit Quantization of Large Language Models**|Ryona Noda et.al.|[2607.14630](http://arxiv.org/abs/2607.14630)|null|
+|**2026-07-16**|**ExaGEMM: Exploration Framework for CPU-Driven ML Inference via Associative In-Register Computing for Low-Bit GEMM**|Hyunwoo Oh et.al.|[2607.14622](http://arxiv.org/abs/2607.14622)|null|
+|**2026-07-16**|**PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference**|Hyunwoo Oh et.al.|[2607.14618](http://arxiv.org/abs/2607.14618)|null|
+|**2026-07-16**|**A Nonlinear Model Predictive Control Perspective on Gradient-Based Optimization: A New Efficient, Parameter-Free and Provably Stable Algorithm**|Mazen Alamir et.al.|[2607.14600](http://arxiv.org/abs/2607.14600)|null|
+|**2026-07-16**|**MagicPrompt: Ultra-Lightweight Prompt Tuning for Video Generation**|Yinhan Zhang et.al.|[2607.14595](http://arxiv.org/abs/2607.14595)|null|
+|**2026-07-16**|**On the Bohr-Sommerfeld quantization condition and assault frequency in a semiclassical model for α decay**|Le Hoang Chien et.al.|[2607.14540](http://arxiv.org/abs/2607.14540)|null|
+|**2026-07-16**|**Non-vacuous Generalization Bounds for Reinforcement Learning with Verifiable Rewards**|Yuxuan Zhu et.al.|[2607.14506](http://arxiv.org/abs/2607.14506)|null|
+|**2026-07-15**|**MixCompress: Mixture of Experts for Variable Rate Learned Image Compression**|Calvin-Khang Ta et.al.|[2607.14334](http://arxiv.org/abs/2607.14334)|null|
+|**2026-07-15**|**ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model**|San Lee et.al.|[2607.14328](http://arxiv.org/abs/2607.14328)|null|
+|**2026-07-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al.|[2607.14287](http://arxiv.org/abs/2607.14287)|null|
+|**2026-07-15**|**Quantize with Confidence? An Empirical Study of Quantization for Code Generation**|Saima Afrin et.al.|[2607.14181](http://arxiv.org/abs/2607.14181)|null|
 |**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|null|
-|**2026-07-15**|**Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment**|Geng Li et.al.|[2607.13941](http://arxiv.org/abs/2607.13941)|null|
+|**2026-07-15**|**Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment**|Geng Li et.al.|[2607.13941](http://arxiv.org/abs/2607.13941)|**[link](https://github.com/AMAP-ML/Peak-End-Net)**|
 |**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](http://arxiv.org/abs/2607.13891)|null|
 |**2026-07-15**|**Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting**|Neel Kelkar et.al.|[2607.13808](http://arxiv.org/abs/2607.13808)|null|
 |**2026-07-15**|**MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model**|Charilaos Papaioannou et.al.|[2607.13763](http://arxiv.org/abs/2607.13763)|null|
@@ -8247,12 +8276,13 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 1394 papers*
+*📊 1395 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-16**|**A Complete-Data Likelihood for Epidemic Processes on Partially Observed Dynamic Networks**|Md Asaduzzaman et.al.|[2607.15179](http://arxiv.org/abs/2607.15179)|null|
 |**2026-07-15**|**Constraint-Aware Counterfactual Editing for Aspect-Based Sentiment Analysis**|S M Rafiuddin et.al.|[2607.13977](http://arxiv.org/abs/2607.13977)|null|
 |**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|null|
 |**2026-07-14**|**Symmetry-Informed Deep Learning for Electromagnetic Scattering**|Viktor A. Lilja et.al.|[2607.12810](http://arxiv.org/abs/2607.12810)|null|
@@ -9660,17 +9690,18 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 2306 papers*
+*📊 2307 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-15**|**FORCE-Interior: A Poisson Flow Generative Prior for Interior Tomography Reconstruction**|Kang Chen et.al.|[2607.14320](http://arxiv.org/abs/2607.14320)|null|
 |**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|null|
 |**2026-07-15**|**TreeSRNF: Square-Root Normal Fields for Generative Modelling of the Geometric and Structural Variability in Tree-like 3D Objects**|Tahmina Khanam et.al.|[2607.13456](http://arxiv.org/abs/2607.13456)|null|
 |**2026-07-15**|**Exploring Post-Training Alignment of Small Language Models for Biomedical Data-to-Text Generation: A Case Study of Medication Leaflet**|Xi Yang et.al.|[2607.13430](http://arxiv.org/abs/2607.13430)|null|
 |**2026-07-14**|**Efficient Text-to-Audio Generation via Pruning**|Arshdeep Singh et.al.|[2607.13330](http://arxiv.org/abs/2607.13330)|null|
-|**2026-07-14**|**Adapting a Diffusion-Based Music Synthesis Model to Human Voice Conversion**|Ben Maman et.al.|[2607.13278](http://arxiv.org/abs/2607.13278)|null|
+|**2026-07-16**|**Adapting Diffusion-Based Music Synthesis to Speech and Singing Voice Conversion**|Ben Maman et.al.|[2607.13278](http://arxiv.org/abs/2607.13278)|null|
 |**2026-07-14**|**A Generative Model-Free Form Deformation Approach for the Generation of Mesh Motions with Applications to PDE**|Gugliemo Padula et.al.|[2607.13202](http://arxiv.org/abs/2607.13202)|null|
 |**2026-07-14**|**Generating synthetic evolution of turbulent flames with an experimental data-based spatiotemporal diffusion model**|Amrit Tarur et.al.|[2607.13193](http://arxiv.org/abs/2607.13193)|null|
 |**2026-07-14**|**Watermark Forensics for Generative Models: An Information-Theoretic Perspective**|Xiaoyu Li et.al.|[2607.13003](http://arxiv.org/abs/2607.13003)|null|

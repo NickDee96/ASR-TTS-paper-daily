@@ -1648,7 +1648,9 @@
     "2607.09970": "|**2026-07-10**|**Evaluating AI Models' Capability to Automate Voice Phishing Attacks**|Fred Heiding et.al.|[2607.09970](http://arxiv.org/abs/2607.09970)|null|\n",
     "2607.12706": "|**2026-07-15**|**AutoSIFT: Automatic Style Sifting for Controllable Speech Generation with Arbitrary Style Infilling**|Haowei Lou et.al.|[2607.12706](http://arxiv.org/abs/2607.12706)|null|\n",
     "2607.12496": "|**2026-07-15**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496](http://arxiv.org/abs/2607.12496)|null|\n",
-    "2607.12235": "|**2026-07-14**|**A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential**|Gendo Kumoi et.al.|[2607.12235](http://arxiv.org/abs/2607.12235)|null|\n"
+    "2607.12235": "|**2026-07-14**|**A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential**|Gendo Kumoi et.al.|[2607.12235](http://arxiv.org/abs/2607.12235)|null|\n",
+    "2607.14753": "|**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753](http://arxiv.org/abs/2607.14753)|null|\n",
+    "2607.14310": "|**2026-07-15**|**Dialogs: a studio-quality expressive conversational Russian speech corpus for dialog assistants**|Ilya Shigabeev et.al.|[2607.14310](http://arxiv.org/abs/2607.14310)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -2673,7 +2675,7 @@
     "2606.31527": "|**2026-06-30**|**How Bilingual Are SSL Speech Models? Cross-Lingual Probing of Articulatory Encoding with Finnish and Russian EMA**|Ailín Pollio San Pedro et.al.|[2606.31527](http://arxiv.org/abs/2606.31527)|null|\n",
     "2607.01161": "|**2026-07-01**|**Disentangling Speaker and Language Effects in Cross-Lingual Speaker Verification for Iberian Languages**|Pol Buitrago et.al.|[2607.01161](http://arxiv.org/abs/2607.01161)|null|\n",
     "2607.00848": "|**2026-07-01**|**MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors**|Jiahui Liang et.al.|[2607.00848](http://arxiv.org/abs/2607.00848)|null|\n",
-    "2607.00724": "|**2026-07-02**|**MSQA: A Natively Sourced Multilingual and Multicultural SimpleQA Benchmark**|Xianru Chen et.al.|[2607.00724](http://arxiv.org/abs/2607.00724)|null|\n",
+    "2607.00724": "|**2026-07-15**|**MSQA: A Natively Sourced Multilingual and Multicultural SimpleQA Benchmark**|Xianru Chen et.al.|[2607.00724](http://arxiv.org/abs/2607.00724)|null|\n",
     "2607.02049": "|**2026-07-02**|**SPLIT: Cross-Lingual Empathy and Cultural Grounding in English and Ukrainian LLM Responses**|Anna Chorna et.al.|[2607.02049](http://arxiv.org/abs/2607.02049)|null|\n",
     "2607.04826": "|**2026-07-06**|**Ranking the Impact of Contextual Specialization in Neural Speech Enhancement**|Peter Leer et.al.|[2607.04826](http://arxiv.org/abs/2607.04826)|null|\n",
     "2607.04814": "|**2026-07-06**|**Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition**|Andrei Florian et.al.|[2607.04814](http://arxiv.org/abs/2607.04814)|null|\n",
@@ -8118,7 +8120,7 @@
     "2607.12297": "|**2026-07-14**|**MobileSAM2: Lightweight Segment Anything for Spatial Intelligence**|Kai Jiang et.al.|[2607.12297](http://arxiv.org/abs/2607.12297)|null|\n",
     "2607.12266": "|**2026-07-14**|**Saturation Makes Quantization Error Additive: A Coverage Model with a Certificate**|Joshua Hill et.al.|[2607.12266](http://arxiv.org/abs/2607.12266)|null|\n",
     "2607.14088": "|**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|null|\n",
-    "2607.13941": "|**2026-07-15**|**Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment**|Geng Li et.al.|[2607.13941](http://arxiv.org/abs/2607.13941)|null|\n",
+    "2607.13941": "|**2026-07-15**|**Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment**|Geng Li et.al.|[2607.13941](http://arxiv.org/abs/2607.13941)|**[link](https://github.com/AMAP-ML/Peak-End-Net)**|\n",
     "2607.13891": "|**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](http://arxiv.org/abs/2607.13891)|null|\n",
     "2607.13808": "|**2026-07-15**|**Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting**|Neel Kelkar et.al.|[2607.13808](http://arxiv.org/abs/2607.13808)|null|\n",
     "2607.13763": "|**2026-07-15**|**MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model**|Charilaos Papaioannou et.al.|[2607.13763](http://arxiv.org/abs/2607.13763)|null|\n",
@@ -8132,7 +8134,34 @@
     "2607.13425": "|**2026-07-15**|**Data-Efficient Adaptation of LLMs via Attention Head Reweighting**|Tuomas Oikarinen et.al.|[2607.13425](http://arxiv.org/abs/2607.13425)|null|\n",
     "2607.13410": "|**2026-07-15**|**Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation**|Zhidong Wang et.al.|[2607.13410](http://arxiv.org/abs/2607.13410)|null|\n",
     "2607.13124": "|**2026-07-14**|**ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation**|Qingyu Zhang et.al.|[2607.13124](http://arxiv.org/abs/2607.13124)|null|\n",
-    "2607.13115": "|**2026-07-14**|**Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools**|Konstantinos Bougiatiotis et.al.|[2607.13115](http://arxiv.org/abs/2607.13115)|null|\n"
+    "2607.13115": "|**2026-07-14**|**Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools**|Konstantinos Bougiatiotis et.al.|[2607.13115](http://arxiv.org/abs/2607.13115)|null|\n",
+    "2607.15241": "|**2026-07-16**|**Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA**|Sushant Gautam et.al.|[2607.15241](http://arxiv.org/abs/2607.15241)|null|\n",
+    "2607.15184": "|**2026-07-16**|**Backpropagating Pauli Propagation**|Sheng-Hsuan Lin et.al.|[2607.15184](http://arxiv.org/abs/2607.15184)|null|\n",
+    "2607.15127": "|**2026-07-16**|**On-board AI-based Channel Estimation for LEO NTNs**|Mahdi Abdollahpour et.al.|[2607.15127](http://arxiv.org/abs/2607.15127)|null|\n",
+    "2607.15105": "|**2026-07-16**|**Long-Context Fine-Tuning with Limited VRAM**|Vladimir Fedosov et.al.|[2607.15105](http://arxiv.org/abs/2607.15105)|null|\n",
+    "2607.15076": "|**2026-07-16**|**SQD-Enabled Circuit Compression for Resource-Efficient Quantum Chemistry**|Kangyu Zheng et.al.|[2607.15076](http://arxiv.org/abs/2607.15076)|null|\n",
+    "2607.15068": "|**2026-07-16**|**Pattern-Guided Design Space Exploration for FPGA Accelerator Design**|Jialiang Zhang et.al.|[2607.15068](http://arxiv.org/abs/2607.15068)|null|\n",
+    "2607.15047": "|**2026-07-16**|**Parameter-efficient Prompt Tuning of Vision Foundation Model With Adaptive Focal Loss for Interpretable MCI Screening**|Javad Khoramdel et.al.|[2607.15047](http://arxiv.org/abs/2607.15047)|null|\n",
+    "2607.15033": "|**2026-07-16**|**URVC: A Unified Real-Time Neural Video Coding Model with Temporal, Spatial, and Perceptual Adaptivity**|Xihua Sheng et.al.|[2607.15033](http://arxiv.org/abs/2607.15033)|null|\n",
+    "2607.14935": "|**2026-07-16**|**VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**|Xinhao Li et.al.|[2607.14935](http://arxiv.org/abs/2607.14935)|null|\n",
+    "2607.14897": "|**2026-07-16**|**Selectivity Drives Efficiency: Dataset Pruning for Visual Place Recognition**|Tong Jin et.al.|[2607.14897](http://arxiv.org/abs/2607.14897)|null|\n",
+    "2607.14834": "|**2026-07-16**|**Lossy compression of weighted graph adjacency matrices by transform coding**|Kenta Yanagiya et.al.|[2607.14834](http://arxiv.org/abs/2607.14834)|null|\n",
+    "2607.14807": "|**2026-07-16**|**TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis**|Jie Wang et.al.|[2607.14807](http://arxiv.org/abs/2607.14807)|null|\n",
+    "2607.14711": "|**2026-07-16**|**VideoSEMA: a scalable and efficient Mamba-like attention for video understanding**|Nhat Thanh Tran et.al.|[2607.14711](http://arxiv.org/abs/2607.14711)|null|\n",
+    "2607.14703": "|**2026-07-16**|**Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models**|Mingxi Fu et.al.|[2607.14703](http://arxiv.org/abs/2607.14703)|null|\n",
+    "2607.14682": "|**2026-07-16**|**Stop Thinking, Start Looking: Efficient Post-Training for Multimodal Document Question Answering via Reasoning-Free Alignment**|Harikrishnan P M et.al.|[2607.14682](http://arxiv.org/abs/2607.14682)|null|\n",
+    "2607.14647": "|**2026-07-16**|**D-cut: Adaptive Verification Depth Pruning for Batched Speculative Decoding**|Tianyu Liu et.al.|[2607.14647](http://arxiv.org/abs/2607.14647)|null|\n",
+    "2607.14630": "|**2026-07-16**|**Cross-Layer Error Compensation and Finite-Sample Feature-Statistics Matching for Extreme Low-Bit Quantization of Large Language Models**|Ryona Noda et.al.|[2607.14630](http://arxiv.org/abs/2607.14630)|null|\n",
+    "2607.14622": "|**2026-07-16**|**ExaGEMM: Exploration Framework for CPU-Driven ML Inference via Associative In-Register Computing for Low-Bit GEMM**|Hyunwoo Oh et.al.|[2607.14622](http://arxiv.org/abs/2607.14622)|null|\n",
+    "2607.14618": "|**2026-07-16**|**PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference**|Hyunwoo Oh et.al.|[2607.14618](http://arxiv.org/abs/2607.14618)|null|\n",
+    "2607.14600": "|**2026-07-16**|**A Nonlinear Model Predictive Control Perspective on Gradient-Based Optimization: A New Efficient, Parameter-Free and Provably Stable Algorithm**|Mazen Alamir et.al.|[2607.14600](http://arxiv.org/abs/2607.14600)|null|\n",
+    "2607.14595": "|**2026-07-16**|**MagicPrompt: Ultra-Lightweight Prompt Tuning for Video Generation**|Yinhan Zhang et.al.|[2607.14595](http://arxiv.org/abs/2607.14595)|null|\n",
+    "2607.14540": "|**2026-07-16**|**On the Bohr-Sommerfeld quantization condition and assault frequency in a semiclassical model for α decay**|Le Hoang Chien et.al.|[2607.14540](http://arxiv.org/abs/2607.14540)|null|\n",
+    "2607.14506": "|**2026-07-16**|**Non-vacuous Generalization Bounds for Reinforcement Learning with Verifiable Rewards**|Yuxuan Zhu et.al.|[2607.14506](http://arxiv.org/abs/2607.14506)|null|\n",
+    "2607.14334": "|**2026-07-15**|**MixCompress: Mixture of Experts for Variable Rate Learned Image Compression**|Calvin-Khang Ta et.al.|[2607.14334](http://arxiv.org/abs/2607.14334)|null|\n",
+    "2607.14328": "|**2026-07-15**|**ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model**|San Lee et.al.|[2607.14328](http://arxiv.org/abs/2607.14328)|null|\n",
+    "2607.14287": "|**2026-07-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al.|[2607.14287](http://arxiv.org/abs/2607.14287)|null|\n",
+    "2607.14181": "|**2026-07-15**|**Quantize with Confidence? An Empirical Study of Quantization for Code Generation**|Saima Afrin et.al.|[2607.14181](http://arxiv.org/abs/2607.14181)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -9528,7 +9557,8 @@
     "2607.12810": "|**2026-07-14**|**Symmetry-Informed Deep Learning for Electromagnetic Scattering**|Viktor A. Lilja et.al.|[2607.12810](http://arxiv.org/abs/2607.12810)|null|\n",
     "2607.11994": "|**2026-07-13**|**Mitigating The Effect of Class Imbalance in Data with Hierarchical and Dependable Structure**|Bipin Chhetri et.al.|[2607.11994](http://arxiv.org/abs/2607.11994)|null|\n",
     "2607.13977": "|**2026-07-15**|**Constraint-Aware Counterfactual Editing for Aspect-Based Sentiment Analysis**|S M Rafiuddin et.al.|[2607.13977](http://arxiv.org/abs/2607.13977)|null|\n",
-    "2607.13927": "|**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|null|\n"
+    "2607.13927": "|**2026-07-15**|**Cyclone: Diffusion Model for Cycle-Consistent Weather Editing from Unpaired Driving Data**|Thang-Anh-Quan Nguyen et.al.|[2607.13927](http://arxiv.org/abs/2607.13927)|null|\n",
+    "2607.15179": "|**2026-07-16**|**A Complete-Data Likelihood for Epidemic Processes on Partially Observed Dynamic Networks**|Md Asaduzzaman et.al.|[2607.15179](http://arxiv.org/abs/2607.15179)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -11834,8 +11864,9 @@
     "2607.13456": "|**2026-07-15**|**TreeSRNF: Square-Root Normal Fields for Generative Modelling of the Geometric and Structural Variability in Tree-like 3D Objects**|Tahmina Khanam et.al.|[2607.13456](http://arxiv.org/abs/2607.13456)|null|\n",
     "2607.13430": "|**2026-07-15**|**Exploring Post-Training Alignment of Small Language Models for Biomedical Data-to-Text Generation: A Case Study of Medication Leaflet**|Xi Yang et.al.|[2607.13430](http://arxiv.org/abs/2607.13430)|null|\n",
     "2607.13330": "|**2026-07-14**|**Efficient Text-to-Audio Generation via Pruning**|Arshdeep Singh et.al.|[2607.13330](http://arxiv.org/abs/2607.13330)|null|\n",
-    "2607.13278": "|**2026-07-14**|**Adapting a Diffusion-Based Music Synthesis Model to Human Voice Conversion**|Ben Maman et.al.|[2607.13278](http://arxiv.org/abs/2607.13278)|null|\n",
+    "2607.13278": "|**2026-07-16**|**Adapting Diffusion-Based Music Synthesis to Speech and Singing Voice Conversion**|Ben Maman et.al.|[2607.13278](http://arxiv.org/abs/2607.13278)|null|\n",
     "2607.13202": "|**2026-07-14**|**A Generative Model-Free Form Deformation Approach for the Generation of Mesh Motions with Applications to PDE**|Gugliemo Padula et.al.|[2607.13202](http://arxiv.org/abs/2607.13202)|null|\n",
-    "2607.13193": "|**2026-07-14**|**Generating synthetic evolution of turbulent flames with an experimental data-based spatiotemporal diffusion model**|Amrit Tarur et.al.|[2607.13193](http://arxiv.org/abs/2607.13193)|null|\n"
+    "2607.13193": "|**2026-07-14**|**Generating synthetic evolution of turbulent flames with an experimental data-based spatiotemporal diffusion model**|Amrit Tarur et.al.|[2607.13193](http://arxiv.org/abs/2607.13193)|null|\n",
+    "2607.14320": "|**2026-07-15**|**FORCE-Interior: A Poisson Flow Generative Prior for Interior Tomography Reconstruction**|Kang Chen et.al.|[2607.14320](http://arxiv.org/abs/2607.14320)|null|\n"
   }
 }
