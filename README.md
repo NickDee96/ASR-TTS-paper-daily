@@ -2826,7 +2826,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-15**|**XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation**|Md Mahedi Hasan et.al.|[2607.14287](http://arxiv.org/abs/2607.14287)|null|
 |**2026-07-15**|**Quantize with Confidence? An Empirical Study of Quantization for Code Generation**|Saima Afrin et.al.|[2607.14181](http://arxiv.org/abs/2607.14181)|null|
 |**2026-07-15**|**VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders**|Zhihao Xie et.al.|[2607.14088](http://arxiv.org/abs/2607.14088)|null|
-|**2026-07-15**|**Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment**|Geng Li et.al.|[2607.13941](http://arxiv.org/abs/2607.13941)|**[link](https://github.com/AMAP-ML/Peak-End-Net)**|
+|**2026-07-15**|**Peak-End-Net: A Peak-End Rule Inspired Framework for Generalizable Video Aesthetic Assessment**|Geng Li et.al.|[2607.13941](http://arxiv.org/abs/2607.13941)|null|
 |**2026-07-15**|**PiVoT: A Variational Solution for Real-time Large-scale Multi-object Detection and Tracking under Heavy Clutter**|Runze Gan et.al.|[2607.13891](http://arxiv.org/abs/2607.13891)|null|
 |**2026-07-15**|**Bake It Till You Make It: Ultrafast Spatial Texture-Atlas Splatting**|Neel Kelkar et.al.|[2607.13808](http://arxiv.org/abs/2607.13808)|null|
 |**2026-07-15**|**MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model**|Charilaos Papaioannou et.al.|[2607.13763](http://arxiv.org/abs/2607.13763)|null|
