@@ -51,7 +51,7 @@ This repository provides a **daily-updated collection** of the latest research p
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
 |**2026-07-14**|**Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model**|Harsha Vardhan Khurdula et.al.|[2607.13013](http://arxiv.org/abs/2607.13013)|null|
-|**2026-07-14**|**AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning**|Yanghai Wang et.al.|[2607.12820](http://arxiv.org/abs/2607.12820)|**[link](https://github.com/NJU-LINK/AVSCap)**|
+|**2026-07-14**|**AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning**|Yanghai Wang et.al.|[2607.12820](http://arxiv.org/abs/2607.12820)|null|
 |**2026-07-14**|**An Omnilingual-ASR-Based Speech-LLM System for the 2nd MLC-SLM Challenge**|Shuming Fang et.al.|[2607.12468](http://arxiv.org/abs/2607.12468)|null|
 |**2026-07-13**|**Casting Everything to Online API Services? A Survey of Integrating Localized Speech Recognition Models in Robotic Systems**|Sheng Li et.al.|[2607.11792](http://arxiv.org/abs/2607.11792)|null|
 |**2026-07-13**|**Synchronized Three-Dimensional Vocal-Tract Motion for Speech Synchronization via Joint-Embedding Predictive Architecture Alignment**|Sheng Li et.al.|[2607.11772](http://arxiv.org/abs/2607.11772)|null|
@@ -9725,7 +9725,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-13**|**MusicMark: A Robust Generative Watermarking Framework for Music Generation**|Seohwan Yun et.al.|[2607.11117](http://arxiv.org/abs/2607.11117)|null|
 |**2026-07-13**|**Generative Chinese Statute Retrieval**|Yiteng Tu et.al.|[2607.11109](http://arxiv.org/abs/2607.11109)|null|
 |**2026-07-12**|**The Singularity Space: A Generative Diffusion Framework for Signal Representation**|Eli Bar-Yosef et.al.|[2607.10930](http://arxiv.org/abs/2607.10930)|null|
-|**2026-07-12**|**Diachronic Sample Integration: Robust Tail-Risk Estimation with Generative Models**|Shuning Zhao et.al.|[2607.10810](http://arxiv.org/abs/2607.10810)|null|
+|**2026-07-12**|**Diachronic Sample Integration: Robust Tail-Risk Estimation with Generative Models**|Shuning Zhao et.al.|[2607.10810](http://arxiv.org/abs/2607.10810)|**[link](https://github.com/ShuningZhao/DSI)**|
 |**2026-07-12**|**Filtering Harmful Actions Isn't Enough: Phantom Transfer in Agentic SDF**|Chinmayi Dixit et.al.|[2607.10750](http://arxiv.org/abs/2607.10750)|null|
 |**2026-07-12**|**Effective Synthetic Image Detection via Noise Residual Clustering**|Caihui Yan et.al.|[2607.10695](http://arxiv.org/abs/2607.10695)|null|
 |**2026-07-11**|**FdAudio: MeanFlow-Anchored Fréchet-Distance Post-Training for One-Step Text-to-Audio Generation**|Kuan-Po Huang et.al.|[2607.10421](http://arxiv.org/abs/2607.10421)|null|
