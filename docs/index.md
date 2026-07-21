@@ -1715,7 +1715,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-19**|**KyrgyzLLM-Bench: Benchmarking Kyrgyz Language Understanding**|Timur Turatali et.al.|[2607.17173](http://arxiv.org/abs/2607.17173)|null|
 |**2026-07-18**|**JOR-Bench: Japanese Operations Research Benchmarks for Large Language Models**|Yuu Jinnai et.al.|[2607.16777](http://arxiv.org/abs/2607.16777)|null|
 |**2026-07-13**|**A ${}^2$ BM: Alignment-Aware Bridge Matching for Image-to-Image Translation**|Aimi Okabayashi et.al.|[2607.16294](http://arxiv.org/abs/2607.16294)|null|
-|**2026-07-17**|**Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content**|Ingo Ziegler et.al.|[2607.16117](http://arxiv.org/abs/2607.16117)|**[link](https://github.com/ziegler-ingo/rate-utility-frontiers)**|
+|**2026-07-17**|**Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content**|Ingo Ziegler et.al.|[2607.16117](http://arxiv.org/abs/2607.16117)|null|
 |**2026-07-17**|**LLMs Encode Relevance as a Layer-Wise Cross-Lingual Signal**|Pietro Bernardelle et.al.|[2607.15555](http://arxiv.org/abs/2607.15555)|null|
 |**2026-07-16**|**LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4**|Mobina Kashaniyan et.al.|[2607.15509](http://arxiv.org/abs/2607.15509)|null|
 |**2026-07-15**|**The Test Oracle Problem in Synthetic LLM-as-Judge Corpora: Disappearance, Distortion and a Validation Protocol**|Serkan Ballı et.al.|[2607.13707](http://arxiv.org/abs/2607.13707)|null|
