@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.07.21**
+📅 **Updated on 2026.07.22**
 
 ---
 
@@ -2812,12 +2812,31 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Small Language Models
 
-*📊 5531 papers*
+*📊 5550 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
+|**2026-07-21**|**GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models**|Alessandro Scalese et.al.|[2607.19270](http://arxiv.org/abs/2607.19270)|null|
+|**2026-07-21**|**A Flexible Sparsity-Aware FPGA Accelerator with Column-Wise Compression for Efficient CNN Inference**|Amirhossein Zarei et.al.|[2607.19248](http://arxiv.org/abs/2607.19248)|null|
+|**2026-07-21**|**Point Ladder Tuning: Parameter-Efficient Hierarchical Adaptation for 3D Point Cloud Understanding**|Junlin Chang et.al.|[2607.19171](http://arxiv.org/abs/2607.19171)|**[link](https://github.com/JunLinChang/ECCV2026-PLT)**|
+|**2026-07-21**|**Determination of the horizontal velocity field in the solar atmosphere: Method validation using 3D MHD model**|Andrii Prysiazhnyi et.al.|[2607.19169](http://arxiv.org/abs/2607.19169)|null|
+|**2026-07-21**|**Structured Spectral Compression based Low-Bitrate Secure Speech Communications for Internet of Things assisted Non-Terrestrial Networks**|Li Ping Qian et.al.|[2607.19092](http://arxiv.org/abs/2607.19092)|null|
+|**2026-07-21**|**Decentralized Linearized Consensus ADMM with Efficient Quantized Communication**|Boyu Han et.al.|[2607.19074](http://arxiv.org/abs/2607.19074)|null|
+|**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|
+|**2026-07-21**|**Circuit Claims Depend on What Is Extracted and How It Is Compared**|Yang Sheng et.al.|[2607.18921](http://arxiv.org/abs/2607.18921)|null|
+|**2026-07-21**|**Think Sparse, Predict Dense: Continuous Thought Machines for Image Super-Resolution**|Zekai Shi et.al.|[2607.18856](http://arxiv.org/abs/2607.18856)|null|
+|**2026-07-21**|**Bounding Boxes to Improve Small Language Model Performance on Vision-Based Grading Tasks**|Lachlan McGinness et.al.|[2607.18767](http://arxiv.org/abs/2607.18767)|null|
+|**2026-07-21**|**Continual Video-MLLM Adaptation over Evolving Domains**|Rui Cheng et.al.|[2607.18716](http://arxiv.org/abs/2607.18716)|null|
+|**2026-07-21**|**Rationale-Guided Knowledge Distillation for Cross-Lingual Stance Detection**|Qiuli Zhou et.al.|[2607.18693](http://arxiv.org/abs/2607.18693)|null|
+|**2026-07-21**|**Stochastic template banks for GW searches using low-discrepancy sequences**|Tarun Kumar et.al.|[2607.18633](http://arxiv.org/abs/2607.18633)|null|
+|**2026-07-21**|**LatentMT: Machine Translation with Latent Reasoning**|Wei-Rui Chen et.al.|[2607.18618](http://arxiv.org/abs/2607.18618)|null|
+|**2026-07-21**|**Topology-Aware Tokenization for Generative Recommendation**|Yaokun Liu et.al.|[2607.18600](http://arxiv.org/abs/2607.18600)|null|
+|**2026-07-20**|**Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics**|Hamidreza Yaghoubi Araghi et.al.|[2607.18540](http://arxiv.org/abs/2607.18540)|null|
+|**2026-07-20**|**ECoNGS: Efficient Compressive Neural Gaussian Splats for Volume Visualization**|Kaiyuan Tang et.al.|[2607.18466](http://arxiv.org/abs/2607.18466)|null|
+|**2026-07-20**|**PRISM: Sensitivity-Aware PolynoMial PRuning for EffIcient Neural Network Encryption**|Sahaj Majavdia et.al.|[2607.18342](http://arxiv.org/abs/2607.18342)|null|
 |**2026-07-20**|**Patch Policy: Efficient Embodied Control via Dense Visual Representations**|Gaoyue Zhou et.al.|[2607.18236](http://arxiv.org/abs/2607.18236)|null|
 |**2026-07-20**|**GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis**|Naoto Usuyama et.al.|[2607.18218](http://arxiv.org/abs/2607.18218)|null|
 |**2026-07-20**|**SWE-Pruner Pro: The Coder LLM Already Knows What to Prune**|Yuhang Wang et.al.|[2607.18213](http://arxiv.org/abs/2607.18213)|null|
@@ -2830,7 +2849,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-20**|**QIRF Quantum-Inspired Non-Orthogonal Function-Space Compression for 3D Gaussian Splatting**|Shizeng Jiang et.al.|[2607.18067](http://arxiv.org/abs/2607.18067)|null|
 |**2026-07-20**|**AdaHome: An Adaptive Smart Home Assistant using Local Small Language Models**|Eu Jin Lim et.al.|[2607.18034](http://arxiv.org/abs/2607.18034)|null|
 |**2026-07-20**|**MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models**|Martino M. L. Pulici et.al.|[2607.18006](http://arxiv.org/abs/2607.18006)|null|
-|**2026-07-20**|**ExpertPlex: A High-Goodput Disaggregated Serving System for MoE LLMs with Adaptive Persistent Kernels**|Bingyang Wu et.al.|[2607.18002](http://arxiv.org/abs/2607.18002)|null|
+|**2026-07-21**|**ExpertPlex: A High-Goodput Disaggregated Serving System for MoE LLMs with Adaptive Persistent Kernels**|Bingyang Wu et.al.|[2607.18002](http://arxiv.org/abs/2607.18002)|null|
 |**2026-07-20**|**AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning**|Bas Meuwissen et.al.|[2607.17913](http://arxiv.org/abs/2607.17913)|null|
 |**2026-07-20**|**MXSens: Sensitivity-Aware Mixed-Precision Quantization for Efficient LLM Inference**|Simla Burcu Harma et.al.|[2607.17733](http://arxiv.org/abs/2607.17733)|null|
 |**2026-07-20**|**Efficient Quantum-Mechanical Modeling of Nonradiative Charge Transfer Processes**|Alexander Karl et.al.|[2607.17730](http://arxiv.org/abs/2607.17730)|null|
@@ -8362,12 +8381,17 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 1401 papers*
+*📊 1406 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-21**|**InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation**|Khawar Islam et.al.|[2607.19324](http://arxiv.org/abs/2607.19324)|null|
+|**2026-07-21**|**Translation as Augmentation: Effect of Translated Data on Assessment of Difficulty**|Yiheng Wu et.al.|[2607.19101](http://arxiv.org/abs/2607.19101)|null|
+|**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036](http://arxiv.org/abs/2607.19036)|null|
+|**2026-07-21**|**Visual Semantic Decoding of Electrocorticography from Video Stimuli using End-to-End Deep Learning**|Stella Ho et.al.|[2607.18923](http://arxiv.org/abs/2607.18923)|null|
+|**2026-07-20**|**Addressing Limited Data in Auditory Attention Decoding with Diffusion Generative Models**|David Rannaleet et.al.|[2607.18345](http://arxiv.org/abs/2607.18345)|null|
 |**2026-07-20**|**Certified Training for Convolutional Perturbations**|Benedikt Brückner et.al.|[2607.18195](http://arxiv.org/abs/2607.18195)|null|
 |**2026-07-20**|**SGN: A Similarity-based Generative Network for Data Generation under Distribution Shift**|Jiaqi Zhu et.al.|[2607.18072](http://arxiv.org/abs/2607.18072)|null|
 |**2026-07-20**|**Toward Optimal Adenovirus Detection Using YOLO26**|Olivier Rukundo et.al.|[2607.17799](http://arxiv.org/abs/2607.17799)|null|
@@ -9782,12 +9806,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Synthetic Generation
 
-*📊 2320 papers*
+*📊 2323 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
+|**2026-07-21**|**GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks**|Daniele Angioletti et.al.|[2607.19083](http://arxiv.org/abs/2607.19083)|null|
+|**2026-07-20**|**Text-conditioned Segmentation for Tomato Phenotyping via Procedural Synthetic Data**|Samy Mounir et.al.|[2607.18576](http://arxiv.org/abs/2607.18576)|null|
 |**2026-07-20**|**Three-Body Scattering for Generative Modeling**|Peng Sun et.al.|[2607.18198](http://arxiv.org/abs/2607.18198)|null|
 |**2026-07-20**|**A machine-learned probability distribution in the phase space of turbulent channel flow for synthetic turbulence and flow reconstruction**|Frederik Aerts et.al.|[2607.18058](http://arxiv.org/abs/2607.18058)|null|
 |**2026-07-20**|**Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation**|Sajani Vithana et.al.|[2607.18021](http://arxiv.org/abs/2607.18021)|null|

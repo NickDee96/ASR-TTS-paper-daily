@@ -8211,7 +8211,7 @@
     "2607.18067": "|**2026-07-20**|**QIRF Quantum-Inspired Non-Orthogonal Function-Space Compression for 3D Gaussian Splatting**|Shizeng Jiang et.al.|[2607.18067](http://arxiv.org/abs/2607.18067)|null|\n",
     "2607.18034": "|**2026-07-20**|**AdaHome: An Adaptive Smart Home Assistant using Local Small Language Models**|Eu Jin Lim et.al.|[2607.18034](http://arxiv.org/abs/2607.18034)|null|\n",
     "2607.18006": "|**2026-07-20**|**MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models**|Martino M. L. Pulici et.al.|[2607.18006](http://arxiv.org/abs/2607.18006)|null|\n",
-    "2607.18002": "|**2026-07-20**|**ExpertPlex: A High-Goodput Disaggregated Serving System for MoE LLMs with Adaptive Persistent Kernels**|Bingyang Wu et.al.|[2607.18002](http://arxiv.org/abs/2607.18002)|null|\n",
+    "2607.18002": "|**2026-07-21**|**ExpertPlex: A High-Goodput Disaggregated Serving System for MoE LLMs with Adaptive Persistent Kernels**|Bingyang Wu et.al.|[2607.18002](http://arxiv.org/abs/2607.18002)|null|\n",
     "2607.17913": "|**2026-07-20**|**AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning**|Bas Meuwissen et.al.|[2607.17913](http://arxiv.org/abs/2607.17913)|null|\n",
     "2607.17733": "|**2026-07-20**|**MXSens: Sensitivity-Aware Mixed-Precision Quantization for Efficient LLM Inference**|Simla Burcu Harma et.al.|[2607.17733](http://arxiv.org/abs/2607.17733)|null|\n",
     "2607.17730": "|**2026-07-20**|**Efficient Quantum-Mechanical Modeling of Nonradiative Charge Transfer Processes**|Alexander Karl et.al.|[2607.17730](http://arxiv.org/abs/2607.17730)|null|\n",
@@ -8247,7 +8247,26 @@
     "2607.16624": "|**2026-07-18**|**SPARE-GS: Structural Parsimony and Resource Efficiency for 3D Gaussian Splatting**|Zhang Chen et.al.|[2607.16624](http://arxiv.org/abs/2607.16624)|null|\n",
     "2607.16541": "|**2026-07-17**|**Efficient Exact Quantum Sampling from the Sun-Wootters Distribution for Optimal Polynomial Intersection**|Sunghyeon Jo et.al.|[2607.16541](http://arxiv.org/abs/2607.16541)|null|\n",
     "2607.16516": "|**2026-07-17**|**Split-quaternionic structure and canonical quantization of the Bateman dual oscillator**|Mathieu Beau et.al.|[2607.16516](http://arxiv.org/abs/2607.16516)|null|\n",
-    "2607.16488": "|**2026-07-17**|**Auto-Scaling Heterogeneous Neural Processing Units for Energy and Cost-Efficient LLM Serving**|Yuqi Xue et.al.|[2607.16488](http://arxiv.org/abs/2607.16488)|null|\n"
+    "2607.16488": "|**2026-07-17**|**Auto-Scaling Heterogeneous Neural Processing Units for Energy and Cost-Efficient LLM Serving**|Yuqi Xue et.al.|[2607.16488](http://arxiv.org/abs/2607.16488)|null|\n",
+    "2607.19332": "|**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|\n",
+    "2607.19270": "|**2026-07-21**|**GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models**|Alessandro Scalese et.al.|[2607.19270](http://arxiv.org/abs/2607.19270)|null|\n",
+    "2607.19248": "|**2026-07-21**|**A Flexible Sparsity-Aware FPGA Accelerator with Column-Wise Compression for Efficient CNN Inference**|Amirhossein Zarei et.al.|[2607.19248](http://arxiv.org/abs/2607.19248)|null|\n",
+    "2607.19171": "|**2026-07-21**|**Point Ladder Tuning: Parameter-Efficient Hierarchical Adaptation for 3D Point Cloud Understanding**|Junlin Chang et.al.|[2607.19171](http://arxiv.org/abs/2607.19171)|**[link](https://github.com/JunLinChang/ECCV2026-PLT)**|\n",
+    "2607.19169": "|**2026-07-21**|**Determination of the horizontal velocity field in the solar atmosphere: Method validation using 3D MHD model**|Andrii Prysiazhnyi et.al.|[2607.19169](http://arxiv.org/abs/2607.19169)|null|\n",
+    "2607.19092": "|**2026-07-21**|**Structured Spectral Compression based Low-Bitrate Secure Speech Communications for Internet of Things assisted Non-Terrestrial Networks**|Li Ping Qian et.al.|[2607.19092](http://arxiv.org/abs/2607.19092)|null|\n",
+    "2607.19074": "|**2026-07-21**|**Decentralized Linearized Consensus ADMM with Efficient Quantized Communication**|Boyu Han et.al.|[2607.19074](http://arxiv.org/abs/2607.19074)|null|\n",
+    "2607.18985": "|**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985](http://arxiv.org/abs/2607.18985)|null|\n",
+    "2607.18921": "|**2026-07-21**|**Circuit Claims Depend on What Is Extracted and How It Is Compared**|Yang Sheng et.al.|[2607.18921](http://arxiv.org/abs/2607.18921)|null|\n",
+    "2607.18856": "|**2026-07-21**|**Think Sparse, Predict Dense: Continuous Thought Machines for Image Super-Resolution**|Zekai Shi et.al.|[2607.18856](http://arxiv.org/abs/2607.18856)|null|\n",
+    "2607.18767": "|**2026-07-21**|**Bounding Boxes to Improve Small Language Model Performance on Vision-Based Grading Tasks**|Lachlan McGinness et.al.|[2607.18767](http://arxiv.org/abs/2607.18767)|null|\n",
+    "2607.18716": "|**2026-07-21**|**Continual Video-MLLM Adaptation over Evolving Domains**|Rui Cheng et.al.|[2607.18716](http://arxiv.org/abs/2607.18716)|null|\n",
+    "2607.18693": "|**2026-07-21**|**Rationale-Guided Knowledge Distillation for Cross-Lingual Stance Detection**|Qiuli Zhou et.al.|[2607.18693](http://arxiv.org/abs/2607.18693)|null|\n",
+    "2607.18633": "|**2026-07-21**|**Stochastic template banks for GW searches using low-discrepancy sequences**|Tarun Kumar et.al.|[2607.18633](http://arxiv.org/abs/2607.18633)|null|\n",
+    "2607.18618": "|**2026-07-21**|**LatentMT: Machine Translation with Latent Reasoning**|Wei-Rui Chen et.al.|[2607.18618](http://arxiv.org/abs/2607.18618)|null|\n",
+    "2607.18600": "|**2026-07-21**|**Topology-Aware Tokenization for Generative Recommendation**|Yaokun Liu et.al.|[2607.18600](http://arxiv.org/abs/2607.18600)|null|\n",
+    "2607.18540": "|**2026-07-20**|**Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics**|Hamidreza Yaghoubi Araghi et.al.|[2607.18540](http://arxiv.org/abs/2607.18540)|null|\n",
+    "2607.18466": "|**2026-07-20**|**ECoNGS: Efficient Compressive Neural Gaussian Splats for Volume Visualization**|Kaiyuan Tang et.al.|[2607.18466](http://arxiv.org/abs/2607.18466)|null|\n",
+    "2607.18342": "|**2026-07-20**|**PRISM: Sensitivity-Aware PolynoMial PRuning for EffIcient Neural Network Encryption**|Sahaj Majavdia et.al.|[2607.18342](http://arxiv.org/abs/2607.18342)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -9650,7 +9669,12 @@
     "2607.18072": "|**2026-07-20**|**SGN: A Similarity-based Generative Network for Data Generation under Distribution Shift**|Jiaqi Zhu et.al.|[2607.18072](http://arxiv.org/abs/2607.18072)|null|\n",
     "2607.17799": "|**2026-07-20**|**Toward Optimal Adenovirus Detection Using YOLO26**|Olivier Rukundo et.al.|[2607.17799](http://arxiv.org/abs/2607.17799)|null|\n",
     "2607.17105": "|**2026-07-19**|**A Multi-Model Hybrid Defense Approach Against White-box Adversarial Attacks in Computer Network Traffic**|Khushnaseeb Roshan et.al.|[2607.17105](http://arxiv.org/abs/2607.17105)|null|\n",
-    "2607.16678": "|**2026-07-18**|**Pseudo-label distillation for discriminative anomalous sound detection**|Takuya Fujimura et.al.|[2607.16678](http://arxiv.org/abs/2607.16678)|null|\n"
+    "2607.16678": "|**2026-07-18**|**Pseudo-label distillation for discriminative anomalous sound detection**|Takuya Fujimura et.al.|[2607.16678](http://arxiv.org/abs/2607.16678)|null|\n",
+    "2607.19324": "|**2026-07-21**|**InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation**|Khawar Islam et.al.|[2607.19324](http://arxiv.org/abs/2607.19324)|null|\n",
+    "2607.19101": "|**2026-07-21**|**Translation as Augmentation: Effect of Translated Data on Assessment of Difficulty**|Yiheng Wu et.al.|[2607.19101](http://arxiv.org/abs/2607.19101)|null|\n",
+    "2607.19036": "|**2026-07-21**|**CoGoal3D: Collaborative 3D Object Detection with 3D-Aware Fusion and Refinement**|Zhihao Yang et.al.|[2607.19036](http://arxiv.org/abs/2607.19036)|null|\n",
+    "2607.18923": "|**2026-07-21**|**Visual Semantic Decoding of Electrocorticography from Video Stimuli using End-to-End Deep Learning**|Stella Ho et.al.|[2607.18923](http://arxiv.org/abs/2607.18923)|null|\n",
+    "2607.18345": "|**2026-07-20**|**Addressing Limited Data in Auditory Attention Decoding with Diffusion Generative Models**|David Rannaleet et.al.|[2607.18345](http://arxiv.org/abs/2607.18345)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -11972,6 +11996,9 @@
     "2607.17281": "|**2026-07-19**|**AIGB-R1: Self-Evolving Generative Auto-Bidding via Hierarchical Planner-Executor Optimization**|Yuejia Dou et.al.|[2607.17281](http://arxiv.org/abs/2607.17281)|null|\n",
     "2607.17139": "|**2026-07-19**|**SynH-Rank: Quality-Aware Code Search via Diverse Data Synthesis and Hierarchical Ranking Training**|Keyu Liang et.al.|[2607.17139](http://arxiv.org/abs/2607.17139)|null|\n",
     "2607.16900": "|**2026-07-18**|**Environment-free Synthetic Data Generation for API-Calling Agents**|Seanie Lee et.al.|[2607.16900](http://arxiv.org/abs/2607.16900)|null|\n",
-    "2607.16725": "|**2026-07-18**|**Semi-Supervised Conditional Generative Learning through Stochastic Interpolation and Sufficient Representations**|Changyu Liu et.al.|[2607.16725](http://arxiv.org/abs/2607.16725)|null|\n"
+    "2607.16725": "|**2026-07-18**|**Semi-Supervised Conditional Generative Learning through Stochastic Interpolation and Sufficient Representations**|Changyu Liu et.al.|[2607.16725](http://arxiv.org/abs/2607.16725)|null|\n",
+    "2607.19332": "|**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|\n",
+    "2607.19083": "|**2026-07-21**|**GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks**|Daniele Angioletti et.al.|[2607.19083](http://arxiv.org/abs/2607.19083)|null|\n",
+    "2607.18576": "|**2026-07-20**|**Text-conditioned Segmentation for Tomato Phenotyping via Procedural Synthetic Data**|Samy Mounir et.al.|[2607.18576](http://arxiv.org/abs/2607.18576)|null|\n"
   }
 }
