@@ -1,0 +1,20 @@
+---
+interface Props {
+  action: string;
+  initialQuery?: string;
+}
+
+const { action, initialQuery = '' } = Astro.props;
+---
+
+<form class="search-toolbar search-fallback" action={action} method="get" role="search">
+  <input
+    class="search-input"
+    name="q"
+    value={initialQuery}
+    placeholder="Search titles, abstracts, authors, or arXiv IDs"
+    aria-label="Search the paper archive"
+  />
+  <button type="submit">Search</button>
+  <a href="https://github.com/NickDee96/ASR-TTS-paper-daily">Repository</a>
+</form>

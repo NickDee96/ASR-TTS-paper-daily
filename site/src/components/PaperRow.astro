@@ -1,0 +1,40 @@
+---
+import type { PaperPreview } from '../types/paper';
+import { withBase } from '../lib/paths';
+
+interface Props {
+  paper: PaperPreview;
+  index?: number;
+}
+
+const { paper, index = 0 } = Astro.props;
+const searchIndex = [paper.id, paper.title, paper.abstract, ...paper.authors, ...paper.topics, ...paper.categories]
+  .join(' ')
+  .toLocaleLowerCase();
+---
+
+<article
+  class="paper-row"
+  style={`--row-index: ${index}`}
+  data-paper-row
+  data-search-index={searchIndex}
+  data-topics={paper.topics.join('|')}
+>
+  <div class="paper-date">
+    <time datetime={paper.updated}>{paper.updated.slice(5).replace('-', '.')}</time>
+    <span class:list={[paper.status]}>{paper.status}</span>
+  </div>
+  <div class="paper-content">
+    <div class="paper-kicker">
+      <span>{paper.id}</span><span>{paper.categories.join(' / ')}</span>
+      {paper.codeUrl && <span class="code-verified">verified code</span>}
+    </div>
+    <h2><a href={withBase(`/papers/${paper.id}/`)}>{paper.title}</a></h2>
+    <p>{paper.abstract}</p>
+    <div class="paper-footer">
+      <span class="authors">{paper.authors.join(', ')}</span>
+      <span class="topic-list">{paper.topics.map((topic) => <span>{topic}</span>)}</span>
+    </div>
+  </div>
+  <a class="row-action" href={withBase(`/papers/${paper.id}/`)} aria-label={`Open ${paper.title}`}><span aria-hidden="true">&#8599;</span></a>
+</article>

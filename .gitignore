@@ -14,3 +14,5 @@ cmake-build-debug/
 .vscode/
 *.pyc
 
+.serena/
+node_modules/

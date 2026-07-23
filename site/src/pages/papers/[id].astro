@@ -1,0 +1,30 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { previewPapers } from '../../data/preview-papers';
+import { withBase } from '../../lib/paths';
+import type { PaperPreview } from '../../types/paper';
+
+export const getStaticPaths = (() => previewPapers.map((paper) => ({ params: { id: paper.id }, props: { paper } }))) satisfies GetStaticPaths;
+
+const { paper } = Astro.props as { paper: PaperPreview };
+---
+
+<BaseLayout title={`${paper.title} | ASR-TTS Paper Daily`} description={paper.abstract} active="papers">
+  <div class="page-shell">
+    <a class="back-link" href={withBase('/')}>&larr; Back to feed</a>
+    <div class="detail-grid">
+      <article>
+        <p class="eyebrow">{paper.id} / {paper.status}</p>
+        <h1 class="detail-title">{paper.title}</h1>
+        <p class="detail-authors">{paper.authors.join(', ')}</p>
+        <section class="detail-abstract" aria-labelledby="abstract-heading"><h2 id="abstract-heading">Abstract</h2><p>{paper.abstract}</p></section>
+        <div class="detail-actions"><a href={paper.pdfUrl}>Open PDF</a><a href={paper.paperUrl}>View on arXiv</a>{paper.codeUrl && <a href={paper.codeUrl}>Verified code</a>}</div>
+      </article>
+      <aside class="detail-meta" aria-labelledby="metadata-heading">
+        <h2 id="metadata-heading">Paper metadata</h2>
+        <dl><div><dt>Published</dt><dd>{paper.published}</dd></div><div><dt>Updated</dt><dd>{paper.updated}</dd></div><div><dt>Topics</dt><dd>{paper.topics.join(', ')}</dd></div><div><dt>Categories</dt><dd>{paper.categories.join(', ')}</dd></div><div><dt>Code</dt><dd>{paper.codeUrl ? 'Verified repository' : 'No verified repository'}</dd></div></dl>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>

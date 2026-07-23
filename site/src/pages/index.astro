@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PaperRow from '../components/PaperRow.astro';
+import SearchFallback from '../components/SearchFallback.astro';
+import SearchToolbar from '../components/SearchToolbar';
+import TopicNav from '../components/TopicNav.astro';
+import { archiveSummary, previewPapers } from '../data/preview-papers';
+import { withBase } from '../lib/paths';
+---
+
+<BaseLayout
+	title="ASR-TTS Paper Daily"
+	description="A searchable daily archive of speech and language research."
+	active="feed"
+>
+	<div class="page-shell">
+		<section class="workspace-heading" aria-labelledby="page-title">
+			<div>
+				<p class="eyebrow">Daily feed</p>
+				<h1 id="page-title">Speech &amp; language papers</h1>
+				<p>New submissions and meaningful revisions across six focused research areas.</p>
+			</div>
+			<dl class="archive-metrics">
+				<div><dt>Papers</dt><dd>{archiveSummary.uniquePapers.toLocaleString('en-US')}</dd></div>
+				<div><dt>Topics</dt><dd>6</dd></div>
+				<div><dt>Today</dt><dd>{previewPapers.filter((paper) => paper.status === 'new').length}</dd></div>
+				<div><dt>Revised</dt><dd>{previewPapers.filter((paper) => paper.status === 'revised').length}</dd></div>
+			</dl>
+		</section>
+		<SearchToolbar client:only="react" action={withBase('/search/')}>
+			<SearchFallback slot="fallback" action={withBase('/search/')} />
+		</SearchToolbar>
+		<div class="results-layout">
+			<TopicNav />
+			<section aria-labelledby="latest-heading">
+				<div class="results-heading">
+					<h2 id="latest-heading">Latest papers</h2>
+					<p>{previewPapers.length} updates</p>
+				</div>
+				<div class="paper-list">
+					{previewPapers.map((paper, index) => <PaperRow paper={paper} index={index} />)}
+				</div>
+			</section>
+		</div>
+	</div>
+</BaseLayout>

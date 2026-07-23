@@ -1,0 +1,24 @@
+---
+import { withBase } from '../lib/paths';
+
+interface Props {
+  active?: 'feed' | 'search' | 'papers';
+}
+
+const { active = 'feed' } = Astro.props;
+---
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href={withBase('/')} aria-label="ASR-TTS Paper Daily home">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></span>
+      <span><strong>ASR-TTS</strong><small>Paper Daily</small></span>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a class:list={[{ active: active === 'feed' }]} href={withBase('/')}>Feed</a>
+      <a class:list={[{ active: active === 'search' }]} href={withBase('/search/')}>Search</a>
+      <a class:list={[{ active: active === 'papers' }]} href={withBase('/papers/2607.18064/')}>Paper</a>
+    </nav>
+    <div class="freshness" title="Last successful archive update"><span aria-hidden="true"></span>Updated Jul 23</div>
+  </div>
+</header>

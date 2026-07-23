@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { withBase } from '../lib/paths';
+---
+
+<BaseLayout title="Page not found | ASR-TTS Paper Daily" description="The requested paper or archive page could not be found.">
+  <div class="page-shell"><section class="not-found"><div class="error-code">404</div><p class="eyebrow">Not found</p><h1>This page fell outside the search window.</h1><p>The paper may have moved, or the address may be incomplete.</p><a href={withBase('/')}>Return to the daily feed</a></section></div>
+</BaseLayout>

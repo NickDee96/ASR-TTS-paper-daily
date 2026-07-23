@@ -1,0 +1,39 @@
+---
+import { topicCounts } from '../data/preview-papers';
+import { withBase } from '../lib/paths';
+
+interface Props {
+  activeTopic?: string;
+  query?: string;
+}
+
+const { activeTopic = '', query = '' } = Astro.props;
+---
+
+<aside class="topic-nav" aria-labelledby="topic-heading">
+  <div class="topic-nav-heading">
+    <h2 id="topic-heading">Topics</h2>
+    <a class="topic-clear" href={`${withBase('/search/')}?q=${encodeURIComponent(query)}`} hidden={!activeTopic}>Clear</a>
+  </div>
+  <ul>
+    {Object.entries(topicCounts).map(([topic, count], index) => {
+      const parameters = new URLSearchParams();
+      if (query) parameters.set('q', query);
+      parameters.set('topic', topic);
+      return (
+        <li>
+          <a
+            class:list={[`topic-${index + 1}`, { active: activeTopic === topic }]}
+            href={`${withBase('/search/')}?${parameters.toString()}`}
+            data-topic-link
+            data-topic={topic}
+          >
+            <span class="topic-swatch" aria-hidden="true"></span>
+            <span>{topic}</span>
+            <strong>{count.toLocaleString('en-US')}</strong>
+          </a>
+        </li>
+      );
+    })}
+  </ul>
+</aside>
