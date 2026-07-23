@@ -1,29 +1,45 @@
 ---
 import type { GetStaticPaths } from 'astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { previewPapers } from '../../data/preview-papers';
+import { loadPapers } from '../../data/papers';
 import { withBase } from '../../lib/paths';
-import type { PaperPreview } from '../../types/paper';
+import type { PaperRecord } from '../../types/paper';
 
-export const getStaticPaths = (() => previewPapers.map((paper) => ({ params: { id: paper.id }, props: { paper } }))) satisfies GetStaticPaths;
+export const getStaticPaths = (() => loadPapers().map((paper) => ({ params: { id: paper.id }, props: { paper } }))) satisfies GetStaticPaths;
 
-const { paper } = Astro.props as { paper: PaperPreview };
+const { paper } = Astro.props as { paper: PaperRecord };
+const sortDate = paper.updated === 'Unknown' ? paper.published : paper.updated;
+const year = sortDate === 'Unknown' ? 'Unknown' : sortDate.slice(0, 4);
 ---
 
 <BaseLayout title={`${paper.title} | ASR-TTS Paper Daily`} description={paper.abstract} active="papers">
   <div class="page-shell">
     <a class="back-link" href={withBase('/')}>&larr; Back to feed</a>
     <div class="detail-grid">
-      <article>
-        <p class="eyebrow">{paper.id} / {paper.status}</p>
-        <h1 class="detail-title">{paper.title}</h1>
-        <p class="detail-authors">{paper.authors.join(', ')}</p>
+      <article data-pagefind-body>
+        <p class="eyebrow" data-pagefind-meta="arxiv_id" data-pagefind-weight="12">{paper.id} / {paper.status}</p>
+        <h1 class="detail-title" data-pagefind-meta="title" data-pagefind-weight="10">{paper.title}</h1>
+        <p class="detail-authors">
+          {paper.authors.length > 0 ? paper.authors.map((author, index) => (
+            <><span data-pagefind-filter="author">{author}</span>{index < paper.authors.length - 1 ? ', ' : ''}</>
+          )) : 'Authors unavailable'}
+        </p>
         <section class="detail-abstract" aria-labelledby="abstract-heading"><h2 id="abstract-heading">Abstract</h2><p>{paper.abstract}</p></section>
         <div class="detail-actions"><a href={paper.pdfUrl}>Open PDF</a><a href={paper.paperUrl}>View on arXiv</a>{paper.codeUrl && <a href={paper.codeUrl}>Verified code</a>}</div>
+        <span class="pagefind-only" data-pagefind-filter={`code:${paper.codeStatus}`}>Code status: {paper.codeStatus}</span>
+        <span class="pagefind-only" data-pagefind-filter={`record_status:${paper.recordStatus}`}>Record status: {paper.recordStatus}</span>
+        <span class="pagefind-only" data-pagefind-filter={`year:${year}`}>Year: {year}</span>
       </article>
       <aside class="detail-meta" aria-labelledby="metadata-heading">
         <h2 id="metadata-heading">Paper metadata</h2>
-        <dl><div><dt>Published</dt><dd>{paper.published}</dd></div><div><dt>Updated</dt><dd>{paper.updated}</dd></div><div><dt>Topics</dt><dd>{paper.topics.join(', ')}</dd></div><div><dt>Categories</dt><dd>{paper.categories.join(', ')}</dd></div><div><dt>Code</dt><dd>{paper.codeUrl ? 'Verified repository' : 'No verified repository'}</dd></div></dl>
+        <dl>
+          <div><dt>Published</dt><dd>{paper.published}</dd></div>
+          <div><dt>Updated</dt><dd><time datetime={sortDate} data-pagefind-sort="date">{paper.updated}</time></dd></div>
+          <div><dt>Topics</dt><dd>{paper.topics.map((topic, index) => <><span data-pagefind-filter="topic">{topic}</span>{index < paper.topics.length - 1 ? ', ' : ''}</>)}</dd></div>
+          <div><dt>Categories</dt><dd>{paper.categories.length > 0 ? paper.categories.map((category, index) => <><span data-pagefind-filter="category">{category}</span>{index < paper.categories.length - 1 ? ', ' : ''}</>) : 'Unavailable'}</dd></div>
+          <div><dt>Code</dt><dd>{paper.codeUrl ? 'Verified repository' : 'No verified repository'}</dd></div>
+          <div><dt>Source</dt><dd>{paper.sourceOrigin}</dd></div>
+        </dl>
       </aside>
     </div>
   </div>

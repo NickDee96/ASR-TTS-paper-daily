@@ -4,8 +4,12 @@ import PaperRow from '../components/PaperRow.astro';
 import SearchFallback from '../components/SearchFallback.astro';
 import SearchToolbar from '../components/SearchToolbar';
 import TopicNav from '../components/TopicNav.astro';
-import { archiveSummary, previewPapers } from '../data/preview-papers';
+import { archiveSummary } from '../data/preview-papers';
+import { loadPapers } from '../data/papers';
 import { withBase } from '../lib/paths';
+
+const allPapers = loadPapers();
+const recentPapers = allPapers.slice(0, 25);
 ---
 
 <BaseLayout
@@ -23,8 +27,8 @@ import { withBase } from '../lib/paths';
 			<dl class="archive-metrics">
 				<div><dt>Papers</dt><dd>{archiveSummary.uniquePapers.toLocaleString('en-US')}</dd></div>
 				<div><dt>Topics</dt><dd>6</dd></div>
-				<div><dt>Today</dt><dd>{previewPapers.filter((paper) => paper.status === 'new').length}</dd></div>
-				<div><dt>Revised</dt><dd>{previewPapers.filter((paper) => paper.status === 'revised').length}</dd></div>
+				<div><dt>Latest</dt><dd>{recentPapers.length}</dd></div>
+				<div><dt>Indexed</dt><dd>{allPapers.length.toLocaleString('en-US')}</dd></div>
 			</dl>
 		</section>
 		<SearchToolbar client:only="react" action={withBase('/search/')}>
@@ -35,10 +39,10 @@ import { withBase } from '../lib/paths';
 			<section aria-labelledby="latest-heading">
 				<div class="results-heading">
 					<h2 id="latest-heading">Latest papers</h2>
-					<p>{previewPapers.length} updates</p>
+					  <p>{recentPapers.length} updates</p>
 				</div>
 				<div class="paper-list">
-					{previewPapers.map((paper, index) => <PaperRow paper={paper} index={index} />)}
+					  {recentPapers.map((paper, index) => <PaperRow paper={paper} index={index} />)}
 				</div>
 			</section>
 		</div>

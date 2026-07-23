@@ -114,6 +114,7 @@ h1, h2, p { margin-top: 0; }
 .detail-meta { position: sticky; top: 94px; padding: 20px; border-top: 4px solid var(--gold); background: rgba(255,255,255,.82); }
 .detail-meta dl { margin: 0; } .detail-meta div { padding: 12px 0; border-bottom: 1px solid var(--line); }
 .detail-meta dt { color: var(--muted); font-size: .66rem; font-weight: 700; text-transform: uppercase; } .detail-meta dd { margin: 4px 0 0; font-size: .82rem; line-height: 1.45; }
+.pagefind-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 .back-link { min-height: 32px; margin-bottom: 30px; padding: 0; border: 0; }
 .not-found { max-width: 760px; padding-top: 80px; } .not-found .error-code { color: var(--signal); font-family: 'Newsreader',serif; font-size: 6rem; line-height: .8; }
 .not-found a { margin-top: 24px; color: #fff; background: var(--brand-dark); }

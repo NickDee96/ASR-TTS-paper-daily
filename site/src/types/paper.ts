@@ -14,3 +14,12 @@ export interface PaperPreview {
   paperUrl: string;
   pdfUrl: string;
 }
+
+export interface PaperRecord extends PaperPreview {
+  recordStatus: 'complete' | 'partial';
+  primaryCategory?: string;
+  classifierVersion: string;
+  matchedTerms: string[];
+  sourceOrigin: string;
+  codeStatus: string;
+}

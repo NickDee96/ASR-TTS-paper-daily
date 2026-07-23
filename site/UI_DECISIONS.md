@@ -16,4 +16,7 @@ is supplied as the loading fallback, so search remains operable before hydration
 Lucide supplies icons because Fluent Icons 2.0.333 contains extensionless internal
 ESM imports that fail during Astro's static build on Node 25.
 
-Pagefind will provide the static search index in the next implementation stage.
+Pagefind indexes each generated paper page after Astro builds. Paper pages expose
+title and arXiv ID metadata, topic/author/category/code/year filters, and a date
+sort value. The index is emitted into the ignored production artifact rather than
+committed to the repository.

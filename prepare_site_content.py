@@ -12,6 +12,9 @@ from paper_collector import UTC, _parse_timestamp
 from paper_store import atomic_write_json
 
 
+REPOSITORY_ROOT = Path(__file__).resolve().parent
+
+
 def _read_json_object(path: Path) -> dict[str, Any]:
     with path.open("r", encoding="utf-8") as handle:
         document = json.load(handle)
@@ -109,18 +112,24 @@ def main() -> int:
         description="Prepare canonical and derived paper data for the static site"
     )
     parser.add_argument(
-        "--archive", type=Path, default=Path("docs/asr-arxiv-daily.json")
+        "--archive",
+        type=Path,
+        default=REPOSITORY_ROOT / "docs" / "asr-arxiv-daily.json",
     )
     parser.add_argument(
         "--baseline-ids",
         type=Path,
-        default=Path("migration/baseline-paper-ids.txt"),
+        default=REPOSITORY_ROOT / "migration" / "baseline-paper-ids.txt",
     )
     parser.add_argument(
-        "--generated-root", type=Path, default=Path("site/.generated")
+        "--generated-root",
+        type=Path,
+        default=REPOSITORY_ROOT / "site" / ".generated",
     )
     parser.add_argument(
-        "--public-data-root", type=Path, default=Path("site/public/data")
+        "--public-data-root",
+        type=Path,
+        default=REPOSITORY_ROOT / "site" / "public" / "data",
     )
     parser.add_argument("--updated-at")
     parser.add_argument("--latest-limit", type=int, default=100)
