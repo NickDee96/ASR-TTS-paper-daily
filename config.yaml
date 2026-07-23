@@ -7,6 +7,42 @@ show_links: True
 show_badge: True
 max_results: 100
 
+collector:
+    checkpoint_path: './data/collector-checkpoint.json'
+    batch_path: './data/incoming/latest.json'
+    overlap_hours: 72
+    initial_lookback_days: 7
+    reconciliation_lookback_days: 14
+    page_size: 100
+    api_delay_seconds: 3
+    api_retries: 3
+    max_attempts: 3
+    retry_base_seconds: 3
+    retry_max_seconds: 30
+
+backfill:
+    checkpoint_path: './data/backfill-checkpoint.json'
+    report_path: './data/backfill-report.json'
+    batch_size: 100
+    api_delay_seconds: 3
+    api_retries: 3
+    max_attempts: 3
+    retry_base_seconds: 3
+    retry_max_seconds: 30
+
+code_enrichment:
+    cache_path: './data/code-lookup-cache.json'
+    report_path: './data/code-enrichment-report.json'
+    refresh_days: 7
+    timeout_seconds: 10
+    max_attempts: 3
+    retry_base_seconds: 2
+    retry_max_seconds: 20
+
+data_products:
+    output_path: './site/public/data'
+    latest_limit: 100
+
 publish_readme: True
 publish_gitpage: True
 publish_wechat: False
@@ -33,7 +69,7 @@ keywords:
     "TTS":
         filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis"]
         include:
-            any: ["TTS", "Text-to-Speech", "Text to speech", "Speech Synthesis", "Voice Synthesis", "synthesis", "tts", "voice cloning"]
+            any: ["TTS", "Text-to-Speech", "Text to speech", "Speech Synthesis", "Voice Synthesis", "synthesis", "voice cloning"]
             all: []
         exclude: ["ASR", "STT", "speech recognition", "automatic speech recognition", "speaker diarization", "speaker recognition"]
         min_score: 2

@@ -8,7 +8,9 @@ import argparse
 import datetime
 import requests
 import urllib3
-from typing import List, Dict, Tuple, Optional, Pattern
+from typing import List, Dict, Tuple, Optional
+
+from topic_classifier import is_relevant_for_topic as _is_relevant_for_topic
 
 # Disable SSL warnings when using verify=False
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -20,103 +22,6 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
-
-# ----------------------------
-# Keyword-based relevance utils
-# ----------------------------
-
-def _normalize_kw(kw: str) -> str:
-    return kw.strip().lower()
-
-def _word_regex(kw: str) -> Pattern:
-    """Build a regex for whole-word matching when keyword is a single token.
-    Fallback to simple escaped substring for phrases.
-    """
-    kw = kw.strip()
-    # If multi-word or contains non-word chars, just escape and search as substring (case-insensitive)
-    if len(kw.split()) > 1 or re.search(r"[^\w]", kw):
-        return re.compile(re.escape(kw), re.IGNORECASE)
-    # Single token -> whole word
-    return re.compile(rf"\b{re.escape(kw)}\b", re.IGNORECASE)
-
-def _count_hits(text: str, terms: List[str]) -> int:
-    if not text or not terms:
-        return 0
-    count = 0
-    for t in terms:
-        if not t:
-            continue
-        if _word_regex(t).search(text) is not None:
-            count += 1
-    return count
-
-def _is_relevant_for_topic(title: str,
-                           abstract: str,
-                           topic_rules: Optional[Dict]) -> Tuple[bool, int, Dict]:
-    """Decide if a paper is relevant to a topic using title/abstract keyword rules.
-
-    Backward compatible with existing config schema:
-      - If topic_rules has 'filters': use as include-any terms
-      - Optional advanced keys:
-          include: { any: [...], all: [...] }
-          exclude: [...]
-          min_score: int (default computed)
-          title_weight: int (default 2)
-
-    Returns (is_relevant, score, details)
-    """
-    if topic_rules is None:
-        return True, 0, {"reason": "no-rules"}
-
-    text_title = title or ""
-    text_abs = abstract or ""
-
-    include_any = topic_rules.get("include", {}).get("any") if isinstance(topic_rules.get("include"), dict) else None
-    include_all = topic_rules.get("include", {}).get("all") if isinstance(topic_rules.get("include"), dict) else None
-    # Backward-compat: treat 'filters' as include-any
-    if not include_any:
-        include_any = topic_rules.get("filters", []) or []
-    exclude_terms = topic_rules.get("exclude", []) or []
-
-    # Normalize lists
-    include_any = [_normalize_kw(k) for k in include_any]
-    include_all = [_normalize_kw(k) for k in (include_all or [])]
-    exclude_terms = [_normalize_kw(k) for k in exclude_terms]
-
-    title_weight = int(topic_rules.get("title_weight", 2))
-    min_score = topic_rules.get("min_score")
-
-    # Heuristic default threshold: if only a few specific filters, 1; if many generic filters, 2
-    if min_score is None:
-        min_score = 1 if len(include_any) <= 4 else 2
-
-    # Exclusion check first
-    excluded = _count_hits(text_title, exclude_terms) + _count_hits(text_abs, exclude_terms) > 0
-    if excluded:
-        return False, 0, {"reason": "exclude-hit"}
-
-    # Compute score
-    title_hits_any = _count_hits(text_title, include_any)
-    abs_hits_any = _count_hits(text_abs, include_any)
-    score_any = title_weight * title_hits_any + abs_hits_any
-
-    # All-of check (must match all terms somewhere in title+abstract)
-    all_ok = True
-    if include_all:
-        for t in include_all:
-            if _word_regex(t).search(text_title) is None and _word_regex(t).search(text_abs) is None:
-                all_ok = False
-                break
-
-    is_relevant = (score_any >= min_score) and all_ok
-    details = {
-        "title_hits": title_hits_any,
-        "abs_hits": abs_hits_any,
-        "score": score_any,
-        "min_score": min_score,
-        "all_ok": all_ok,
-    }
-    return is_relevant, score_any, details
 
 def _safe_json_loads(content: str) -> dict:
     """
