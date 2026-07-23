@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "not-an-arxiv-id",
+  "record_status": "complete",
+  "title": "",
+  "authors": [],
+  "published": "2026-07-04",
+  "updated": "2026-07-01",
+  "arxiv_categories": [],
+  "primary_category": null,
+  "topics": ["ASR"],
+  "classification": {
+    "classifier_version": "keywords-v1",
+    "matches": []
+  },
+  "links": {
+    "abstract": "not a URI",
+    "pdf": null
+  },
+  "code": {
+    "status": "verified",
+    "url": null,
+    "source": null,
+    "confidence": null,
+    "checked_at": "not-a-date",
+    "evidence": []
+  },
+  "source": {
+    "origin": "arxiv",
+    "fetched_at": "not-a-date",
+    "arxiv_version": "2"
+  }
+}

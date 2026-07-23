@@ -1,0 +1,74 @@
+[
+  {
+    "case": "unicode_revised_multi_topic",
+    "short_id": "2607.00001v2",
+    "title": "Whakarongo: Robust Multilingual Speech Recognition",
+    "abstract": "Automatic speech recognition improved with data augmentation and SpecAugment.",
+    "authors": ["Māia Rangi", "Zoë Example"],
+    "published": "2026-07-01",
+    "updated": "2026-07-03",
+    "expected_topics": ["ASR", "Data Augmentation"],
+    "expected_excluded_topics": ["TTS"],
+    "code_lookup_outcome": "verified"
+  },
+  {
+    "case": "tts_missing_code",
+    "short_id": "2607.00002v1",
+    "title": "Expressive Text-to-Speech for Māori",
+    "abstract": "A speech synthesis model for an underrepresented language.",
+    "authors": ["Anika Voice"],
+    "published": "2026-07-02",
+    "updated": "2026-07-02",
+    "expected_topics": ["TTS"],
+    "expected_excluded_topics": ["ASR"],
+    "code_lookup_outcome": "missing"
+  },
+  {
+    "case": "machine_translation",
+    "short_id": "2607.00003v1",
+    "title": "Low-Resource Neural Machine Translation",
+    "abstract": "We evaluate multilingual translation transfer.",
+    "authors": ["Taylor Lingua"],
+    "published": "2026-07-04",
+    "updated": "2026-07-04",
+    "expected_topics": ["Machine Translation"],
+    "expected_excluded_topics": ["TTS"],
+    "code_lookup_outcome": "candidate"
+  },
+  {
+    "case": "small_language_model",
+    "short_id": "2607.00004v1",
+    "title": "Compact Language Models on Edge Devices",
+    "abstract": "Quantization and pruning reduce model size.",
+    "authors": ["Sam Efficient"],
+    "published": "2026-07-05",
+    "updated": "2026-07-05",
+    "expected_topics": ["Small Language Models"],
+    "expected_excluded_topics": ["ASR"],
+    "code_lookup_outcome": "verified"
+  },
+  {
+    "case": "data_augmentation",
+    "short_id": "2607.00005v1",
+    "title": "SpecAugment for Noisy Speech",
+    "abstract": "A controlled audio augmentation study.",
+    "authors": ["Jordan Audio"],
+    "published": "2026-07-01",
+    "updated": "2026-07-01",
+    "expected_topics": ["Data Augmentation"],
+    "expected_excluded_topics": ["Synthetic Generation"],
+    "code_lookup_outcome": "missing"
+  },
+  {
+    "case": "synthetic_generation_external_failure",
+    "short_id": "2607.00006v1",
+    "title": "Controllable Synthetic Speech Generation",
+    "abstract": "A generative model produces synthetic audio.",
+    "authors": ["Morgan Synth"],
+    "published": "2026-07-06",
+    "updated": "2026-07-06",
+    "expected_topics": ["Synthetic Generation"],
+    "expected_excluded_topics": ["Data Augmentation"],
+    "code_lookup_outcome": "http_error"
+  }
+]

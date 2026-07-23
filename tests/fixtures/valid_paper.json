@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "id": "2607.00001",
+  "record_status": "complete",
+  "title": "Robust Multilingual Speech Recognition with Data Augmentation",
+  "abstract": "We study automatic speech recognition for several low-resource languages.",
+  "authors": [
+    {
+      "name": "Māia Example",
+      "affiliations": ["Example Speech Lab"]
+    },
+    {
+      "name": "Alex Researcher"
+    }
+  ],
+  "published": "2026-07-01",
+  "updated": "2026-07-03",
+  "arxiv_categories": ["cs.CL", "eess.AS"],
+  "primary_category": "cs.CL",
+  "topics": ["ASR", "Data Augmentation"],
+  "classification": {
+    "classifier_version": "keywords-v1",
+    "matches": [
+      {
+        "topic": "ASR",
+        "score": 4,
+        "threshold": 2,
+        "matched_title_terms": ["speech recognition"],
+        "matched_abstract_terms": ["automatic speech recognition"],
+        "matched_all_terms": [],
+        "exclusion_hits": [],
+        "evidence_complete": true
+      },
+      {
+        "topic": "Data Augmentation",
+        "score": 2,
+        "threshold": 2,
+        "matched_title_terms": ["data augmentation"],
+        "matched_abstract_terms": [],
+        "matched_all_terms": [],
+        "exclusion_hits": [],
+        "evidence_complete": true
+      }
+    ]
+  },
+  "links": {
+    "abstract": "https://arxiv.org/abs/2607.00001",
+    "pdf": "https://arxiv.org/pdf/2607.00001"
+  },
+  "code": {
+    "status": "verified",
+    "url": "https://github.com/example/speech-recognition",
+    "source": "author-submitted",
+    "confidence": 1,
+    "checked_at": "2026-07-03T12:00:00Z",
+    "evidence": ["exact arXiv ID in repository metadata"]
+  },
+  "source": {
+    "origin": "arxiv",
+    "fetched_at": "2026-07-03T12:00:00Z",
+    "arxiv_version": "v2"
+  },
+  "comments": null,
+  "journal_reference": null,
+  "doi": null
+}

@@ -1,3 +1,4 @@
 requests
 arxiv
 pyyaml
+jsonschema[format]>=4.25,<5

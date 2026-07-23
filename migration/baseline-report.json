@@ -1,0 +1,53 @@
+{
+  "archive": "docs/asr-arxiv-daily.json",
+  "archive_bytes": 2438671,
+  "artifact_sizes": {
+    "README.md": 2166999,
+    "docs/asr-arxiv-daily.json": 2438671,
+    "docs/index.md": 2166301
+  },
+  "assignments_with_code": 59,
+  "code_coverage_percent": 0.49,
+  "duplicate_assignments": 312,
+  "malformed_record_count": 1,
+  "malformed_records": [
+    {
+      "arxiv_id": "2602.20986",
+      "reason": "row is missing the code column",
+      "topic": "Machine Translation"
+    }
+  ],
+  "multi_topic_papers": 307,
+  "newest_row_date": "2026-07-21",
+  "oldest_row_date": "2014-02-12",
+  "paper_ids_sha256": "07b63ad2853f2e1feeea48ffa2bd07a4628cd998c911eb641faa8b7ff6ff400a",
+  "report_version": 1,
+  "topic_assignments": 11990,
+  "topics": {
+    "ASR": {
+      "assignments": 939,
+      "with_code": 2
+    },
+    "Data Augmentation": {
+      "assignments": 1406,
+      "with_code": 3
+    },
+    "Machine Translation": {
+      "assignments": 1051,
+      "with_code": 8
+    },
+    "Small Language Models": {
+      "assignments": 5550,
+      "with_code": 29
+    },
+    "Synthetic Generation": {
+      "assignments": 2323,
+      "with_code": 12
+    },
+    "TTS": {
+      "assignments": 721,
+      "with_code": 5
+    }
+  },
+  "unique_papers": 11678
+}

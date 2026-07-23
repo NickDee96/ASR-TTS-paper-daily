@@ -1,0 +1,21 @@
+{
+  "ASR": {
+    "2607.00001": "|**2026-07-03**|**Robust Multilingual Speech Recognition**|Māia Example et.al.|[2607.00001](http://arxiv.org/abs/2607.00001)|**[link](https://github.com/example/asr)**|\n"
+  },
+  "TTS": {
+    "2607.00002": "|**2026-07-02**|**Expressive Text-to-Speech for Māori**|Anika Voice et.al.|[2607.00002](http://arxiv.org/abs/2607.00002)|null|\n"
+  },
+  "Machine Translation": {
+    "2607.00003": "|**2026-07-04**|**Low-Resource Neural Machine Translation**|Taylor Lingua et.al.|[2607.00003](http://arxiv.org/abs/2607.00003)|null|\n"
+  },
+  "Small Language Models": {
+    "2607.00004": "|**2026-07-05**|**Compact Language Models on Edge Devices**|Sam Efficient et.al.|[2607.00004](http://arxiv.org/abs/2607.00004)|**[link](https://github.com/example/slm)**|\n"
+  },
+  "Data Augmentation": {
+    "2607.00001": "|**2026-07-03**|**Robust Multilingual Speech Recognition**|Māia Example et.al.|[2607.00001](http://arxiv.org/abs/2607.00001)|**[link](https://github.com/example/asr)**|\n",
+    "2607.00005": "|**2026-07-01**|**SpecAugment for Noisy Speech**|Jordan Audio et.al.|[2607.00005](http://arxiv.org/abs/2607.00005)|null|\n"
+  },
+  "Synthetic Generation": {
+    "2607.00006": "|**2026-07-06**|**Controllable Synthetic Speech Generation**|Morgan Synth et.al.|[2607.00006](http://arxiv.org/abs/2607.00006)|null|\n"
+  }
+}
