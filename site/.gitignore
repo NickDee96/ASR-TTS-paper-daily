@@ -2,6 +2,10 @@
 dist/
 # generated types
 .astro/
+.generated/
+
+# generated archive products
+public/data/
 
 # dependencies
 node_modules/
