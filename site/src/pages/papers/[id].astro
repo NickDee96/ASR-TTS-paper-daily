@@ -17,7 +17,7 @@ const year = sortDate === 'Unknown' ? 'Unknown' : sortDate.slice(0, 4);
     <a class="back-link" href={withBase('/')}>&larr; Back to feed</a>
     <div class="detail-grid">
       <article data-pagefind-body>
-        <p class="eyebrow" data-pagefind-meta="arxiv_id" data-pagefind-weight="12">{paper.id} / {paper.status}</p>
+        <p class="eyebrow"><span data-pagefind-meta="arxiv_id" data-pagefind-weight="12">{paper.id}</span> / <span data-pagefind-meta="status">{paper.status}</span></p>
         <h1 class="detail-title" data-pagefind-meta="title" data-pagefind-weight="10">{paper.title}</h1>
         <p class="detail-authors">
           {paper.authors.length > 0 ? paper.authors.map((author, index) => (
@@ -25,16 +25,16 @@ const year = sortDate === 'Unknown' ? 'Unknown' : sortDate.slice(0, 4);
           )) : 'Authors unavailable'}
         </p>
         <section class="detail-abstract" aria-labelledby="abstract-heading"><h2 id="abstract-heading">Abstract</h2><p>{paper.abstract}</p></section>
-        <div class="detail-actions"><a href={paper.pdfUrl}>Open PDF</a><a href={paper.paperUrl}>View on arXiv</a>{paper.codeUrl && <a href={paper.codeUrl}>Verified code</a>}</div>
-        <span class="pagefind-only" data-pagefind-filter={`code:${paper.codeStatus}`}>Code status: {paper.codeStatus}</span>
-        <span class="pagefind-only" data-pagefind-filter={`record_status:${paper.recordStatus}`}>Record status: {paper.recordStatus}</span>
-        <span class="pagefind-only" data-pagefind-filter={`year:${year}`}>Year: {year}</span>
+        <div class="detail-actions" data-pagefind-ignore><a href={paper.pdfUrl}>Open PDF</a><a href={paper.paperUrl}>View on arXiv</a>{paper.codeUrl && <a href={paper.codeUrl}>Verified code</a>}</div>
+        <span class="pagefind-only" data-pagefind-filter={`code:${paper.codeStatus}`} aria-hidden="true"></span>
+        <span class="pagefind-only" data-pagefind-filter={`record_status:${paper.recordStatus}`} aria-hidden="true"></span>
+        <span class="pagefind-only" data-pagefind-filter={`year:${year}`} aria-hidden="true"></span>
       </article>
       <aside class="detail-meta" aria-labelledby="metadata-heading">
         <h2 id="metadata-heading">Paper metadata</h2>
         <dl>
           <div><dt>Published</dt><dd>{paper.published}</dd></div>
-          <div><dt>Updated</dt><dd><time datetime={sortDate} data-pagefind-sort="date">{paper.updated}</time></dd></div>
+          <div><dt>Updated</dt><dd><time datetime={sortDate} data-pagefind-sort="date" data-pagefind-meta="updated">{paper.updated}</time></dd></div>
           <div><dt>Topics</dt><dd>{paper.topics.map((topic, index) => <><span data-pagefind-filter="topic">{topic}</span>{index < paper.topics.length - 1 ? ', ' : ''}</>)}</dd></div>
           <div><dt>Categories</dt><dd>{paper.categories.length > 0 ? paper.categories.map((category, index) => <><span data-pagefind-filter="category">{category}</span>{index < paper.categories.length - 1 ? ', ' : ''}</>) : 'Unavailable'}</dd></div>
           <div><dt>Code</dt><dd>{paper.codeUrl ? 'Verified repository' : 'No verified repository'}</dd></div>

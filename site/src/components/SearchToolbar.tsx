@@ -19,7 +19,9 @@ const researchTheme = {
 };
 
 export default function SearchToolbar({ action, initialQuery = '' }: SearchToolbarProps) {
-  const query = new URLSearchParams(window.location.search).get('q') ?? initialQuery;
+  const parameters = new URLSearchParams(window.location.search);
+  const query = parameters.get('q') ?? initialQuery;
+  const topic = parameters.get('topic') ?? '';
   return (
     <FluentProvider theme={researchTheme} className="fluent-toolbar-provider">
       <form className="search-toolbar" action={action} method="get" role="search">
@@ -32,6 +34,7 @@ export default function SearchToolbar({ action, initialQuery = '' }: SearchToolb
           aria-label="Search the paper archive"
           size="large"
         />
+        {topic && <input type="hidden" name="topic" value={topic} />}
         <Button appearance="primary" type="submit" icon={<ArrowRight aria-hidden="true" size={18} />}>
           Search
         </Button>

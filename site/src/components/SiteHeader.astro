@@ -1,11 +1,18 @@
 ---
 import { withBase } from '../lib/paths';
+import { loadArchiveSummary } from '../data/papers';
 
 interface Props {
   active?: 'feed' | 'search' | 'papers';
 }
 
 const { active = 'feed' } = Astro.props;
+const updatedAt = loadArchiveSummary().updatedAt;
+const updatedLabel = new Intl.DateTimeFormat('en', {
+  month: 'short',
+  day: 'numeric',
+  timeZone: 'UTC',
+}).format(new Date(updatedAt));
 ---
 
 <header class="site-header">
@@ -19,6 +26,6 @@ const { active = 'feed' } = Astro.props;
       <a class:list={[{ active: active === 'search' }]} href={withBase('/search/')}>Search</a>
       <a class:list={[{ active: active === 'papers' }]} href={withBase('/papers/2607.18064/')}>Paper</a>
     </nav>
-    <div class="freshness" title="Last successful archive update"><span aria-hidden="true"></span>Updated Jul 23</div>
+    <div class="freshness" title={`Last successful archive update: ${updatedAt}`}><span aria-hidden="true"></span>Updated {updatedLabel}</div>
   </div>
 </header>

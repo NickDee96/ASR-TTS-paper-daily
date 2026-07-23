@@ -4,11 +4,11 @@ import PaperRow from '../components/PaperRow.astro';
 import SearchFallback from '../components/SearchFallback.astro';
 import SearchToolbar from '../components/SearchToolbar';
 import TopicNav from '../components/TopicNav.astro';
-import { archiveSummary } from '../data/preview-papers';
-import { loadPapers } from '../data/papers';
+import { loadArchiveSummary, loadPapers } from '../data/papers';
 import { withBase } from '../lib/paths';
 
 const allPapers = loadPapers();
+const archiveSummary = loadArchiveSummary();
 const recentPapers = allPapers.slice(0, 25);
 ---
 

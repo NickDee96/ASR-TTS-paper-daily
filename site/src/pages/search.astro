@@ -1,18 +1,20 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PaperRow from '../components/PaperRow.astro';
+import PagefindResults from '../components/PagefindResults';
 import SearchFallback from '../components/SearchFallback.astro';
 import SearchToolbar from '../components/SearchToolbar';
 import TopicNav from '../components/TopicNav.astro';
-import { previewPapers } from '../data/preview-papers';
+import { loadArchiveSummary } from '../data/papers';
 import { withBase } from '../lib/paths';
+
+const archiveSummary = loadArchiveSummary();
 ---
 
 <BaseLayout title="Search papers | ASR-TTS Paper Daily" description="Search speech and language research papers." active="search">
   <div class="page-shell">
     <section class="workspace-heading" aria-labelledby="page-title">
-      <div><p class="eyebrow">Archive search</p><h1 id="page-title">Find a paper</h1><p id="search-context">Search across the current paper archive.</p></div>
-      <dl class="archive-metrics"><div><dt>Matches</dt><dd id="search-match-count">{previewPapers.length}</dd></div><div><dt>Scope</dt><dd id="search-scope">All</dd></div></dl>
+      <div><p class="eyebrow">Archive search</p><h1 id="page-title">Find a paper</h1><p>Search titles, abstracts, authors, arXiv IDs, and curated topics.</p></div>
+      <dl class="archive-metrics"><div><dt>Indexed</dt><dd>{archiveSummary.uniquePapers.toLocaleString('en-US')}</dd></div><div><dt>Batch size</dt><dd>25</dd></div></dl>
     </section>
     <SearchToolbar client:only="react" action={withBase('/search/')}>
       <SearchFallback slot="fallback" action={withBase('/search/')} />
@@ -20,9 +22,14 @@ import { withBase } from '../lib/paths';
     <div class="results-layout">
       <TopicNav />
       <section aria-labelledby="results-heading">
-        <div class="results-heading"><h2 id="results-heading">Search results</h2><p id="search-result-summary" aria-live="polite">{previewPapers.length} papers</p></div>
-        <div class="paper-list" id="search-results">{previewPapers.map((paper, index) => <PaperRow paper={paper} index={index} />)}</div>
-        <div class="empty-state" id="search-empty" hidden><h2>No matching papers</h2><p>Try a broader term or clear the active topic.</p></div>
+        <PagefindResults
+          client:only="react"
+          baseUrl={withBase('/')}
+          bundlePath={withBase('/pagefind/')}
+          updatedAt={archiveSummary.updatedAt}
+        >
+          <div slot="fallback" class="search-state" role="status">Loading the paper index...</div>
+        </PagefindResults>
       </section>
     </div>
   </div>
@@ -31,32 +38,7 @@ import { withBase } from '../lib/paths';
 <script>
   const parameters = new URLSearchParams(window.location.search);
   const query = (parameters.get('q') ?? '').trim();
-  const normalizedQuery = query.toLocaleLowerCase();
   const topic = (parameters.get('topic') ?? '').trim();
-  const rows = Array.from(document.querySelectorAll<HTMLElement>('[data-paper-row]'));
-  let matches = 0;
-
-  for (const row of rows) {
-    const topics = (row.dataset.topics ?? '').split('|');
-    const matchesQuery = !normalizedQuery || (row.dataset.searchIndex ?? '').includes(normalizedQuery);
-    const matchesTopic = !topic || topics.includes(topic);
-    row.hidden = !(matchesQuery && matchesTopic);
-    if (!row.hidden) matches += 1;
-  }
-
-  const context = [query && `"${query}"`, topic].filter(Boolean).join(' in ');
-  const contextElement = document.querySelector('#search-context');
-  const countElement = document.querySelector('#search-match-count');
-  const scopeElement = document.querySelector('#search-scope');
-  const summaryElement = document.querySelector('#search-result-summary');
-  const resultList = document.querySelector<HTMLElement>('#search-results');
-  const emptyState = document.querySelector<HTMLElement>('#search-empty');
-  if (contextElement) contextElement.textContent = context ? `Results for ${context}.` : 'Search across the current paper archive.';
-  if (countElement) countElement.textContent = String(matches);
-  if (scopeElement) scopeElement.textContent = topic || 'All';
-  if (summaryElement) summaryElement.textContent = `${matches} ${matches === 1 ? 'paper' : 'papers'}`;
-  if (resultList) resultList.hidden = matches === 0;
-  if (emptyState) emptyState.hidden = matches !== 0;
 
   for (const link of document.querySelectorAll<HTMLAnchorElement>('[data-topic-link]')) {
     const linkTopic = link.dataset.topic ?? '';

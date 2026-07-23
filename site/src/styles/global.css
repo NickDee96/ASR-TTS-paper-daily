@@ -83,6 +83,7 @@ h1, h2, p { margin-top: 0; }
 .topic-swatch { width: 8px; height: 8px; border-radius: 2px; background: var(--brand); }
 .topic-2 .topic-swatch { background: var(--signal); } .topic-3 .topic-swatch { background: var(--sky); } .topic-4 .topic-swatch { background: var(--gold); } .topic-5 .topic-swatch { background: var(--lime); } .topic-6 .topic-swatch { background: var(--plum); }
 .results-heading { min-height: 36px; }
+.results-heading > div { display: flex; width: 100%; align-items: baseline; justify-content: space-between; }
 .results-heading p { margin: 0 0 10px; color: var(--muted); font-size: .78rem; }
 .paper-list { border-bottom: 1px solid var(--ink); }
 .paper-row { display: grid; grid-template-columns: 80px minmax(0,1fr) 36px; position: relative; padding: 26px 8px 26px 0; border-top: 1px solid var(--line); background: rgba(255,255,255,.48); animation: row-in 380ms ease both; animation-delay: calc(var(--row-index) * 45ms); }
@@ -103,6 +104,24 @@ h1, h2, p { margin-top: 0; }
 .row-action:hover, .row-action:focus-visible { border-color: var(--line); color: var(--brand); background: #fff; }
 .empty-state { padding: 72px 24px; border-bottom: 1px solid var(--ink); text-align: center; }
 .empty-state h2 { font-family: 'Newsreader',serif; font-size: 1.8rem; } .empty-state p { color: var(--muted); }
+.results-provider { display: block; background: transparent !important; }
+.search-message { margin: 0 0 18px; }
+.search-state { display: grid; min-height: 260px; padding: 52px 24px; border-bottom: 1px solid var(--ink); text-align: center; place-content: center; }
+.search-state h2 { margin-bottom: 8px; font-family: 'Newsreader',serif; font-size: 1.8rem; }
+.search-state p { max-width: 520px; margin-bottom: 18px; color: var(--muted); }
+.search-result-list { border-bottom: 1px solid var(--ink); }
+.search-result-row { display: grid; grid-template-columns: 112px minmax(0,1fr) 36px; padding: 26px 8px 26px 0; border-top: 1px solid var(--line); background: rgba(255,255,255,.48); }
+.search-result-row:hover { background: rgba(255,255,255,.92); }
+.search-result-date { padding-top: 3px; color: var(--muted); font-size: .72rem; }
+.search-result-date time { display: block; }
+.search-result-date span { display: block; width: max-content; margin-top: 8px; padding-left: 7px; border-left: 3px solid var(--brand); color: var(--brand); font-size: .64rem; font-weight: 750; text-transform: uppercase; }
+.search-result-date span.revised { border-left-color: var(--gold); color: #7a590f; }
+.search-result-content h2 { margin-bottom: 8px; font-family: 'Newsreader',serif; font-size: 1.38rem; font-weight: 650; line-height: 1.2; letter-spacing: 0; }
+.search-result-content h2 a { text-decoration: none; }
+.search-result-content h2 a:hover { color: var(--brand); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.search-excerpt { margin-bottom: 14px; color: #46534f; font-size: .88rem; line-height: 1.55; }
+.search-excerpt mark { padding: 0 2px; color: inherit; background: #f5dfa5; }
+.load-more { display: flex; justify-content: center; padding: 24px; border-bottom: 1px solid var(--line); }
 .detail-grid { display: grid; grid-template-columns: minmax(0,1fr) 280px; align-items: start; gap: 64px; }
 .detail-title { margin-bottom: 22px; } .detail-authors { margin-bottom: 28px; color: var(--muted); }
 .detail-abstract { padding-top: 28px; border-top: 1px solid var(--ink); }
@@ -139,6 +158,9 @@ h1, h2, p { margin-top: 0; }
   .search-toolbar { grid-template-columns: minmax(0,1fr) auto; } .search-toolbar > :last-child { display: none; }
   .topic-nav ul { grid-template-columns: 1fr; }
   .paper-row { grid-template-columns: 1fr 34px; padding: 22px 0; }
+  .search-result-row { grid-template-columns: 1fr 34px; padding: 22px 0; }
+  .search-result-date { display: flex; grid-column: 1/-1; align-items: center; margin-bottom: 10px; gap: 10px; }
+  .search-result-date span { display: inline-block; margin-top: 0; }
   .paper-date { display: flex; grid-column: 1/-1; align-items: center; margin-bottom: 10px; gap: 10px; }
   .paper-date span { display: inline-block; margin-top: 0; }
   .paper-footer { display: block; } .authors { display: block; margin-bottom: 10px; white-space: normal; } .topic-list { justify-content: flex-start; }

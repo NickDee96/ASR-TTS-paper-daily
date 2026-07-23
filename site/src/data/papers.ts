@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
-import { previewPapers } from './preview-papers';
+import { archiveSummary, previewPapers, topicCounts } from './preview-papers';
 import type { PaperPreview, PaperRecord, PaperStatus } from '../types/paper';
 
 interface CanonicalAuthor {
@@ -41,7 +41,16 @@ interface CanonicalPaper {
 }
 
 const canonicalPath = resolve(process.cwd(), '.generated', 'canonical.json');
+const siteCardPath = resolve(process.cwd(), 'public', 'data', 'site-card.json');
 let cachedPapers: PaperRecord[] | undefined;
+
+export interface ArchiveSummary {
+  uniquePapers: number;
+  topicAssignments: number;
+  verifiedCode: number;
+  updatedAt: string;
+  topics: Record<string, number>;
+}
 
 function statusFor(record: CanonicalPaper): PaperStatus {
   if (record.published && record.updated && record.updated > record.published) {
@@ -109,4 +118,30 @@ export function loadPapers(): PaperRecord[] {
       return dateOrder || right.id.localeCompare(left.id);
     });
   return cachedPapers;
+}
+
+export function loadArchiveSummary(): ArchiveSummary {
+  if (!existsSync(siteCardPath)) {
+    return {
+      uniquePapers: archiveSummary.uniquePapers,
+      topicAssignments: archiveSummary.topicAssignments,
+      verifiedCode: 0,
+      updatedAt: archiveSummary.updatedAt,
+      topics: { ...topicCounts },
+    };
+  }
+  const document = JSON.parse(readFileSync(siteCardPath, 'utf8')) as {
+    unique_papers: number;
+    topic_assignments: number;
+    verified_code: number;
+    updated_at: string;
+    topics: Record<string, number>;
+  };
+  return {
+    uniquePapers: document.unique_papers,
+    topicAssignments: document.topic_assignments,
+    verifiedCode: document.verified_code,
+    updatedAt: document.updated_at,
+    topics: document.topics,
+  };
 }

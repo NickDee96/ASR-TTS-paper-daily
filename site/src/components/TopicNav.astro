@@ -1,5 +1,5 @@
 ---
-import { topicCounts } from '../data/preview-papers';
+import { loadArchiveSummary } from '../data/papers';
 import { withBase } from '../lib/paths';
 
 interface Props {
@@ -8,6 +8,7 @@ interface Props {
 }
 
 const { activeTopic = '', query = '' } = Astro.props;
+const topicCounts = loadArchiveSummary().topics;
 ---
 
 <aside class="topic-nav" aria-labelledby="topic-heading">
