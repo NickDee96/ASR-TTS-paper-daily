@@ -5,7 +5,7 @@ CMakeLists_modified.txt
 
 build/
 
-lib/
+/lib/
 bin/
 
 cmake_modules/
