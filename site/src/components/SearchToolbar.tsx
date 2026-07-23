@@ -34,7 +34,7 @@ export default function SearchToolbar({ action, initialQuery = '' }: SearchToolb
           aria-label="Search the paper archive"
           size="large"
         />
-        {topic && <input type="hidden" name="topic" value={topic} />}
+        <input type="hidden" name="topic" value={topic} />
         <Button appearance="primary" type="submit" icon={<ArrowRight aria-hidden="true" size={18} />}>
           Search
         </Button>

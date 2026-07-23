@@ -12,15 +12,24 @@ class VerifySiteBuildTests(unittest.TestCase):
         self.root = Path(self.temporary_directory.name)
         self.canonical = self.root / "canonical.json"
         self.dist = self.root / "dist"
-        self.canonical.write_text(
-            json.dumps({"2607.00001": {"id": "2607.00001"}}), encoding="utf-8"
-        )
+        self.canonical.write_text(json.dumps({
+            "2607.00001": {
+                "id": "2607.00001",
+                "arxiv_categories": ["cs.CL"],
+            },
+        }), encoding="utf-8")
         route = self.dist / "papers" / "2607.00001" / "index.html"
         route.parent.mkdir(parents=True)
         route.write_text(
             '<article data-pagefind-body><h1 data-pagefind-meta="title">Title</h1>'
             '<span data-pagefind-filter="topic">ASR</span>'
-            '<time data-pagefind-sort="date">2026-07-01</time></article>',
+            '<span data-pagefind-filter="category">cs.CL</span>'
+            '<span data-pagefind-filter="status">new</span>'
+            '<span data-pagefind-filter="code:missing"></span>'
+            '<span data-pagefind-filter="record_status:partial"></span>'
+            '<span data-pagefind-filter="year:2026"></span>'
+            '<time data-pagefind-sort="published">2026-07-01</time>'
+            '<time data-pagefind-sort="updated">2026-07-02</time></article>',
             encoding="utf-8",
         )
         pagefind = self.dist / "pagefind"
@@ -51,6 +60,17 @@ class VerifySiteBuildTests(unittest.TestCase):
         route = self.dist / "papers" / "2607.00001" / "index.html"
         route.write_text("<h1>Title</h1>", encoding="utf-8")
         with self.assertRaisesRegex(ValueError, "Pagefind attributes"):
+            verify_site_build(self.canonical, self.dist)
+
+    def test_rejects_missing_category_facet_for_categorized_paper(self):
+        route = self.dist / "papers" / "2607.00001" / "index.html"
+        route.write_text(
+            route.read_text(encoding="utf-8").replace(
+                '<span data-pagefind-filter="category">cs.CL</span>', ""
+            ),
+            encoding="utf-8",
+        )
+        with self.assertRaisesRegex(ValueError, "category facet"):
             verify_site_build(self.canonical, self.dist)
 
 

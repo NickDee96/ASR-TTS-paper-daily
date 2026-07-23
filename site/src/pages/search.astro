@@ -34,29 +34,4 @@ const archiveSummary = loadArchiveSummary();
     </div>
   </div>
 </BaseLayout>
-
-<script>
-  const parameters = new URLSearchParams(window.location.search);
-  const query = (parameters.get('q') ?? '').trim();
-  const topic = (parameters.get('topic') ?? '').trim();
-
-  for (const link of document.querySelectorAll<HTMLAnchorElement>('[data-topic-link]')) {
-    const linkTopic = link.dataset.topic ?? '';
-    const linkParameters = new URLSearchParams();
-    if (query) linkParameters.set('q', query);
-    linkParameters.set('topic', linkTopic);
-    link.search = linkParameters.toString();
-    const active = linkTopic === topic;
-    link.classList.toggle('active', active);
-    if (active) link.setAttribute('aria-current', 'true');
-    else link.removeAttribute('aria-current');
-  }
-
-  const clearLink = document.querySelector<HTMLAnchorElement>('.topic-clear');
-  if (clearLink) {
-    const clearParameters = new URLSearchParams();
-    if (query) clearParameters.set('q', query);
-    clearLink.search = clearParameters.toString();
-    clearLink.hidden = !topic;
-  }
-</script>
+<!-- Search results hydrate from the generated Pagefind index. -->

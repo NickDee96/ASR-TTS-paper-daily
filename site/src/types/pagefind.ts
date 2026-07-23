@@ -33,7 +33,7 @@ export interface PagefindModule {
   search(
     query: string | null,
     options?: {
-      filters?: Record<string, string>;
+      filters?: Record<string, unknown>;
       sort?: Record<string, 'asc' | 'desc'>;
     },
   ): Promise<PagefindResponse>;

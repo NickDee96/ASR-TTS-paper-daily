@@ -39,7 +39,12 @@ def verify_site_build(canonical_path: Path, dist_root: Path) -> dict[str, Any]:
         "data-pagefind-body",
         'data-pagefind-meta="title"',
         'data-pagefind-filter="topic"',
-        'data-pagefind-sort="date"',
+        'data-pagefind-filter="status"',
+        'data-pagefind-filter="code:',
+        'data-pagefind-filter="record_status:',
+        'data-pagefind-filter="year:',
+        'data-pagefind-sort="published"',
+        'data-pagefind-sort="updated"',
     )
     missing_attributes = [
         attribute for attribute in required_attributes if attribute not in sample_html
@@ -48,6 +53,17 @@ def verify_site_build(canonical_path: Path, dist_root: Path) -> dict[str, Any]:
         raise ValueError(
             f"Sample paper page is missing Pagefind attributes: {missing_attributes}"
         )
+    category_papers = [
+        paper_id
+        for paper_id, record in canonical.items()
+        if isinstance(record, dict) and record.get("arxiv_categories")
+    ]
+    if category_papers:
+        category_sample = (
+            dist_root / "papers" / category_papers[0] / "index.html"
+        ).read_text(encoding="utf-8")
+        if 'data-pagefind-filter="category"' not in category_sample:
+            raise ValueError("Categorized paper page is missing the category facet")
     return {
         "canonical_papers": len(canonical),
         "paper_routes": len(detail_pages),
