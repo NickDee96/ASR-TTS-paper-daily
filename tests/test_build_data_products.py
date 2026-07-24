@@ -234,6 +234,60 @@ class DataProductTests(unittest.TestCase):
             author = entries[0].find(f"{ATOM}author/{ATOM}name").text
             self.assertEqual(author, "Māia Example")
 
+    def test_status_without_run_manifest_reports_archive_health(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            build_data_products(self.records, root, UPDATED_AT, stale_after_hours=48)
+
+            status = json.loads((root / "status.json").read_text(encoding="utf-8"))
+            self.assertEqual(status["updated_at"], "2026-07-23T12:00:00Z")
+            self.assertEqual(status["stale_after_hours"], 48)
+            self.assertEqual(status["unique_papers"], 4)
+            self.assertIsNone(status["latest_run"])
+            self.assertIn("partial", status["record_status"])
+
+    def test_status_includes_sanitized_run_totals(self) -> None:
+        run_manifest = {
+            "manifest_version": 1,
+            "window_end": "2026-07-23T00:00:00Z",
+            "topics": {
+                "ASR": {"fetched": 10, "accepted": 7, "rejected": 3, "secret_path": "/tmp/x"},
+            },
+            "totals": {
+                "fetched": 10,
+                "accepted": 7,
+                "rejected": 3,
+                "rejected_by_reason": {"topic_filter": 3},
+                "inserted": 5,
+                "updated": 2,
+                "unchanged": 0,
+                "failed_enrichments": 1,
+            },
+        }
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            build_data_products(
+                self.records, root, UPDATED_AT, run_manifest=run_manifest
+            )
+
+            status = json.loads((root / "status.json").read_text(encoding="utf-8"))
+            run = status["latest_run"]
+            self.assertEqual(run["fetched"], 10)
+            self.assertEqual(run["accepted"], 7)
+            self.assertEqual(run["rejected"], 3)
+            self.assertEqual(run["inserted"], 5)
+            self.assertEqual(run["updated"], 2)
+            self.assertEqual(run["window_end"], "2026-07-23T00:00:00Z")
+            self.assertEqual(run["topics"]["ASR"], {"fetched": 10, "accepted": 7, "rejected": 3})
+            self.assertNotIn("secret_path", json.dumps(run))
+
+    def test_status_rejects_negative_run_counts(self) -> None:
+        run_manifest = {"totals": {"fetched": -1}}
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            with self.assertRaises(ValueError):
+                build_data_products(self.records, root, UPDATED_AT, run_manifest=run_manifest)
+
 
 if __name__ == "__main__":
     unittest.main()

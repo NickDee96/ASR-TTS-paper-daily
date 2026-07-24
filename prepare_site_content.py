@@ -75,6 +75,8 @@ def prepare_site_content(
     base_path: str = "/",
     feed_topics: list[str] | None = None,
     feed_limit: int = 50,
+    run_manifest_path: Path | None = None,
+    stale_after_hours: int = 36,
 ) -> dict[str, Any]:
     records, migration_report, backfill_ids = migrate_archive(
         _read_json_object(archive_path),
@@ -87,6 +89,10 @@ def prepare_site_content(
             f"unexpected={len(migration_report['unexpected_ids'])}, "
             f"schema_issues={len(migration_report['schema_issues'])}"
         )
+
+    run_manifest: dict[str, Any] | None = None
+    if run_manifest_path is not None and run_manifest_path.is_file():
+        run_manifest = _read_json_object(run_manifest_path)
 
     effective_updated_at = updated_at or _derive_updated_at(records)
     canonical_path = generated_root / "canonical.json"
@@ -103,6 +109,8 @@ def prepare_site_content(
         base_path=base_path,
         feed_topics=feed_topics,
         feed_limit=feed_limit,
+        run_manifest=run_manifest,
+        stale_after_hours=stale_after_hours,
     )
     summary = {
         "canonical_path": canonical_path.as_posix(),
@@ -142,6 +150,7 @@ def main() -> int:
     parser.add_argument("--updated-at")
     parser.add_argument("--latest-limit", type=int, default=100)
     parser.add_argument("--config", type=Path, default=REPOSITORY_ROOT / "config.yaml")
+    parser.add_argument("--run-manifest", type=Path)
     args = parser.parse_args()
 
     import yaml
@@ -163,6 +172,8 @@ def main() -> int:
         base_path=f"/{repo_name}" if repo_name else "/",
         feed_topics=list(config.get("keywords", {}).keys()) or None,
         feed_limit=int(product_config.get("feed_limit", 50)),
+        run_manifest_path=args.run_manifest,
+        stale_after_hours=int(product_config.get("stale_after_hours", 36)),
     )
     print(json.dumps(summary, ensure_ascii=False, sort_keys=True))
     return 0

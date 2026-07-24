@@ -112,6 +112,46 @@ def _partition_key(record: dict[str, Any]) -> str:
     return f"{published_date.year:04d}/{published_date.month:02d}"
 
 
+def _run_summary(run_manifest: dict[str, Any] | None) -> dict[str, Any] | None:
+    if not run_manifest:
+        return None
+    totals = run_manifest.get("totals", {})
+    if not isinstance(totals, dict):
+        raise ValueError("Run manifest totals must be an object")
+
+    def _count(name: str) -> int:
+        value = totals.get(name, 0)
+        if not isinstance(value, int) or isinstance(value, bool) or value < 0:
+            raise ValueError(f"Run manifest count {name!r} must be a non-negative integer")
+        return value
+
+    rejected_by_reason = totals.get("rejected_by_reason", {})
+    topic_counts = {
+        str(topic): {
+            "fetched": int(report.get("fetched", 0)),
+            "accepted": int(report.get("accepted", 0)),
+            "rejected": int(report.get("rejected", 0)),
+        }
+        for topic, report in sorted((run_manifest.get("topics") or {}).items())
+        if isinstance(report, dict)
+    }
+    return {
+        "window_end": run_manifest.get("window_end"),
+        "fetched": _count("fetched"),
+        "accepted": _count("accepted"),
+        "rejected": _count("rejected"),
+        "rejected_by_reason": {
+            str(reason): int(count)
+            for reason, count in sorted((rejected_by_reason or {}).items())
+        },
+        "inserted": _count("inserted"),
+        "updated": _count("updated"),
+        "unchanged": _count("unchanged"),
+        "failed_enrichments": _count("failed_enrichments"),
+        "topics": topic_counts,
+    }
+
+
 def _atomic_write_text(path: Path, text: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary_path: Path | None = None
@@ -235,11 +275,15 @@ def build_data_products(
     base_path: str = "/",
     feed_topics: list[str] | None = None,
     feed_limit: int = 50,
+    run_manifest: dict[str, Any] | None = None,
+    stale_after_hours: int = 36,
 ) -> dict[str, Any]:
     if latest_limit < 1:
         raise ValueError("latest_limit must be at least 1")
     if feed_limit < 1:
         raise ValueError("feed_limit must be at least 1")
+    if stale_after_hours < 1:
+        raise ValueError("stale_after_hours must be at least 1")
     validate_canonical_archive(records)
     updated_timestamp = _format_timestamp(updated_at)
     partitions: dict[str, list[dict[str, Any]]] = {}
@@ -307,6 +351,16 @@ def build_data_products(
     atomic_write_json(output_root / "facets.json", facets)
     atomic_write_json(output_root / "statistics.json", statistics)
     atomic_write_json(output_root / "site-card.json", site_card)
+
+    status = {
+        "schema_version": 1,
+        "updated_at": updated_timestamp,
+        "stale_after_hours": stale_after_hours,
+        "unique_papers": statistics["unique_papers"],
+        "record_status": facets["facets"]["record_status"],
+        "latest_run": _run_summary(run_manifest),
+    }
+    atomic_write_json(output_root / "status.json", status)
 
     record_values = list(records.values())
     home_url = _site_href(site_url, base_path)
@@ -393,6 +447,7 @@ def build_data_products(
             "facets": "facets.json",
             "statistics": "statistics.json",
             "site_card": "site-card.json",
+            "status": "status.json",
         },
         "feeds": feed_products,
     }
