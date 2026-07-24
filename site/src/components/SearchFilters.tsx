@@ -105,6 +105,7 @@ export default function SearchFilters({
 }: SearchFiltersProps) {
   const triggerReference = useRef<HTMLButtonElement>(null);
   const filterCount = activeFilterCount(state);
+  const publishedSortAvailable = (facets.publication_date?.known ?? 0) > 0;
   const activeFilters: ActiveFilter[] = [
     state.topic && { key: 'topic', label: `Topic: ${state.topic}` },
     state.category && { key: 'category', label: `Category: ${state.category}` },
@@ -142,7 +143,9 @@ export default function SearchFilters({
             onChange={(event) => onChange({ sort: event.target.value as SearchUrlState['sort'] })}
           >
             <option value="relevance">Relevance</option>
-            <option value="newest">Newest published</option>
+            <option value="newest" disabled={!publishedSortAvailable}>
+              {publishedSortAvailable ? 'Newest published' : 'Newest published (awaiting backfill)'}
+            </option>
             <option value="updated">Recently updated</option>
           </Select>
         </Field>

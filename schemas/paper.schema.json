@@ -250,11 +250,13 @@
       "properties": {
         "abstract": {
           "type": ["string", "null"],
-          "format": "uri"
+          "format": "uri",
+          "pattern": "^https?://"
         },
         "pdf": {
           "type": ["string", "null"],
-          "format": "uri"
+          "format": "uri",
+          "pattern": "^https?://"
         }
       }
     },
@@ -269,7 +271,8 @@
         },
         "url": {
           "type": ["string", "null"],
-          "format": "uri"
+          "format": "uri",
+          "pattern": "^https?://"
         },
         "source": {
           "type": ["string", "null"],

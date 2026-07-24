@@ -43,8 +43,10 @@ def verify_site_build(canonical_path: Path, dist_root: Path) -> dict[str, Any]:
         'data-pagefind-filter="code:',
         'data-pagefind-filter="record_status:',
         'data-pagefind-filter="year:',
-        'data-pagefind-sort="published"',
+        'data-pagefind-filter="publication_date:',
         'data-pagefind-sort="updated"',
+        'name="citation_title"',
+        'name="citation_arxiv_id"',
     )
     missing_attributes = [
         attribute for attribute in required_attributes if attribute not in sample_html
@@ -64,6 +66,17 @@ def verify_site_build(canonical_path: Path, dist_root: Path) -> dict[str, Any]:
         ).read_text(encoding="utf-8")
         if 'data-pagefind-filter="category"' not in category_sample:
             raise ValueError("Categorized paper page is missing the category facet")
+    published_papers = [
+        paper_id
+        for paper_id, record in canonical.items()
+        if isinstance(record, dict) and record.get("published")
+    ]
+    if published_papers:
+        published_sample = (
+            dist_root / "papers" / published_papers[0] / "index.html"
+        ).read_text(encoding="utf-8")
+        if 'data-pagefind-sort="published"' not in published_sample:
+            raise ValueError("Published paper page is missing the published sort")
     return {
         "canonical_papers": len(canonical),
         "paper_routes": len(detail_pages),

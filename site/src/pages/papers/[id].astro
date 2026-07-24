@@ -1,6 +1,7 @@
 ---
 import type { GetStaticPaths } from 'astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import DetailActions from '../../components/DetailActions';
 import { loadPapers } from '../../data/papers';
 import { withBase } from '../../lib/paths';
 import type { PaperRecord } from '../../types/paper';
@@ -10,34 +11,111 @@ export const getStaticPaths = (() => loadPapers().map((paper) => ({ params: { id
 const { paper } = Astro.props as { paper: PaperRecord };
 const sortDate = paper.updated === 'Unknown' ? paper.published : paper.updated;
 const year = sortDate === 'Unknown' ? 'Unknown' : sortDate.slice(0, 4);
+const citationPaper = {
+  id: paper.id,
+  title: paper.title,
+  authors: paper.authors,
+  published: paper.published,
+  primaryCategory: paper.primaryCategory,
+  paperUrl: paper.paperUrl,
+  doi: paper.doi,
+  journalReference: paper.journalReference,
+};
+const codeLabel = paper.code.status === 'verified'
+  ? 'Verified implementation'
+  : paper.code.status === 'candidate'
+    ? 'Unverified candidate repository'
+    : paper.code.status === 'unavailable'
+      ? 'Repository unavailable'
+      : 'No repository found';
 ---
 
-<BaseLayout title={`${paper.title} | ASR-TTS Paper Daily`} description={paper.abstract} active="papers">
+<BaseLayout title={`${paper.title} | ASR-TTS Paper Daily`} description={paper.abstract} active="papers" ogType="article">
+  <Fragment slot="head">
+    <meta name="citation_title" content={paper.title} />
+    {paper.authors.map((author) => <meta name="citation_author" content={author} />)}
+    {paper.published !== 'Unknown' && <meta name="citation_publication_date" content={paper.published} />}
+    <meta name="citation_arxiv_id" content={paper.id} />
+    <meta name="citation_pdf_url" content={paper.pdfUrl} />
+    {paper.doi && <meta name="citation_doi" content={paper.doi} />}
+    {paper.journalReference && <meta name="citation_journal_title" content={paper.journalReference} />}
+    {paper.published !== 'Unknown' && <meta property="article:published_time" content={paper.published} />}
+    {paper.updated !== 'Unknown' && <meta property="article:modified_time" content={paper.updated} />}
+  </Fragment>
   <div class="page-shell">
     <a class="back-link" href={withBase('/')}>&larr; Back to feed</a>
     <div class="detail-grid">
       <article data-pagefind-body>
         <p class="eyebrow"><span data-pagefind-meta="arxiv_id" data-pagefind-weight="12">{paper.id}</span> / <span data-pagefind-meta="status" data-pagefind-filter="status">{paper.status}</span></p>
         <h1 class="detail-title" data-pagefind-meta="title" data-pagefind-weight="10">{paper.title}</h1>
-        <p class="detail-authors">
-          {paper.authors.length > 0 ? paper.authors.map((author, index) => (
-            <><span data-pagefind-filter="author">{author}</span>{index < paper.authors.length - 1 ? ', ' : ''}</>
-          )) : 'Authors unavailable'}
-        </p>
-        <section class="detail-abstract" aria-labelledby="abstract-heading"><h2 id="abstract-heading">Abstract</h2><p>{paper.abstract}</p></section>
+        {paper.authorDetails.length > 0 ? (
+          <ul class="detail-authors" aria-label="Authors">
+            {paper.authorDetails.map((author) => (
+              <li>
+                <span data-pagefind-filter="author">{author.name}</span>
+                {author.affiliations.length > 0 && <small>{author.affiliations.join('; ')}</small>}
+              </li>
+            ))}
+          </ul>
+        ) : <p class="detail-authors unavailable">Authors unavailable</p>}
+        {!paper.titleAvailable && <p class="metadata-warning">The paper title is unavailable; this page uses the arXiv ID as a placeholder.</p>}
+        <section class:list={["detail-abstract", { partial: paper.recordStatus !== 'complete' }]} aria-labelledby="abstract-heading"><h2 id="abstract-heading">Abstract</h2><p>{paper.abstract}</p></section>
         <div class="detail-actions" data-pagefind-ignore><a href={paper.pdfUrl}>Open PDF</a><a href={paper.paperUrl}>View on arXiv</a>{paper.codeUrl && <a href={paper.codeUrl}>Verified code</a>}</div>
+        <DetailActions client:only="react" paper={citationPaper}>
+          <div slot="fallback" class="detail-tools-fallback">Citation and bookmark tools load in the browser.</div>
+        </DetailActions>
+        <section class="evidence-section" aria-labelledby="match-heading">
+          <h2 id="match-heading">Why this matched</h2>
+          {paper.topicEvidence.length === 0 ? (
+            <p class="evidence-pending">No curated topic assignment is available for this record.</p>
+          ) : paper.topicEvidence.some((evidence) => evidence.evidenceComplete) ? (
+            <div class="evidence-list">
+              {paper.topicEvidence.filter((evidence) => evidence.evidenceComplete).map((evidence) => (
+                <article>
+                  <h3>{evidence.topic}</h3>
+                  {evidence.score !== undefined && evidence.threshold !== undefined && <p class="evidence-score">Score {evidence.score} / threshold {evidence.threshold}</p>}
+                  <dl>
+                    {evidence.matchedTitleTerms.length > 0 && <div><dt>Title</dt><dd>{evidence.matchedTitleTerms.join(', ')}</dd></div>}
+                    {evidence.matchedAbstractTerms.length > 0 && <div><dt>Abstract</dt><dd>{evidence.matchedAbstractTerms.join(', ')}</dd></div>}
+                    {evidence.matchedRequiredTerms.length > 0 && <div><dt>Required</dt><dd>{evidence.matchedRequiredTerms.join(', ')}</dd></div>}
+                  </dl>
+                </article>
+              ))}
+            </div>
+          ) : (
+            <p class="evidence-pending">This topic assignment comes from the legacy curated archive. Exact term evidence will appear after metadata backfill and reclassification.</p>
+          )}
+        </section>
+        <section class:list={["code-evidence", `code-${paper.code.status}`]} aria-labelledby="code-heading">
+          <div><h2 id="code-heading">Code provenance</h2><strong>{codeLabel}</strong></div>
+          {paper.code.url && <p><a href={paper.code.url}>{paper.code.url}</a></p>}
+          {(paper.code.source || paper.code.confidence !== undefined || paper.code.checkedAt) && (
+            <dl>
+              {paper.code.source && <div><dt>Source</dt><dd>{paper.code.source}</dd></div>}
+              {paper.code.confidence !== undefined && <div><dt>Confidence</dt><dd>{Math.round(paper.code.confidence * 100)}%</dd></div>}
+              {paper.code.checkedAt && <div><dt>Checked</dt><dd>{paper.code.checkedAt}</dd></div>}
+            </dl>
+          )}
+          {paper.code.evidence.length > 0 && <ul>{paper.code.evidence.map((item) => <li>{item}</li>)}</ul>}
+        </section>
         <span class="pagefind-only" data-pagefind-filter={`code:${paper.codeStatus}`} aria-hidden="true"></span>
         <span class="pagefind-only" data-pagefind-filter={`record_status:${paper.recordStatus}`} aria-hidden="true"></span>
         <span class="pagefind-only" data-pagefind-filter={`year:${year}`} aria-hidden="true"></span>
+        <span class="pagefind-only" data-pagefind-filter={`publication_date:${paper.published === 'Unknown' ? 'unknown' : 'known'}`} aria-hidden="true"></span>
       </article>
       <aside class="detail-meta" aria-labelledby="metadata-heading">
         <h2 id="metadata-heading">Paper metadata</h2>
         <dl>
-          <div><dt>Published</dt><dd><time datetime={paper.published} data-pagefind-sort="published" data-pagefind-meta="published">{paper.published}</time></dd></div>
+          <div><dt>Submitted</dt><dd>{paper.published === 'Unknown' ? 'Unavailable' : <time datetime={paper.published} data-pagefind-sort="published" data-pagefind-meta="published">{paper.published}</time>}</dd></div>
           <div><dt>Updated</dt><dd><time datetime={sortDate} data-pagefind-sort="updated" data-pagefind-meta="updated">{paper.updated}</time></dd></div>
-          <div><dt>Topics</dt><dd>{paper.topics.map((topic, index) => <><span data-pagefind-filter="topic">{topic}</span>{index < paper.topics.length - 1 ? ', ' : ''}</>)}</dd></div>
+          <div><dt>Topics</dt><dd>{paper.topics.length > 0 ? paper.topics.map((topic, index) => <><span data-pagefind-filter="topic">{topic}</span>{index < paper.topics.length - 1 ? ', ' : ''}</>) : 'Unavailable'}</dd></div>
           <div><dt>Categories</dt><dd>{paper.categories.length > 0 ? paper.categories.map((category, index) => <><span data-pagefind-filter="category">{category}</span>{index < paper.categories.length - 1 ? ', ' : ''}</>) : 'Unavailable'}</dd></div>
-          <div><dt>Code</dt><dd>{paper.codeUrl ? 'Verified repository' : 'No verified repository'}</dd></div>
+          <div><dt>Code</dt><dd>{codeLabel}</dd></div>
+          <div><dt>Metadata</dt><dd>{paper.recordStatus}</dd></div>
+          {paper.doi && <div><dt>DOI</dt><dd>{paper.doi}</dd></div>}
+          {paper.journalReference && <div><dt>Journal</dt><dd>{paper.journalReference}</dd></div>}
+          <div><dt>Classifier</dt><dd>{paper.classifierVersion}</dd></div>
+          {paper.arxivVersion && <div><dt>arXiv version</dt><dd>{paper.arxivVersion}</dd></div>}
           <div><dt>Source</dt><dd>{paper.sourceOrigin}</dd></div>
         </dl>
       </aside>

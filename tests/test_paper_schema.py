@@ -84,6 +84,19 @@ class PaperSchemaTests(unittest.TestCase):
             any(issue["validator"] == "topic_membership" for issue in issues)
         )
 
+    def test_paper_and_code_links_require_http_schemes(self) -> None:
+        paper = copy.deepcopy(self.valid_paper)
+        paper["links"]["pdf"] = "javascript:alert(1)"
+        paper["code"]["url"] = "data:text/html,unsafe"
+
+        issues = validate_paper(paper, self.schema)
+
+        pattern_paths = {
+            issue["path"] for issue in issues if issue["validator"] == "pattern"
+        }
+        self.assertIn("$.code.url", pattern_paths)
+        self.assertIn("$.links.pdf", pattern_paths)
+
     def test_records_from_document_supports_shard_shapes(self) -> None:
         paper = self.valid_paper
 

@@ -5,11 +5,17 @@ import type { PaperPreview, PaperRecord, PaperStatus } from '../types/paper';
 
 interface CanonicalAuthor {
   name?: string;
+  affiliations?: string[];
 }
 
 interface CanonicalMatch {
+  topic?: string;
+  score?: number | null;
+  threshold?: number | null;
   matched_title_terms?: string[];
   matched_abstract_terms?: string[];
+  matched_all_terms?: string[];
+  evidence_complete?: boolean;
 }
 
 interface CanonicalPaper {
@@ -22,22 +28,30 @@ interface CanonicalPaper {
   topics?: string[];
   arxiv_categories?: string[];
   primary_category?: string | null;
-  record_status?: 'complete' | 'partial';
+  record_status?: 'complete' | 'partial' | 'unavailable';
   classification?: {
     classifier_version?: string;
     matches?: CanonicalMatch[];
   };
   source?: {
     origin?: string;
+    fetched_at?: string | null;
+    arxiv_version?: string | null;
   };
   code?: {
     status?: string;
     url?: string | null;
+    source?: string | null;
+    confidence?: number | null;
+    checked_at?: string | null;
+    evidence?: string[];
   };
   links?: {
     abstract?: string | null;
     pdf?: string | null;
   };
+  doi?: string | null;
+  journal_reference?: string | null;
 }
 
 const canonicalPath = resolve(process.cwd(), '.generated', 'canonical.json');
@@ -59,48 +73,109 @@ function statusFor(record: CanonicalPaper): PaperStatus {
   return 'new';
 }
 
+function safeHttpUrl(value: string | null | undefined): string | undefined {
+  if (!value) return undefined;
+  try {
+    const parsed = new URL(value);
+    return parsed.protocol === 'https:' || parsed.protocol === 'http:'
+      ? parsed.toString()
+      : undefined;
+  } catch {
+    return undefined;
+  }
+}
+
 function toPaperRecord(record: CanonicalPaper): PaperRecord {
-  const authors = (record.authors ?? [])
-    .map((author) => author.name?.trim())
-    .filter((name): name is string => Boolean(name));
-  const matchedTerms = (record.classification?.matches ?? [])
+  const authorDetails = (record.authors ?? [])
+    .map((author) => ({
+      name: author.name?.trim() ?? '',
+      affiliations: (author.affiliations ?? []).filter(Boolean),
+    }))
+    .filter((author) => Boolean(author.name));
+  const authors = authorDetails.map((author) => author.name);
+  const topicEvidence = (record.classification?.matches ?? []).map((match) => ({
+    topic: match.topic ?? 'Unknown topic',
+    score: match.score ?? undefined,
+    threshold: match.threshold ?? undefined,
+    matchedTitleTerms: match.matched_title_terms ?? [],
+    matchedAbstractTerms: match.matched_abstract_terms ?? [],
+    matchedRequiredTerms: match.matched_all_terms ?? [],
+    evidenceComplete: match.evidence_complete ?? false,
+  }));
+  const matchedTerms = topicEvidence
     .flatMap((match) => [
-      ...(match.matched_title_terms ?? []),
-      ...(match.matched_abstract_terms ?? []),
+      ...match.matchedTitleTerms,
+      ...match.matchedAbstractTerms,
+      ...match.matchedRequiredTerms,
     ])
     .filter((term, index, terms) => term && terms.indexOf(term) === index);
-  const paperUrl = record.links?.abstract || `https://arxiv.org/abs/${record.id}`;
+  const paperUrl = safeHttpUrl(record.links?.abstract) || `https://arxiv.org/abs/${record.id}`;
+  const codeUrl = safeHttpUrl(record.code?.url);
+  const codeStatus = record.code?.status === 'verified'
+    || record.code?.status === 'candidate'
+    || record.code?.status === 'unavailable'
+    ? record.code.status
+    : 'missing';
   return {
     id: record.id,
     title: record.title || `arXiv ${record.id}`,
+    titleAvailable: Boolean(record.title),
     abstract: record.abstract || 'Abstract unavailable while historical metadata is backfilled.',
     authors,
-    published: record.published || record.updated || 'Unknown',
+    published: record.published || 'Unknown',
     updated: record.updated || record.published || 'Unknown',
     topics: record.topics ?? [],
     categories: record.arxiv_categories ?? [],
     status: statusFor(record),
-    codeUrl: record.code?.status === 'verified' && record.code.url ? record.code.url : undefined,
+    codeUrl: record.code?.status === 'verified' ? codeUrl : undefined,
     paperUrl,
-    pdfUrl: record.links?.pdf || paperUrl.replace('/abs/', '/pdf/'),
+    pdfUrl: safeHttpUrl(record.links?.pdf) || paperUrl.replace('/abs/', '/pdf/'),
     recordStatus: record.record_status ?? 'partial',
+    authorDetails,
     primaryCategory: record.primary_category ?? undefined,
     classifierVersion: record.classification?.classifier_version ?? 'unknown',
     matchedTerms,
+    topicEvidence,
     sourceOrigin: record.source?.origin ?? 'unknown',
-    codeStatus: record.code?.status ?? 'missing',
+    sourceFetchedAt: record.source?.fetched_at ?? undefined,
+    arxivVersion: record.source?.arxiv_version ?? undefined,
+    codeStatus,
+    code: {
+      status: codeStatus,
+      url: codeUrl,
+      source: record.code?.source ?? undefined,
+      confidence: record.code?.confidence ?? undefined,
+      checkedAt: record.code?.checked_at ?? undefined,
+      evidence: record.code?.evidence ?? [],
+    },
+    doi: record.doi ?? undefined,
+    journalReference: record.journal_reference ?? undefined,
   };
 }
 
 function previewRecords(): PaperRecord[] {
   return previewPapers.map((paper: PaperPreview) => ({
     ...paper,
+    titleAvailable: true,
     recordStatus: 'complete',
+    authorDetails: paper.authors.map((name) => ({ name, affiliations: [] })),
     primaryCategory: paper.categories[0],
     classifierVersion: 'preview',
     matchedTerms: [],
+    topicEvidence: paper.topics.map((topic) => ({
+      topic,
+      matchedTitleTerms: [],
+      matchedAbstractTerms: [],
+      matchedRequiredTerms: [],
+      evidenceComplete: false,
+    })),
     sourceOrigin: 'preview',
     codeStatus: paper.codeUrl ? 'verified' : 'missing',
+    code: {
+      status: paper.codeUrl ? 'verified' : 'missing',
+      url: paper.codeUrl,
+      evidence: paper.codeUrl ? ['Preview record code link'] : [],
+    },
   }));
 }
 

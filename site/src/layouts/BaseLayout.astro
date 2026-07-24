@@ -7,9 +7,10 @@ interface Props {
   title: string;
   description: string;
   active?: 'feed' | 'search' | 'papers';
+  ogType?: 'website' | 'article';
 }
 
-const { title, description, active = 'feed' } = Astro.props;
+const { title, description, active = 'feed', ogType = 'website' } = Astro.props;
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : Astro.url;
 ---
 
@@ -23,6 +24,12 @@ const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : Astro.u
     <meta name="theme-color" content="#173f3a" />
     <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
     <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content={ogType} />
+    <meta name="twitter:card" content="summary" />
+    <slot name="head" />
     <title>{title}</title>
   </head>
   <body>

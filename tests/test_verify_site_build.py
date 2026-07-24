@@ -16,11 +16,14 @@ class VerifySiteBuildTests(unittest.TestCase):
             "2607.00001": {
                 "id": "2607.00001",
                 "arxiv_categories": ["cs.CL"],
+                "published": "2026-07-01",
             },
         }), encoding="utf-8")
         route = self.dist / "papers" / "2607.00001" / "index.html"
         route.parent.mkdir(parents=True)
         route.write_text(
+            '<meta name="citation_title" content="Title">'
+            '<meta name="citation_arxiv_id" content="2607.00001">'
             '<article data-pagefind-body><h1 data-pagefind-meta="title">Title</h1>'
             '<span data-pagefind-filter="topic">ASR</span>'
             '<span data-pagefind-filter="category">cs.CL</span>'
@@ -28,6 +31,7 @@ class VerifySiteBuildTests(unittest.TestCase):
             '<span data-pagefind-filter="code:missing"></span>'
             '<span data-pagefind-filter="record_status:partial"></span>'
             '<span data-pagefind-filter="year:2026"></span>'
+            '<span data-pagefind-filter="publication_date:known"></span>'
             '<time data-pagefind-sort="published">2026-07-01</time>'
             '<time data-pagefind-sort="updated">2026-07-02</time></article>',
             encoding="utf-8",
@@ -71,6 +75,17 @@ class VerifySiteBuildTests(unittest.TestCase):
             encoding="utf-8",
         )
         with self.assertRaisesRegex(ValueError, "category facet"):
+            verify_site_build(self.canonical, self.dist)
+
+    def test_rejects_missing_published_sort_for_published_paper(self):
+        route = self.dist / "papers" / "2607.00001" / "index.html"
+        route.write_text(
+            route.read_text(encoding="utf-8").replace(
+                '<time data-pagefind-sort="published">2026-07-01</time>', ""
+            ),
+            encoding="utf-8",
+        )
+        with self.assertRaisesRegex(ValueError, "published sort"):
             verify_site_build(self.canonical, self.dist)
 
 
