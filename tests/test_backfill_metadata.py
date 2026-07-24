@@ -97,6 +97,7 @@ class BackfillMetadataTests(unittest.TestCase):
         for record in records.values():
             self.assertEqual(record["record_status"], "complete")
             self.assertEqual(record["availability"]["status"], "available")
+            self.assertIsNone(record["source"]["first_seen_at"])
             self.assertEqual(validate_paper(record, self.schema), [])
 
     def test_interrupted_run_resumes_after_last_committed_batch(self) -> None:
@@ -192,6 +193,10 @@ class BackfillMetadataTests(unittest.TestCase):
         self.assertEqual(merged["title"], record["title"])
         self.assertEqual(merged["updated"], record["updated"])
         self.assertEqual(merged["source"]["arxiv_version"], "v2")
+        self.assertEqual(
+            merged["source"]["first_seen_at"],
+            record["source"]["first_seen_at"],
+        )
         self.assertEqual(merged["doi"], "10.0000/example")
 
     def test_missing_result_is_recorded_as_unavailable(self) -> None:

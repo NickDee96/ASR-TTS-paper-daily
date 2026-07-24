@@ -13,7 +13,7 @@ import { useState } from 'react';
 import BookmarkToggle from './BookmarkToggle';
 import { bibtexCitation, plainCitation } from '../lib/citation';
 import type { CitationPaper } from '../lib/citation';
-import type { BookmarkSnapshot } from '../lib/reader-state';
+import type { BookmarkSnapshot } from '../lib/reader-state-v2';
 
 interface DetailActionsProps {
   paper: CitationPaper;

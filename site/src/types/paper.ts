@@ -49,6 +49,7 @@ export interface PaperRecord extends PaperPreview {
   topicEvidence: TopicMatchEvidence[];
   sourceOrigin: string;
   sourceFetchedAt?: string;
+  firstSeenAt?: string;
   arxivVersion?: string;
   codeStatus: string;
   code: PaperCodeDetail;

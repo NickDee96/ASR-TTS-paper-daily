@@ -1,0 +1,31 @@
+---
+import '../styles/global.css';
+import { withBase } from '../lib/paths';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#173f3a" />
+    <meta name="robots" content="noindex" />
+    <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
+    <title>Offline | ASR-TTS Paper Daily</title>
+  </head>
+  <body>
+    <main id="main-content">
+      <div class="page-shell">
+        <section class="not-found" aria-labelledby="offline-title">
+          <p class="eyebrow">Connection unavailable</p>
+          <h1 id="offline-title">The archive is offline.</h1>
+          <p>Saved paper snapshots are still available in your local library.</p>
+          <div class="offline-actions">
+            <a href={withBase('/bookmarks/')}>Open bookmarks</a>
+            <a href={withBase('/')}>Retry the feed</a>
+          </div>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

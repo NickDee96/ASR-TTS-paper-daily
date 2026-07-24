@@ -65,6 +65,7 @@ class PaperSchemaTests(unittest.TestCase):
             "source": {
                 "origin": "legacy",
                 "fetched_at": None,
+                "first_seen_at": None,
                 "arxiv_version": None,
             },
             "legacy": {

@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BookmarksView from '../components/BookmarksView';
+import { withBase } from '../lib/paths';
+---
+
+<BaseLayout
+  title="Bookmarks | ASR-TTS Paper Daily"
+  description="A private, device-local library of saved speech and language research papers."
+  active="bookmarks"
+>
+  <div class="page-shell">
+    <section class="workspace-heading" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow">Local library</p>
+        <h1 id="page-title">Bookmarked papers</h1>
+        <p>Saved snapshots stay in this browser and remain useful when the archive is offline.</p>
+      </div>
+      <dl class="archive-metrics">
+        <div><dt>Storage</dt><dd>Local</dd></div>
+        <div><dt>Format</dt><dd>JSON</dd></div>
+      </dl>
+    </section>
+    <BookmarksView client:only="react" baseUrl={withBase('/')}>
+      <div slot="fallback" class="search-state" role="status">Loading your local bookmarks...</div>
+    </BookmarksView>
+  </div>
+</BaseLayout>

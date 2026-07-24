@@ -258,6 +258,10 @@ class PaperCollectorTests(unittest.TestCase):
                 batch["papers"][shared.id]["matched_topics"],
                 ["ASR", "Data Augmentation"],
             )
+            self.assertEqual(
+                batch["papers"][shared.id]["first_seen_at"],
+                "2026-07-23T12:00:00Z",
+            )
             self.assertEqual(set(checkpoint["topics"]), {"ASR", "Data Augmentation"})
             self.assertEqual(
                 json.loads(checkpoint_path.read_text(encoding="utf-8")),

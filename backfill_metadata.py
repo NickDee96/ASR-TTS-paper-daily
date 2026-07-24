@@ -191,6 +191,7 @@ def merge_metadata(
             links[field] = value
 
     existing_source = updated_record.get("source", {})
+    first_seen_at = existing_source.get("first_seen_at")
     existing_version = existing_source.get("arxiv_version")
     existing_version_number = int(existing_version[1:]) if isinstance(existing_version, str) else 0
     incoming_version_number = _candidate_version(candidate)
@@ -202,8 +203,11 @@ def merge_metadata(
         updated_record["source"] = {
             "origin": "arxiv",
             "fetched_at": _format_timestamp(checked_at),
+            "first_seen_at": first_seen_at,
             "arxiv_version": candidate.arxiv_version,
         }
+    elif "first_seen_at" not in existing_source:
+        updated_record["source"] = {**existing_source, "first_seen_at": None}
 
     withdrawn = _is_withdrawn(candidate)
     availability_status = "withdrawn" if withdrawn else "available"

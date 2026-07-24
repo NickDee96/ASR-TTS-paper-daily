@@ -346,13 +346,17 @@
     "source": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["origin", "fetched_at", "arxiv_version"],
+      "required": ["origin", "fetched_at", "first_seen_at", "arxiv_version"],
       "properties": {
         "origin": {
           "type": "string",
           "enum": ["arxiv", "legacy"]
         },
         "fetched_at": {
+          "type": ["string", "null"],
+          "format": "date-time"
+        },
+        "first_seen_at": {
           "type": ["string", "null"],
           "format": "date-time"
         },

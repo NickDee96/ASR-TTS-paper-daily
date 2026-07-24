@@ -27,8 +27,13 @@ import type {
   PagefindResult,
   PagefindResultData,
 } from '../types/pagefind';
-import { beginReaderVisit, isNewSinceVisit } from '../lib/reader-state';
-import type { BookmarkSnapshot } from '../lib/reader-state';
+import {
+  beginReaderVisit,
+  hasSeenPaper,
+  isNewSinceVisit,
+  READER_STATE_EVENT,
+} from '../lib/reader-state-v2';
+import type { BookmarkSnapshot } from '../lib/reader-state-v2';
 
 interface PagefindResultsProps {
   baseUrl: string;
@@ -84,6 +89,7 @@ function ResultRow({ result, visitBaseline }: {
   result: PagefindResultData;
   visitBaseline: string | null;
 }) {
+  const [seen, setSeen] = useState(false);
   const authors = result.filters.author ?? [];
   const topics = result.filters.topic ?? [];
   const categories = result.filters.category ?? [];
@@ -97,13 +103,26 @@ function ResultRow({ result, visitBaseline }: {
     authors,
     published: result.meta.published || 'Unknown',
     updated: result.meta.updated || 'Unknown',
+    firstSeenAt: result.meta.first_seen_at || null,
     topics,
     categories,
     codeStatus,
     url: result.url,
     savedAt: new Date(0).toISOString(),
   };
-  const newSinceVisit = isNewSinceVisit(bookmark.updated, visitBaseline);
+  const newSinceVisit = isNewSinceVisit(bookmark.firstSeenAt, visitBaseline);
+  useEffect(() => {
+    function sync() {
+      setSeen(hasSeenPaper(localStorage, arxivId));
+    }
+    sync();
+    window.addEventListener(READER_STATE_EVENT, sync);
+    window.addEventListener('storage', sync);
+    return () => {
+      window.removeEventListener(READER_STATE_EVENT, sync);
+      window.removeEventListener('storage', sync);
+    };
+  }, [arxivId]);
   return (
     <article className="search-result-row">
       <div className="search-result-date">
@@ -116,6 +135,7 @@ function ResultRow({ result, visitBaseline }: {
           {categories.length > 0 && <span>{categories.join(' / ')}</span>}
           {codeStatus === 'verified' && <span className="code-verified">verified code</span>}
           {newSinceVisit && <span className="new-since-visit">new since last visit</span>}
+          {seen && <span className="viewed-paper">viewed</span>}
         </div>
         <h2><a href={result.url}>{result.meta.title || arxivId}</a></h2>
         <p className="search-excerpt" dangerouslySetInnerHTML={{ __html: result.excerpt }} />

@@ -372,6 +372,7 @@ def run_collection(
     for paper_id, candidate in sorted(batch_candidates.items()):
         batch_papers[paper_id] = candidate.to_json()
         batch_papers[paper_id]["matched_topics"] = sorted(batch_topics[paper_id])
+        batch_papers[paper_id]["first_seen_at"] = _format_timestamp(window_end)
 
     batch = {
         "batch_version": 1,

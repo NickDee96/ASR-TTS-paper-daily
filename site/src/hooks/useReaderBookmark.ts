@@ -5,11 +5,16 @@ import {
   ReaderStateError,
   refreshBookmarkIfPresent,
   toggleBookmark,
-} from '../lib/reader-state';
-import type { BookmarkSnapshot } from '../lib/reader-state';
+} from '../lib/reader-state-v2';
+import type { BookmarkSnapshot } from '../lib/reader-state-v2';
 
 function notifyReaderState() {
   window.dispatchEvent(new CustomEvent(READER_STATE_EVENT));
+}
+
+export interface BookmarkToggleOutcome {
+  bookmarked: boolean | null;
+  message: string;
 }
 
 export function useReaderBookmark(snapshot: BookmarkSnapshot) {
@@ -36,7 +41,7 @@ export function useReaderBookmark(snapshot: BookmarkSnapshot) {
     };
   }, [snapshot.id, snapshot.title, snapshot.updated, snapshot.url]);
 
-  function toggle(): string {
+  function toggle(): BookmarkToggleOutcome {
     try {
       const result = toggleBookmark(localStorage, {
         ...snapshot,
@@ -44,12 +49,19 @@ export function useReaderBookmark(snapshot: BookmarkSnapshot) {
       });
       setBookmarked(result.bookmarked);
       notifyReaderState();
-      return result.bookmarked
-        ? 'Paper bookmarked on this device.'
-        : 'Bookmark removed.';
+      return {
+        bookmarked: result.bookmarked,
+        message: result.bookmarked
+          ? 'Paper bookmarked on this device.'
+          : 'Bookmark removed.',
+      };
     } catch (error) {
-      if (error instanceof ReaderStateError) return error.message;
-      return 'Bookmark could not be saved in this browser.';
+      return {
+        bookmarked: null,
+        message: error instanceof ReaderStateError
+          ? error.message
+          : 'Bookmark could not be saved in this browser.',
+      };
     }
   }
 

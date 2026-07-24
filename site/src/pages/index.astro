@@ -38,7 +38,7 @@ const recentPapers = allPapers.slice(0, 25);
 		<div class="results-layout">
 			<TopicNav />
 			<section aria-labelledby="latest-heading">
-				<VisitSummary client:only="react" updates={recentPapers.map((paper) => paper.updated)} />
+				<VisitSummary client:only="react" updates={recentPapers.map((paper) => paper.firstSeenAt ?? '')} />
 				<div class="results-heading">
 					<h2 id="latest-heading">Latest papers</h2>
 					  <p>{recentPapers.length} updates</p>

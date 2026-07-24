@@ -58,6 +58,7 @@
   "source": {
     "origin": "arxiv",
     "fetched_at": "2026-07-03T12:00:00Z",
+    "first_seen_at": "2026-07-03T12:00:00Z",
     "arxiv_version": "v2"
   },
   "comments": null,

@@ -28,6 +28,7 @@
   "source": {
     "origin": "arxiv",
     "fetched_at": "not-a-date",
+    "first_seen_at": "not-a-date",
     "arxiv_version": "2"
   }
 }

@@ -2,6 +2,7 @@
 import type { GetStaticPaths } from 'astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import DetailActions from '../../components/DetailActions';
+import PaperSeenTracker from '../../components/PaperSeenTracker';
 import { loadPapers } from '../../data/papers';
 import { withBase } from '../../lib/paths';
 import type { PaperRecord } from '../../types/paper';
@@ -28,6 +29,7 @@ const bookmarkSnapshot = {
   authors: paper.authors,
   published: paper.published,
   updated: paper.updated,
+  firstSeenAt: paper.firstSeenAt ?? null,
   topics: paper.topics,
   categories: paper.categories,
   codeStatus: paper.codeStatus,
@@ -56,6 +58,7 @@ const codeLabel = paper.code.status === 'verified'
     {paper.updated !== 'Unknown' && <meta property="article:modified_time" content={paper.updated} />}
   </Fragment>
   <div class="page-shell">
+    <PaperSeenTracker client:only="react" paperId={paper.id} />
     <a class="back-link" href={withBase('/')}>&larr; Back to feed</a>
     <div class="detail-grid">
       <article data-pagefind-body>
@@ -72,6 +75,7 @@ const codeLabel = paper.code.status === 'verified'
           </ul>
         ) : <p class="detail-authors unavailable">Authors unavailable</p>}
         {!paper.titleAvailable && <p class="metadata-warning">The paper title is unavailable; this page uses the arXiv ID as a placeholder.</p>}
+        {paper.firstSeenAt && <span class="pagefind-only" data-pagefind-meta="first_seen_at">{paper.firstSeenAt}</span>}
         <section class:list={["detail-abstract", { partial: paper.recordStatus !== 'complete' }]} aria-labelledby="abstract-heading"><h2 id="abstract-heading">Abstract</h2><p data-pagefind-meta="abstract">{paper.abstract}</p></section>
         <div class="detail-actions" data-pagefind-ignore><a href={paper.pdfUrl}>Open PDF</a><a href={paper.paperUrl}>View on arXiv</a>{paper.codeUrl && <a href={paper.codeUrl}>Verified code</a>}</div>
         <DetailActions client:only="react" paper={citationPaper} bookmark={bookmarkSnapshot}>

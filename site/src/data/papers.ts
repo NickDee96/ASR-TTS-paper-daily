@@ -36,6 +36,7 @@ interface CanonicalPaper {
   source?: {
     origin?: string;
     fetched_at?: string | null;
+    first_seen_at?: string | null;
     arxiv_version?: string | null;
   };
   code?: {
@@ -138,6 +139,7 @@ function toPaperRecord(record: CanonicalPaper): PaperRecord {
     topicEvidence,
     sourceOrigin: record.source?.origin ?? 'unknown',
     sourceFetchedAt: record.source?.fetched_at ?? undefined,
+    firstSeenAt: record.source?.first_seen_at ?? undefined,
     arxivVersion: record.source?.arxiv_version ?? undefined,
     codeStatus,
     code: {
@@ -170,6 +172,7 @@ function previewRecords(): PaperRecord[] {
       evidenceComplete: false,
     })),
     sourceOrigin: 'preview',
+    firstSeenAt: undefined,
     codeStatus: paper.codeUrl ? 'verified' : 'missing',
     code: {
       status: paper.codeUrl ? 'verified' : 'missing',

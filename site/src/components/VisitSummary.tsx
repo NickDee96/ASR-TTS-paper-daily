@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { beginReaderVisit, isNewSinceVisit } from '../lib/reader-state';
+import { beginReaderVisit, isNewSinceVisit } from '../lib/reader-state-v2';
 
 interface VisitSummaryProps {
   updates: string[];
