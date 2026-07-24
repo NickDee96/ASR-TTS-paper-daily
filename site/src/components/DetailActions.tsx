@@ -5,21 +5,20 @@ import {
   webLightTheme,
 } from '@fluentui/react-components';
 import {
-  Bookmark,
-  BookmarkCheck,
   Copy,
   Download,
   Share2,
 } from 'lucide-react';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
+import BookmarkToggle from './BookmarkToggle';
 import { bibtexCitation, plainCitation } from '../lib/citation';
 import type { CitationPaper } from '../lib/citation';
+import type { BookmarkSnapshot } from '../lib/reader-state';
 
 interface DetailActionsProps {
   paper: CitationPaper;
+  bookmark: BookmarkSnapshot;
 }
-
-const BOOKMARK_KEY = 'asr-tts-bookmarks:v1';
 const researchTheme = {
   ...webLightTheme,
   colorBrandBackground: '#176b5f',
@@ -31,17 +30,6 @@ const researchTheme = {
   borderRadiusLarge: '6px',
 };
 
-function readBookmarks(): string[] {
-  try {
-    const value = JSON.parse(localStorage.getItem(BOOKMARK_KEY) ?? '[]');
-    return Array.isArray(value)
-      ? value.filter((id): id is string => typeof id === 'string').slice(0, 5_000)
-      : [];
-  } catch {
-    return [];
-  }
-}
-
 async function copyText(value: string): Promise<void> {
   if (!navigator.clipboard?.writeText) {
     throw new Error('Clipboard access is unavailable in this browser.');
@@ -49,13 +37,8 @@ async function copyText(value: string): Promise<void> {
   await navigator.clipboard.writeText(value);
 }
 
-export default function DetailActions({ paper }: DetailActionsProps) {
-  const [bookmarked, setBookmarked] = useState(false);
+export default function DetailActions({ paper, bookmark }: DetailActionsProps) {
   const [status, setStatus] = useState('');
-
-  useEffect(() => {
-    setBookmarked(readBookmarks().includes(paper.id));
-  }, [paper.id]);
 
   async function copyCitation() {
     try {
@@ -77,26 +60,6 @@ export default function DetailActions({ paper }: DetailActionsProps) {
     link.remove();
     window.setTimeout(() => URL.revokeObjectURL(url), 0);
     setStatus('BibTeX download started.');
-  }
-
-  function toggleBookmark() {
-    try {
-      const bookmarks = new Set(readBookmarks());
-      if (bookmarks.has(paper.id)) bookmarks.delete(paper.id);
-      else {
-        if (bookmarks.size >= 5_000) {
-          setStatus('Bookmark limit reached. Export or remove bookmarks before adding more.');
-          return;
-        }
-        bookmarks.add(paper.id);
-      }
-      localStorage.setItem(BOOKMARK_KEY, JSON.stringify([...bookmarks]));
-      const selected = bookmarks.has(paper.id);
-      setBookmarked(selected);
-      setStatus(selected ? 'Paper bookmarked on this device.' : 'Bookmark removed.');
-    } catch {
-      setStatus('Bookmark could not be saved in this browser.');
-    }
   }
 
   async function sharePaper() {
@@ -128,16 +91,7 @@ export default function DetailActions({ paper }: DetailActionsProps) {
         <Button icon={<Download aria-hidden="true" size={17} />} onClick={downloadBibtex}>
           BibTeX
         </Button>
-        <Button
-          appearance={bookmarked ? 'primary' : 'secondary'}
-          icon={bookmarked
-            ? <BookmarkCheck aria-hidden="true" size={17} />
-            : <Bookmark aria-hidden="true" size={17} />}
-          aria-pressed={bookmarked}
-          onClick={toggleBookmark}
-        >
-          {bookmarked ? 'Bookmarked' : 'Bookmark'}
-        </Button>
+        <BookmarkToggle snapshot={bookmark} />
         <Button icon={<Share2 aria-hidden="true" size={17} />} onClick={() => void sharePaper()}>
           Share
         </Button>

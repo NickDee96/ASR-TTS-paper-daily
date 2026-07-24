@@ -10,6 +10,7 @@ import {
 import { ArrowDown, ArrowUpRight, RotateCw } from 'lucide-react';
 import { startTransition, useEffect, useRef, useState } from 'react';
 import SearchFilters from './SearchFilters';
+import BookmarkToggle from './BookmarkToggle';
 import {
   DEFAULT_SEARCH_STATE,
   criteriaKey,
@@ -26,6 +27,8 @@ import type {
   PagefindResult,
   PagefindResultData,
 } from '../types/pagefind';
+import { beginReaderVisit, isNewSinceVisit } from '../lib/reader-state';
+import type { BookmarkSnapshot } from '../lib/reader-state';
 
 interface PagefindResultsProps {
   baseUrl: string;
@@ -77,13 +80,30 @@ function stateFromLocation(): SearchUrlState {
   return parsed;
 }
 
-function ResultRow({ result }: { result: PagefindResultData }) {
+function ResultRow({ result, visitBaseline }: {
+  result: PagefindResultData;
+  visitBaseline: string | null;
+}) {
   const authors = result.filters.author ?? [];
   const topics = result.filters.topic ?? [];
   const categories = result.filters.category ?? [];
   const codeStatus = first(result.filters.code, result.meta.code_status || 'missing');
   const status = result.meta.status || 'new';
   const arxivId = result.meta.arxiv_id || result.url.split('/').filter(Boolean).at(-1) || '';
+  const bookmark: BookmarkSnapshot = {
+    id: arxivId,
+    title: result.meta.title || arxivId,
+    abstract: result.meta.abstract || result.plain_excerpt,
+    authors,
+    published: result.meta.published || 'Unknown',
+    updated: result.meta.updated || 'Unknown',
+    topics,
+    categories,
+    codeStatus,
+    url: result.url,
+    savedAt: new Date(0).toISOString(),
+  };
+  const newSinceVisit = isNewSinceVisit(bookmark.updated, visitBaseline);
   return (
     <article className="search-result-row">
       <div className="search-result-date">
@@ -95,6 +115,7 @@ function ResultRow({ result }: { result: PagefindResultData }) {
           <span>{arxivId}</span>
           {categories.length > 0 && <span>{categories.join(' / ')}</span>}
           {codeStatus === 'verified' && <span className="code-verified">verified code</span>}
+          {newSinceVisit && <span className="new-since-visit">new since last visit</span>}
         </div>
         <h2><a href={result.url}>{result.meta.title || arxivId}</a></h2>
         <p className="search-excerpt" dangerouslySetInnerHTML={{ __html: result.excerpt }} />
@@ -103,9 +124,12 @@ function ResultRow({ result }: { result: PagefindResultData }) {
           <span className="topic-list">{topics.map((topic) => <span key={topic}>{topic}</span>)}</span>
         </div>
       </div>
-      <a className="row-action" href={result.url} aria-label={`Open ${result.meta.title || arxivId}`}>
-        <ArrowUpRight aria-hidden="true" size={18} />
-      </a>
+      <div className="row-actions">
+        <BookmarkToggle snapshot={bookmark} compact />
+        <a className="row-action" href={result.url} aria-label={`Open ${result.meta.title || arxivId}`}>
+          <ArrowUpRight aria-hidden="true" size={18} />
+        </a>
+      </div>
     </article>
   );
 }
@@ -125,6 +149,14 @@ export default function PagefindResults({
   const [attempt, setAttempt] = useState(0);
   const [loadingMore, setLoadingMore] = useState(false);
   const [drawerOpen, setDrawerOpen] = useState(false);
+  const [visitBaseline] = useState<string | null>(() => {
+    if (typeof window === 'undefined') return null;
+    try {
+      return beginReaderVisit(localStorage, sessionStorage);
+    } catch {
+      return null;
+    }
+  });
   const [urlState, setUrlState] = useState<SearchUrlState>(() => (
     typeof window === 'undefined' ? DEFAULT_SEARCH_STATE : stateFromLocation()
   ));
@@ -428,7 +460,9 @@ export default function PagefindResults({
       {state.status === 'ready' && (
         <>
           <div className="search-result-list">
-            {state.items.map((result) => <ResultRow key={result.url} result={result} />)}
+            {state.items.map((result) => (
+              <ResultRow key={result.url} result={result} visitBaseline={visitBaseline} />
+            ))}
           </div>
           {state.items.length < state.total && (
             <div className="load-more">

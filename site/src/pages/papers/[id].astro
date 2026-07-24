@@ -21,6 +21,19 @@ const citationPaper = {
   doi: paper.doi,
   journalReference: paper.journalReference,
 };
+const bookmarkSnapshot = {
+  id: paper.id,
+  title: paper.title,
+  abstract: paper.abstract,
+  authors: paper.authors,
+  published: paper.published,
+  updated: paper.updated,
+  topics: paper.topics,
+  categories: paper.categories,
+  codeStatus: paper.codeStatus,
+  url: withBase(`/papers/${paper.id}/`),
+  savedAt: new Date(0).toISOString(),
+};
 const codeLabel = paper.code.status === 'verified'
   ? 'Verified implementation'
   : paper.code.status === 'candidate'
@@ -59,9 +72,9 @@ const codeLabel = paper.code.status === 'verified'
           </ul>
         ) : <p class="detail-authors unavailable">Authors unavailable</p>}
         {!paper.titleAvailable && <p class="metadata-warning">The paper title is unavailable; this page uses the arXiv ID as a placeholder.</p>}
-        <section class:list={["detail-abstract", { partial: paper.recordStatus !== 'complete' }]} aria-labelledby="abstract-heading"><h2 id="abstract-heading">Abstract</h2><p>{paper.abstract}</p></section>
+        <section class:list={["detail-abstract", { partial: paper.recordStatus !== 'complete' }]} aria-labelledby="abstract-heading"><h2 id="abstract-heading">Abstract</h2><p data-pagefind-meta="abstract">{paper.abstract}</p></section>
         <div class="detail-actions" data-pagefind-ignore><a href={paper.pdfUrl}>Open PDF</a><a href={paper.paperUrl}>View on arXiv</a>{paper.codeUrl && <a href={paper.codeUrl}>Verified code</a>}</div>
-        <DetailActions client:only="react" paper={citationPaper}>
+        <DetailActions client:only="react" paper={citationPaper} bookmark={bookmarkSnapshot}>
           <div slot="fallback" class="detail-tools-fallback">Citation and bookmark tools load in the browser.</div>
         </DetailActions>
         <section class="evidence-section" aria-labelledby="match-heading">

@@ -94,6 +94,7 @@ h1, h2, p { margin-top: 0; }
 .paper-date span.revised { border-left-color: var(--gold); color: #7a590f; }
 .paper-kicker { display: flex; flex-wrap: wrap; margin-bottom: 7px; gap: 6px 14px; color: var(--muted); font-family: Consolas,'Courier New',monospace; font-size: .68rem; }
 .paper-kicker .code-verified { color: var(--brand); font-family: 'Instrument Sans',sans-serif; font-weight: 750; text-transform: uppercase; }
+.paper-kicker .new-since-visit { color: var(--signal); font-family: 'Instrument Sans',sans-serif; font-weight: 750; text-transform: uppercase; }
 .paper-content h2 { max-width: 900px; margin-bottom: 8px; font-family: 'Newsreader',serif; font-size: 1.38rem; font-weight: 650; line-height: 1.2; letter-spacing: 0; }
 .paper-content h2 a { text-decoration: none; } .paper-content h2 a:hover { color: var(--brand); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 .paper-content > p { display: -webkit-box; max-width: 920px; margin-bottom: 14px; overflow: hidden; color: #46534f; font-size: .88rem; line-height: 1.55; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
@@ -103,6 +104,10 @@ h1, h2, p { margin-top: 0; }
 .topic-list span { color: var(--brand-dark); font-size: .68rem; font-weight: 700; text-transform: uppercase; }
 .row-action { display: grid; align-self: center; width: 34px; height: 34px; border: 1px solid transparent; border-radius: 4px; color: var(--muted); font-size: 1.1rem; place-items: center; text-decoration: none; }
 .row-action:hover, .row-action:focus-visible { border-color: var(--line); color: var(--brand); background: #fff; }
+.row-actions { display: grid; align-self: center; gap: 4px; }
+.bookmark-toggle { display: inline-flex; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+.visit-summary { margin: 0 0 12px; color: var(--brand); font-size: .78rem; font-weight: 650; }
 .empty-state { padding: 72px 24px; border-bottom: 1px solid var(--ink); text-align: center; }
 .empty-state h2 { font-family: 'Newsreader',serif; font-size: 1.8rem; } .empty-state p { color: var(--muted); }
 .results-provider { display: block; min-width: 0; background: transparent !important; }
