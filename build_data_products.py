@@ -2,12 +2,19 @@ import argparse
 import datetime
 import hashlib
 import json
+import os
+import re
+import tempfile
+import xml.etree.ElementTree as ET
 from collections import Counter
 from pathlib import Path
 from typing import Any
 
 from paper_collector import _format_timestamp, _parse_timestamp
 from paper_store import atomic_write_json, load_canonical_archive, validate_canonical_archive
+
+
+ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 
 
 def _render_json(value: Any) -> bytes:
@@ -105,15 +112,134 @@ def _partition_key(record: dict[str, Any]) -> str:
     return f"{published_date.year:04d}/{published_date.month:02d}"
 
 
+def _atomic_write_text(path: Path, text: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary_path: Path | None = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            newline="\n",
+            dir=path.parent,
+            prefix=f".{path.name}.",
+            suffix=".tmp",
+            delete=False,
+        ) as handle:
+            handle.write(text)
+            handle.flush()
+            os.fsync(handle.fileno())
+            temporary_path = Path(handle.name)
+        os.replace(temporary_path, path)
+    finally:
+        if temporary_path is not None and temporary_path.exists():
+            temporary_path.unlink()
+
+
+def _slugify_topic(topic: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", topic.lower()).strip("-")
+    return slug or "topic"
+
+
+def _feed_timestamp(value: str | None, fallback: str) -> str:
+    if isinstance(value, str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+        return f"{value}T00:00:00Z"
+    if isinstance(value, str) and value:
+        try:
+            return _format_timestamp(_parse_timestamp(value))
+        except ValueError:
+            return fallback
+    return fallback
+
+
+def _site_href(site_url: str, base_path: str, *segments: str) -> str:
+    prefix = site_url.rstrip("/")
+    parts = [base_path.strip("/"), *(segment.strip("/") for segment in segments)]
+    tail = "/".join(part for part in parts if part)
+    if prefix:
+        return f"{prefix}/{tail}/" if tail else f"{prefix}/"
+    return f"/{tail}/" if tail else "/"
+
+
+def _append_feed_entry(
+    feed: ET.Element,
+    record: dict[str, Any],
+    site_url: str,
+    base_path: str,
+    fallback_updated: str,
+) -> None:
+    namespace = f"{{{ATOM_NAMESPACE}}}"
+    entry = ET.SubElement(feed, f"{namespace}entry")
+    paper_id = record["id"]
+    ET.SubElement(entry, f"{namespace}title").text = record.get("title") or f"arXiv:{paper_id}"
+    ET.SubElement(entry, f"{namespace}id").text = f"https://arxiv.org/abs/{paper_id}"
+    link = ET.SubElement(entry, f"{namespace}link")
+    link.set("rel", "alternate")
+    link.set("href", _site_href(site_url, base_path, "papers", paper_id))
+    published = _feed_timestamp(record.get("published"), fallback_updated)
+    updated = _feed_timestamp(record.get("updated") or record.get("published"), published)
+    ET.SubElement(entry, f"{namespace}updated").text = updated
+    ET.SubElement(entry, f"{namespace}published").text = published
+    for author in record.get("authors", []):
+        name = author.get("name") if isinstance(author, dict) else None
+        if name:
+            author_element = ET.SubElement(entry, f"{namespace}author")
+            ET.SubElement(author_element, f"{namespace}name").text = name
+    for topic in record.get("topics", []):
+        ET.SubElement(entry, f"{namespace}category").set("term", topic)
+    abstract = record.get("abstract")
+    if abstract:
+        ET.SubElement(entry, f"{namespace}summary").text = abstract
+
+
+def _render_atom_feed(
+    *,
+    title: str,
+    subtitle: str,
+    self_url: str,
+    home_url: str,
+    updated: str,
+    records: list[dict[str, Any]],
+    site_url: str,
+    base_path: str,
+    feed_limit: int,
+) -> str:
+    namespace = f"{{{ATOM_NAMESPACE}}}"
+    ET.register_namespace("", ATOM_NAMESPACE)
+    feed = ET.Element(f"{namespace}feed")
+    ET.SubElement(feed, f"{namespace}title").text = title
+    ET.SubElement(feed, f"{namespace}subtitle").text = subtitle
+    ET.SubElement(feed, f"{namespace}id").text = self_url
+    self_link = ET.SubElement(feed, f"{namespace}link")
+    self_link.set("rel", "self")
+    self_link.set("href", self_url)
+    home_link = ET.SubElement(feed, f"{namespace}link")
+    home_link.set("rel", "alternate")
+    home_link.set("href", home_url)
+    ET.SubElement(feed, f"{namespace}updated").text = updated
+    ET.SubElement(feed, f"{namespace}generator").text = "build_data_products"
+    for record in sorted(records, key=_record_sort_key, reverse=True)[:feed_limit]:
+        _append_feed_entry(feed, record, site_url, base_path, updated)
+    ET.indent(feed, space="  ")
+    body = ET.tostring(feed, encoding="unicode")
+    return f'<?xml version="1.0" encoding="utf-8"?>\n{body}\n'
+
+
 def build_data_products(
     records: dict[str, dict[str, Any]],
     output_root: Path,
     updated_at: datetime.datetime,
     latest_limit: int = 100,
     clean: bool = False,
+    *,
+    site_url: str = "",
+    base_path: str = "/",
+    feed_topics: list[str] | None = None,
+    feed_limit: int = 50,
 ) -> dict[str, Any]:
     if latest_limit < 1:
         raise ValueError("latest_limit must be at least 1")
+    if feed_limit < 1:
+        raise ValueError("feed_limit must be at least 1")
     validate_canonical_archive(records)
     updated_timestamp = _format_timestamp(updated_at)
     partitions: dict[str, list[dict[str, Any]]] = {}
@@ -182,6 +308,72 @@ def build_data_products(
     atomic_write_json(output_root / "statistics.json", statistics)
     atomic_write_json(output_root / "site-card.json", site_card)
 
+    record_values = list(records.values())
+    home_url = _site_href(site_url, base_path)
+    feeds_base = _site_href(site_url, base_path, "data", "feeds").rstrip("/")
+    expected_feed_paths: set[Path] = set()
+
+    def _write_feed(
+        relative_name: str,
+        title: str,
+        subtitle: str,
+        feed_records: list[dict[str, Any]],
+    ) -> str:
+        relative = Path("feeds") / relative_name
+        feed_xml = _render_atom_feed(
+            title=title,
+            subtitle=subtitle,
+            self_url=f"{feeds_base}/{relative_name}",
+            home_url=home_url,
+            updated=updated_timestamp,
+            records=feed_records,
+            site_url=site_url,
+            base_path=base_path,
+            feed_limit=feed_limit,
+        )
+        target = output_root / relative
+        expected_feed_paths.add(target.resolve())
+        _atomic_write_text(target, feed_xml)
+        return relative.as_posix()
+
+    available_topics = sorted(
+        {topic for record in record_values for topic in record.get("topics", [])}
+    )
+    configured_topics = available_topics if feed_topics is None else list(feed_topics)
+    feed_products: dict[str, Any] = {
+        "all": _write_feed(
+            "all.xml",
+            "ASR-TTS Paper Daily",
+            "Newest speech and language research across all topics.",
+            record_values,
+        ),
+        "topics": {},
+    }
+    used_slugs: dict[str, str] = {}
+    for topic in configured_topics:
+        slug = _slugify_topic(topic)
+        if slug in used_slugs:
+            raise ValueError(
+                f"Topic feed slug collision between {used_slugs[slug]!r} and {topic!r}"
+            )
+        used_slugs[slug] = topic
+        topic_records = [
+            record for record in record_values if topic in record.get("topics", [])
+        ]
+        feed_products["topics"][topic] = _write_feed(
+            f"topic-{slug}.xml",
+            f"ASR-TTS Paper Daily \u2014 {topic}",
+            f"Newest papers classified under {topic}.",
+            topic_records,
+        )
+
+    if clean:
+        feeds_root = output_root / "feeds"
+        if feeds_root.exists():
+            for path in feeds_root.glob("*.xml"):
+                if path.resolve() not in expected_feed_paths:
+                    path.unlink()
+
     manifest = {
         "manifest_version": 1,
         "paper_schema_version": 1,
@@ -202,6 +394,7 @@ def build_data_products(
             "statistics": "statistics.json",
             "site_card": "site-card.json",
         },
+        "feeds": feed_products,
     }
     atomic_write_json(output_root / "manifest.json", manifest)
     return manifest
@@ -221,6 +414,8 @@ def main() -> int:
 
     config = yaml.safe_load(args.config.read_text(encoding="utf-8"))
     product_config = config.get("data_products", {})
+    user_name = config.get("user_name") or ""
+    repo_name = config.get("repo_name") or ""
     records = load_canonical_archive(args.input)
     manifest = build_data_products(
         records=records,
@@ -228,6 +423,10 @@ def main() -> int:
         updated_at=_parse_timestamp(args.updated_at),
         latest_limit=args.latest_limit or int(product_config.get("latest_limit", 100)),
         clean=args.clean,
+        site_url=f"https://{user_name}.github.io" if user_name else "",
+        base_path=f"/{repo_name}" if repo_name else "/",
+        feed_topics=list(config.get("keywords", {}).keys()) or None,
+        feed_limit=int(product_config.get("feed_limit", 50)),
     )
     print(json.dumps(manifest, ensure_ascii=False, indent=2, sort_keys=True))
     return 0

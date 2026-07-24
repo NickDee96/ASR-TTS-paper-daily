@@ -71,6 +71,10 @@ def prepare_site_content(
     *,
     updated_at: datetime.datetime | None = None,
     latest_limit: int = 100,
+    site_url: str = "",
+    base_path: str = "/",
+    feed_topics: list[str] | None = None,
+    feed_limit: int = 50,
 ) -> dict[str, Any]:
     records, migration_report, backfill_ids = migrate_archive(
         _read_json_object(archive_path),
@@ -95,6 +99,10 @@ def prepare_site_content(
         effective_updated_at,
         latest_limit=latest_limit,
         clean=True,
+        site_url=site_url,
+        base_path=base_path,
+        feed_topics=feed_topics,
+        feed_limit=feed_limit,
     )
     summary = {
         "canonical_path": canonical_path.as_posix(),
@@ -133,7 +141,15 @@ def main() -> int:
     )
     parser.add_argument("--updated-at")
     parser.add_argument("--latest-limit", type=int, default=100)
+    parser.add_argument("--config", type=Path, default=REPOSITORY_ROOT / "config.yaml")
     args = parser.parse_args()
+
+    import yaml
+
+    config = yaml.safe_load(args.config.read_text(encoding="utf-8"))
+    user_name = config.get("user_name") or ""
+    repo_name = config.get("repo_name") or ""
+    product_config = config.get("data_products", {})
 
     updated_at = _parse_timestamp(args.updated_at) if args.updated_at else None
     summary = prepare_site_content(
@@ -143,6 +159,10 @@ def main() -> int:
         args.public_data_root,
         updated_at=updated_at,
         latest_limit=args.latest_limit,
+        site_url=f"https://{user_name}.github.io" if user_name else "",
+        base_path=f"/{repo_name}" if repo_name else "/",
+        feed_topics=list(config.get("keywords", {}).keys()) or None,
+        feed_limit=int(product_config.get("feed_limit", 50)),
     )
     print(json.dumps(summary, ensure_ascii=False, sort_keys=True))
     return 0

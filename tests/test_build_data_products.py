@@ -4,6 +4,7 @@ import hashlib
 import json
 import tempfile
 import unittest
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from build_data_products import build_data_products
@@ -12,6 +13,18 @@ from paper_collector import UTC
 
 FIXTURE_PATH = Path(__file__).parent / "fixtures" / "valid_paper.json"
 UPDATED_AT = datetime.datetime(2026, 7, 23, 12, 0, tzinfo=UTC)
+ATOM = "{http://www.w3.org/2005/Atom}"
+SITE_URL = "https://nickdee96.github.io"
+BASE_PATH = "/ASR-TTS-paper-daily"
+
+
+def _read_feed(path: Path) -> tuple[ET.Element, list[ET.Element]]:
+    root = ET.parse(path).getroot()
+    return root, root.findall(f"{ATOM}entry")
+
+
+def _entry_ids(entries: list[ET.Element]) -> list[str]:
+    return [entry.find(f"{ATOM}id").text for entry in entries]
 
 
 def paper_for(paper_id: str, published: str | None, topics: list[str]):
@@ -133,6 +146,93 @@ class DataProductTests(unittest.TestCase):
 
             self.assertFalse((root / "papers" / "2025" / "01.json").exists())
             self.assertEqual(sum(shard["count"] for shard in manifest["shards"]), 3)
+
+    def test_feeds_cover_all_papers_and_each_configured_topic(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            manifest = build_data_products(
+                self.records,
+                root,
+                UPDATED_AT,
+                site_url=SITE_URL,
+                base_path=BASE_PATH,
+                feed_topics=["ASR", "TTS", "Machine Translation", "Small Language Models"],
+            )
+
+            self.assertEqual(manifest["feeds"]["all"], "feeds/all.xml")
+            self.assertEqual(
+                set(manifest["feeds"]["topics"]),
+                {"ASR", "TTS", "Machine Translation", "Small Language Models"},
+            )
+
+            root_feed, entries = _read_feed(root / "feeds" / "all.xml")
+            self.assertEqual(root_feed.tag, f"{ATOM}feed")
+            self.assertEqual(
+                set(_entry_ids(entries)),
+                {
+                    "https://arxiv.org/abs/2607.00001",
+                    "https://arxiv.org/abs/2606.00002",
+                    "https://arxiv.org/abs/2501.00003",
+                    "https://arxiv.org/abs/1307.4048",
+                },
+            )
+            first_link = entries[0].find(f"{ATOM}link").get("href")
+            self.assertTrue(first_link.startswith(f"{SITE_URL}{BASE_PATH}/papers/"))
+
+            _, asr_entries = _read_feed(root / "feeds" / "topic-asr.xml")
+            self.assertEqual(
+                set(_entry_ids(asr_entries)),
+                {"https://arxiv.org/abs/2607.00001", "https://arxiv.org/abs/2501.00003"},
+            )
+            _, empty_entries = _read_feed(
+                root / "feeds" / "topic-small-language-models.xml"
+            )
+            self.assertEqual(empty_entries, [])
+
+    def test_feed_entries_are_bounded_and_sorted_by_recency(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            build_data_products(
+                self.records,
+                root,
+                UPDATED_AT,
+                site_url=SITE_URL,
+                base_path=BASE_PATH,
+                feed_topics=["ASR"],
+                feed_limit=2,
+            )
+
+            _, entries = _read_feed(root / "feeds" / "all.xml")
+            self.assertEqual(
+                _entry_ids(entries),
+                ["https://arxiv.org/abs/1307.4048", "https://arxiv.org/abs/2607.00001"],
+            )
+            updated = entries[0].find(f"{ATOM}updated").text
+            self.assertRegex(updated, r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
+
+    def test_feed_escapes_markup_and_preserves_unicode(self) -> None:
+        record = paper_for("2607.09999", "2026-07-05", ["ASR"])
+        record["title"] = "Speech & <Language> Models"
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            root = Path(temporary_directory)
+            build_data_products(
+                {record["id"]: record},
+                root,
+                UPDATED_AT,
+                site_url=SITE_URL,
+                base_path=BASE_PATH,
+                feed_topics=["ASR"],
+            )
+            raw = (root / "feeds" / "all.xml").read_text(encoding="utf-8")
+            self.assertNotIn("<Language>", raw)
+            self.assertIn("&amp;", raw)
+
+            _, entries = _read_feed(root / "feeds" / "all.xml")
+            self.assertEqual(
+                entries[0].find(f"{ATOM}title").text, "Speech & <Language> Models"
+            )
+            author = entries[0].find(f"{ATOM}author/{ATOM}name").text
+            self.assertEqual(author, "Māia Example")
 
 
 if __name__ == "__main__":
