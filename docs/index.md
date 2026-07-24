@@ -9733,10 +9733,20 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 2323 papers*
+*📊 2333 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
+|**2026-07-23**|**Bridging the Gap Between Plausibility and Admissibility: Constraint-Aware Flow Maps for Dynamic Graph Systems**|Michael Romei de Socio et.al.|[2607.21421](http://arxiv.org/abs/2607.21421)|null|
+|**2026-07-23**|**Automated Synthesis and Adversarial Validation of Executable Causal Research Pipelines**|Irena Girshovitz et.al.|[2607.21173](http://arxiv.org/abs/2607.21173)|null|
+|**2026-07-23**|**Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text**|Xu Wang et.al.|[2607.21072](http://arxiv.org/abs/2607.21072)|null|
+|**2026-07-23**|**PrefReward: Learning User Preference Matrix for Personalized Text Generation**|Yue Wu et.al.|[2607.21067](http://arxiv.org/abs/2607.21067)|null|
+|**2026-07-22**|**Persian Pixel: A large-scale synthetic OCR dataset for Persian language**|Pouria Mahdi et.al.|[2607.20385](http://arxiv.org/abs/2607.20385)|null|
+|**2026-07-22**|**Generative AI floods and dilutes the market for books**|Tuhin Chakrabarty et.al.|[2607.20349](http://arxiv.org/abs/2607.20349)|null|
+|**2026-07-22**|**Sentence Splitter: Uncovering Latent Factual Structure for Self-Supervised Learning**|Ahmad Pouramini et.al.|[2607.19845](http://arxiv.org/abs/2607.19845)|null|
+|**2026-07-21**|**SynPre-FL: Synthetic data-driven pretraining integrated Federated Learning training framework**|Akarsh K Nair et.al.|[2607.19524](http://arxiv.org/abs/2607.19524)|null|
+|**2026-07-21**|**Group-of-Latents: Perceptual Video Compression at Extreme Bitrates via Masked Latent Generative Modeling**|Shaokang Wang et.al.|[2607.19437](http://arxiv.org/abs/2607.19437)|null|
 |**2026-07-21**|**ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling**|Chirag Vashist et.al.|[2607.19332](http://arxiv.org/abs/2607.19332)|null|
 |**2026-07-21**|**GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks**|Daniele Angioletti et.al.|[2607.19083](http://arxiv.org/abs/2607.19083)|null|
 |**2026-07-20**|**Text-conditioned Segmentation for Tomato Phenotyping via Procedural Synthetic Data**|Samy Mounir et.al.|[2607.18576](http://arxiv.org/abs/2607.18576)|null|
@@ -9749,7 +9759,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-20**|**SSTMark: Robust Training-Free Semantic-Level Speech Watermarking**|Kuan-Lin Chu et.al.|[2607.17592](http://arxiv.org/abs/2607.17592)|null|
 |**2026-07-19**|**AIGB-R1: Self-Evolving Generative Auto-Bidding via Hierarchical Planner-Executor Optimization**|Yuejia Dou et.al.|[2607.17281](http://arxiv.org/abs/2607.17281)|null|
 |**2026-07-19**|**SynH-Rank: Quality-Aware Code Search via Diverse Data Synthesis and Hierarchical Ranking Training**|Keyu Liang et.al.|[2607.17139](http://arxiv.org/abs/2607.17139)|null|
-|**2026-07-18**|**Environment-free Synthetic Data Generation for API-Calling Agents**|Seanie Lee et.al.|[2607.16900](http://arxiv.org/abs/2607.16900)|null|
+|**2026-07-21**|**Environment-free Synthetic Data Generation for API-Calling Agents**|Seanie Lee et.al.|[2607.16900](http://arxiv.org/abs/2607.16900)|null|
 |**2026-07-18**|**Semi-Supervised Conditional Generative Learning through Stochastic Interpolation and Sufficient Representations**|Changyu Liu et.al.|[2607.16725](http://arxiv.org/abs/2607.16725)|null|
 |**2026-07-17**|**Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling**|Bo-An Chang et.al.|[2607.15740](http://arxiv.org/abs/2607.15740)|null|
 |**2026-07-17**|**Do Generative Models Keep Time? A Time-Aware Evaluation of Synthetic Sequential Tabular Data**|Kiwan Kwon et.al.|[2607.15606](http://arxiv.org/abs/2607.15606)|null|
