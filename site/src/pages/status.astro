@@ -1,0 +1,122 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import UpdateHealth from '../components/UpdateHealth';
+import { loadArchiveStatus } from '../data/status';
+
+const status = loadArchiveStatus();
+
+const monthly = Object.entries(status.monthlyAdditions)
+  .filter(([month]) => month !== 'Unknown')
+  .sort((left, right) => left[0].localeCompare(right[0]))
+  .slice(-12);
+const monthlyMax = Math.max(1, ...monthly.map(([, count]) => count));
+
+const categories = Object.entries(status.categoryDistribution)
+  .sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0]))
+  .slice(0, 12);
+const categoryMax = Math.max(1, ...categories.map(([, count]) => count));
+
+const recordStatus = Object.entries(status.recordStatus)
+  .sort((left, right) => right[1] - left[1]);
+
+const monthFormatter = new Intl.DateTimeFormat('en', { month: 'short', year: 'numeric', timeZone: 'UTC' });
+function monthLabel(month: string): string {
+  const parsed = new Date(`${month}-01T00:00:00Z`);
+  return Number.isNaN(parsed.getTime()) ? month : monthFormatter.format(parsed);
+}
+
+const run = status.latestRun;
+const coverage = status.verifiedCodeCoveragePercent.toFixed(1);
+---
+
+<BaseLayout
+  title="Archive status | ASR-TTS Paper Daily"
+  description="Collection health, update freshness, and archive statistics for the ASR-TTS paper archive."
+  active="status"
+>
+  <div class="page-shell">
+    <section class="workspace-heading" aria-labelledby="status-title">
+      <div>
+        <p class="eyebrow">Update health</p>
+        <h1 id="status-title">Archive status</h1>
+        <p>How fresh the archive is, what the last collection run did, and how the corpus is distributed.</p>
+      </div>
+    </section>
+
+    <UpdateHealth client:only="react" updatedAt={status.updatedAt} staleAfterHours={status.staleAfterHours}>
+      <p slot="fallback" class="update-health" role="status">Last successful update loads in the browser.</p>
+    </UpdateHealth>
+
+    <section class="status-metrics" aria-label="Archive totals">
+      <div class="status-metric"><span class="status-metric-value">{status.uniquePapers.toLocaleString('en-US')}</span><span class="status-metric-label">Unique papers</span></div>
+      <div class="status-metric"><span class="status-metric-value">{status.topicAssignments.toLocaleString('en-US')}</span><span class="status-metric-label">Topic assignments</span></div>
+      <div class="status-metric"><span class="status-metric-value">{status.verifiedCode.toLocaleString('en-US')}</span><span class="status-metric-label">Verified code links</span></div>
+      <div class="status-metric"><span class="status-metric-value">{coverage}%</span><span class="status-metric-label">Verified-code coverage</span></div>
+    </section>
+
+    <section class="status-panel" aria-labelledby="run-heading">
+      <h2 id="run-heading">Latest collection run</h2>
+      {run ? (
+        <>
+          {run.windowEnd && <p class="status-note">Window ending {run.windowEnd}</p>}
+          <dl class="run-counts">
+            <div><dt>Fetched</dt><dd>{run.fetched.toLocaleString('en-US')}</dd></div>
+            <div><dt>Accepted</dt><dd>{run.accepted.toLocaleString('en-US')}</dd></div>
+            <div><dt>Rejected</dt><dd>{run.rejected.toLocaleString('en-US')}</dd></div>
+            <div><dt>Inserted</dt><dd>{run.inserted.toLocaleString('en-US')}</dd></div>
+            <div><dt>Updated</dt><dd>{run.updated.toLocaleString('en-US')}</dd></div>
+            <div><dt>Unchanged</dt><dd>{run.unchanged.toLocaleString('en-US')}</dd></div>
+            <div><dt>Enrichment failures</dt><dd>{run.failedEnrichments.toLocaleString('en-US')}</dd></div>
+          </dl>
+        </>
+      ) : (
+        <p class="status-note">No collection run has been recorded in this build. Counts appear after the next scheduled update.</p>
+      )}
+    </section>
+
+    <section class="status-panel" aria-labelledby="monthly-heading">
+      <h2 id="monthly-heading">Monthly additions</h2>
+      {monthly.length === 0 ? (
+        <p class="status-note">No dated papers are available yet.</p>
+      ) : (
+        <ul class="status-bars">
+          {monthly.map(([month, count]) => (
+            <li>
+              <span class="status-bar-label">{monthLabel(month)}</span>
+              <span class="status-bar-track"><span class="status-bar-fill" style={`width:${Math.round((count / monthlyMax) * 100)}%`}></span></span>
+              <span class="status-bar-value">{count.toLocaleString('en-US')}</span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </section>
+
+    <section class="status-panel" aria-labelledby="category-heading">
+      <h2 id="category-heading">Top arXiv categories</h2>
+      {categories.length === 0 ? (
+        <p class="status-note">No categorized papers are available yet.</p>
+      ) : (
+        <ul class="status-bars">
+          {categories.map(([category, count]) => (
+            <li>
+              <span class="status-bar-label">{category}</span>
+              <span class="status-bar-track"><span class="status-bar-fill" style={`width:${Math.round((count / categoryMax) * 100)}%`}></span></span>
+              <span class="status-bar-value">{count.toLocaleString('en-US')}</span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </section>
+
+    {recordStatus.length > 0 && (
+      <section class="status-panel" aria-labelledby="record-heading">
+        <h2 id="record-heading">Record completeness</h2>
+        <dl class="run-counts">
+          {recordStatus.map(([label, count]) => (
+            <div><dt>{label}</dt><dd>{count.toLocaleString('en-US')}</dd></div>
+          ))}
+        </dl>
+      </section>
+    )}
+  </div>
+</BaseLayout>

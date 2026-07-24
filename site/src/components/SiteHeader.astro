@@ -3,7 +3,7 @@ import { withBase } from '../lib/paths';
 import { loadArchiveSummary } from '../data/papers';
 
 interface Props {
-  active?: 'feed' | 'search' | 'papers' | 'bookmarks';
+  active?: 'feed' | 'search' | 'papers' | 'bookmarks' | 'status';
 }
 
 const { active = 'feed' } = Astro.props;
@@ -25,6 +25,7 @@ const updatedLabel = new Intl.DateTimeFormat('en', {
       <a class:list={[{ active: active === 'feed' }]} href={withBase('/')}>Feed</a>
       <a class:list={[{ active: active === 'search' }]} href={withBase('/search/')}>Search</a>
       <a class:list={[{ active: active === 'bookmarks' }]} href={withBase('/bookmarks/')}>Bookmarks</a>
+      <a class:list={[{ active: active === 'status' }]} href={withBase('/status/')}>Status</a>
       <a class:list={[{ active: active === 'papers' }]} href={withBase('/papers/2607.18064/')}>Paper</a>
     </nav>
     <div class="freshness" title={`Last successful archive update: ${updatedAt}`}><span aria-hidden="true"></span>Updated {updatedLabel}</div>

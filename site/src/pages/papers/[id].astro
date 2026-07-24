@@ -43,6 +43,18 @@ const codeLabel = paper.code.status === 'verified'
     : paper.code.status === 'unavailable'
       ? 'Repository unavailable'
       : 'No repository found';
+const reportTitle = `Paper report: ${paper.id}`;
+const reportBody = [
+  `**Paper:** ${paper.title}`,
+  `**arXiv ID:** ${paper.id}`,
+  `**Page:** ${paper.paperUrl}`,
+  '',
+  '**Problem** (misclassified topic, broken or wrong code link, incorrect metadata, other):',
+  '',
+  '**Details:**',
+  '',
+].join('\n');
+const reportUrl = `https://github.com/NickDee96/ASR-TTS-paper-daily/issues/new?labels=${encodeURIComponent('paper-report')}&title=${encodeURIComponent(reportTitle)}&body=${encodeURIComponent(reportBody)}`;
 ---
 
 <BaseLayout title={`${paper.title} | ASR-TTS Paper Daily`} description={paper.abstract} active="papers" ogType="article">
@@ -135,6 +147,7 @@ const codeLabel = paper.code.status === 'verified'
           {paper.arxivVersion && <div><dt>arXiv version</dt><dd>{paper.arxivVersion}</dd></div>}
           <div><dt>Source</dt><dd>{paper.sourceOrigin}</dd></div>
         </dl>
+        <a class="report-link" href={reportUrl} target="_blank" rel="noopener noreferrer">Report a problem with this paper</a>
       </aside>
     </div>
   </div>
