@@ -1,13 +1,19 @@
 import {
   Button,
+  Checkbox,
   FluentProvider,
+  Menu,
+  MenuItem,
+  MenuList,
+  MenuPopover,
+  MenuTrigger,
   MessageBar,
   MessageBarBody,
   MessageBarTitle,
   Spinner,
   webLightTheme,
 } from '@fluentui/react-components';
-import { ArrowDown, ArrowUpRight, RotateCw } from 'lucide-react';
+import { ArrowDown, ArrowUpRight, Download, RotateCw } from 'lucide-react';
 import { startTransition, useEffect, useRef, useState } from 'react';
 import SearchFilters from './SearchFilters';
 import BookmarkToggle from './BookmarkToggle';
@@ -34,6 +40,8 @@ import {
   READER_STATE_EVENT,
 } from '../lib/reader-state-v2';
 import type { BookmarkSnapshot } from '../lib/reader-state-v2';
+import { EXPORT_FORMATS } from '../lib/citation';
+import type { CitationPaper } from '../lib/citation';
 
 interface PagefindResultsProps {
   baseUrl: string;
@@ -78,6 +86,22 @@ function first(values: string[] | undefined, fallback = ''): string {
   return values?.[0] ?? fallback;
 }
 
+function resultArxivId(result: PagefindResultData): string {
+  return result.meta.arxiv_id || result.url.split('/').filter(Boolean).at(-1) || '';
+}
+
+function downloadText(filename: string, mimeType: string, content: string): void {
+  const blob = new Blob([content], { type: mimeType });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  window.setTimeout(() => URL.revokeObjectURL(url), 0);
+}
+
 function stateFromLocation(): SearchUrlState {
   const parsed = parseSearchState(window.location.search);
   const parameters = new URLSearchParams(window.location.search);
@@ -85,9 +109,11 @@ function stateFromLocation(): SearchUrlState {
   return parsed;
 }
 
-function ResultRow({ result, visitBaseline }: {
+function ResultRow({ result, visitBaseline, selected, onToggleSelect }: {
   result: PagefindResultData;
   visitBaseline: string | null;
+  selected: boolean;
+  onToggleSelect: (citation: CitationPaper) => void;
 }) {
   const [seen, setSeen] = useState(false);
   const authors = result.filters.author ?? [];
@@ -95,7 +121,15 @@ function ResultRow({ result, visitBaseline }: {
   const categories = result.filters.category ?? [];
   const codeStatus = first(result.filters.code, result.meta.code_status || 'missing');
   const status = result.meta.status || 'new';
-  const arxivId = result.meta.arxiv_id || result.url.split('/').filter(Boolean).at(-1) || '';
+  const arxivId = resultArxivId(result);
+  const citation: CitationPaper = {
+    id: arxivId,
+    title: result.meta.title || arxivId,
+    authors,
+    published: result.meta.published || 'Unknown',
+    primaryCategory: categories[0],
+    paperUrl: `https://arxiv.org/abs/${arxivId}`,
+  };
   const bookmark: BookmarkSnapshot = {
     id: arxivId,
     title: result.meta.title || arxivId,
@@ -145,6 +179,11 @@ function ResultRow({ result, visitBaseline }: {
         </div>
       </div>
       <div className="row-actions">
+        <Checkbox
+          checked={selected}
+          onChange={() => onToggleSelect(citation)}
+          aria-label={`Select ${result.meta.title || arxivId} for export`}
+        />
         <BookmarkToggle snapshot={bookmark} compact />
         <a className="row-action" href={result.url} aria-label={`Open ${result.meta.title || arxivId}`}>
           <ArrowUpRight aria-hidden="true" size={18} />
@@ -177,6 +216,8 @@ export default function PagefindResults({
       return null;
     }
   });
+  const [selected, setSelected] = useState<Map<string, CitationPaper>>(new Map());
+  const [exportStatus, setExportStatus] = useState('');
   const [urlState, setUrlState] = useState<SearchUrlState>(() => (
     typeof window === 'undefined' ? DEFAULT_SEARCH_STATE : stateFromLocation()
   ));
@@ -423,6 +464,23 @@ export default function PagefindResults({
   const updateFilters = (patch: Partial<SearchUrlState>) => {
     updateUrl(normalizeSearchState({ ...urlState, ...patch, page: 1 }));
   };
+  function toggleSelect(citation: CitationPaper) {
+    setSelected((current) => {
+      const next = new Map(current);
+      if (next.has(citation.id)) next.delete(citation.id);
+      else next.set(citation.id, citation);
+      return next;
+    });
+  }
+  function exportSelected(key: keyof typeof EXPORT_FORMATS) {
+    const papers = [...selected.values()];
+    if (papers.length === 0) return;
+    const format = EXPORT_FORMATS[key];
+    downloadText(`papers.${format.extension}`, format.mimeType, format.render(papers));
+    setExportStatus(
+      `Exported ${papers.length} ${papers.length === 1 ? 'paper' : 'papers'} as ${format.label}.`,
+    );
+  }
   return (
     <FluentProvider theme={researchTheme} className="results-provider">
       {stale && (
@@ -479,9 +537,42 @@ export default function PagefindResults({
       )}
       {state.status === 'ready' && (
         <>
+          {selected.size > 0 && (
+            <div className="export-bar" role="region" aria-label="Export selected papers">
+              <p className="export-count">{selected.size} selected for export</p>
+              <div className="export-controls">
+                <Menu>
+                  <MenuTrigger disableButtonEnhancement>
+                    <Button appearance="primary" icon={<Download aria-hidden="true" size={17} />}>
+                      Export
+                    </Button>
+                  </MenuTrigger>
+                  <MenuPopover>
+                    <MenuList>
+                      {(Object.keys(EXPORT_FORMATS) as Array<keyof typeof EXPORT_FORMATS>).map((key) => (
+                        <MenuItem key={key} onClick={() => exportSelected(key)}>
+                          {EXPORT_FORMATS[key].label}
+                        </MenuItem>
+                      ))}
+                    </MenuList>
+                  </MenuPopover>
+                </Menu>
+                <Button appearance="subtle" onClick={() => setSelected(new Map())}>
+                  Clear selection
+                </Button>
+              </div>
+              <p className="export-status" role="status" aria-live="polite">{exportStatus}</p>
+            </div>
+          )}
           <div className="search-result-list">
             {state.items.map((result) => (
-              <ResultRow key={result.url} result={result} visitBaseline={visitBaseline} />
+              <ResultRow
+                key={result.url}
+                result={result}
+                visitBaseline={visitBaseline}
+                selected={selected.has(resultArxivId(result))}
+                onToggleSelect={toggleSelect}
+              />
             ))}
           </div>
           {state.items.length < state.total && (

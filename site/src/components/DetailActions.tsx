@@ -11,7 +11,7 @@ import {
 } from 'lucide-react';
 import { useState } from 'react';
 import BookmarkToggle from './BookmarkToggle';
-import { bibtexCitation, plainCitation } from '../lib/citation';
+import { bibtexCitation, plainCitation, risCitation } from '../lib/citation';
 import type { CitationPaper } from '../lib/citation';
 import type { BookmarkSnapshot } from '../lib/reader-state-v2';
 
@@ -37,6 +37,18 @@ async function copyText(value: string): Promise<void> {
   await navigator.clipboard.writeText(value);
 }
 
+function downloadText(filename: string, mimeType: string, content: string): void {
+  const blob = new Blob([content], { type: mimeType });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = filename;
+  document.body.append(link);
+  link.click();
+  link.remove();
+  window.setTimeout(() => URL.revokeObjectURL(url), 0);
+}
+
 export default function DetailActions({ paper, bookmark }: DetailActionsProps) {
   const [status, setStatus] = useState('');
 
@@ -50,16 +62,13 @@ export default function DetailActions({ paper, bookmark }: DetailActionsProps) {
   }
 
   function downloadBibtex() {
-    const blob = new Blob([bibtexCitation(paper)], { type: 'application/x-bibtex;charset=utf-8' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `${paper.id}.bib`;
-    document.body.append(link);
-    link.click();
-    link.remove();
-    window.setTimeout(() => URL.revokeObjectURL(url), 0);
+    downloadText(`${paper.id}.bib`, 'application/x-bibtex;charset=utf-8', bibtexCitation(paper));
     setStatus('BibTeX download started.');
+  }
+
+  function downloadRis() {
+    downloadText(`${paper.id}.ris`, 'application/x-research-info-systems;charset=utf-8', risCitation(paper));
+    setStatus('RIS download started.');
   }
 
   async function sharePaper() {
@@ -90,6 +99,9 @@ export default function DetailActions({ paper, bookmark }: DetailActionsProps) {
         </Tooltip>
         <Button icon={<Download aria-hidden="true" size={17} />} onClick={downloadBibtex}>
           BibTeX
+        </Button>
+        <Button icon={<Download aria-hidden="true" size={17} />} onClick={downloadRis}>
+          RIS
         </Button>
         <BookmarkToggle snapshot={bookmark} />
         <Button icon={<Share2 aria-hidden="true" size={17} />} onClick={() => void sharePaper()}>
