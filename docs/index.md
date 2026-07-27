@@ -31,10 +31,12 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎤 ASR {#asr}
 
-*📊 947 papers*
+*📊 949 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children**|Kadharmoideen Fadurudeen et.al.|[2607.22377](http://arxiv.org/abs/2607.22377)|null|
+|**2026-07-24**|**MEUSLI: a Multilingual Projector for LLM-based ASR and Beyond**|Lorenzo Concina et.al.|[2607.22100](http://arxiv.org/abs/2607.22100)|null|
 |**2026-07-23**|**DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages**|Paul Azunre et.al.|[2607.21540](http://arxiv.org/abs/2607.21540)|null|
 |**2026-07-23**|**From Read Speech to Spoken Digits: A Task-Specific Evaluation of Speech Privacy With Informed Attackers**|Jule Pohlhausen et.al.|[2607.21393](http://arxiv.org/abs/2607.21393)|null|
 |**2026-07-23**|**VibeVoice-ASR-BitNet Technical Report**|Songchen Xu et.al.|[2607.21075](http://arxiv.org/abs/2607.21075)|null|
@@ -1719,10 +1721,12 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🌐 Machine Translation {#machine-translation}
 
-*📊 1067 papers*
+*📊 1069 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation using Grammar Books**|Varun Ghat Ravikumar et.al.|[2607.22376](http://arxiv.org/abs/2607.22376)|null|
+|**2026-07-24**|**Biomedical Machine Translation for Low-Resource Arabic-Script Languages via Cross-Lingual Transfer and LoRA Adapter Merging**|Abdullah Alabdullah et.al.|[2607.22300](http://arxiv.org/abs/2607.22300)|null|
 |**2026-07-23**|**A Comparative Evaluation of Embeddings and LLMs in a Greek Book Publisher Setting - The CUP Dataset**|Katerina Papantoniou et.al.|[2607.21274](http://arxiv.org/abs/2607.21274)|null|
 |**2026-07-23**|**CultureTalk-ID: A Multi-Task Dialogue Benchmark for Cultural Commonsense in Indonesian Local Languages**|Muhammad Dehan Al Kautsar et.al.|[2607.21016](http://arxiv.org/abs/2607.21016)|null|
 |**2026-07-22**|**LKValues: Aligning Large Language Models with Sri Lankan Societal Values**|Nethmi Muthugala et.al.|[2607.20410](http://arxiv.org/abs/2607.20410)|null|
@@ -1779,7 +1783,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-26**|**UNICS: Multilingual Code Search via Unified Pseudocode and Contrastive Transfer Learning**|Ye Fan et.al.|[2606.27747](http://arxiv.org/abs/2606.27747)|null|
 |**2026-06-26**|**Do Speech Emphasis Models Generalize across Languages and Emotions?**|Megan Wei et.al.|[2606.27717](http://arxiv.org/abs/2606.27717)|null|
 |**2026-06-25**|**Causal Connections: Leveraging Multilingual Fine-Tuning for Financial QA@FinCausal 2026**|Akash Kumar Gautam et.al.|[2606.27446](http://arxiv.org/abs/2606.27446)|null|
-|**2026-06-29**|**Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline**|Kirill Solovev et.al.|[2606.27347](http://arxiv.org/abs/2606.27347)|null|
+|**2026-07-24**|**Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline**|Kirill Solovev et.al.|[2606.27347](http://arxiv.org/abs/2606.27347)|null|
 |**2026-06-25**|**Multilingual Reasoning Cascades Need More Context**|Arnav Mazumder et.al.|[2606.27306](http://arxiv.org/abs/2606.27306)|null|
 |**2026-06-25**|**Soft Token Alignment for Cross-Lingual Reasoning**|Jiayi He et.al.|[2606.26466](http://arxiv.org/abs/2606.26466)|null|
 |**2026-06-24**|**AI translation of literary texts is "fine", but readers still prefer human translations**|Yves Ferstler et.al.|[2606.26040](http://arxiv.org/abs/2606.26040)|null|
@@ -2793,10 +2797,24 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ⚡ Small Language Models {#small-language-models}
 
-*📊 5591 papers*
+*📊 5605 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**IR275K: A Benchmark for Infrared Multi-Frame Super-Resolution Toward Efficient Remote Sensing**|Jie Deng et.al.|[2607.22380](http://arxiv.org/abs/2607.22380)|null|
+|**2026-07-24**|**Variational Low-rank Tensor Decomposition for Multisubject Spatiotemporal Data Analysis**|Laura M. Montaldo et.al.|[2607.22262](http://arxiv.org/abs/2607.22262)|null|
+|**2026-07-24**|**IFCLoRA: Topology-Aware Rank Allocation for Parameter-Efficient Fine-Tuning**|Wei Zhang et.al.|[2607.22251](http://arxiv.org/abs/2607.22251)|null|
+|**2026-07-24**|**Offline Vision-Language Navigation with Geometric Goal Localization for Outdoor Environments**|Ali Salmasi et.al.|[2607.22226](http://arxiv.org/abs/2607.22226)|null|
+|**2026-07-24**|**One Hand Watches The Other: Dynamic Multi-Agent Cooperation for Sample-Efficient Bimanual Manipulation in Dynamic Environments**|Jan Ole von Hartz et.al.|[2607.22119](http://arxiv.org/abs/2607.22119)|null|
+|**2026-07-24**|**Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Mode**|Nanbeige Lab et.al.|[2607.22083](http://arxiv.org/abs/2607.22083)|null|
+|**2026-07-24**|**Unified Static-Dynamic Pruning for Efficient LLM Inference**|Jinhyeok Kim et.al.|[2607.21985](http://arxiv.org/abs/2607.21985)|null|
+|**2026-07-24**|**MoE $^2$ -LoRA: When MoE Models Meet MoE-style Low-Rank Adaptation**|Qingyu Yang et.al.|[2607.21978](http://arxiv.org/abs/2607.21978)|null|
+|**2026-07-24**|**Rethinking Layer-Wise Information Allocation for Vision Foundation Model Adaptation**|Yuqi Li et.al.|[2607.21973](http://arxiv.org/abs/2607.21973)|null|
+|**2026-07-24**|**TG-Diff: Coupling Discrete Topology Diffusion and Topology-conditioned Geometry Diffusions for B-Rep Generation**|MingZe Sun et.al.|[2607.21928](http://arxiv.org/abs/2607.21928)|null|
+|**2026-07-23**|**Property-Guided Diffusion for Inverse Design of Crystalline Materials**|Sourav Mal et.al.|[2607.21849](http://arxiv.org/abs/2607.21849)|null|
+|**2026-07-23**|**Enhancing SLMs for Sustainable Code Optimization in Radio-Astronomy**|Elisa Chiarotto et.al.|[2607.21677](http://arxiv.org/abs/2607.21677)|null|
+|**2026-07-23**|**Neural Feature Governance: Extending Atom Prevalence**|Idris Karel Seunda Ekwe et.al.|[2607.21671](http://arxiv.org/abs/2607.21671)|null|
+|**2026-07-23**|**Ordered Action Tokens for Visuomotor Policy Learning**|Chaoqi Liu et.al.|[2607.21670](http://arxiv.org/abs/2607.21670)|null|
 |**2026-07-23**|**Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning**|Rogerio Guimaraes et.al.|[2607.21591](http://arxiv.org/abs/2607.21591)|null|
 |**2026-07-23**|**KroQuant: Kronecker-Structured Block Transforms for Efficient Post-Training Quantization of Diffusion Transformers**|Yann Bouquet et.al.|[2607.21446](http://arxiv.org/abs/2607.21446)|null|
 |**2026-07-23**|**Stochastic Quantization as Optimal Control**|Lingxiao Wang et.al.|[2607.21436](http://arxiv.org/abs/2607.21436)|null|
@@ -2815,7 +2833,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-23**|**Machine Learning for Charge State Characterization of Isolated Double Quantum Dots**|Hyma Vallabhapurapu et.al.|[2607.20871](http://arxiv.org/abs/2607.20871)|null|
 |**2026-07-23**|**Efficient and Interpretable Body-Based Emotion Recognition with Lightweight Temporal Convolutional Networks**|Christian Arzate Cruz et.al.|[2607.20820](http://arxiv.org/abs/2607.20820)|null|
 |**2026-07-23**|**Profiling Lightweight Large Language Models**|Tomohiro Harada et.al.|[2607.20806](http://arxiv.org/abs/2607.20806)|null|
-|**2026-07-22**|**GaugeQuant: Online Learning of Quantization-Optimal Bases from LLM Symmetries**|Miguel P. Bento et.al.|[2607.20757](http://arxiv.org/abs/2607.20757)|null|
+|**2026-07-24**|**GaugeQuant: Online Learning of Quantization-Optimal Bases from LLM Symmetries**|Miguel P. Bento et.al.|[2607.20757](http://arxiv.org/abs/2607.20757)|null|
 |**2026-07-22**|**Learning to Detect UI Principle Violations via Reinforcement Learning**|Nishi Mehta et.al.|[2607.20690](http://arxiv.org/abs/2607.20690)|null|
 |**2026-07-22**|**PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference**|Niqi Lyu et.al.|[2607.20327](http://arxiv.org/abs/2607.20327)|null|
 |**2026-07-22**|**Real Quantum Field Theory, J-Quantization, and Standard Model**|I. Aref'eva et.al.|[2607.20304](http://arxiv.org/abs/2607.20304)|null|
@@ -8391,10 +8409,12 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🔄 Data Augmentation {#data-augmentation}
 
-*📊 1407 papers*
+*📊 1409 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530](http://arxiv.org/abs/2607.22530)|null|
+|**2026-07-24**|**Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions**|Arthur Dantas Mangussi et.al.|[2607.21904](http://arxiv.org/abs/2607.21904)|null|
 |**2026-07-22**|**Real-Time EEG Cap Electrode Detection for Guided Point-of-Care Placement**|William Lehn-Schiøler et.al.|[2607.20142](http://arxiv.org/abs/2607.20142)|null|
 |**2026-07-21**|**InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation**|Khawar Islam et.al.|[2607.19324](http://arxiv.org/abs/2607.19324)|null|
 |**2026-07-21**|**Translation as Augmentation: Effect of Translated Data on Assessment of Difficulty**|Yiheng Wu et.al.|[2607.19101](http://arxiv.org/abs/2607.19101)|null|
@@ -9805,10 +9825,19 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 2333 papers*
+*📊 2342 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation using Grammar Books**|Varun Ghat Ravikumar et.al.|[2607.22376](http://arxiv.org/abs/2607.22376)|null|
+|**2026-07-24**|**Physics-Informed Neural Network for Modeling the Dynamic Behavior of Grid-Forming Converters**|Hussein Jaffal et.al.|[2607.22327](http://arxiv.org/abs/2607.22327)|null|
+|**2026-07-24**|**Variational Low-rank Tensor Decomposition for Multisubject Spatiotemporal Data Analysis**|Laura M. Montaldo et.al.|[2607.22262](http://arxiv.org/abs/2607.22262)|null|
+|**2026-07-24**|**Closed-Loop Generative Selection: Convergence, Memory, and Noisy Oracles**|Konstantin Fackeldey et.al.|[2607.22211](http://arxiv.org/abs/2607.22211)|null|
+|**2026-07-24**|**TriGlue: a Biology-Inspired Generative Model for Generating Molecular Glue-Induced Ternary Complex**|Yuliang Yan et.al.|[2607.22143](http://arxiv.org/abs/2607.22143)|null|
+|**2026-07-24**|**Diffusion-guided optimization for full waveform inversion**|Yiran Shen et.al.|[2607.21987](http://arxiv.org/abs/2607.21987)|null|
+|**2026-07-23**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
+|**2026-07-22**|**Generative and multimodal AI for materials prediction and design: Progress, challenges, and perspectives**|Xianyuan Liu et.al.|[2607.21660](http://arxiv.org/abs/2607.21660)|null|
+|**2026-07-20**|**Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models**|Jie Zhang et.al.|[2607.21636](http://arxiv.org/abs/2607.21636)|null|
 |**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
 |**2026-07-23**|**Bridging the Gap Between Plausibility and Admissibility: Constraint-Aware Flow Maps for Dynamic Graph Systems**|Michael Romei de Socio et.al.|[2607.21421](http://arxiv.org/abs/2607.21421)|null|
 |**2026-07-23**|**Automated Synthesis and Adversarial Validation of Executable Causal Research Pipelines**|Irena Girshovitz et.al.|[2607.21173](http://arxiv.org/abs/2607.21173)|null|
