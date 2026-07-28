@@ -31,15 +31,19 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎤 ASR {#asr}
 
-*📊 949 papers*
+*📊 953 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**MoLGE: Mixture of Language Group Experts for Efficient Scaling of Massively Multilingual Speech Recognition**|Sangmin Lee et.al.|[2607.24030](http://arxiv.org/abs/2607.24030)|**[link](https://github.com/sanghyang00/molge)**|
+|**2026-07-26**|**Earnings25: A Comprehensive 500-Hour Speech Benchmark for Finance**|Denglin Jiang et.al.|[2607.23813](http://arxiv.org/abs/2607.23813)|null|
+|**2026-07-26**|**An empirical investigation into the properties of standard word embeddings**|Salomon Kabongo et.al.|[2607.23675](http://arxiv.org/abs/2607.23675)|null|
+|**2026-07-25**|**Low-Latency Turn-Taking via Context-Aware Preface Generation in a Real-World Dialogue Robot**|Yuki Okafuji et.al.|[2607.23204](http://arxiv.org/abs/2607.23204)|null|
 |**2026-07-24**|**Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children**|Kadharmoideen Fadurudeen et.al.|[2607.22377](http://arxiv.org/abs/2607.22377)|null|
 |**2026-07-24**|**MEUSLI: a Multilingual Projector for LLM-based ASR and Beyond**|Lorenzo Concina et.al.|[2607.22100](http://arxiv.org/abs/2607.22100)|null|
-|**2026-07-23**|**DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages**|Paul Azunre et.al.|[2607.21540](http://arxiv.org/abs/2607.21540)|null|
+|**2026-07-24**|**DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages**|Paul Azunre et.al.|[2607.21540](http://arxiv.org/abs/2607.21540)|null|
 |**2026-07-23**|**From Read Speech to Spoken Digits: A Task-Specific Evaluation of Speech Privacy With Informed Attackers**|Jule Pohlhausen et.al.|[2607.21393](http://arxiv.org/abs/2607.21393)|null|
-|**2026-07-23**|**VibeVoice-ASR-BitNet Technical Report**|Songchen Xu et.al.|[2607.21075](http://arxiv.org/abs/2607.21075)|null|
+|**2026-07-25**|**VibeVoice-ASR-BitNet Technical Report**|Songchen Xu et.al.|[2607.21075](http://arxiv.org/abs/2607.21075)|null|
 |**2026-07-22**|**SimulS2ST-Omni: Data-Efficient Streaming Speech-to-Speech Translation via Explicit Trajectory Supervision**|Rongshen He et.al.|[2607.19810](http://arxiv.org/abs/2607.19810)|null|
 |**2026-07-21**|**Benchmarking Human and Automatic Speech Recognition of Diverse Speech: Initial Results**|Ilse Huisman et.al.|[2607.19049](http://arxiv.org/abs/2607.19049)|null|
 |**2026-07-21**|**Content is What Remains: Invariant Speech Tokenization from Parallel Utterances**|Laurin Wagner et.al.|[2607.19033](http://arxiv.org/abs/2607.19033)|null|
@@ -84,7 +88,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-06**|**Physiological Noise Augmentation Improves Non-Invasive Brain-to-Speech**|Benjamin Ballyk et.al.|[2607.05165](http://arxiv.org/abs/2607.05165)|null|
 |**2026-07-06**|**Context-Aware ASR for Mandarin Technical Lectures**|Ho-Lam Chung et.al.|[2607.05058](http://arxiv.org/abs/2607.05058)|null|
 |**2026-07-06**|**Listen, Think, Transcribe: Continuous Latent Test-Time Scaling for ASR**|Ho Lam Chung et.al.|[2607.05051](http://arxiv.org/abs/2607.05051)|null|
-|**2026-07-06**|**Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition**|Andrei Florian et.al.|[2607.04814](http://arxiv.org/abs/2607.04814)|null|
+|**2026-07-27**|**Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition**|Andrei Florian et.al.|[2607.04814](http://arxiv.org/abs/2607.04814)|null|
 |**2026-07-04**|**CHILDES-Aligned: A Curated Children's Speech Dataset via Multi-Model Timestamp Ensembling**|Haolong Zheng et.al.|[2607.03670](http://arxiv.org/abs/2607.03670)|null|
 |**2026-07-04**|**QuaSR: Quality-Aware Sample Reweighting for Pacific Indigenous Speech Recognition**|Yishun Li et.al.|[2607.03658](http://arxiv.org/abs/2607.03658)|null|
 |**2026-07-03**|**S-DiverSe: Spanish Diverse Speech**|Fernando López et.al.|[2607.03207](http://arxiv.org/abs/2607.03207)|null|
@@ -987,10 +991,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🗣️ TTS {#tts}
 
-*📊 727 papers*
+*📊 732 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Let Me Look at You: Advanced Facial Expression Modeling for Conversational Speech Synthesis**|Yifan Hu et.al.|[2607.24430](http://arxiv.org/abs/2607.24430)|null|
+|**2026-07-27**|**Leveraging Gradient Reversal Loss and Multitask Learning for Datasets-Aware Audio Deepfake Detection**|Mingrui Liang et.al.|[2607.23961](http://arxiv.org/abs/2607.23961)|null|
+|**2026-07-27**|**Qwen-Audio-3.0-TTS: Freely Controllable and Highly Robust Speech Synthesis with Multi-Stage Training Paradigm**|Bajian Xiang et.al.|[2607.23938](http://arxiv.org/abs/2607.23938)|null|
+|**2026-07-26**|**Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers**|Dongseong Hwang et.al.|[2607.23811](http://arxiv.org/abs/2607.23811)|null|
+|**2026-07-25**|**Singlish, Can or Not? Fine-Tuning and Evaluating Zero-Shot TTS for Singapore English**|Ivan Kukanov et.al.|[2607.23027](http://arxiv.org/abs/2607.23027)|null|
 |**2026-07-23**|**Toward Interpretable Speech Deepfake Detection using Artifact-Specific Experts and Calibrated Detection Scores**|Viola Negroni et.al.|[2607.21127](http://arxiv.org/abs/2607.21127)|null|
 |**2026-07-23**|**Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs**|Muyang Du et.al.|[2607.21042](http://arxiv.org/abs/2607.21042)|null|
 |**2026-07-22**|**ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program**|Mengtian Li et.al.|[2607.19947](http://arxiv.org/abs/2607.19947)|null|
@@ -1721,10 +1730,15 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🌐 Machine Translation {#machine-translation}
 
-*📊 1069 papers*
+*📊 1074 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets**|Sriharshaa S et.al.|[2607.24515](http://arxiv.org/abs/2607.24515)|null|
+|**2026-07-27**|**The Tokenizer Tax: Quantifying and Explaining the Cross-Lingual Cost of Subword Tokenization for Indian Languages**|Priyansh Srivastava et.al.|[2607.24276](http://arxiv.org/abs/2607.24276)|null|
+|**2026-07-26**|**An empirical investigation into the properties of standard word embeddings**|Salomon Kabongo et.al.|[2607.23675](http://arxiv.org/abs/2607.23675)|null|
+|**2026-07-24**|**Simple Language Normalization Wins: Cross-Lingual Speaker Verification for the TidyVoice 2026 Challenge**|Nina Hosseini-Kivanani et.al.|[2607.22923](http://arxiv.org/abs/2607.22923)|null|
+|**2026-07-24**|**Language-Routed RAG and Direct Option Scoring for Multilingual Financial QA: DS@GT at FinMMEval**|Justice Ayela et.al.|[2607.22841](http://arxiv.org/abs/2607.22841)|null|
 |**2026-07-24**|**A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation using Grammar Books**|Varun Ghat Ravikumar et.al.|[2607.22376](http://arxiv.org/abs/2607.22376)|null|
 |**2026-07-24**|**Biomedical Machine Translation for Low-Resource Arabic-Script Languages via Cross-Lingual Transfer and LoRA Adapter Merging**|Abdullah Alabdullah et.al.|[2607.22300](http://arxiv.org/abs/2607.22300)|null|
 |**2026-07-23**|**A Comparative Evaluation of Embeddings and LLMs in a Greek Book Publisher Setting - The CUP Dataset**|Katerina Papantoniou et.al.|[2607.21274](http://arxiv.org/abs/2607.21274)|null|
@@ -1748,7 +1762,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-19**|**KyrgyzLLM-Bench: Benchmarking Kyrgyz Language Understanding**|Timur Turatali et.al.|[2607.17173](http://arxiv.org/abs/2607.17173)|null|
 |**2026-07-18**|**JOR-Bench: Japanese Operations Research Benchmarks for Large Language Models**|Yuu Jinnai et.al.|[2607.16777](http://arxiv.org/abs/2607.16777)|null|
 |**2026-07-13**|**A ${}^2$ BM: Alignment-Aware Bridge Matching for Image-to-Image Translation**|Aimi Okabayashi et.al.|[2607.16294](http://arxiv.org/abs/2607.16294)|null|
-|**2026-07-17**|**Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content**|Ingo Ziegler et.al.|[2607.16117](http://arxiv.org/abs/2607.16117)|null|
+|**2026-07-17**|**Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content**|Ingo Ziegler et.al.|[2607.16117](http://arxiv.org/abs/2607.16117)|**[link](https://github.com/ziegler-ingo/rate-utility-frontiers)**|
 |**2026-07-17**|**LLMs Encode Relevance as a Layer-Wise Cross-Lingual Signal**|Pietro Bernardelle et.al.|[2607.15555](http://arxiv.org/abs/2607.15555)|null|
 |**2026-07-16**|**LLM-Driven AutoML for Cross-Lingual Handwritten OCR: Closed-Loop Neural Architecture Search with GPT-5, GPT-4o, and Claude Sonnet 4**|Mobina Kashaniyan et.al.|[2607.15509](http://arxiv.org/abs/2607.15509)|null|
 |**2026-07-21**|**When Benchmarks Mislead: Shortcut Learning, Length Confounds, and the Limits of Cross-Dataset Generalization in Multilingual Fake News and Sarcasm Detection**|Muhammad Abdullah Haroon et.al.|[2607.14131](http://arxiv.org/abs/2607.14131)|null|
@@ -1765,7 +1779,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-07**|**From Sinhala to Dhivehi: Cross-Lingual Transfer Learning for Low-Resource Speech Recognition**|Lukmal Ilyas et.al.|[2607.06289](http://arxiv.org/abs/2607.06289)|null|
 |**2026-07-07**|**CoPiT: Cognitive Pivot Translation for Digraphic Low-Resource Mongolian in the Traditional Script**|Burte Bayarsaikhan et.al.|[2607.05849](http://arxiv.org/abs/2607.05849)|null|
 |**2026-07-06**|**Ranking the Impact of Contextual Specialization in Neural Speech Enhancement**|Peter Leer et.al.|[2607.04826](http://arxiv.org/abs/2607.04826)|null|
-|**2026-07-06**|**Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition**|Andrei Florian et.al.|[2607.04814](http://arxiv.org/abs/2607.04814)|null|
+|**2026-07-27**|**Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition**|Andrei Florian et.al.|[2607.04814](http://arxiv.org/abs/2607.04814)|null|
 |**2026-07-04**|**When Simpler Is Better: Evaluating Translation Pipelines for Medieval Latin Manuscripts**|Nguyen Kim Hai Bui et.al.|[2607.03836](http://arxiv.org/abs/2607.03836)|null|
 |**2026-07-03**|**The Role of Prompt Language and Translation-Theory-Driven Prompts in Large Language Models: A Case Study on Spanish-Chinese Journalistic Translation**|Haohong Lai et.al.|[2607.03160](http://arxiv.org/abs/2607.03160)|null|
 |**2026-07-09**|**Distill Where the Student Goes: Teacher-Regularized RL for English-Evidence Cross-Lingual RAG**|Haotian Zhou et.al.|[2607.02966](http://arxiv.org/abs/2607.02966)|null|
@@ -1790,7 +1804,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-06-24**|**SARA: Unlocking Multilingual Knowledge in Mixture-of-Experts via Semantically Anchored Routing Alignment**|Tianyu Dong et.al.|[2606.25821](http://arxiv.org/abs/2606.25821)|null|
 |**2026-06-24**|**STEB: A Speech-to-Speech Translation Expressiveness Benchmark for Evaluating Beyond Translation Fidelity**|Sitong Cheng et.al.|[2606.25529](http://arxiv.org/abs/2606.25529)|null|
 |**2026-06-24**|**A Survey of Toxicity Detection and Mitigation Strategies for Multilingual Language Models**|Soham Dan et.al.|[2606.25380](http://arxiv.org/abs/2606.25380)|null|
-|**2026-06-24**|**Neural Machine Translation for Low-Resource Tangkhul--English**|Chormi Zimik Vashai et.al.|[2606.25365](http://arxiv.org/abs/2606.25365)|null|
+|**2026-07-25**|**Neural Machine Translation for Low-Resource Tangkhul--English**|Chormi Zimik Vashai et.al.|[2606.25365](http://arxiv.org/abs/2606.25365)|null|
 |**2026-06-23**|**L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models**|Hariom Ingle et.al.|[2606.24825](http://arxiv.org/abs/2606.24825)|null|
 |**2026-06-23**|**Measuring User's Mental Models of Speech Translation in Human-AI Collaboration**|HyoJung Han et.al.|[2606.24644](http://arxiv.org/abs/2606.24644)|null|
 |**2026-06-23**|**Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural Narratives in Large Language Models**|Jory Alshaalan et.al.|[2606.24610](http://arxiv.org/abs/2606.24610)|null|
@@ -2797,10 +2811,43 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## ⚡ Small Language Models {#small-language-models}
 
-*📊 5605 papers*
+*📊 5638 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation**|Tianyi Men et.al.|[2607.24720](http://arxiv.org/abs/2607.24720)|null|
+|**2026-07-27**|**MMOE: Modernizing Diffusion Transformers with Efficient Expert Design**|Yanhao Jia et.al.|[2607.24665](http://arxiv.org/abs/2607.24665)|null|
+|**2026-07-27**|**Light clusters in warm magnetized stellar matter: equation of state and thermodynamic response**|Luigi Scurto et.al.|[2607.24660](http://arxiv.org/abs/2607.24660)|null|
+|**2026-07-27**|**From Data to Device: ELMOD An Efficient German-First 2.7B Language Model for Mobile Inference**|Darina Gold et.al.|[2607.24585](http://arxiv.org/abs/2607.24585)|null|
+|**2026-07-27**|**Bit-Accurate FPGA Evaluation of Learned Feature Gating in a Fixed-Point Fourier-Feature Automatic Modulation Classifier**|Gawthaman Senthilvelan et.al.|[2607.24568](http://arxiv.org/abs/2607.24568)|null|
+|**2026-07-27**|**Bigger or Cheaper? Scale and Quantization Effects on Uncertainty Signals in Vision-Language Models Under Image Degradation**|M M Asif Ferdous et.al.|[2607.24440](http://arxiv.org/abs/2607.24440)|null|
+|**2026-07-27**|**A Bogoliubov-ratio framework for quantum-information diagnostics of time-dependent two-mode Boson Hamiltonian**|Shi-Cheng Liu et.al.|[2607.24404](http://arxiv.org/abs/2607.24404)|null|
+|**2026-07-27**|**MXAttention: Data-Free Optimal Scaling and Pre-Normalization Quantization for MXFP4 Attention**|Jianlin Yu et.al.|[2607.24377](http://arxiv.org/abs/2607.24377)|null|
+|**2026-07-27**|**Blow up and Concentration without Quantization: sharp Harnack type inequalities**|Daniele Bartolucci et.al.|[2607.24346](http://arxiv.org/abs/2607.24346)|null|
+|**2026-07-27**|**From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search**|Junlin Liu et.al.|[2607.24280](http://arxiv.org/abs/2607.24280)|null|
+|**2026-07-27**|**Strategy-Aware Parameter-Efficient Adaptation for LLM-based Auto-Bidding**|Songyue Cai et.al.|[2607.24232](http://arxiv.org/abs/2607.24232)|null|
+|**2026-07-27**|**LLM-based Source Code Compression via Thresholded Symbol Ranking**|Angelo Nardone et.al.|[2607.24192](http://arxiv.org/abs/2607.24192)|null|
+|**2026-07-27**|**A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference**|Zhuoran Song et.al.|[2607.24148](http://arxiv.org/abs/2607.24148)|null|
+|**2026-07-27**|**Marginal Data Augmentation for Efficient Bayesian Modeling of Counts and Rates with a Demographic Application**|Gregor Zens et.al.|[2607.24055](http://arxiv.org/abs/2607.24055)|null|
+|**2026-07-27**|**SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving**|Yihui Zhang et.al.|[2607.23933](http://arxiv.org/abs/2607.23933)|null|
+|**2026-07-26**|**Cross-System Neural Precoder: Exploiting Structural Consistency for Fast Adaptation**|Jia Guo et.al.|[2607.23738](http://arxiv.org/abs/2607.23738)|null|
+|**2026-07-26**|**Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation**|Changjing Liu et.al.|[2607.23694](http://arxiv.org/abs/2607.23694)|null|
+|**2026-07-26**|**Performance and Stability of Quantum Krylov Diagonalization for the Hubbard Model**|Mohammad Mirzakhani et.al.|[2607.23604](http://arxiv.org/abs/2607.23604)|null|
+|**2026-07-26**|**Multi-Modal Object Re-Identification with Prompt-S6 and Semantic-Aware Knowledge Guidance**|Weixiang Zhou et.al.|[2607.23451](http://arxiv.org/abs/2607.23451)|**[link](https://github.com/zw-absin/PRISM)**|
+|**2026-07-25**|**SPRKD: Effective Knowledge Distillation for Deep Neural Networks via Saddle Region Approximation**|Aditya Dewan et.al.|[2607.23346](http://arxiv.org/abs/2607.23346)|null|
+|**2026-07-25**|**PathRIR: Physics-Guided Acoustic Path Selection and Late-Tail Compensation for Fast Room Impulse Response Simulation**|Shaoheng Xu et.al.|[2607.23293](http://arxiv.org/abs/2607.23293)|null|
+|**2026-07-25**|**WaveZip: Wavelet-Driven Space-Time Decoupling for Video Token Condensation**|Yuhui Zeng et.al.|[2607.23265](http://arxiv.org/abs/2607.23265)|null|
+|**2026-07-25**|**FedTaste: Topology-Aware Structural Transfer for Multimodal Federated Learning with Missing Modalities**|Haochen Liang et.al.|[2607.23245](http://arxiv.org/abs/2607.23245)|null|
+|**2026-07-25**|**INT8 Quantization Makes ARM Edge Inference Dispatch-Invariant**|Sebastián A. Cruz Romero et.al.|[2607.23227](http://arxiv.org/abs/2607.23227)|null|
+|**2026-07-25**|**Energy-Efficient Dual-Band Communication: How to Allocate Traffic to Sub-THz Carriers?**|Anders Enqvist et.al.|[2607.23205](http://arxiv.org/abs/2607.23205)|null|
+|**2026-07-25**|**LoRA for Gender-Inclusive Rewriting and Activation Steering for Counter-Narrative Generation**|Akhil Rajeev P et.al.|[2607.23083](http://arxiv.org/abs/2607.23083)|null|
+|**2026-07-25**|**MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models**|Ashitabh Misra et.al.|[2607.23047](http://arxiv.org/abs/2607.23047)|null|
+|**2026-07-25**|**Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs**|Jouwon Song et.al.|[2607.23046](http://arxiv.org/abs/2607.23046)|null|
+|**2026-07-25**|**Mask2Shield: Strengthening LLM Safety against Neuron-Pruning Attacks**|Ying JinCheng et.al.|[2607.23015](http://arxiv.org/abs/2607.23015)|null|
+|**2026-07-24**|**iFVS: Towards Instance-Optimized Filtered Vector Search**|Abdullah Al-Mamun et.al.|[2607.22922](http://arxiv.org/abs/2607.22922)|null|
+|**2026-07-24**|**Efficient Learning of Truncated Boolean Product Distributions: Influence to the Rescue**|Rohan Chauhan et.al.|[2607.22889](http://arxiv.org/abs/2607.22889)|null|
+|**2026-07-24**|**Same Predictions, Different Reasons: The Effect of Quantization on Model Explanations**|Kazi Kamruzzaman Rabbi et.al.|[2607.22872](http://arxiv.org/abs/2607.22872)|null|
+|**2026-07-24**|**Universal scaling framework for parameterized quantum evolutions at criticality**|Jan T. Schneider et.al.|[2607.22863](http://arxiv.org/abs/2607.22863)|null|
 |**2026-07-24**|**IR275K: A Benchmark for Infrared Multi-Frame Super-Resolution Toward Efficient Remote Sensing**|Jie Deng et.al.|[2607.22380](http://arxiv.org/abs/2607.22380)|null|
 |**2026-07-24**|**Variational Low-rank Tensor Decomposition for Multisubject Spatiotemporal Data Analysis**|Laura M. Montaldo et.al.|[2607.22262](http://arxiv.org/abs/2607.22262)|null|
 |**2026-07-24**|**IFCLoRA: Topology-Aware Rank Allocation for Parameter-Efficient Fine-Tuning**|Wei Zhang et.al.|[2607.22251](http://arxiv.org/abs/2607.22251)|null|
@@ -8409,10 +8456,17 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🔄 Data Augmentation {#data-augmentation}
 
-*📊 1409 papers*
+*📊 1416 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Marginal Data Augmentation for Efficient Bayesian Modeling of Counts and Rates with a Demographic Application**|Gregor Zens et.al.|[2607.24055](http://arxiv.org/abs/2607.24055)|null|
+|**2026-07-27**|**RESTOR: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning**|Xun Zhou et.al.|[2607.23963](http://arxiv.org/abs/2607.23963)|null|
+|**2026-07-26**|**A Comparison of Data Augmentation Methods for Training Deep Neural Networks on Synthetic Aperture Sonar**|C. J. Moore et.al.|[2607.23770](http://arxiv.org/abs/2607.23770)|null|
+|**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096](http://arxiv.org/abs/2607.23096)|null|
+|**2026-07-25**|**The normalized expectation-maximization (N-EM) algorithm**|Guo-Liang Tian et.al.|[2607.23086](http://arxiv.org/abs/2607.23086)|null|
+|**2026-07-25**|**When Less Is More: A Controlled Benchmark of Lightweight CNNs for Satellite Land-Cover Segmentation on DeepGlobe**|Atiq Ur Rehman et.al.|[2607.23024](http://arxiv.org/abs/2607.23024)|null|
+|**2026-07-22**|**Structural Preservation Governs Data Augmentation in Deep Learning-Based Laser Speckle Material Classification**|Mohamed Abdallah Salem et.al.|[2607.22725](http://arxiv.org/abs/2607.22725)|null|
 |**2026-07-24**|**ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation**|Yunao Huang et.al.|[2607.22530](http://arxiv.org/abs/2607.22530)|null|
 |**2026-07-24**|**Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions**|Arthur Dantas Mangussi et.al.|[2607.21904](http://arxiv.org/abs/2607.21904)|null|
 |**2026-07-22**|**Real-Time EEG Cap Electrode Detection for Guided Point-of-Care Placement**|William Lehn-Schiøler et.al.|[2607.20142](http://arxiv.org/abs/2607.20142)|null|
@@ -8423,7 +8477,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-20**|**Addressing Limited Data in Auditory Attention Decoding with Diffusion Generative Models**|David Rannaleet et.al.|[2607.18345](http://arxiv.org/abs/2607.18345)|null|
 |**2026-07-20**|**Certified Training for Convolutional Perturbations**|Benedikt Brückner et.al.|[2607.18195](http://arxiv.org/abs/2607.18195)|null|
 |**2026-07-20**|**SGN: A Similarity-based Generative Network for Data Generation under Distribution Shift**|Jiaqi Zhu et.al.|[2607.18072](http://arxiv.org/abs/2607.18072)|null|
-|**2026-07-20**|**Toward Optimal Adenovirus Detection Using YOLO26**|Olivier Rukundo et.al.|[2607.17799](http://arxiv.org/abs/2607.17799)|null|
+|**2026-07-27**|**Toward Optimal Adenovirus Detection Using YOLO26**|Olivier Rukundo et.al.|[2607.17799](http://arxiv.org/abs/2607.17799)|null|
 |**2026-07-19**|**A Multi-Model Hybrid Defense Approach Against White-box Adversarial Attacks in Computer Network Traffic**|Khushnaseeb Roshan et.al.|[2607.17105](http://arxiv.org/abs/2607.17105)|null|
 |**2026-07-18**|**Pseudo-label distillation for discriminative anomalous sound detection**|Takuya Fujimura et.al.|[2607.16678](http://arxiv.org/abs/2607.16678)|null|
 |**2026-07-17**|**HybridSim: A Physics-Learning Hybrid Digital Twin for mmWave Human Sensing**|Weitao Xiong et.al.|[2607.15806](http://arxiv.org/abs/2607.15806)|null|
@@ -8458,7 +8512,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-02**|**From SRA to Self-Flow: Data Augmentation or Self-Supervision?**|Dengyang Jiang et.al.|[2607.02508](http://arxiv.org/abs/2607.02508)|null|
 |**2026-07-02**|**WorldSample: Closed-loop Real-robot RL with World Modelling**|Yuquan Xue et.al.|[2607.02431](http://arxiv.org/abs/2607.02431)|null|
 |**2026-07-09**|**Generalization in offline RL: The structure is more important than the amount of pessimism**|Max Weltevrede et.al.|[2607.02288](http://arxiv.org/abs/2607.02288)|null|
-|**2026-07-02**|**AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition**|Haiyang Li et.al.|[2607.02271](http://arxiv.org/abs/2607.02271)|null|
+|**2026-07-26**|**AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition**|Haiyang Li et.al.|[2607.02271](http://arxiv.org/abs/2607.02271)|null|
 |**2026-07-02**|**InterCMDM: Block-Causal Diffusion for Autoregressive Human Interaction Generation**|Qing Yu et.al.|[2607.01743](http://arxiv.org/abs/2607.01743)|null|
 |**2026-07-01**|**Generative AI and Federated Learning for Intrusion Detection Systems: A Survey**|Jiefei Liu et.al.|[2607.01305](http://arxiv.org/abs/2607.01305)|null|
 |**2026-07-01**|**TRCGL-Net: A Long-Tailed Multi-Label Chest X-Ray Classification Framework with Generative Data Augmentation and Label Co-Occurrence Modeling**|Tong Shao et.al.|[2607.00975](http://arxiv.org/abs/2607.00975)|null|
@@ -9825,17 +9879,31 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## 🎨 Synthetic Generation {#synthetic-generation}
 
-*📊 2342 papers*
+*📊 2356 papers*
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Causal-TS: A Python Library for Causal Discovery in High-Dimensional and Nonstationary Time Series**|Mohammad Fesanghary et.al.|[2607.24673](http://arxiv.org/abs/2607.24673)|null|
+|**2026-07-27**|**Retrieval-Augmented Large Language Models as Components of Cognitive Computing architecture for Regulatory Knowledge Management**|Dariusz Nowak-Nova et.al.|[2607.24352](http://arxiv.org/abs/2607.24352)|null|
+|**2026-07-27**|**Catalyst Diffusion Transformer: Generative Inverse Design of Heterogeneous Catalysts**|Hayoung Doo et.al.|[2607.24272](http://arxiv.org/abs/2607.24272)|null|
+|**2026-07-27**|**Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization**|Alexey Gavrilov et.al.|[2607.24176](http://arxiv.org/abs/2607.24176)|null|
+|**2026-07-27**|**Earthquake Aftershock Forecasting using Conditional Generative Models**|Weiqiang Zhu et.al.|[2607.24109](http://arxiv.org/abs/2607.24109)|null|
+|**2026-07-27**|**DailyBench: A Unified Benchmark for AI-Generated and Manipulated Images from Modern Generative Models**|Xin Jiang et.al.|[2607.24016](http://arxiv.org/abs/2607.24016)|null|
+|**2026-07-27**|**Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention**|Sounak Mondal et.al.|[2607.23917](http://arxiv.org/abs/2607.23917)|null|
+|**2026-07-27**|**SimBEV2X: A Large-Scale Dataset and Data Generation Tool for Multi-Task Vehicle-to-Everything Cooperative Perception**|Goodarz Mehr et.al.|[2607.23910](http://arxiv.org/abs/2607.23910)|null|
+|**2026-07-26**|**OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation**|Jun Zhan et.al.|[2607.23855](http://arxiv.org/abs/2607.23855)|null|
+|**2026-07-26**|**Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers**|Dongseong Hwang et.al.|[2607.23811](http://arxiv.org/abs/2607.23811)|null|
+|**2026-07-26**|**Post-FWI Injection of Learned Priors Using a Flow Matching Model**|Hao Zhang et.al.|[2607.23719](http://arxiv.org/abs/2607.23719)|null|
+|**2026-07-26**|**Offline-to-Online Creative Optimization with Generative Models and Adaptive Testing**|Kevin Lee et.al.|[2607.23696](http://arxiv.org/abs/2607.23696)|null|
+|**2026-07-25**|**Logit-Coordinate Generative Models for Mixed Continuous-Categorical Tabular Data**|Yuefei Shen et.al.|[2607.23348](http://arxiv.org/abs/2607.23348)|null|
+|**2026-07-25**|**All in One: Generative Modeling as Mean-Field Game Design**|Kun Zhao et.al.|[2607.23026](http://arxiv.org/abs/2607.23026)|null|
 |**2026-07-24**|**A Factorial Study of Synthetic Data Generation for Low-Resource Machine Translation using Grammar Books**|Varun Ghat Ravikumar et.al.|[2607.22376](http://arxiv.org/abs/2607.22376)|null|
 |**2026-07-24**|**Physics-Informed Neural Network for Modeling the Dynamic Behavior of Grid-Forming Converters**|Hussein Jaffal et.al.|[2607.22327](http://arxiv.org/abs/2607.22327)|null|
 |**2026-07-24**|**Variational Low-rank Tensor Decomposition for Multisubject Spatiotemporal Data Analysis**|Laura M. Montaldo et.al.|[2607.22262](http://arxiv.org/abs/2607.22262)|null|
 |**2026-07-24**|**Closed-Loop Generative Selection: Convergence, Memory, and Noisy Oracles**|Konstantin Fackeldey et.al.|[2607.22211](http://arxiv.org/abs/2607.22211)|null|
 |**2026-07-24**|**TriGlue: a Biology-Inspired Generative Model for Generating Molecular Glue-Induced Ternary Complex**|Yuliang Yan et.al.|[2607.22143](http://arxiv.org/abs/2607.22143)|null|
 |**2026-07-24**|**Diffusion-guided optimization for full waveform inversion**|Yiran Shen et.al.|[2607.21987](http://arxiv.org/abs/2607.21987)|null|
-|**2026-07-23**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
+|**2026-07-27**|**Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering**|Wenchao Ma et.al.|[2607.21848](http://arxiv.org/abs/2607.21848)|null|
 |**2026-07-22**|**Generative and multimodal AI for materials prediction and design: Progress, challenges, and perspectives**|Xianyuan Liu et.al.|[2607.21660](http://arxiv.org/abs/2607.21660)|null|
 |**2026-07-20**|**Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models**|Jie Zhang et.al.|[2607.21636](http://arxiv.org/abs/2607.21636)|null|
 |**2026-07-23**|**Synthetic data generation framework for quality control automation in gravure printing**|Korota Arsène Coulibaly et.al.|[2607.21577](http://arxiv.org/abs/2607.21577)|null|
@@ -9844,7 +9912,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-23**|**Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text**|Xu Wang et.al.|[2607.21072](http://arxiv.org/abs/2607.21072)|null|
 |**2026-07-23**|**PrefReward: Learning User Preference Matrix for Personalized Text Generation**|Yue Wu et.al.|[2607.21067](http://arxiv.org/abs/2607.21067)|null|
 |**2026-07-22**|**Persian Pixel: A large-scale synthetic OCR dataset for Persian language**|Pouria Mahdi et.al.|[2607.20385](http://arxiv.org/abs/2607.20385)|null|
-|**2026-07-22**|**Generative AI floods and dilutes the market for books**|Tuhin Chakrabarty et.al.|[2607.20349](http://arxiv.org/abs/2607.20349)|null|
+|**2026-07-26**|**Generative AI floods and dilutes the market for books**|Tuhin Chakrabarty et.al.|[2607.20349](http://arxiv.org/abs/2607.20349)|null|
 |**2026-07-22**|**Sentence Splitter: Uncovering Latent Factual Structure for Self-Supervised Learning**|Ahmad Pouramini et.al.|[2607.19845](http://arxiv.org/abs/2607.19845)|null|
 |**2026-07-21**|**SynPre-FL: Synthetic data-driven pretraining integrated Federated Learning training framework**|Akarsh K Nair et.al.|[2607.19524](http://arxiv.org/abs/2607.19524)|null|
 |**2026-07-21**|**Group-of-Latents: Perceptual Video Compression at Extreme Bitrates via Masked Latent Generative Modeling**|Shaokang Wang et.al.|[2607.19437](http://arxiv.org/abs/2607.19437)|null|
