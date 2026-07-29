@@ -10,7 +10,7 @@
 
 *Automatically curated collection of the latest research papers in Speech & Language Technology*
 
-📅 **Updated on 2026.07.28**
+📅 **Updated on 2026.07.29**
 
 ---
 
@@ -8517,15 +8517,17 @@ This repository provides a **daily-updated collection** of the latest research p
 
 ## Data Augmentation
 
-*📊 1416 papers*
+*📊 1418 papers*
 
 <div align="center">
 
 | 📅 **Publish Date** | 📝 **Title** | 👥 **Authors** | 📄 **PDF** | 💻 **Code** |
 |:---:|:---|:---:|:---:|:---:|
+|**2026-07-28**|**From Deterministic to Generative Deep Learning for Urban Air Quality Reconstruction from Sparse Observations**|Abhishek A. Sabnis et.al.|[2607.25687](http://arxiv.org/abs/2607.25687)|null|
+|**2026-07-23**|**Improving Rare Medication Recommendation with Counterfactual Data Augmentation and Large Language Models**|Shinhwan Kang et.al.|[2607.24829](http://arxiv.org/abs/2607.24829)|null|
 |**2026-07-27**|**Marginal Data Augmentation for Efficient Bayesian Modeling of Counts and Rates with a Demographic Application**|Gregor Zens et.al.|[2607.24055](http://arxiv.org/abs/2607.24055)|null|
 |**2026-07-27**|**RESTOR: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning**|Xun Zhou et.al.|[2607.23963](http://arxiv.org/abs/2607.23963)|null|
-|**2026-07-26**|**A Comparison of Data Augmentation Methods for Training Deep Neural Networks on Synthetic Aperture Sonar**|C. J. Moore et.al.|[2607.23770](http://arxiv.org/abs/2607.23770)|null|
+|**2026-07-28**|**A Comparison of Data Augmentation Methods for Training Deep Neural Networks on Synthetic Aperture Sonar**|C. J. Moore et.al.|[2607.23770](http://arxiv.org/abs/2607.23770)|null|
 |**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096](http://arxiv.org/abs/2607.23096)|null|
 |**2026-07-25**|**The normalized expectation-maximization (N-EM) algorithm**|Guo-Liang Tian et.al.|[2607.23086](http://arxiv.org/abs/2607.23086)|null|
 |**2026-07-25**|**When Less Is More: A Controlled Benchmark of Lightweight CNNs for Satellite Land-Cover Segmentation on DeepGlobe**|Atiq Ur Rehman et.al.|[2607.23024](http://arxiv.org/abs/2607.23024)|null|

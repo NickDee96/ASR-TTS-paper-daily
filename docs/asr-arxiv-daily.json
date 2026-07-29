@@ -9816,11 +9816,13 @@
     "2607.21904": "|**2026-07-24**|**Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions**|Arthur Dantas Mangussi et.al.|[2607.21904](http://arxiv.org/abs/2607.21904)|null|\n",
     "2607.24055": "|**2026-07-27**|**Marginal Data Augmentation for Efficient Bayesian Modeling of Counts and Rates with a Demographic Application**|Gregor Zens et.al.|[2607.24055](http://arxiv.org/abs/2607.24055)|null|\n",
     "2607.23963": "|**2026-07-27**|**RESTOR: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning**|Xun Zhou et.al.|[2607.23963](http://arxiv.org/abs/2607.23963)|null|\n",
-    "2607.23770": "|**2026-07-26**|**A Comparison of Data Augmentation Methods for Training Deep Neural Networks on Synthetic Aperture Sonar**|C. J. Moore et.al.|[2607.23770](http://arxiv.org/abs/2607.23770)|null|\n",
+    "2607.23770": "|**2026-07-28**|**A Comparison of Data Augmentation Methods for Training Deep Neural Networks on Synthetic Aperture Sonar**|C. J. Moore et.al.|[2607.23770](http://arxiv.org/abs/2607.23770)|null|\n",
     "2607.23096": "|**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096](http://arxiv.org/abs/2607.23096)|null|\n",
     "2607.23086": "|**2026-07-25**|**The normalized expectation-maximization (N-EM) algorithm**|Guo-Liang Tian et.al.|[2607.23086](http://arxiv.org/abs/2607.23086)|null|\n",
     "2607.23024": "|**2026-07-25**|**When Less Is More: A Controlled Benchmark of Lightweight CNNs for Satellite Land-Cover Segmentation on DeepGlobe**|Atiq Ur Rehman et.al.|[2607.23024](http://arxiv.org/abs/2607.23024)|null|\n",
-    "2607.22725": "|**2026-07-22**|**Structural Preservation Governs Data Augmentation in Deep Learning-Based Laser Speckle Material Classification**|Mohamed Abdallah Salem et.al.|[2607.22725](http://arxiv.org/abs/2607.22725)|null|\n"
+    "2607.22725": "|**2026-07-22**|**Structural Preservation Governs Data Augmentation in Deep Learning-Based Laser Speckle Material Classification**|Mohamed Abdallah Salem et.al.|[2607.22725](http://arxiv.org/abs/2607.22725)|null|\n",
+    "2607.25687": "|**2026-07-28**|**From Deterministic to Generative Deep Learning for Urban Air Quality Reconstruction from Sparse Observations**|Abhishek A. Sabnis et.al.|[2607.25687](http://arxiv.org/abs/2607.25687)|null|\n",
+    "2607.24829": "|**2026-07-23**|**Improving Rare Medication Recommendation with Counterfactual Data Augmentation and Large Language Models**|Shinhwan Kang et.al.|[2607.24829](http://arxiv.org/abs/2607.24829)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
