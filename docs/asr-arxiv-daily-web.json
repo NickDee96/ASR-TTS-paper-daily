@@ -953,7 +953,9 @@
     "2607.23813": "|**2026-07-26**|**Earnings25: A Comprehensive 500-Hour Speech Benchmark for Finance**|Denglin Jiang et.al.|[2607.23813](http://arxiv.org/abs/2607.23813)|null|\n",
     "2607.23675": "|**2026-07-26**|**An empirical investigation into the properties of standard word embeddings**|Salomon Kabongo et.al.|[2607.23675](http://arxiv.org/abs/2607.23675)|null|\n",
     "2607.23204": "|**2026-07-25**|**Low-Latency Turn-Taking via Context-Aware Preface Generation in a Real-World Dialogue Robot**|Yuki Okafuji et.al.|[2607.23204](http://arxiv.org/abs/2607.23204)|null|\n",
-    "2607.25716": "|**2026-07-28**|**SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies**|Mohamed Nabih Ali et.al.|[2607.25716](http://arxiv.org/abs/2607.25716)|null|\n"
+    "2607.25716": "|**2026-07-28**|**SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies**|Mohamed Nabih Ali et.al.|[2607.25716](http://arxiv.org/abs/2607.25716)|null|\n",
+    "2607.26567": "|**2026-07-29**|**Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots**|Hung Nguyen et.al.|[2607.26567](http://arxiv.org/abs/2607.26567)|null|\n",
+    "2607.26410": "|**2026-07-29**|**Voice Memory for Agentic Speech Recognition**|Chao-Han Huck Yang et.al.|[2607.26410](http://arxiv.org/abs/2607.26410)|**[link](https://github.com/Princeraj2424/Vibe-Talker-)**|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
@@ -1688,7 +1690,10 @@
     "2607.23938": "|**2026-07-27**|**Qwen-Audio-3.0-TTS: Freely Controllable and Highly Robust Speech Synthesis with Multi-Stage Training Paradigm**|Bajian Xiang et.al.|[2607.23938](http://arxiv.org/abs/2607.23938)|null|\n",
     "2607.23811": "|**2026-07-26**|**Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers**|Dongseong Hwang et.al.|[2607.23811](http://arxiv.org/abs/2607.23811)|null|\n",
     "2607.23027": "|**2026-07-25**|**Singlish, Can or Not? Fine-Tuning and Evaluating Zero-Shot TTS for Singapore English**|Ivan Kukanov et.al.|[2607.23027](http://arxiv.org/abs/2607.23027)|null|\n",
-    "2607.25351": "|**2026-07-28**|**Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization**|Gyeongmin Kim et.al.|[2607.25351](http://arxiv.org/abs/2607.25351)|null|\n"
+    "2607.25351": "|**2026-07-28**|**Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization**|Gyeongmin Kim et.al.|[2607.25351](http://arxiv.org/abs/2607.25351)|null|\n",
+    "2607.27011": "|**2026-07-29**|**Qwen-Audio-3.0-Gen-Preview Technical Report**|Junyu Dai et.al.|[2607.27011](http://arxiv.org/abs/2607.27011)|null|\n",
+    "2607.26742": "|**2026-07-29**|**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**|Carlos Muñoz-Romero et.al.|[2607.26742](http://arxiv.org/abs/2607.26742)|null|\n",
+    "2607.26698": "|**2026-07-29**|**MPEcho: A Melody and Phoneme-Aware Generative Framework for Controllable Cover Song Generation**|Wei-Jaw Lee et.al.|[2607.26698](http://arxiv.org/abs/2607.26698)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -2766,7 +2771,10 @@
     "2607.22923": "|**2026-07-24**|**Simple Language Normalization Wins: Cross-Lingual Speaker Verification for the TidyVoice 2026 Challenge**|Nina Hosseini-Kivanani et.al.|[2607.22923](http://arxiv.org/abs/2607.22923)|null|\n",
     "2607.22841": "|**2026-07-24**|**Language-Routed RAG and Direct Option Scoring for Multilingual Financial QA: DS@GT at FinMMEval**|Justice Ayela et.al.|[2607.22841](http://arxiv.org/abs/2607.22841)|null|\n",
     "2607.25633": "|**2026-07-28**|**Construction-Driven Injection: Linguistically-Grounded Edit-Based Code-Mixing Fingerprints for Large Language Models**|Yongyi Cui et.al.|[2607.25633](http://arxiv.org/abs/2607.25633)|null|\n",
-    "2607.25202": "|**2026-07-28**|**A Cross-lingual Comparison of Human and Classification Model Entrainment Behavior in Code-switched Speech Settings**|Debasmita Bhattacharya et.al.|[2607.25202](http://arxiv.org/abs/2607.25202)|null|\n"
+    "2607.25202": "|**2026-07-28**|**A Cross-lingual Comparison of Human and Classification Model Entrainment Behavior in Code-switched Speech Settings**|Debasmita Bhattacharya et.al.|[2607.25202](http://arxiv.org/abs/2607.25202)|null|\n",
+    "2607.27178": "|**2026-07-29**|**DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search**|Raphaël Sourty et.al.|[2607.27178](http://arxiv.org/abs/2607.27178)|null|\n",
+    "2607.26640": "|**2026-07-29**|**Contrastive ESA: Human Evaluation of Multiple Translations at Once**|Vilém Zouhar et.al.|[2607.26640](http://arxiv.org/abs/2607.26640)|null|\n",
+    "2607.26286": "|**2026-07-28**|**Evaluating Prompt Scope and Demonstration Similarity in Local LLM Machine Translation**|Mihael Arcan et.al.|[2607.26286](http://arxiv.org/abs/2607.26286)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -8422,7 +8430,7 @@
     "2607.25380": "|**2026-07-28**|**Memory for Large Language Models**|Sining Zhoubian et.al.|[2607.25380](http://arxiv.org/abs/2607.25380)|null|\n",
     "2607.25373": "|**2026-07-28**|**Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization**|Nikolai Kudasov et.al.|[2607.25373](http://arxiv.org/abs/2607.25373)|null|\n",
     "2607.25346": "|**2026-07-28**|**The Case Against Generation for Retrieval: Discriminative Language Models as Effective Retrievers**|Zhe Xu et.al.|[2607.25346](http://arxiv.org/abs/2607.25346)|null|\n",
-    "2607.25335": "|**2026-07-28**|**Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors**|Jianfei Ma et.al.|[2607.25335](http://arxiv.org/abs/2607.25335)|null|\n",
+    "2607.25335": "|**2026-07-29**|**Every Time I Hire a Linguist, Inference Costs Go Down: On Linguistic Rules as Effective Prompt Compressors**|Jianfei Ma et.al.|[2607.25335](http://arxiv.org/abs/2607.25335)|null|\n",
     "2607.25289": "|**2026-07-28**|**AMRD: Adaptive Multi-Teacher Relational Distillation for Lightweight Speech Emotion Recognition**|Yuqi Li et.al.|[2607.25289](http://arxiv.org/abs/2607.25289)|null|\n",
     "2607.25275": "|**2026-07-28**|**ScaleResfusion: Residual Rectified Flow based on Residual Vector Field**|Zhenning Shi et.al.|[2607.25275](http://arxiv.org/abs/2607.25275)|null|\n",
     "2607.25209": "|**2026-07-28**|**VaLiDRec: Variable-Length LLM-Aligned Semantic IDs for Generative Recommendation**|Shutong Qiao et.al.|[2607.25209](http://arxiv.org/abs/2607.25209)|null|\n",
@@ -8431,7 +8439,22 @@
     "2607.25091": "|**2026-07-27**|**Towards Robust Reinforcement Learning for Small-Scale Language Model Agents**|Md Rezwanul Haque et.al.|[2607.25091](http://arxiv.org/abs/2607.25091)|null|\n",
     "2607.24981": "|**2026-07-27**|**Enabling Fully Integer-Only Inference for Lightweight Detection Transformers**|Thanh Cong Le et.al.|[2607.24981](http://arxiv.org/abs/2607.24981)|null|\n",
     "2607.24953": "|**2026-07-27**|**Stable FP4 Training via Transposition-Invariant Block Quantization**|Mehdi Rahimifar et.al.|[2607.24953](http://arxiv.org/abs/2607.24953)|null|\n",
-    "2607.24898": "|**2026-07-27**|**Harm is not Universal: Community-Specific Toxicity Detection is Urgently Needed**|Xinnuo Xu et.al.|[2607.24898](http://arxiv.org/abs/2607.24898)|null|\n"
+    "2607.24898": "|**2026-07-27**|**Harm is not Universal: Community-Specific Toxicity Detection is Urgently Needed**|Xinnuo Xu et.al.|[2607.24898](http://arxiv.org/abs/2607.24898)|null|\n",
+    "2607.27205": "|**2026-07-29**|**TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM**|Hengyi Xie et.al.|[2607.27205](http://arxiv.org/abs/2607.27205)|null|\n",
+    "2607.27172": "|**2026-07-29**|**Improving Item Discoverability in e-Commerce Search via Related Intent Generation**|Ji Xin et.al.|[2607.27172](http://arxiv.org/abs/2607.27172)|null|\n",
+    "2607.27146": "|**2026-07-29**|**MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis**|Yihao Chen et.al.|[2607.27146](http://arxiv.org/abs/2607.27146)|null|\n",
+    "2607.27087": "|**2026-07-29**|**Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation**|Philippe Baumstimler et.al.|[2607.27087](http://arxiv.org/abs/2607.27087)|null|\n",
+    "2607.27054": "|**2026-07-29**|**CoCaRS: Correlation Calibration-Based Redundancy Suppression for Heterogeneous Knowledge Distillation**|Fengming Yu et.al.|[2607.27054](http://arxiv.org/abs/2607.27054)|null|\n",
+    "2607.26959": "|**2026-07-29**|**Efficient Channel Prediction based on Gram-Square-Root Factorization using GMMs**|Kathrin Klein et.al.|[2607.26959](http://arxiv.org/abs/2607.26959)|null|\n",
+    "2607.26925": "|**2026-07-29**|**Sparse Quantum Voxel Encoding for Readout-Efficient Molecular Geometry Reconstruction on NISQ Devices**|Eros De Simone et.al.|[2607.26925](http://arxiv.org/abs/2607.26925)|null|\n",
+    "2607.26921": "|**2026-07-29**|**From Keypoints to Predictive Distributions: Post-Hoc Uncertainty for YOLO-Pose Models**|Alexej Klushyn et.al.|[2607.26921](http://arxiv.org/abs/2607.26921)|null|\n",
+    "2607.26596": "|**2026-07-29**|**Decoupled Visual Processing: Efficient Multimodal Adaptation via Modality-Specific Transformer Substitution**|Mingkuan Feng et.al.|[2607.26596](http://arxiv.org/abs/2607.26596)|null|\n",
+    "2607.26525": "|**2026-07-29**|**AtlasLC: Fast Codec-Ready Compression of Object-Centric 3D Gaussian Splatting**|ByungHyun Kim et.al.|[2607.26525](http://arxiv.org/abs/2607.26525)|null|\n",
+    "2607.26515": "|**2026-07-29**|**HiFloat4 Format for End-To-End Reinforcement Learning Post-Training of Large Language Models**|Hei Yi Mak et.al.|[2607.26515](http://arxiv.org/abs/2607.26515)|null|\n",
+    "2607.26500": "|**2026-07-29**|**Multi-Decoder OneRec: Controllable Generative Retrieval for Multi-Objective Industrial Recommendation**|You Wang et.al.|[2607.26500](http://arxiv.org/abs/2607.26500)|null|\n",
+    "2607.26238": "|**2026-07-28**|**Lightweight Image Classification of Raptor Species for Edge Devices: Rare-Species Dataset Expansion via Video Frame Extraction, Knowledge Distillation, and TensorRT Deployment**|Takeshi Nishikawa et.al.|[2607.26238](http://arxiv.org/abs/2607.26238)|null|\n",
+    "2607.26208": "|**2026-07-28**|**MEDA: Measurement-Efficient Disorder-Aware Majorana Zero Mode Detection in Realistic Devices**|Nathan Jones et.al.|[2607.26208](http://arxiv.org/abs/2607.26208)|null|\n",
+    "2607.26146": "|**2026-07-28**|**Lindbladian quantization of mechanical systems with nonholonomic constraints**|Daniel Schubring et.al.|[2607.26146](http://arxiv.org/abs/2607.26146)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -9845,13 +9868,17 @@
     "2607.21904": "|**2026-07-24**|**Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions**|Arthur Dantas Mangussi et.al.|[2607.21904](http://arxiv.org/abs/2607.21904)|null|\n",
     "2607.24055": "|**2026-07-27**|**Marginal Data Augmentation for Efficient Bayesian Modeling of Counts and Rates with a Demographic Application**|Gregor Zens et.al.|[2607.24055](http://arxiv.org/abs/2607.24055)|null|\n",
     "2607.23963": "|**2026-07-27**|**RESTOR: Automated Test Oracle Generation for RESTful APIs via Reinforcement Learning**|Xun Zhou et.al.|[2607.23963](http://arxiv.org/abs/2607.23963)|null|\n",
-    "2607.23770": "|**2026-07-28**|**A Comparison of Data Augmentation Methods for Training Deep Neural Networks on Synthetic Aperture Sonar**|C. J. Moore et.al.|[2607.23770](http://arxiv.org/abs/2607.23770)|null|\n",
+    "2607.23770": "|**2026-07-29**|**A Comparison of Data Augmentation Methods for Training Deep Neural Networks on Synthetic Aperture Sonar**|C. J. Moore et.al.|[2607.23770](http://arxiv.org/abs/2607.23770)|null|\n",
     "2607.23096": "|**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096](http://arxiv.org/abs/2607.23096)|null|\n",
     "2607.23086": "|**2026-07-25**|**The normalized expectation-maximization (N-EM) algorithm**|Guo-Liang Tian et.al.|[2607.23086](http://arxiv.org/abs/2607.23086)|null|\n",
     "2607.23024": "|**2026-07-25**|**When Less Is More: A Controlled Benchmark of Lightweight CNNs for Satellite Land-Cover Segmentation on DeepGlobe**|Atiq Ur Rehman et.al.|[2607.23024](http://arxiv.org/abs/2607.23024)|null|\n",
     "2607.22725": "|**2026-07-22**|**Structural Preservation Governs Data Augmentation in Deep Learning-Based Laser Speckle Material Classification**|Mohamed Abdallah Salem et.al.|[2607.22725](http://arxiv.org/abs/2607.22725)|null|\n",
     "2607.25687": "|**2026-07-28**|**From Deterministic to Generative Deep Learning for Urban Air Quality Reconstruction from Sparse Observations**|Abhishek A. Sabnis et.al.|[2607.25687](http://arxiv.org/abs/2607.25687)|null|\n",
-    "2607.24829": "|**2026-07-23**|**Improving Rare Medication Recommendation with Counterfactual Data Augmentation and Large Language Models**|Shinhwan Kang et.al.|[2607.24829](http://arxiv.org/abs/2607.24829)|null|\n"
+    "2607.24829": "|**2026-07-23**|**Improving Rare Medication Recommendation with Counterfactual Data Augmentation and Large Language Models**|Shinhwan Kang et.al.|[2607.24829](http://arxiv.org/abs/2607.24829)|null|\n",
+    "2607.26949": "|**2026-07-29**|**Bayesian Plackett--Luce latent block models for ranked data**|Lapo Santi et.al.|[2607.26949](http://arxiv.org/abs/2607.26949)|null|\n",
+    "2607.26765": "|**2026-07-29**|**Searching for Robust Augmentations to Improve Out-of-Domain Generalization in Dermoscopic Skin Cancer Classification**|Alexander Kozachok et.al.|[2607.26765](http://arxiv.org/abs/2607.26765)|null|\n",
+    "2607.26703": "|**2026-07-29**|**Sequence-SOD: Bio-inspired Sequence-aware Spiking ObjectDetection for Event Cameras**|Katharina Bendig et.al.|[2607.26703](http://arxiv.org/abs/2607.26703)|null|\n",
+    "2607.26469": "|**2026-07-29**|**Bayesian Graphical Models under Positivity Constraints: A Scalable generalized likelihood Approach**|Swarnali Raha et.al.|[2607.26469](http://arxiv.org/abs/2607.26469)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -12213,6 +12240,9 @@
     "2607.25929": "|**2026-07-28**|**Can Deep Generative Models Reproduce Non-Stationary Gaussian Random Fields?**|Daniel Kua et.al.|[2607.25929](http://arxiv.org/abs/2607.25929)|null|\n",
     "2607.25554": "|**2026-07-28**|**Distilling Temporal Search and Reasoning: Evolving LLMs for Future Prediction via Harness-Assisted Efficient Data Synthesis**|Wanxu Cai et.al.|[2607.25554](http://arxiv.org/abs/2607.25554)|null|\n",
     "2607.25530": "|**2026-07-28**|**Finding the noise: Zero-shot AI Music Detection**|Darius Afchar et.al.|[2607.25530](http://arxiv.org/abs/2607.25530)|null|\n",
-    "2607.24983": "|**2026-07-27**|**Generative Distributionally Robust Optimization**|Ziwei Zhang et.al.|[2607.24983](http://arxiv.org/abs/2607.24983)|null|\n"
+    "2607.24983": "|**2026-07-27**|**Generative Distributionally Robust Optimization**|Ziwei Zhang et.al.|[2607.24983](http://arxiv.org/abs/2607.24983)|null|\n",
+    "2607.26968": "|**2026-07-29**|**From Crop and Energy Data to Optimized Lighting Scheduling: A Surrogate-Based MILP Framework for Vertical Farming**|Francesco Ceccanti et.al.|[2607.26968](http://arxiv.org/abs/2607.26968)|null|\n",
+    "2607.26711": "|**2026-07-29**|**Generative AI Beyond Tokens: Quantum Resource Consumption of IQP Circuits**|Tom Krüger et.al.|[2607.26711](http://arxiv.org/abs/2607.26711)|null|\n",
+    "2607.26368": "|**2026-07-29**|**Diagnosing Fine-Grained Inconsistency Classification in Financial Disclosure Text**|Aman Kumar et.al.|[2607.26368](http://arxiv.org/abs/2607.26368)|null|\n"
   }
 }
