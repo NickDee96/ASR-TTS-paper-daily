@@ -1803,7 +1803,7 @@ This repository provides a **daily-updated collection** of the latest research p
 |**2026-07-22**|**Language-Specific versus Cross-Lingual Knowledge Graphs for Implicit Aspect Identification in Arabic: A Comparative Study of Reasoning and Adaptation Strategies**|Lujain A. Alawwad et.al.|[2607.20056](http://arxiv.org/abs/2607.20056)|null|
 |**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|
 |**2026-07-22**|**SimulS2ST-Omni: Data-Efficient Streaming Speech-to-Speech Translation via Explicit Trajectory Supervision**|Rongshen He et.al.|[2607.19810](http://arxiv.org/abs/2607.19810)|null|
-|**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243](http://arxiv.org/abs/2607.19243)|**[link](https://github.com/alexandermanev/cross-lingual-llm-consistency)**|
+|**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243](http://arxiv.org/abs/2607.19243)|null|
 |**2026-07-21**|**The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation**|Michael Jungo et.al.|[2607.19226](http://arxiv.org/abs/2607.19226)|null|
 |**2026-07-21**|**Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning**|Aixiu An et.al.|[2607.19181](http://arxiv.org/abs/2607.19181)|null|
 |**2026-07-21**|**Translation as Augmentation: Effect of Translated Data on Assessment of Difficulty**|Yiheng Wu et.al.|[2607.19101](http://arxiv.org/abs/2607.19101)|null|
