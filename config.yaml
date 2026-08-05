@@ -43,8 +43,8 @@ data_products:
     output_path: './site/public/data'
     latest_limit: 100
 
-publish_readme: True
-publish_gitpage: True
+publish_readme: False
+publish_gitpage: False
 publish_wechat: False
 
 # file paths

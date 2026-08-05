@@ -93,6 +93,11 @@ jobs:
             --previous previous/manifest.json
       - name: Enforce payload budgets
         run: python check_payload_budget.py --dist site/dist
+      - name: Smoke-test the complete migrated ID set
+        run: |
+          python smoke_test_site.py \
+            --baseline-ids migration/baseline-paper-ids.txt \
+            --dist site/dist
       - name: Install Playwright browser
         working-directory: site
         run: npx playwright install --with-deps chromium
