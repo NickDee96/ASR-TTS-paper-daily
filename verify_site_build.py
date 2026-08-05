@@ -38,9 +38,14 @@ def verify_site_build(canonical_path: Path, dist_root: Path) -> dict[str, Any]:
         dist_root / "offline" / "index.html",
         dist_root / "sw.js",
     ]
+    required_seo_files = [
+        dist_root / "robots.txt",
+        dist_root / "llms.txt",
+        dist_root / "sitemap-index.xml",
+    ]
     missing_shell_files = [
         path.relative_to(dist_root).as_posix()
-        for path in required_shell_files
+        for path in required_shell_files + required_seo_files
         if not path.is_file()
     ]
     if (

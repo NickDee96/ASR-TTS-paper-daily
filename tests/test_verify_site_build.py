@@ -50,6 +50,9 @@ class VerifySiteBuildTests(unittest.TestCase):
         offline = self.dist / "offline" / "index.html"
         offline.parent.mkdir()
         offline.write_text("<h1>Offline</h1>", encoding="utf-8")
+        (self.dist / "robots.txt").write_text("User-agent: *\n", encoding="utf-8")
+        (self.dist / "llms.txt").write_text("# ASR-TTS Paper Daily\n", encoding="utf-8")
+        (self.dist / "sitemap-index.xml").write_text("<sitemapindex></sitemapindex>", encoding="utf-8")
         assets = self.dist / "_astro"
         assets.mkdir()
         (assets / "client.hash.js").write_text("// client", encoding="utf-8")
@@ -79,6 +82,11 @@ class VerifySiteBuildTests(unittest.TestCase):
     def test_rejects_missing_offline_shell_files(self):
         (self.dist / "sw.js").unlink()
         with self.assertRaisesRegex(ValueError, "sw.js"):
+            verify_site_build(self.canonical, self.dist)
+
+    def test_rejects_missing_seo_files(self):
+        (self.dist / "robots.txt").unlink()
+        with self.assertRaisesRegex(ValueError, "robots.txt"):
             verify_site_build(self.canonical, self.dist)
 
     def test_rejects_missing_precache_files(self):

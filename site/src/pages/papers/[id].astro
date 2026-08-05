@@ -55,6 +55,27 @@ const reportBody = [
   '',
 ].join('\n');
 const reportUrl = `https://github.com/NickDee96/ASR-TTS-paper-daily/issues/new?labels=${encodeURIComponent('paper-report')}&title=${encodeURIComponent(reportTitle)}&body=${encodeURIComponent(reportBody)}`;
+const canonicalUrl = new URL(withBase(`/papers/${paper.id}/`), Astro.site).toString();
+const jsonLd: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': 'ScholarlyArticle',
+  headline: paper.title,
+  name: paper.title,
+  url: canonicalUrl,
+  sameAs: paper.paperUrl,
+  identifier: `arXiv:${paper.id}`,
+  isAccessibleForFree: true,
+  isPartOf: { '@type': 'WebSite', name: 'ASR-TTS Paper Daily', url: new URL(withBase('/'), Astro.site).toString() },
+};
+if (paper.recordStatus === 'complete') jsonLd.abstract = paper.abstract;
+if (paper.published !== 'Unknown') jsonLd.datePublished = paper.published;
+if (paper.updated !== 'Unknown') jsonLd.dateModified = paper.updated;
+if (paper.authorDetails.length > 0) {
+  jsonLd.author = paper.authorDetails.map((author) => ({ '@type': 'Person', name: author.name }));
+}
+if (paper.topics.length > 0) jsonLd.keywords = paper.topics.join(', ');
+if (paper.categories.length > 0) jsonLd.about = paper.categories.join(', ');
+const jsonLdScript = JSON.stringify(jsonLd).replace(/<\/script/gi, '<\\/script');
 ---
 
 <BaseLayout title={`${paper.title} | ASR-TTS Paper Daily`} description={paper.abstract} active="papers" ogType="article">
@@ -68,6 +89,7 @@ const reportUrl = `https://github.com/NickDee96/ASR-TTS-paper-daily/issues/new?l
     {paper.journalReference && <meta name="citation_journal_title" content={paper.journalReference} />}
     {paper.published !== 'Unknown' && <meta property="article:published_time" content={paper.published} />}
     {paper.updated !== 'Unknown' && <meta property="article:modified_time" content={paper.updated} />}
+    <script type="application/ld+json" is:inline set:html={jsonLdScript} />
   </Fragment>
   <div class="page-shell">
     <PaperSeenTracker client:only="react" paperId={paper.id} />

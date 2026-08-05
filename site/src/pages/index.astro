@@ -11,6 +11,20 @@ import { withBase } from '../lib/paths';
 const allPapers = loadPapers();
 const archiveSummary = loadArchiveSummary();
 const recentPapers = allPapers.slice(0, 25);
+const siteUrl = new URL(withBase('/'), Astro.site).toString();
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'ASR-TTS Paper Daily',
+  url: siteUrl,
+  description: 'A searchable daily archive of speech and language research.',
+  potentialAction: {
+    '@type': 'SearchAction',
+    target: `${new URL(withBase('/search/'), Astro.site).toString()}?q={search_term_string}`,
+    'query-input': 'required name=search_term_string',
+  },
+};
+const jsonLdScript = JSON.stringify(jsonLd).replace(/<\/script/gi, '<\\/script');
 ---
 
 <BaseLayout
@@ -18,6 +32,9 @@ const recentPapers = allPapers.slice(0, 25);
 	description="A searchable daily archive of speech and language research."
 	active="feed"
 >
+	<Fragment slot="head">
+		<script type="application/ld+json" is:inline set:html={jsonLdScript} />
+	</Fragment>
 	<div class="page-shell">
 		<section class="workspace-heading" aria-labelledby="page-title">
 			<div>

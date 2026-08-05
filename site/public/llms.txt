@@ -1,0 +1,41 @@
+# ASR-TTS Paper Daily
+
+> A daily-updated, searchable static archive of speech and language research
+> from arXiv, covering automatic speech recognition, text-to-speech, machine
+> translation, small language models, data augmentation, and synthetic
+> generation. Content is derived from public arXiv metadata; each paper links
+> back to its canonical arXiv record.
+
+Built with Astro and Pagefind. Fully static, no login, no tracking. Every
+page listed below is safe to fetch and parse directly.
+
+## Key pages
+
+- [Daily feed](https://nickdee96.github.io/ASR-TTS-paper-daily/): newest and recently revised papers.
+- [Search](https://nickdee96.github.io/ASR-TTS-paper-daily/search/): full-text search with topic, category, date, and code-availability filters. Filters and query are encoded in the URL query string (e.g. `?q=whisper&topic=ASR&sort=newest`).
+- [Archive status](https://nickdee96.github.io/ASR-TTS-paper-daily/status/): last successful update time, collection run counts, and archive-wide statistics (paper totals, monthly additions, category distribution, verified-code coverage).
+- Paper pages: `https://nickdee96.github.io/ASR-TTS-paper-daily/papers/<arxiv-id>/` — one stable page per versionless arXiv ID, with title, authors, abstract, dates, arXiv categories, topic assignment with matching evidence, and code-repository provenance (verified vs. unverified).
+
+## Machine-readable data
+
+- [Manifest](https://nickdee96.github.io/ASR-TTS-paper-daily/data/manifest.json): schema version, shard list, paper counts, and last-update timestamp.
+- [Latest papers](https://nickdee96.github.io/ASR-TTS-paper-daily/data/latest.json): bounded JSON of the most recent papers.
+- [Facets](https://nickdee96.github.io/ASR-TTS-paper-daily/data/facets.json) / [Statistics](https://nickdee96.github.io/ASR-TTS-paper-daily/data/statistics.json) / [Status](https://nickdee96.github.io/ASR-TTS-paper-daily/data/status.json): topic/category/year facet counts, archive-wide statistics, and update health.
+- [Atom feed, all papers](https://nickdee96.github.io/ASR-TTS-paper-daily/data/feeds/all.xml): bounded feed of the newest papers across all topics.
+- Per-topic Atom feeds: `https://nickdee96.github.io/ASR-TTS-paper-daily/data/feeds/topic-<slug>.xml` for `asr`, `tts`, `machine-translation`, `small-language-models`, `data-augmentation`, `synthetic-generation`.
+- [Sitemap](https://nickdee96.github.io/ASR-TTS-paper-daily/sitemap-index.xml): every paper and section route.
+
+## Citation exports
+
+Each paper page offers Copy citation, BibTeX, and RIS downloads. Search
+results support bulk export as BibTeX, RIS, CSV, or Markdown for selected
+papers.
+
+## Attribution and scope
+
+Paper titles, abstracts, authors, and dates originate from arXiv
+(https://arxiv.org) and are reproduced here for discovery purposes; consult
+the linked arXiv page for the authoritative record. Topic assignment,
+verified-code status, and site code are original to this project
+(Apache-2.0, https://github.com/NickDee96/ASR-TTS-paper-daily). Do not
+represent this archive as the original source of a paper's content.
