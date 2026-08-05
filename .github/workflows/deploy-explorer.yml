@@ -1,0 +1,147 @@
+# Builds the static explorer, gates it, and deploys to GitHub Pages.
+# Collection of new papers is handled upstream (see cv-arxiv-daily.yml); this
+# workflow rebuilds the explorer from the committed archive and publishes it.
+name: Build and Deploy Explorer
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Offset from the collection workflow (00:00/12:00) so the archive is fresh.
+    - cron: "0 2,14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two runs publish or race archive writes at the same time.
+concurrency:
+  group: explorer-pages
+  cancel-in-progress: false
+
+env:
+  PYTHON_VERSION: "3.12"
+  NODE_VERSION: "22"
+
+jobs:
+  validate:
+    name: Validate data and units
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Run Python unit tests
+        run: python -m unittest discover -s tests -p "test_*.py"
+      - name: Install site dependencies
+        working-directory: site
+        run: npm ci
+      - name: Type-check the site
+        working-directory: site
+        run: npm run check
+      - name: Run frontend unit tests
+        working-directory: site
+        run: npm run test:unit
+
+  build:
+    name: Build, gate, and test the site
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Install site dependencies
+        working-directory: site
+        run: npm ci
+      - name: Fetch the previously published manifest
+        run: |
+          mkdir -p previous
+          curl -sfL "https://nickdee96.github.io/ASR-TTS-paper-daily/data/manifest.json" \
+            -o previous/manifest.json || echo "No previous deployment to compare against."
+      - name: Build the static site
+        working-directory: site
+        run: npm run build
+      - name: Guard against empty or collapsed archives
+        run: |
+          python check_archive_health.py \
+            --current site/dist/data/manifest.json \
+            --previous previous/manifest.json
+      - name: Enforce payload budgets
+        run: python check_payload_budget.py --dist site/dist
+      - name: Install Playwright browser
+        working-directory: site
+        run: npx playwright install --with-deps chromium
+      - name: Run accessibility and workflow tests
+        working-directory: site
+        run: npm run test:e2e
+      - name: Publish run summary
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+
+          manifest_path = Path("site/dist/data/manifest.json")
+          status_path = Path("site/dist/data/status.json")
+          print("## Explorer build summary\n")
+          if manifest_path.is_file():
+              manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+              print(f"- Unique papers: **{manifest.get('unique_papers', 'n/a')}**")
+              print(f"- Updated at: {manifest.get('updated_at', 'n/a')}")
+              print(f"- Shards: {len(manifest.get('shards', []))}")
+          else:
+              print("- Build did not produce a manifest.")
+          if status_path.is_file():
+              status = json.loads(status_path.read_text(encoding="utf-8"))
+              run = status.get("latest_run")
+              if run:
+                  print(
+                      f"- Latest run: fetched {run.get('fetched')}, "
+                      f"accepted {run.get('accepted')}, inserted {run.get('inserted')}, "
+                      f"updated {run.get('updated')}"
+                  )
+          PY
+      - name: Upload the Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    # Pull requests are built and tested but never deployed.
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the Pages artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
