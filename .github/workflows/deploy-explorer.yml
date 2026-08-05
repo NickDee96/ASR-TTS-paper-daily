@@ -83,6 +83,12 @@ jobs:
           mkdir -p previous
           curl -sfL "https://nickdee96.github.io/ASR-TTS-paper-daily/data/manifest.json" \
             -o previous/manifest.json || echo "No previous deployment to compare against."
+      - name: Refresh the migration baseline from the current archive
+        run: |
+          python archive_baseline.py \
+            --archive docs/asr-arxiv-daily.json \
+            --ids-output migration/baseline-paper-ids.txt \
+            --output migration/baseline-report.json
       - name: Build the static site
         working-directory: site
         run: npm run build
