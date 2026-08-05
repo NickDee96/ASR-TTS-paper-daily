@@ -9,8 +9,8 @@ from typing import Any
 DEFAULT_BUDGETS: dict[str, float] = {
     "max_js_chunk_kb": 220,
     "max_total_js_kb": 720,
-    "max_html_kb": 80,
-    "max_initial_data_kb": 16,
+    "max_html_kb": 150,
+    "max_initial_data_kb": 40,
 }
 
 

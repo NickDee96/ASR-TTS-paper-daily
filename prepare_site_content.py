@@ -9,7 +9,7 @@ from typing import Any
 from build_data_products import build_data_products
 from migrate_legacy import migrate_archive
 from paper_collector import UTC, _parse_timestamp
-from paper_store import atomic_write_json
+from paper_store import atomic_write_json, merge_canonical_records
 
 
 REPOSITORY_ROOT = Path(__file__).resolve().parent
@@ -77,6 +77,7 @@ def prepare_site_content(
     feed_limit: int = 50,
     run_manifest_path: Path | None = None,
     stale_after_hours: int = 36,
+    persisted_canonical_path: Path | None = None,
 ) -> dict[str, Any]:
     records, migration_report, backfill_ids = migrate_archive(
         _read_json_object(archive_path),
@@ -90,6 +91,19 @@ def prepare_site_content(
             f"schema_issues={len(migration_report['schema_issues'])}"
         )
 
+    # A persisted archive may already hold richer metadata (real abstracts, authors,
+    # categories, dates) from a prior backfill run. Overlay it onto the freshly
+    # migrated set so that enrichment survives rebuilds instead of reverting to
+    # "partial"/"legacy" every time, while still picking up any new legacy IDs.
+    if persisted_canonical_path is not None and persisted_canonical_path.is_file():
+        persisted_records = _read_json_object(persisted_canonical_path)
+        records, _ = merge_canonical_records(existing=records, incoming=persisted_records)
+        backfill_ids = sorted(
+            paper_id
+            for paper_id, record in records.items()
+            if record.get("record_status") != "complete"
+        )
+
     run_manifest: dict[str, Any] | None = None
     if run_manifest_path is not None and run_manifest_path.is_file():
         run_manifest = _read_json_object(run_manifest_path)
@@ -97,6 +111,8 @@ def prepare_site_content(
     effective_updated_at = updated_at or _derive_updated_at(records)
     canonical_path = generated_root / "canonical.json"
     atomic_write_json(canonical_path, records)
+    if persisted_canonical_path is not None:
+        atomic_write_json(persisted_canonical_path, records)
     atomic_write_json(generated_root / "migration-report.json", migration_report)
     _atomic_write_lines(generated_root / "backfill-paper-ids.txt", backfill_ids)
     manifest = build_data_products(
@@ -151,6 +167,11 @@ def main() -> int:
     parser.add_argument("--latest-limit", type=int, default=100)
     parser.add_argument("--config", type=Path, default=REPOSITORY_ROOT / "config.yaml")
     parser.add_argument("--run-manifest", type=Path)
+    parser.add_argument(
+        "--persisted-canonical",
+        type=Path,
+        default=REPOSITORY_ROOT / "data" / "canonical-archive.json",
+    )
     args = parser.parse_args()
 
     import yaml
@@ -174,6 +195,7 @@ def main() -> int:
         feed_limit=int(product_config.get("feed_limit", 50)),
         run_manifest_path=args.run_manifest,
         stale_after_hours=int(product_config.get("stale_after_hours", 36)),
+        persisted_canonical_path=args.persisted_canonical,
     )
     print(json.dumps(summary, ensure_ascii=False, sort_keys=True))
     return 0

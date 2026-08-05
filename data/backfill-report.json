@@ -1,0 +1,20 @@
+{
+  "attempts_used": 19,
+  "complete": true,
+  "completed_records": 12064,
+  "fetched_results": 1864,
+  "pending_records": 0,
+  "report_version": 1,
+  "run_batches": 19,
+  "source_ids_sha256": "3b8b2cc9d382a9a8116674555a9a2290daa0ace382d424accc64caa2c3f1331f",
+  "status_counts": {
+    "complete": 12064,
+    "failed": 0,
+    "malformed": 0,
+    "partial": 0,
+    "unavailable": 0,
+    "withdrawn": 0
+  },
+  "total_records": 12064,
+  "unexpected_result_ids": []
+}

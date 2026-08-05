@@ -61,6 +61,8 @@ jobs:
     name: Build, gate, and test the site
     needs: validate
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -89,6 +91,12 @@ jobs:
             --archive docs/asr-arxiv-daily.json \
             --ids-output migration/baseline-paper-ids.txt \
             --output migration/baseline-report.json
+      - name: Backfill canonical metadata for pending papers
+        run: |
+          python backfill_metadata.py \
+            --input data/canonical-archive.json \
+            --output data/canonical-archive.json \
+            --max-batches 40
       - name: Build the static site
         working-directory: site
         run: npm run build
@@ -137,6 +145,26 @@ jobs:
                       f"updated {run.get('updated')}"
                   )
           PY
+      - name: Persist archive enrichment progress
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/canonical-archive.json data/backfill-checkpoint.json \
+            data/backfill-report.json migration/baseline-paper-ids.txt \
+            migration/baseline-report.json
+          if git diff --staged --quiet; then
+            echo "No enrichment changes to persist."
+          else
+            git commit -m "Persist canonical archive enrichment progress"
+            for attempt in 1 2 3; do
+              if git pull --rebase origin main && git push origin HEAD:main; then
+                break
+              fi
+              echo "Push attempt $attempt failed; retrying."
+              sleep 5
+            done
+          fi
       - name: Upload the Pages artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3

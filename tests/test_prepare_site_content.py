@@ -117,6 +117,47 @@ class PrepareSiteContentTests(unittest.TestCase):
 
         self.assertFalse(stale.exists())
 
+    def test_persisted_canonical_overlay_preserves_enrichment_and_adds_new_ids(self):
+        generated = self.root / "generated"
+        public = self.root / "public"
+        persisted_path = self.root / "canonical-archive.json"
+
+        first = prepare_site_content(
+            self.archive_path,
+            self.baseline_path,
+            generated,
+            public,
+            persisted_canonical_path=persisted_path,
+        )
+        self.assertEqual(first["backfill_required"], 6)
+        persisted = json.loads(persisted_path.read_text(encoding="utf-8"))
+        some_id = next(iter(persisted))
+        persisted[some_id]["record_status"] = "complete"
+        persisted[some_id]["abstract"] = "A fully enriched abstract."
+        persisted[some_id]["published"] = "2026-07-01"
+        persisted[some_id]["arxiv_categories"] = ["cs.CL"]
+        persisted[some_id]["primary_category"] = "cs.CL"
+        persisted_path.write_text(
+            json.dumps(persisted, ensure_ascii=False), encoding="utf-8"
+        )
+
+        second = prepare_site_content(
+            self.archive_path,
+            self.baseline_path,
+            generated,
+            public,
+            persisted_canonical_path=persisted_path,
+        )
+
+        canonical = json.loads(
+            (generated / "canonical.json").read_text(encoding="utf-8")
+        )
+        self.assertEqual(canonical[some_id]["abstract"], "A fully enriched abstract.")
+        self.assertEqual(canonical[some_id]["record_status"], "complete")
+        self.assertEqual(second["backfill_required"], 5)
+        reloaded_persisted = json.loads(persisted_path.read_text(encoding="utf-8"))
+        self.assertEqual(set(reloaded_persisted), set(canonical))
+
 
 if __name__ == "__main__":
     unittest.main()

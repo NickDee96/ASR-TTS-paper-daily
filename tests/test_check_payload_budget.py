@@ -47,7 +47,7 @@ class PayloadBudgetTests(unittest.TestCase):
     def test_bloated_initial_manifest_is_flagged(self) -> None:
         with tempfile.TemporaryDirectory() as temporary_directory:
             dist = self._dist(Path(temporary_directory))
-            _write(dist / "data" / "manifest.json", 40)
+            _write(dist / "data" / "manifest.json", 60)
             result = evaluate_payload_budget(dist)
             self.assertFalse(result["healthy"])
             self.assertTrue(any("manifest.json" in issue for issue in result["issues"]))
