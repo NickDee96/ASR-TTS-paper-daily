@@ -7,6 +7,11 @@ dist/
 # generated archive products
 public/data/
 
+# playwright
+test-results/
+playwright-report/
+e2e-*.log
+
 # dependencies
 node_modules/
 

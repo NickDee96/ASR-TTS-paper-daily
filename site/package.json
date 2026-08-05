@@ -16,6 +16,7 @@
     "build": "npm run prepare:data && npm run build:astro && npm run build:index && npm run build:offline && npm run verify:build",
     "check": "astro check",
     "test:unit": "node --test tests/*.test.ts",
+    "test:e2e": "playwright test",
     "preview": "astro preview",
     "astro": "astro"
   },
@@ -29,6 +30,8 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
+    "@axe-core/playwright": "^4.10.2",
+    "@playwright/test": "^1.56.1",
     "@types/node": "^26.1.1",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
