@@ -1,14 +1,14 @@
 {
   "archive": "docs/asr-arxiv-daily.json",
-  "archive_bytes": 2438671,
+  "archive_bytes": 2520987,
   "artifact_sizes": {
-    "README.md": 2166999,
-    "docs/asr-arxiv-daily.json": 2438671,
-    "docs/index.md": 2166301
+    "README.md": 10303,
+    "docs/asr-arxiv-daily.json": 2520987,
+    "docs/index.md": 552
   },
-  "assignments_with_code": 59,
+  "assignments_with_code": 61,
   "code_coverage_percent": 0.49,
-  "duplicate_assignments": 312,
+  "duplicate_assignments": 325,
   "malformed_record_count": 1,
   "malformed_records": [
     {
@@ -17,37 +17,37 @@
       "topic": "Machine Translation"
     }
   ],
-  "multi_topic_papers": 307,
-  "newest_row_date": "2026-07-21",
+  "multi_topic_papers": 320,
+  "newest_row_date": "2026-08-03",
   "oldest_row_date": "2014-02-12",
-  "paper_ids_sha256": "07b63ad2853f2e1feeea48ffa2bd07a4628cd998c911eb641faa8b7ff6ff400a",
+  "paper_ids_sha256": "3b8b2cc9d382a9a8116674555a9a2290daa0ace382d424accc64caa2c3f1331f",
   "report_version": 1,
-  "topic_assignments": 11990,
+  "topic_assignments": 12389,
   "topics": {
     "ASR": {
-      "assignments": 939,
+      "assignments": 966,
       "with_code": 2
     },
     "Data Augmentation": {
-      "assignments": 1406,
+      "assignments": 1435,
       "with_code": 3
     },
     "Machine Translation": {
-      "assignments": 1051,
+      "assignments": 1086,
       "with_code": 8
     },
     "Small Language Models": {
-      "assignments": 5550,
-      "with_code": 29
+      "assignments": 5765,
+      "with_code": 30
     },
     "Synthetic Generation": {
-      "assignments": 2323,
-      "with_code": 12
+      "assignments": 2393,
+      "with_code": 13
     },
     "TTS": {
-      "assignments": 721,
+      "assignments": 744,
       "with_code": 5
     }
   },
-  "unique_papers": 11678
+  "unique_papers": 12064
 }
