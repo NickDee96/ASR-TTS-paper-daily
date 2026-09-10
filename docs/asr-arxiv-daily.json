@@ -1070,7 +1070,7 @@
     "2609.09929": "|**2026-09-09**|**Source-Adaptive Data Curation for Bilingual NVV-Aware ASR**|Yuang Cao et.al.|[2609.09929](http://arxiv.org/abs/2609.09929)|null|\n",
     "2609.09889": "|**2026-09-09**|**Leveraging Fine-grained Error Correction in Korean Speech Recognition for Consultation Services**|Yonghyun Jun et.al.|[2609.09889](http://arxiv.org/abs/2609.09889)|null|\n",
     "2609.09852": "|**2026-09-09**|**$S^3$-Bench: Evaluating Speech Interaction Models as Scientific Voice Assistants**|Heyang Liu et.al.|[2609.09852](http://arxiv.org/abs/2609.09852)|null|\n",
-    "2609.09719": "|**2026-09-09**|**StreamAlign: Streaming Text-Aligned Speech Tokenization**|Kang-wook Kim et.al.|[2609.09719](http://arxiv.org/abs/2609.09719)|null|\n",
+    "2609.09719": "|**2026-09-09**|**StreamAlign: Streaming Text-Aligned Speech Tokenization**|Kang-wook Kim et.al.|[2609.09719](http://arxiv.org/abs/2609.09719)|**[link](https://github.com/ishlove77/StreamAlign)**|\n",
     "2609.09554": "|**2026-09-09**|**BuzzASR: A Swarm of 100+ Monolingual Speech Recognition Models**|Shivam Singh et.al.|[2609.09554](http://arxiv.org/abs/2609.09554)|null|\n"
   },
   "TTS": {
@@ -2935,7 +2935,7 @@
     "2607.20056": "|**2026-07-22**|**Language-Specific versus Cross-Lingual Knowledge Graphs for Implicit Aspect Identification in Arabic: A Comparative Study of Reasoning and Adaptation Strategies**|Lujain A. Alawwad et.al.|[2607.20056](http://arxiv.org/abs/2607.20056)|null|\n",
     "2607.19867": "|**2026-07-22**|**Overview of FinMMEval 2026 Task 2: Multilingual Financial Short-Answer Question Answering**|Zhuohan Xie et.al.|[2607.19867](http://arxiv.org/abs/2607.19867)|null|\n",
     "2607.19810": "|**2026-08-30**|**SimulS2ST-Omni: Data-Efficient Streaming Speech-to-Speech Translation via Explicit Trajectory Supervision**|Rongshen He et.al.|[2607.19810](http://arxiv.org/abs/2607.19810)|null|\n",
-    "2607.19243": "|**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243](http://arxiv.org/abs/2607.19243)|null|\n",
+    "2607.19243": "|**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243](http://arxiv.org/abs/2607.19243)|**[link](https://github.com/alexandermanev/cross-lingual-llm-consistency)**|\n",
     "2607.19226": "|**2026-07-21**|**The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation**|Michael Jungo et.al.|[2607.19226](http://arxiv.org/abs/2607.19226)|null|\n",
     "2607.19181": "|**2026-07-21**|**Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning**|Aixiu An et.al.|[2607.19181](http://arxiv.org/abs/2607.19181)|null|\n",
     "2607.19101": "|**2026-07-21**|**Translation as Augmentation: Effect of Translated Data on Assessment of Difficulty**|Yiheng Wu et.al.|[2607.19101](http://arxiv.org/abs/2607.19101)|null|\n",
@@ -11104,7 +11104,7 @@
     "2607.29337": "|**2026-07-31**|**DualDiT: A Conditional Dual-Output Diffusion Transformer for Joint OCT Image and Segmentation Mask Generation**|Fernando García-Torres et.al.|[2607.29337](http://arxiv.org/abs/2607.29337)|null|\n",
     "2607.28945": "|**2026-07-31**|**FairDiffuseVQVAE: Sampling-Time Fairness in Tabular Diffusion via Conditional Refinement of Vector-Quantized Latents**|Nitish Nagesh et.al.|[2607.28945](http://arxiv.org/abs/2607.28945)|null|\n",
     "2607.28899": "|**2026-07-30**|**Log-F-penalized Conditional Logistic Regression for Sparse Data**|Ying Yu et.al.|[2607.28899](http://arxiv.org/abs/2607.28899)|null|\n",
-    "2607.28868": "|**2026-07-30**|**Physics-Aligned Self-Supervised Learning for Scientific Imaging**|Bashir Kazimi et.al.|[2607.28868](http://arxiv.org/abs/2607.28868)|null|\n",
+    "2607.28868": "|**2026-07-30**|**Physics-Aligned Self-Supervised Learning for Scientific Imaging**|Bashir Kazimi et.al.|[2607.28868](http://arxiv.org/abs/2607.28868)|**[link](https://github.com/DL4EM/physics-aligned-ssl)**|\n",
     "2607.28858": "|**2026-07-30**|**A Unified Benchmark of Deep Learning Models for Multi-task 3D Brain Tumor Segmentation from Magnetic Resonance Imaging**|Diego J. Torrejón et.al.|[2607.28858](http://arxiv.org/abs/2607.28858)|null|\n",
     "2608.01452": "|**2026-08-02**|**DynamicManip: Enabling Dynamic Manipulation from a Single Static Demonstration**|Haoran Liao et.al.|[2608.01452](http://arxiv.org/abs/2608.01452)|null|\n",
     "2608.01348": "|**2026-08-06**|**Prompt-Driven Simulation with Feature Perturbation for Cross-Domain Few-Shot Object Detection**|Linhai Zhuo et.al.|[2608.01348](http://arxiv.org/abs/2608.01348)|null|\n",
