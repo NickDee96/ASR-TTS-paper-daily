@@ -1075,7 +1075,7 @@
     "2609.11864": "|**2026-09-10**|**RetroThinker: Enabling Retrospective Thinking in Speech LLMs**|Yi-Jen Shih et.al.|[2609.11864](http://arxiv.org/abs/2609.11864)|null|\n",
     "2609.11786": "|**2026-09-10**|**Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech**|Chibuzor Okocha et.al.|[2609.11786](http://arxiv.org/abs/2609.11786)|null|\n",
     "2609.11772": "|**2026-09-10**|**Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding**|Michael Picheny et.al.|[2609.11772](http://arxiv.org/abs/2609.11772)|null|\n",
-    "2609.11412": "|**2026-09-10**|**X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation**|Haojun Zhang et.al.|[2609.11412](http://arxiv.org/abs/2609.11412)|null|\n",
+    "2609.11412": "|**2026-09-10**|**X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation**|Haojun Zhang et.al.|[2609.11412](http://arxiv.org/abs/2609.11412)|**[link](https://github.com/XPENG-AI/X-AuT)**|\n",
     "2609.11408": "|**2026-09-10**|**Are Caption Metrics Broken? Latency, Deaf and Hard of Hearing User Ratings, and Bias across Technologies**|Bernard Thompson et.al.|[2609.11408](http://arxiv.org/abs/2609.11408)|null|\n",
     "2609.11355": "|**2026-09-10**|**SEAR: Segment-Evidence-Aware Routing for Weak-to-Strong Multilingual Speech MCQ**|Huy Hoang Le et.al.|[2609.11355](http://arxiv.org/abs/2609.11355)|null|\n",
     "2609.11302": "|**2026-09-10**|**Automatic Lyric Transcription for Greek Songs: Scaling and Task Composition Effects in Whisper Adaptation**|Maria Frangiadaki et.al.|[2609.11302](http://arxiv.org/abs/2609.11302)|null|\n",
@@ -1096,7 +1096,16 @@
     "2609.12469": "|**2026-09-11**|**Not All Speech Is Intent: Adaptive Self-Correcting Inference Layer for Post-ASR False Wake-Up**|Preeti Saraswat et.al.|[2609.12469](http://arxiv.org/abs/2609.12469)|null|\n",
     "2609.12341": "|**2026-09-11**|**I Am No One: Style-Aware Paraphrasing for Text Anonymization**|Ahmed Sohair Khan et.al.|[2609.12341](http://arxiv.org/abs/2609.12341)|null|\n",
     "2609.12122": "|**2026-09-10**|**Quantifying Consonant Contributions to Word Intelligibility via Acoustic Masking**|Eunjung Yeo et.al.|[2609.12122](http://arxiv.org/abs/2609.12122)|null|\n",
-    "2609.13195": "|**2026-08-13**|**Machine Unlearning for Speech Question Answering in Large Audio-Language Models**|Zhe Liu et.al.|[2609.13195](http://arxiv.org/abs/2609.13195)|null|\n"
+    "2609.13195": "|**2026-08-13**|**Machine Unlearning for Speech Question Answering in Large Audio-Language Models**|Zhe Liu et.al.|[2609.13195](http://arxiv.org/abs/2609.13195)|null|\n",
+    "2609.18748": "|**2026-09-16**|**TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection**|Huiyuan Liu et.al.|[2609.18748](http://arxiv.org/abs/2609.18748)|null|\n",
+    "2609.18686": "|**2026-09-16**|**Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding**|Benedikt Mayrhofer et.al.|[2609.18686](http://arxiv.org/abs/2609.18686)|null|\n",
+    "2609.18680": "|**2026-09-16**|**HearInContext: A Benchmark for Implicit Context in Speech Recognition**|Yifan Gao et.al.|[2609.18680](http://arxiv.org/abs/2609.18680)|null|\n",
+    "2609.18533": "|**2026-09-16**|**A Probe Shift Is Not a Fairness Fix: The Limits of Representation Steering in Speech Models**|Nicolas Bourrel et.al.|[2609.18533](http://arxiv.org/abs/2609.18533)|null|\n",
+    "2609.18516": "|**2026-09-16**|**Align, Integrate, and Fire: Efficient Token-Level Alignment for Zero-Shot SpeechLLMs**|Abderrahmane Issam et.al.|[2609.18516](http://arxiv.org/abs/2609.18516)|null|\n",
+    "2609.18333": "|**2026-09-16**|**Look Less, Hear Better: Jointly Rewarded GRPO for Streaming ASR**|Xiuwen Zheng et.al.|[2609.18333](http://arxiv.org/abs/2609.18333)|null|\n",
+    "2609.18194": "|**2026-09-16**|**T-SANDHI: Tone Sandhi-aware Adaptive Network with Decoupled Hybrid Injection for Low-resource Taiwanese Hokkien Speech Recognition**|Hung-Yang Sung et.al.|[2609.18194](http://arxiv.org/abs/2609.18194)|null|\n",
+    "2609.18042": "|**2026-09-16**|**DUPAR: Dual-Path Conversational Retrieval via Speech Retriever with Cross-Turn Evidence Caching**|Yuanjun Li et.al.|[2609.18042](http://arxiv.org/abs/2609.18042)|null|\n",
+    "2609.17981": "|**2026-09-16**|**Encoder Awakening via Adapters: Effective Domain-Adaptive Fine-tuning of Speech-LLMs**|Mohan Shi et.al.|[2609.17981](http://arxiv.org/abs/2609.17981)|null|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
