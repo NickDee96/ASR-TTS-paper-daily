@@ -3180,7 +3180,12 @@
     "2609.18529": "|**2026-09-16**|**Machine Translation between English and Syriac (East Syriac Dialect) using Statistical Machine Learning**|Hadiana Sliwa et.al.|[2609.18529](http://arxiv.org/abs/2609.18529)|null|\n",
     "2609.17956": "|**2026-09-16**|**TACTICS: Taxonomy-Aware Intelligent Corpus Sampling for Machine Translation**|Prasanth Bathala et.al.|[2609.17956](http://arxiv.org/abs/2609.17956)|null|\n",
     "2609.18961": "|**2026-07-16**|**MechSparse: Mechanism-Guided Sparse PEFT Selection Is Task-Shaped**|Son Ha Xuan et.al.|[2609.18961](http://arxiv.org/abs/2609.18961)|null|\n",
-    "2609.17539": "|**2026-07-14**|**MudawanSn: A Gold-Standard Wolof-Arabic Parallel Corpus for Machine Translation**|Mouhamed Mbaye et.al.|[2609.17539](http://arxiv.org/abs/2609.17539)|null|\n"
+    "2609.17539": "|**2026-07-14**|**MudawanSn: A Gold-Standard Wolof-Arabic Parallel Corpus for Machine Translation**|Mouhamed Mbaye et.al.|[2609.17539](http://arxiv.org/abs/2609.17539)|null|\n",
+    "2609.19885": "|**2026-09-17**|**Evaluating Communicative Success in Machine-Translated Conversation**|Faiz Ghifari Haznitrama et.al.|[2609.19885](http://arxiv.org/abs/2609.19885)|null|\n",
+    "2609.19736": "|**2026-09-17**|**A Phonemically Comprehensive, ASCII-Only Romanization Scheme for Thai and Lao: Systematic Cross-Lingual Correspondence and Chinese-User-Friendly Design**|Zijie Zhang et.al.|[2609.19736](http://arxiv.org/abs/2609.19736)|null|\n",
+    "2609.19650": "|**2026-09-17**|**Improving Cross-Lingual Transfer for Sequential Sentence Classification in Research Papers via Structural Similarity**|Kazuhiro Yamauchi et.al.|[2609.19650](http://arxiv.org/abs/2609.19650)|null|\n",
+    "2609.19398": "|**2026-09-16**|**A Cross-Lingual Acoustic Disease-Alignment Framework for Respiratory Health Assessment from Spontaneous Speech**|Roksana Khanom et.al.|[2609.19398](http://arxiv.org/abs/2609.19398)|null|\n",
+    "2609.19291": "|**2026-09-16**|**Why Pretraining Fails to Share Cross-Lingual Knowledge**|Adam Gaber et.al.|[2609.19291](http://arxiv.org/abs/2609.19291)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -13994,7 +13999,7 @@
     "2609.04151": "|**2026-09-10**|**Persistent Identity Preservation in Generative Image Models: A Benchmark and Evaluation System**|Mengwei Ren et.al.|[2609.04151](http://arxiv.org/abs/2609.04151)|null|\n",
     "2609.03931": "|**2026-09-03**|**Sparse auto-regressive modeling for scene generation from multi-view images**|Thomas Lucas et.al.|[2609.03931](http://arxiv.org/abs/2609.03931)|null|\n",
     "2609.03880": "|**2026-09-04**|**Xiaomi-TabLDM: A Tabular Foundation Model Technical Report**|Xiaomi-TabLDM Team et.al.|[2609.03880](http://arxiv.org/abs/2609.03880)|null|\n",
-    "2609.03740": "|**2026-09-03**|**Fill My Mirror: Geometry-Constrained Mirror Inpainting**|Ofek Basson et.al.|[2609.03740](http://arxiv.org/abs/2609.03740)|**[link](https://github.com/OfekBasson/Fill-My-Mirror)**|\n",
+    "2609.03740": "|**2026-09-03**|**Fill My Mirror: Geometry-Constrained Mirror Inpainting**|Ofek Basson et.al.|[2609.03740](http://arxiv.org/abs/2609.03740)|null|\n",
     "2609.03615": "|**2026-09-03**|**Auditing Patient Privacy in Medical Generative Models: Scalable Memorization Detection with DeepSSIM++**|Antonio Scardace et.al.|[2609.03615](http://arxiv.org/abs/2609.03615)|null|\n",
     "2609.03502": "|**2026-09-03**|**Building and Evaluating Fixed-Voice Thai TTS from Synthetic Speech**|Kunat Pipatanakul et.al.|[2609.03502](http://arxiv.org/abs/2609.03502)|null|\n",
     "2609.03382": "|**2026-09-03**|**SurgeGen: A Hybrid Generative Diffusion Framework for Storm Surge Scenario Synthesis**|Shunan Zheng et.al.|[2609.03382](http://arxiv.org/abs/2609.03382)|null|\n",
@@ -14030,7 +14035,7 @@
     "2609.05507": "|**2026-08-29**|**Reliable iToF Depth Sensing via Sensor-Intrinsic Uncertainty Modeling and State-Space Restoration**|Yansong Du et.al.|[2609.05507](http://arxiv.org/abs/2609.05507)|null|\n",
     "2609.10356": "|**2026-09-09**|**Spot-the-shift: Evaluating Grounded Image Difference Captioning of Long-term Changes**|Benedetta Liberatori et.al.|[2609.10356](http://arxiv.org/abs/2609.10356)|null|\n",
     "2609.10303": "|**2026-09-09**|**SynThermFace: Amplifying Limited Paired Data for Visible-Thermal Face Recognition via Synthetic Data Generation**|Anjith George et.al.|[2609.10303](http://arxiv.org/abs/2609.10303)|null|\n",
-    "2609.10104": "|**2026-09-09**|**Distributed and Private Textual Data Synthesis from Embeddings**|Ergute Bao et.al.|[2609.10104](http://arxiv.org/abs/2609.10104)|null|\n",
+    "2609.10104": "|**2026-09-17**|**Distributed and Private Textual Data Synthesis from Embeddings**|Ergute Bao et.al.|[2609.10104](http://arxiv.org/abs/2609.10104)|null|\n",
     "2609.10025": "|**2026-09-09**|**SCNet: Enhancing GAN-based Speech Generation with Subband Condition Network and Magnitude-aware Phase Loss**|Nan Xu et.al.|[2609.10025](http://arxiv.org/abs/2609.10025)|null|\n",
     "2609.09903": "|**2026-09-09**|**SphereVAE: Hyperspherical Latent Autoencoders for Robust Autoregressive Speech Representation Modeling**|Haoyu Zhang et.al.|[2609.09903](http://arxiv.org/abs/2609.09903)|null|\n",
     "2609.09884": "|**2026-09-09**|**Albedo Estimation via Latent Bridge Matching**|Carme Corbi et.al.|[2609.09884](http://arxiv.org/abs/2609.09884)|null|\n",
@@ -14065,7 +14070,7 @@
     "2609.12432": "|**2026-09-11**|**VoxTubeS: Distributable Speaker-Anonymized Synthetic Speech Corpora and Their Analysis**|Zhe Zhang et.al.|[2609.12432](http://arxiv.org/abs/2609.12432)|null|\n",
     "2609.12353": "|**2026-09-11**|**SynthSentry: Detecting Synthetic Data Contamination in Language Model Training Data**|Praveen Kumar Myakala et.al.|[2609.12353](http://arxiv.org/abs/2609.12353)|null|\n",
     "2609.13226": "|**2026-09-01**|**Synthetic Leprosy Image Generation Using Mask-Conditioned Latent Diffusion and Transfer Learning from Large Chronic Wound Datasets**|Yusuf Abdulkadir et.al.|[2609.13226](http://arxiv.org/abs/2609.13226)|null|\n",
-    "2609.19137": "|**2026-09-16**|**Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation**|Guanhua Ji et.al.|[2609.19137](http://arxiv.org/abs/2609.19137)|null|\n",
+    "2609.19137": "|**2026-09-17**|**Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation**|Guanhua Ji et.al.|[2609.19137](http://arxiv.org/abs/2609.19137)|null|\n",
     "2609.18759": "|**2026-09-16**|**Stable Filters for Generative Modeling of Graph Signals**|Martin Schmidt et.al.|[2609.18759](http://arxiv.org/abs/2609.18759)|null|\n",
     "2609.18634": "|**2026-09-16**|**GenStream: Semantic Streaming Framework for Generative Reconstruction of Human-centric Media**|Emanuele Artioli et.al.|[2609.18634](http://arxiv.org/abs/2609.18634)|null|\n",
     "2609.18510": "|**2026-09-16**|**DiT-Garment: Garment Dynamics with Diffusion Transformers**|Antoine Dumoulin et.al.|[2609.18510](http://arxiv.org/abs/2609.18510)|null|\n",
@@ -14074,6 +14079,13 @@
     "2609.18169": "|**2026-09-16**|**Approximating High Dimensional Self-Motion Manifolds via Deep Generative Models**|Haitao Gao et.al.|[2609.18169](http://arxiv.org/abs/2609.18169)|null|\n",
     "2609.18077": "|**2026-09-16**|**vidax: A Unified JAX Framework for Video Generative Models on Accelerator Meshes**|Congyue Deng et.al.|[2609.18077](http://arxiv.org/abs/2609.18077)|null|\n",
     "2609.17901": "|**2026-09-15**|**Walking the Score Manifold: Continuous-time Generative Dynamics on Learned Data Manifolds**|Jan Tauberschmidt et.al.|[2609.17901](http://arxiv.org/abs/2609.17901)|null|\n",
-    "2609.17699": "|**2026-09-15**|**NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation**|Johnny Greco et.al.|[2609.17699](http://arxiv.org/abs/2609.17699)|null|\n"
+    "2609.17699": "|**2026-09-15**|**NeMo Data Designer: An Extensible Framework for Multimodal Synthetic Data Generation**|Johnny Greco et.al.|[2609.17699](http://arxiv.org/abs/2609.17699)|null|\n",
+    "2609.20794": "|**2026-09-17**|**PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers**|Jiachen Yao et.al.|[2609.20794](http://arxiv.org/abs/2609.20794)|**[link](https://github.com/neuraloperator/PosteriorBench)**|\n",
+    "2609.20680": "|**2026-09-17**|**Towards Scaling Marine Perception with Synthetic Data**|Haoyu Ma et.al.|[2609.20680](http://arxiv.org/abs/2609.20680)|null|\n",
+    "2609.20630": "|**2026-09-17**|**UniPolicy: Unified Objective-Specific Policies for Generative Search Advertising**|Kun Yao et.al.|[2609.20630](http://arxiv.org/abs/2609.20630)|null|\n",
+    "2609.20138": "|**2026-09-17**|**Fast-varying Natural Frequencies and Damping Ratio Identification for Linear Time-Varying System**|Melisa Bozaci et.al.|[2609.20138](http://arxiv.org/abs/2609.20138)|null|\n",
+    "2609.19710": "|**2026-09-17**|**A Closed-Loop Control Architecture for Reliable Constraint Satisfaction in LLM Text Generation**|Quan Zhou et.al.|[2609.19710](http://arxiv.org/abs/2609.19710)|null|\n",
+    "2609.19617": "|**2026-09-17**|**DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education**|Bang An et.al.|[2609.19617](http://arxiv.org/abs/2609.19617)|null|\n",
+    "2609.19555": "|**2026-09-17**|**A Multi-Modal Generative Model for Tomato Disease Leaves Understanding**|Khang Nguyen Quoc et.al.|[2609.19555](http://arxiv.org/abs/2609.19555)|null|\n"
   }
 }
