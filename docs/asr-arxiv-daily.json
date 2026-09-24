@@ -1894,7 +1894,7 @@
     "2608.11650": "|**2026-08-12**|**Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder**|Huaxuan Wang et.al.|[2608.11650](http://arxiv.org/abs/2608.11650)|null|\n",
     "2608.11593": "|**2026-08-12**|**Luna-TTS Family Technical Report**|Feng Yin et.al.|[2608.11593](http://arxiv.org/abs/2608.11593)|null|\n",
     "2608.11590": "|**2026-08-13**|**CookVoice: Unified Framework for Style Controllable Multi-Modal Human Voice Generation**|Haowei Lou et.al.|[2608.11590](http://arxiv.org/abs/2608.11590)|null|\n",
-    "2608.12951": "|**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|null|\n",
+    "2608.12951": "|**2026-08-17**|**VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching**|Wenxiang Guo et.al.|[2608.12951](http://arxiv.org/abs/2608.12951)|**[link](https://github.com/VoxAudio/VoxAudio_Main)**|\n",
     "2608.12814": "|**2026-08-13**|**FastThaiG2P: Lightning-fast Thai Grapheme-to-phoneme Conversion for Voice Agent Pipelines**|Charin Polpanumas et.al.|[2608.12814](http://arxiv.org/abs/2608.12814)|null|\n",
     "2608.14029": "|**2026-08-14**|**S2Dialog: Multimodal Dialogue Retrieval with Semantic and Acoustic-Style Modeling**|Xueqi Wang et.al.|[2608.14029](http://arxiv.org/abs/2608.14029)|null|\n",
     "2608.14016": "|**2026-08-14**|**Content Based Video Narration of Gameplay with Vision Language Models**|Mathew Varghese et.al.|[2608.14016](http://arxiv.org/abs/2608.14016)|null|\n",
@@ -1973,7 +1973,9 @@
     "2609.25707": "|**2026-09-22**|**Interactive TTS: Dynamic Speaking Style Adaptation for Expressive Speech Synthesis**|Wenjie Tian et.al.|[2609.25707](http://arxiv.org/abs/2609.25707)|null|\n",
     "2609.25411": "|**2026-09-21**|**Learnable Classifier-Free Guidance Null Embeddings for Enhanced Controllable Speech Synthesis**|Biel Tura Vecino et.al.|[2609.25411](http://arxiv.org/abs/2609.25411)|null|\n",
     "2609.25197": "|**2026-09-21**|**SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization**|Yuan Tseng et.al.|[2609.25197](http://arxiv.org/abs/2609.25197)|null|\n",
-    "2609.26255": "|**2026-08-13**|**SceneTTS-Bench: A Benchmark for Scene-Level TTS in Drama Dubbing**|Yizhong Geng et.al.|[2609.26255](http://arxiv.org/abs/2609.26255)|null|\n"
+    "2609.26255": "|**2026-08-13**|**SceneTTS-Bench: A Benchmark for Scene-Level TTS in Drama Dubbing**|Yizhong Geng et.al.|[2609.26255](http://arxiv.org/abs/2609.26255)|null|\n",
+    "2609.27599": "|**2026-09-23**|**EmphTTS: an emphasis-control TTS with reinforcement learning**|Zirui Li et.al.|[2609.27599](http://arxiv.org/abs/2609.27599)|null|\n",
+    "2609.27399": "|**2026-09-23**|**Forget who you Forgot: Speaker Unlearning to Prevent Re-Identification in Zero-Shot Text-to-Speech**|Hyoeun Kim et.al.|[2609.27399](http://arxiv.org/abs/2609.27399)|null|\n"
   },
   "Machine Translation": {
     "2509.05209": "|**2025-09-09**|**Hunyuan-MT Technical Report**|Mao Zheng et.al.|[2509.05209](http://arxiv.org/abs/2509.05209)|null|\n",
@@ -11614,7 +11616,9 @@
     "2609.22167": "|**2026-08-26**|**Role-Aware Morgan Fingerprints for Reaction Yield Prediction**|Chinmay Mirji et.al.|[2609.22167](http://arxiv.org/abs/2609.22167)|null|\n",
     "2609.26331": "|**2026-09-22**|**Characterizing Experiments with Synthetic MSI/HSI Data: A Structured Taxonomy for Agri-Food Research**|Jasmine Battestin Nunes et.al.|[2609.26331](http://arxiv.org/abs/2609.26331)|null|\n",
     "2609.25471": "|**2026-09-21**|**A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization**|Wonho Bae et.al.|[2609.25471](http://arxiv.org/abs/2609.25471)|null|\n",
-    "2609.25261": "|**2026-09-21**|**TAILOR: Template-Preserving Augmentation for Long-Tailed Log Parsing**|Sepideh Hodaeian et.al.|[2609.25261](http://arxiv.org/abs/2609.25261)|null|\n"
+    "2609.25261": "|**2026-09-21**|**TAILOR: Template-Preserving Augmentation for Long-Tailed Log Parsing**|Sepideh Hodaeian et.al.|[2609.25261](http://arxiv.org/abs/2609.25261)|null|\n",
+    "2609.28471": "|**2026-09-23**|**Contrastive Learning for Authorship Verification**|Peter Kirby et.al.|[2609.28471](http://arxiv.org/abs/2609.28471)|null|\n",
+    "2609.27734": "|**2026-09-23**|**InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies**|Sai Puneeth Reddy Gottam et.al.|[2609.27734](http://arxiv.org/abs/2609.27734)|null|\n"
   },
   "Synthetic Generation": {
     "2509.06798": "|**2025-09-08**|**SynthDrive: Scalable Real2Sim2Real Sensor Simulation Pipeline for High-Fidelity Asset Generation and Driving Data Synthesis**|Zhengqing Chen et.al.|[2509.06798](http://arxiv.org/abs/2509.06798)|null|\n",
@@ -14252,15 +14256,15 @@
     "2609.16514": "|**2026-09-15**|**The Evolving Bottleneck in Speech Generation: Interface Co-design and Staged Alignment from CosyVoice to Qwen-Audio-3.0-TTS**|Qian Chen et.al.|[2609.16514](http://arxiv.org/abs/2609.16514)|null|\n",
     "2609.16317": "|**2026-09-14**|**Generative models for simulation based filtering: Formulations and Empirical Comparisons**|Mohammad Al-Jarrah et.al.|[2609.16317](http://arxiv.org/abs/2609.16317)|null|\n",
     "2609.15193": "|**2026-09-14**|**Convergence rates for generative drifting flows: fixed-scale obstructions and multihead acceleration**|Arthur Stéphanovitch et.al.|[2609.15193](http://arxiv.org/abs/2609.15193)|null|\n",
-    "2609.16076": "|**2026-09-13**|**The Imitation Game: When LLMs Learn to Reason Like Programs via Code-Centric Reasoning Data Synthesis**|Jinyang Zhang et.al.|[2609.16076](http://arxiv.org/abs/2609.16076)|**[link](https://github.com/zjy1298/MIMIC)**|\n",
+    "2609.16076": "|**2026-09-13**|**The Imitation Game: When LLMs Learn to Reason Like Programs via Code-Centric Reasoning Data Synthesis**|Jinyang Zhang et.al.|[2609.16076](http://arxiv.org/abs/2609.16076)|null|\n",
     "2609.14565": "|**2026-09-13**|**TATK: Triple-Aware Top-K Learning with Knowledge-Grounded Verification for LLM-based Sequential Recommendation**|Yuchen Guan et.al.|[2609.14565](http://arxiv.org/abs/2609.14565)|null|\n",
     "2609.16069": "|**2026-09-13**|**Beyond Distribution Matching: Semantics-Consistent Tabular Diffusion with Weak Semantic Priors**|Yili Wang et.al.|[2609.16069](http://arxiv.org/abs/2609.16069)|null|\n",
     "2609.16059": "|**2026-09-13**|**Towards Scalable RLVR: Multimodal Instruction Following Data Synthesis and Distillation**|Yirong Zeng et.al.|[2609.16059](http://arxiv.org/abs/2609.16059)|null|\n",
     "2609.14078": "|**2026-09-12**|**Ensemble generative filtering for sequential data assimilation in dynamical systems**|Xu-Hui Zhou et.al.|[2609.14078](http://arxiv.org/abs/2609.14078)|null|\n",
-    "2609.13471": "|**2026-09-11**|**Generative bootstrap processes**|Ziming Lin et.al.|[2609.13471](http://arxiv.org/abs/2609.13471)|null|\n",
-    "2609.13457": "|**2026-09-11**|**TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models**|Sudarshan Regmi et.al.|[2609.13457](http://arxiv.org/abs/2609.13457)|null|\n",
+    "2609.13471": "|**2026-09-11**|**Generative bootstrap processes**|Ziming Lin et.al.|[2609.13471](http://arxiv.org/abs/2609.13471)|**[link](https://github.com/viktorgus/Machine-Learning-TDDE01)**|\n",
+    "2609.13457": "|**2026-09-11**|**TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models**|Sudarshan Regmi et.al.|[2609.13457](http://arxiv.org/abs/2609.13457)|**[link](https://github.com/sudarshanregmi/TimeThink)**|\n",
     "2609.13413": "|**2026-09-15**|**CVSS-X: A Multilingual Speech-to-Speech Translation Corpus for 28 Languages**|Lucas Rafael Stefanel Gris et.al.|[2609.13413](http://arxiv.org/abs/2609.13413)|null|\n",
-    "2609.12965": "|**2026-09-11**|**Generative Retrieval for Unsupervised Text-Based Person Search**|Mang Ye et.al.|[2609.12965](http://arxiv.org/abs/2609.12965)|null|\n",
+    "2609.12965": "|**2026-09-11**|**Generative Retrieval for Unsupervised Text-Based Person Search**|Mang Ye et.al.|[2609.12965](http://arxiv.org/abs/2609.12965)|**[link](https://github.com/Flame-Chasers/GTR)**|\n",
     "2609.12432": "|**2026-09-11**|**VoxTubeS: Distributable Speaker-Anonymized Synthetic Speech Corpora and Their Analysis**|Zhe Zhang et.al.|[2609.12432](http://arxiv.org/abs/2609.12432)|null|\n",
     "2609.12353": "|**2026-09-11**|**SynthSentry: Detecting Synthetic Data Contamination in Language Model Training Data**|Praveen Kumar Myakala et.al.|[2609.12353](http://arxiv.org/abs/2609.12353)|null|\n",
     "2609.13226": "|**2026-09-01**|**Synthetic Leprosy Image Generation Using Mask-Conditioned Latent Diffusion and Transfer Learning from Large Chronic Wound Datasets**|Yusuf Abdulkadir et.al.|[2609.13226](http://arxiv.org/abs/2609.13226)|null|\n",
@@ -14318,6 +14322,10 @@
     "2609.25659": "|**2026-09-22**|**When Riemann flows with Wasserstein: Generative Modeling of Probability Distributions on Manifolds**|Doron Haviv et.al.|[2609.25659](http://arxiv.org/abs/2609.25659)|null|\n",
     "2609.25444": "|**2026-09-21**|**Mean Velocity Matching: Rethinking Generative Dynamics in Diffusion Models**|Yunhong Zhang et.al.|[2609.25444](http://arxiv.org/abs/2609.25444)|null|\n",
     "2609.25197": "|**2026-09-21**|**SPADE: A Multilingual Dataset for Speech Partial Deepfake Detection and Localization**|Yuan Tseng et.al.|[2609.25197](http://arxiv.org/abs/2609.25197)|null|\n",
-    "2609.25123": "|**2026-09-20**|**WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation**|Saghir Alfasly et.al.|[2609.25123](http://arxiv.org/abs/2609.25123)|null|\n"
+    "2609.25123": "|**2026-09-20**|**WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation**|Saghir Alfasly et.al.|[2609.25123](http://arxiv.org/abs/2609.25123)|null|\n",
+    "2609.28206": "|**2026-09-23**|**UNITE-AUDIO: Joint Learning of Continuous Tokenization and Latent Flow Matching for Text-to-Audio Generation**|Runwu Shi et.al.|[2609.28206](http://arxiv.org/abs/2609.28206)|null|\n",
+    "2609.28080": "|**2026-09-23**|**Reference-Based Analysis of Coherence and Diversity in Open-Ended Text Generation**|Esteban Garcés Arias et.al.|[2609.28080](http://arxiv.org/abs/2609.28080)|null|\n",
+    "2609.27657": "|**2026-09-23**|**FLEET: From Logits Entropy to Enhanced Trajectories in Text Generation**|Oleksii Streltsov et.al.|[2609.27657](http://arxiv.org/abs/2609.27657)|null|\n",
+    "2609.27236": "|**2026-09-23**|**Deep Generative Markov State Models with Experimental Restraints**|Robert M. Raddi et.al.|[2609.27236](http://arxiv.org/abs/2609.27236)|null|\n"
   }
 }
