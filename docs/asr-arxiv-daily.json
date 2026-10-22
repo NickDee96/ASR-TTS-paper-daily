@@ -1256,7 +1256,7 @@
     "2610.21440": "|**2026-10-15**|**SITAR: A Situational Distortion Metric for Automatic Speech Recognition Evaluation**|Mingzhe Lu et.al.|[2610.21440](http://arxiv.org/abs/2610.21440)|null|\n",
     "2610.21164": "|**2026-10-15**|**Automatic Sentence Completion Using Bengali Audio Speech with a Transformer-Based Early Speech Recognition System**|Md Asif Akram et.al.|[2610.21164](http://arxiv.org/abs/2610.21164)|null|\n",
     "2610.20844": "|**2026-10-14**|**Zero-Shot Spoken Language Understanding with SLAM-ASR: What Do Monolingual ASR-Trained Linear Projectors Enable?**|Edwin Arkel Rios et.al.|[2610.20844](http://arxiv.org/abs/2610.20844)|null|\n",
-    "2610.26821": "|**2026-10-19**|**AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages**|Claytone Sikasote et.al.|[2610.26821](http://arxiv.org/abs/2610.26821)|**[link](https://github.com/csikasote/afribed_)**|\n",
+    "2610.26821": "|**2026-10-20**|**AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages**|Claytone Sikasote et.al.|[2610.26821](http://arxiv.org/abs/2610.26821)|null|\n",
     "2610.26776": "|**2026-10-19**|**Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages**|Shobhit Banga et.al.|[2610.26776](http://arxiv.org/abs/2610.26776)|null|\n",
     "2610.26614": "|**2026-10-19**|**Conducting Reliable Keyword Estimation with Unreliable ASR in Police Audio Data**|Robert Cole Molloy et.al.|[2610.26614](http://arxiv.org/abs/2610.26614)|null|\n",
     "2610.26448": "|**2026-10-19**|**TeleASR-Amharic: A Benchmark for Robust Amharic ASR in Realistic Telecommunication Conditions**|Dagnachew Mekonnen Marilign et.al.|[2610.26448](http://arxiv.org/abs/2610.26448)|null|\n",
@@ -1281,7 +1281,13 @@
     "2610.27002": "|**2026-10-19**|**Evaluating Tibetan Speech Recognition Across Dialects and Adaptation Regimes: A Multi-Granularity Analysis**|Jacob Moore et.al.|[2610.27002](http://arxiv.org/abs/2610.27002)|null|\n",
     "2610.26994": "|**2026-10-19**|**How to get the best and fairest performance out of your ASR system using activation steering**|Felix Herron et.al.|[2610.26994](http://arxiv.org/abs/2610.26994)|null|\n",
     "2610.26986": "|**2026-10-19**|**Think Before You Transcribe: Context-Steered Reasoning for Hotword-Aware Speech Recognition**|Qihao Wang et.al.|[2610.26986](http://arxiv.org/abs/2610.26986)|null|\n",
-    "2610.26888": "|**2026-10-13**|**Mixture of Phonetic Experts Based Low-Rank Adaptation of Conformer Models for Accented English Speech Recognition**|Santosh Dahal et.al.|[2610.26888](http://arxiv.org/abs/2610.26888)|null|\n"
+    "2610.26888": "|**2026-10-13**|**Mixture of Phonetic Experts Based Low-Rank Adaptation of Conformer Models for Accented English Speech Recognition**|Santosh Dahal et.al.|[2610.26888](http://arxiv.org/abs/2610.26888)|null|\n",
+    "2610.29720": "|**2026-10-21**|**Bio-Inspired Auditory Processing: Coupling Parallel Resonate-and-Fire Dynamics with Ternary Recurrent Networks for Speech Recognition**|Pavlos Poulos et.al.|[2610.29720](http://arxiv.org/abs/2610.29720)|null|\n",
+    "2610.29455": "|**2026-10-21**|**Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**|Yuan Ge et.al.|[2610.29455](http://arxiv.org/abs/2610.29455)|null|\n",
+    "2610.29428": "|**2026-10-21**|**VIRA-Bench: Diagnosing Pedagogical Contingency Understanding in Online Tutoring Videos**|Weihang Wang et.al.|[2610.29428](http://arxiv.org/abs/2610.29428)|**[link](https://github.com/whwangovo/vira-bench)**|\n",
+    "2610.28840": "|**2026-10-20**|**KIRA: A Full-Stack Reading Screening System with Dual-Pathway Analysis for Children**|Maggie Dong et.al.|[2610.28840](http://arxiv.org/abs/2610.28840)|null|\n",
+    "2610.28711": "|**2026-10-20**|**Qwen-Audio-3.1-ASR Technical Report**|Chuanmeng Bian et.al.|[2610.28711](http://arxiv.org/abs/2610.28711)|null|\n",
+    "2610.28673": "|**2026-10-18**|**How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder**|Amr Abdelkhalik et.al.|[2610.28673](http://arxiv.org/abs/2610.28673)|null|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
