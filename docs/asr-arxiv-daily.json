@@ -1287,7 +1287,14 @@
     "2610.29428": "|**2026-10-21**|**VIRA-Bench: Diagnosing Pedagogical Contingency Understanding in Online Tutoring Videos**|Weihang Wang et.al.|[2610.29428](http://arxiv.org/abs/2610.29428)|null|\n",
     "2610.28840": "|**2026-10-20**|**KIRA: A Full-Stack Reading Screening System with Dual-Pathway Analysis for Children**|Maggie Dong et.al.|[2610.28840](http://arxiv.org/abs/2610.28840)|null|\n",
     "2610.28711": "|**2026-10-20**|**Qwen-Audio-3.1-ASR Technical Report**|Chuanmeng Bian et.al.|[2610.28711](http://arxiv.org/abs/2610.28711)|null|\n",
-    "2610.28673": "|**2026-10-18**|**How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder**|Amr Abdelkhalik et.al.|[2610.28673](http://arxiv.org/abs/2610.28673)|null|\n"
+    "2610.28673": "|**2026-10-22**|**How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder**|Amr Abdelkhalik et.al.|[2610.28673](http://arxiv.org/abs/2610.28673)|null|\n",
+    "2610.31415": "|**2026-10-22**|**SyRA-CS: Synthetic-to-Real Adaptation for Code-Switched ASR with Meta-Learning**|Fadel Thior et.al.|[2610.31415](http://arxiv.org/abs/2610.31415)|null|\n",
+    "2610.31292": "|**2026-10-22**|**Spark-Audio 1.0 Technical Report**|Chenyue Zhang et.al.|[2610.31292](http://arxiv.org/abs/2610.31292)|null|\n",
+    "2610.31259": "|**2026-10-22**|**A Systematic Comparison of Search Space Complexity and Efficiency for Time-Synchronous End-to-End ASR Models**|Simon Berger et.al.|[2610.31259](http://arxiv.org/abs/2610.31259)|null|\n",
+    "2610.30895": "|**2026-10-22**|**Your Home Remembers: A Voice-Enabled Household Memory Assistant for Conversational Retrieval**|Aleix Sant et.al.|[2610.30895](http://arxiv.org/abs/2610.30895)|null|\n",
+    "2610.30872": "|**2026-10-22**|**Lip-Focused Audio-Visual Consistency Detects Speech Content Manipulation beyond Coarse Synchronization**|Jian Zong et.al.|[2610.30872](http://arxiv.org/abs/2610.30872)|null|\n",
+    "2610.30663": "|**2026-10-22**|**Group Relative Policy Optimisation Improves Multilingual Speech Recognition in Low-Resource Languages**|Tim Wenjie Hu et.al.|[2610.30663](http://arxiv.org/abs/2610.30663)|null|\n",
+    "2610.30385": "|**2026-10-21**|**Text-Only LLM Correctors Break Correct Transcripts: A Repair-Damage Analysis of Audio Grounding in ASR Error Correction**|Vasiliy Kudryavtsev et.al.|[2610.30385](http://arxiv.org/abs/2610.30385)|null|\n"
   },
   "TTS": {
     "2509.06074": "|**2025-09-07**|**Multimodal Fine-grained Context Interaction Graph Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2509.06074](http://arxiv.org/abs/2509.06074)|null|\n",
