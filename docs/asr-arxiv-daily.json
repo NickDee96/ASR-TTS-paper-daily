@@ -16070,7 +16070,7 @@
     "2610.26066": "|**2026-10-19**|**FinSafeGuard: A Quality-Driven Synthetic Dataset for Financial AI Safety**|Joseph Thomas Thacil et.al.|[2610.26066](http://arxiv.org/abs/2610.26066)|null|\n",
     "2610.25360": "|**2026-10-18**|**Operator-Mismatch Contrastive Learning for World-Relative Trajectory Coherence**|One Octadion et.al.|[2610.25360](http://arxiv.org/abs/2610.25360)|null|\n",
     "2610.25246": "|**2026-10-18**|**Estimating Causal Bounds from Observational Data With Neural Generative Models**|Max Zhu et.al.|[2610.25246](http://arxiv.org/abs/2610.25246)|null|\n",
-    "2610.24965": "|**2026-10-26**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|**[link](https://github.com/ueriniuno/MVIP)**|\n",
+    "2610.24965": "|**2026-10-26**|**Meta Inverse Prompting for Video Generative Models**|Yerin Jung et.al.|[2610.24965](http://arxiv.org/abs/2610.24965)|null|\n",
     "2610.24474": "|**2026-10-17**|**Ben-Misandry: A Bengali Dataset and Late-Fusion Transformer Framework for Detecting Anti-Male Gender Hate**|Md Mehedi Hasan Nipu et.al.|[2610.24474](http://arxiv.org/abs/2610.24474)|null|\n",
     "2610.24233": "|**2026-10-16**|**Censored Flow Matching for Synthetic Time-to-Event Generation**|Jianbin Tan et.al.|[2610.24233](http://arxiv.org/abs/2610.24233)|null|\n",
     "2610.24124": "|**2026-10-16**|**On the Selectivity of Generative Models in Structure-Based Drug Design**|Ella Miray Rajaonson et.al.|[2610.24124](http://arxiv.org/abs/2610.24124)|null|\n",
@@ -16124,6 +16124,15 @@
     "2610.33731": "|**2026-10-24**|**How Geometry Shapes Generative Model Evaluation on Riemannian Manifolds**|Misha Oberski et.al.|[2610.33731](http://arxiv.org/abs/2610.33731)|null|\n",
     "2610.33403": "|**2026-10-24**|**Faithful Federated Tabular Data Synthesis**|Zilong Cao et.al.|[2610.33403](http://arxiv.org/abs/2610.33403)|null|\n",
     "2610.33126": "|**2026-10-23**|**Inference-Time Prior Adaptation for Imbalanced Data Streams under Concept Drift**|Tobias Callies et.al.|[2610.33126](http://arxiv.org/abs/2610.33126)|null|\n",
-    "2610.33099": "|**2026-10-22**|**EGGPlacer: Energy-Guided Generative Chip Placement with Diffusion Models**|Qi Zhou et.al.|[2610.33099](http://arxiv.org/abs/2610.33099)|null|\n"
+    "2610.33099": "|**2026-10-22**|**EGGPlacer: Energy-Guided Generative Chip Placement with Diffusion Models**|Qi Zhou et.al.|[2610.33099](http://arxiv.org/abs/2610.33099)|null|\n",
+    "2610.37640": "|**2026-10-27**|**Partially Edited Audio: Generation, Defense, and Open Problems**|Lin Zhang et.al.|[2610.37640](http://arxiv.org/abs/2610.37640)|null|\n",
+    "2610.37446": "|**2026-10-27**|**PolyGandr: Steering Generative Models via Spatial Navigation through Latent Space**|Mingwei S. G. Li et.al.|[2610.37446](http://arxiv.org/abs/2610.37446)|null|\n",
+    "2610.37398": "|**2026-10-27**|**An end-to-end framework for uncertainty-aware validation of generative models**|Giada Badaracco et.al.|[2610.37398](http://arxiv.org/abs/2610.37398)|null|\n",
+    "2610.37116": "|**2026-10-27**|**Generative quantum extreme learning machines**|Marcin Płodzień et.al.|[2610.37116](http://arxiv.org/abs/2610.37116)|null|\n",
+    "2610.37105": "|**2026-10-27**|**Text Generation in Low-Resource Languages Using Human-Curated Vocabularies**|Michael Christlambert Sinanta et.al.|[2610.37105](http://arxiv.org/abs/2610.37105)|null|\n",
+    "2610.37036": "|**2026-10-27**|**GraftRay: Physically Based Mesh Insertion into Gaussian Splatting Scenes via Path Tracing**|Jinxin Ai et.al.|[2610.37036](http://arxiv.org/abs/2610.37036)|null|\n",
+    "2610.36954": "|**2026-10-27**|**When Diffusion Recommenders Stop Sampling: Preserving Generative Diversity**|Louis Castres Saint Martin et.al.|[2610.36954](http://arxiv.org/abs/2610.36954)|null|\n",
+    "2610.36269": "|**2026-10-26**|**Cross-modal Steering Vectors Exist Across Both Image and Text Generation**|Donghao Zeng et.al.|[2610.36269](http://arxiv.org/abs/2610.36269)|null|\n",
+    "2610.36155": "|**2026-10-26**|**A generative foundation model for 2D magnetized plasma turbulence**|Junyi Guo et.al.|[2610.36155](http://arxiv.org/abs/2610.36155)|null|\n"
   }
 }
