@@ -3638,7 +3638,9 @@
     "2610.34278": "|**2026-10-25**|**A Russian, a Brazilian, and a German Walk into a Bar, Ask the Same Question-- And Get Three Different Answers: Profiling LLM Perspective Diversity on Contested Topics**|Wiem Ben Rim et.al.|[2610.34278](http://arxiv.org/abs/2610.34278)|null|\n",
     "2610.33749": "|**2026-10-24**|**Refined Assessment for Translation Evaluation: Rethinking Machine Translation Evaluation in the Era of Human-Level Systems**|Dmitry Popov et.al.|[2610.33749](http://arxiv.org/abs/2610.33749)|null|\n",
     "2610.33741": "|**2026-10-24**|**Beyond Prompts: A Systematic Study of LLM-Based Machine Translation Evaluators**|Dmitry Popov et.al.|[2610.33741](http://arxiv.org/abs/2610.33741)|null|\n",
-    "2610.36432": "|**2026-10-27**|**No Tokenizer, Still a Gap: Cross-Lingual Fairness of Homoglyph and Invisible-Character Watermarking**|Alexander Nemecek et.al.|[2610.36432](http://arxiv.org/abs/2610.36432)|null|\n"
+    "2610.36432": "|**2026-10-27**|**No Tokenizer, Still a Gap: Cross-Lingual Fairness of Homoglyph and Invisible-Character Watermarking**|Alexander Nemecek et.al.|[2610.36432](http://arxiv.org/abs/2610.36432)|null|\n",
+    "2610.38509": "|**2026-10-28**|**Leaving the Cave by Breaking the Symmetry: Identifiable Structure Can Enable Cross-Lingual Generalization**|Frederick Riemenschneider et.al.|[2610.38509](http://arxiv.org/abs/2610.38509)|null|\n",
+    "2610.38267": "|**2026-10-28**|**Cross Lingual Abstractive Summarization for Marathi**|Asang Dani et.al.|[2610.38267](http://arxiv.org/abs/2610.38267)|**[link](https://github.com/siddharth-57/Multilingual-Cross-Lingual-Text-Summarization-of-Marathi-and-English-using-Transformer-Based-Models)**|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
