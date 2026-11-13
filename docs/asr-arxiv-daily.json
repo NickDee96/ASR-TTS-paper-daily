@@ -3559,7 +3559,7 @@
     "2609.21722": "|**2026-09-18**|**CIBuzzBench: A Benchmark for Cross-Lingual Understanding of Chinese Internet Buzzwords**|Yifan Wang et.al.|[2609.21722](http://arxiv.org/abs/2609.21722)|null|\n",
     "2609.21490": "|**2026-09-18**|**Benchmarking Gender Bias in Machine Translation Evaluation Metrics across Occupations**|Orfeas Menis Mastromichalakis et.al.|[2609.21490](http://arxiv.org/abs/2609.21490)|null|\n",
     "2609.21247": "|**2026-09-18**|**When Does Reasoning Help in Machine Translation? A Hierarchical Analysis of LRM Reasoning Traces**|Yuxiang Liu et.al.|[2609.21247](http://arxiv.org/abs/2609.21247)|null|\n",
-    "2609.20875": "|**2026-09-16**|**Cross-Lingual Parkinson's Disease Severity Assessment Using Pre-trained Speech Embeddings: A Multi-Class Evaluation**|Simon Pals et.al.|[2609.20875](http://arxiv.org/abs/2609.20875)|null|\n",
+    "2609.20875": "|**2026-09-16**|**Cross-Lingual Parkinson's Disease Severity Assessment Using Pre-trained Speech Embeddings: A Multi-Class Evaluation**|Simon Pals et.al.|[2609.20875](http://arxiv.org/abs/2609.20875)|**[link](https://github.com/simon-hjp/pd-speech-embedding-severity-classification)**|\n",
     "2609.20832": "|**2026-07-23**|**TatBLiMP: A Benchmark of Linguistic Minimal Pairs for Tatar**|Ilshat Saetov et.al.|[2609.20832](http://arxiv.org/abs/2609.20832)|null|\n",
     "2609.24650": "|**2026-09-21**|**Assessing Readability with LLMs: The Role of Reasoning and Few-Shot Prompting**|Raphaël Thieffry et.al.|[2609.24650](http://arxiv.org/abs/2609.24650)|null|\n",
     "2609.23231": "|**2026-09-19**|**ChemCLIR-Bench: Benchmarking Cross-Lingual Information Retrieval in Multilingual Chemical Patents**|Mahdi Astaraki et.al.|[2609.23231](http://arxiv.org/abs/2609.23231)|null|\n",
@@ -3595,7 +3595,7 @@
     "2609.33691": "|**2026-09-27**|**When Do Agents Help? Embedding, LLM and Agentic Alignment of Classical Texts and Their Translations**|Máté Metzger et.al.|[2609.33691](http://arxiv.org/abs/2609.33691)|null|\n",
     "2609.33296": "|**2026-09-27**|**BaatCheet: A Multilingual Corpus for Dialogue Translation in Indian Languages**|Priyanka Dasari et.al.|[2609.33296](http://arxiv.org/abs/2609.33296)|null|\n",
     "2609.32331": "|**2026-09-26**|**Language Distances are Practical for Equitable Cross-Lingual Transfer**|York Hay Ng et.al.|[2609.32331](http://arxiv.org/abs/2609.32331)|null|\n",
-    "2609.31727": "|**2026-09-22**|**The Ongiini-Eval-OW Benchmark: A Concept Paper for the Planned Benchmarking of Machine Translation and Large Language Models on Oshindonga and Oshikwanyama**|Sebastian Küpers et.al.|[2609.31727](http://arxiv.org/abs/2609.31727)|**[link](https://github.com/sebkuepers/Ongiini)**|\n",
+    "2609.31727": "|**2026-09-22**|**The Ongiini-Eval-OW Benchmark: A Concept Paper for the Planned Benchmarking of Machine Translation and Large Language Models on Oshindonga and Oshikwanyama**|Sebastian Küpers et.al.|[2609.31727](http://arxiv.org/abs/2609.31727)|null|\n",
     "2609.37883": "|**2026-09-29**|**Zero-shot Dependency Parsing with Unsupervised Cross-Lingual Bootstrapping**|Lalita Lowphansirikul et.al.|[2609.37883](http://arxiv.org/abs/2609.37883)|null|\n",
     "2609.37882": "|**2026-09-29**|**How Many Labels Does a Language Need? Annotation Budgets and Cross-Lingual Pooling for African-Language Text Classification**|Bhanu Prakash Vangala et.al.|[2609.37882](http://arxiv.org/abs/2609.37882)|null|\n",
     "2609.37543": "|**2026-09-29**|**RunyaNER: Auxiliary Language Selection for Runyankore NER**|Prosper Arineitwe Asiimwe et.al.|[2609.37543](http://arxiv.org/abs/2609.37543)|null|\n",
@@ -3727,7 +3727,8 @@
     "2611.10575": "|**2026-11-07**|**ROLECUE: Diagnosing Cross-Lingual Role-Binding Failures in Vision-Language Models**|Niaz Mohaiman Abtahi et.al.|[2611.10575](http://arxiv.org/abs/2611.10575)|null|\n",
     "2611.10555": "|**2026-11-11**|**YRC-Bench: Benchmarking Culturally Aware Machine Translation for Historical Heritage via Tri-Level Semantic Bridging**|Yan Huang et.al.|[2611.10555](http://arxiv.org/abs/2611.10555)|null|\n",
     "2611.14480": "|**2026-11-10**|**Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation**|Evelyn Y. Garland et.al.|[2611.14480](http://arxiv.org/abs/2611.14480)|null|\n",
-    "2611.14675": "|**2026-11-10**|**MITRA-Swarm: Injecting Explicit Linguistic Structure into Foundation Models for Classical Machine Translation**|Kayshav Bhardwaj et.al.|[2611.14675](http://arxiv.org/abs/2611.14675)|null|\n"
+    "2611.14675": "|**2026-11-10**|**MITRA-Swarm: Injecting Explicit Linguistic Structure into Foundation Models for Classical Machine Translation**|Kayshav Bhardwaj et.al.|[2611.14675](http://arxiv.org/abs/2611.14675)|null|\n",
+    "2611.16956": "|**2026-11-12**|**Lara Mini Base: Language Diversity as a Resource, Not a Trade-off**| Translated et.al.|[2611.16956](http://arxiv.org/abs/2611.16956)|null|\n"
   },
   "Small Language Models": {
     "2509.06956": "|**2025-09-08**|**H$_{2}$OT: Hierarchical Hourglass Tokenizer for Efficient Video Pose Transformers**|Wenhao Li et.al.|[2509.06956](http://arxiv.org/abs/2509.06956)|null|\n",
@@ -11963,7 +11964,21 @@
     "2611.14924": "|**2026-11-11**|**Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs**|Zahraa Selim et.al.|[2611.14924](http://arxiv.org/abs/2611.14924)|null|\n",
     "2611.14851": "|**2026-11-11**|**Paired Geometric Supervision for Generalizable Deepfake Detection**|Luke Collins et.al.|[2611.14851](http://arxiv.org/abs/2611.14851)|null|\n",
     "2611.14757": "|**2026-11-10**|**Performance Analysis of Quantization-Aware Neural Channel Estimation with Low-Precision Inference**|Joonas Törmälä et.al.|[2611.14757](http://arxiv.org/abs/2611.14757)|null|\n",
-    "2611.14590": "|**2026-11-10**|**An Asynchronous Federated Learning Platform for Lung Adenocarcinoma Grading via Foundation Models and Structural Pruning**|Moon-Il Joo et.al.|[2611.14590](http://arxiv.org/abs/2611.14590)|null|\n"
+    "2611.14590": "|**2026-11-10**|**An Asynchronous Federated Learning Platform for Lung Adenocarcinoma Grading via Foundation Models and Structural Pruning**|Moon-Il Joo et.al.|[2611.14590](http://arxiv.org/abs/2611.14590)|null|\n",
+    "2611.17230": "|**2026-11-12**|**Two mathematical models of knowledge distillation**|Audrey Xie et.al.|[2611.17230](http://arxiv.org/abs/2611.17230)|null|\n",
+    "2611.17212": "|**2026-11-12**|**Theoretical and Empirical Analysis of Sparse Convolution**|Keshvi Tuteja et.al.|[2611.17212](http://arxiv.org/abs/2611.17212)|null|\n",
+    "2611.17191": "|**2026-11-12**|**Maximizing Capacity Utilization of LoRA Adapters for Mitigating the Learning-Forgetting Trade-off**|Tomohiro Sawada et.al.|[2611.17191](http://arxiv.org/abs/2611.17191)|null|\n",
+    "2611.17150": "|**2026-11-12**|**Reentrant Nematicity from Landau Quantization near a Pomeranchuk Instability**|Luís E. Leite Macêdo et.al.|[2611.17150](http://arxiv.org/abs/2611.17150)|null|\n",
+    "2611.17146": "|**2026-11-12**|**HiVE-VQA: Hierarchical Interaction via Volumetric Embedding for Video Quality Assessment**|Robbie Hamilton et.al.|[2611.17146](http://arxiv.org/abs/2611.17146)|null|\n",
+    "2611.17128": "|**2026-11-12**|**Parameter-Efficient Conciseness Adaptation: Differentiable Length Control for Concise Clinical Reasoning in Smaller Language Models**|Tanzeel Abbas et.al.|[2611.17128](http://arxiv.org/abs/2611.17128)|null|\n",
+    "2611.17115": "|**2026-11-12**|**CapLite: Prompt-Injection Defense for Small Language Model Agents without Model-Written Security Artifacts**|Zimo Xu et.al.|[2611.17115](http://arxiv.org/abs/2611.17115)|null|\n",
+    "2611.17105": "|**2026-11-12**|**Predicting Ethanol Drinking Status from Nonhuman Primate Liver Histology: A Proof of Concept for Parameter-efficient Fine-tuning in Few-Shot Vision-Language Modeling**|Amirmohammad Mohammadi et.al.|[2611.17105](http://arxiv.org/abs/2611.17105)|null|\n",
+    "2611.17101": "|**2026-11-12**|**A Compact xDAWN-Guided Spatio-Temporal Network with Filter-Bank Convolution for P300 Detection**|Mohammad Mahdi Habibi Bina et.al.|[2611.17101](http://arxiv.org/abs/2611.17101)|null|\n",
+    "2611.16948": "|**2026-11-12**|**Thulium- and Holmium-Doped Silica Fibres for 2 μm High-Power and Highly-Efficient Lasers**|Richard Svejkar et.al.|[2611.16948](http://arxiv.org/abs/2611.16948)|null|\n",
+    "2611.16934": "|**2026-11-12**|**Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences**|Torben Berndt et.al.|[2611.16934](http://arxiv.org/abs/2611.16934)|null|\n",
+    "2611.16925": "|**2026-11-12**|**Report of the 8th LSVOS Challenge: Mobile Unified Multimodal Understanding**|Chang Liu et.al.|[2611.16925](http://arxiv.org/abs/2611.16925)|null|\n",
+    "2611.16856": "|**2026-11-12**|**Sustainable Federated Fine-Tuning with LoRA: Environmental Impact and Performance Footprint**|Pedro Augusto Londe Ribeiro et.al.|[2611.16856](http://arxiv.org/abs/2611.16856)|null|\n",
+    "2611.16793": "|**2026-11-12**|**EG360: Efficient and Generalizable $360^\\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion**|Laiyan Ding et.al.|[2611.16793](http://arxiv.org/abs/2611.16793)|null|\n"
   },
   "Data Augmentation": {
     "2509.06750": "|**2025-09-08**|**Pothole Detection and Recognition based on Transfer Learning**|Mang Hu et.al.|[2509.06750](http://arxiv.org/abs/2509.06750)|null|\n",
@@ -13643,11 +13658,11 @@
     "2610.29152": "|**2026-11-04**|**From Augmentation to Synthetic Evidence: Evaluating Generated Chest Radiographs at Dataset Intake**|Shaikh Akib Shahriyar et.al.|[2610.29152](http://arxiv.org/abs/2610.29152)|null|\n",
     "2611.08342": "|**2026-11-05**|**4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering**|Adnan Armouti et.al.|[2611.08342](http://arxiv.org/abs/2611.08342)|null|\n",
     "2611.07613": "|**2026-11-05**|**Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation**|Kotaro Oishi et.al.|[2611.07613](http://arxiv.org/abs/2611.07613)|null|\n",
-    "2611.10875": "|**2026-11-07**|**REDiff-AD: No Training and No Target Masks for Industrial Anomaly Image Generation via Diversity-Driven In-Context MMDiT**|Chih-Yu Tsai et.al.|[2611.10875](http://arxiv.org/abs/2611.10875)|null|\n",
+    "2611.10875": "|**2026-11-07**|**REDiff-AD: No Training and No Target Masks for Industrial Anomaly Image Generation via Diversity-Driven In-Context MMDiT**|Chih-Yu Tsai et.al.|[2611.10875](http://arxiv.org/abs/2611.10875)|**[link](https://github.com/tsaiyu0816/REDiff-AD)**|\n",
     "2611.10568": "|**2026-11-07**|**Wireless Interference Recognition with Limited Data via Utilizing Diffusion Model**|Rui Wang et.al.|[2611.10568](http://arxiv.org/abs/2611.10568)|null|\n",
     "2611.10257": "|**2026-11-06**|**VeV: Video-Enhanced Vibration Data Augmentation For Structural Difference**|Joonhee Lee et.al.|[2611.10257](http://arxiv.org/abs/2611.10257)|null|\n",
     "2611.10228": "|**2026-11-06**|**FAIR Universe Weak Lensing ML Uncertainty Challenge: Dataset and Cosmological Inference Competition**|Biwei Dai et.al.|[2611.10228](http://arxiv.org/abs/2611.10228)|null|\n",
-    "2611.10073": "|**2026-11-06**|**Noise-Regularized Training for Learned Image Compression**|Renjie Zou et.al.|[2611.10073](http://arxiv.org/abs/2611.10073)|null|\n",
+    "2611.10073": "|**2026-11-06**|**Noise-Regularized Training for Learned Image Compression**|Renjie Zou et.al.|[2611.10073](http://arxiv.org/abs/2611.10073)|**[link](https://github.com/Googolxx/NoiseRegu-LIC)**|\n",
     "2611.14134": "|**2026-11-10**|**Right for the Wrong Reasons? Evaluating Plausibility and Behavioral Change in Explanation-Guided Learning**|David Dembinsky et.al.|[2611.14134](http://arxiv.org/abs/2611.14134)|null|\n",
     "2611.13920": "|**2026-11-10**|**CAppleNet: A Coordinate Attention-Based YOLO11 for Real-Time Apple Stem Cavity and Calyx Detection**|Alican Güneş et.al.|[2611.13920](http://arxiv.org/abs/2611.13920)|null|\n",
     "2611.13013": "|**2026-11-09**|**FaST: Factored Synthesis of Transitions for Offline Reinforcement Learning**|Daniel Campa et.al.|[2611.13013](http://arxiv.org/abs/2611.13013)|null|\n",
@@ -16729,7 +16744,7 @@
     "2611.04760": "|**2026-11-03**|**Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting**|Raz Marshanski et.al.|[2611.04760](http://arxiv.org/abs/2611.04760)|null|\n",
     "2611.04633": "|**2026-11-03**|**ReXMo: End-to-End Video Character Replacement with Expression and Motion Preservation**|Hualiang Wei et.al.|[2611.04633](http://arxiv.org/abs/2611.04633)|null|\n",
     "2611.04529": "|**2026-11-03**|**Learning to Falsify: Hierarchical Multiple Instance Learning for High Resolution AI-Generated Image Detection**|Haoran Chen et.al.|[2611.04529](http://arxiv.org/abs/2611.04529)|null|\n",
-    "2611.04282": "|**2026-11-03**|**TTSonic: A Unified Framework for Composable and Controllable Speech Generation**|Zhedong Zhang et.al.|[2611.04282](http://arxiv.org/abs/2611.04282)|null|\n",
+    "2611.04282": "|**2026-11-03**|**TTSonic: A Unified Framework for Composable and Controllable Speech Generation**|Zhedong Zhang et.al.|[2611.04282](http://arxiv.org/abs/2611.04282)|**[link](https://github.com/bytedance/TTSonic)**|\n",
     "2611.04207": "|**2026-11-03**|**Point interpolation and distributional universality in flow-based generative models**|Antonio Álvarez-López et.al.|[2611.04207](http://arxiv.org/abs/2611.04207)|null|\n",
     "2611.04146": "|**2026-11-03**|**RGDM: Robust Graph Diffusion Model**|Yancheng Wang et.al.|[2611.04146](http://arxiv.org/abs/2611.04146)|null|\n",
     "2611.04056": "|**2026-11-02**|**Structured Priors: Towards an algebra of component priors for prior-data fitted networks**|Thomas Bartz-Beielstein et.al.|[2611.04056](http://arxiv.org/abs/2611.04056)|null|\n",
@@ -16787,6 +16802,9 @@
     "2611.15447": "|**2026-11-11**|**Escaping the Curse of Dimensionality in One-Step Flow-Based Generative Models**|Konstantin Yakovlev et.al.|[2611.15447](http://arxiv.org/abs/2611.15447)|null|\n",
     "2611.15040": "|**2026-11-11**|**Moving Beyond the DRW Model: Learning Quasar Variability with Generative Models**|Nadav Bojan Sellam et.al.|[2611.15040](http://arxiv.org/abs/2611.15040)|null|\n",
     "2611.14971": "|**2026-11-11**|**Can Music Generation Models Tap Along? Evaluating Generative Approaches to Beat Tracking**|Kun Fang et.al.|[2611.14971](http://arxiv.org/abs/2611.14971)|null|\n",
-    "2611.14898": "|**2026-11-11**|**From Pixels to Prompts: Physics-Guided Language Enhancement for AI-Generated Image Detection**|Mei Qiu et.al.|[2611.14898](http://arxiv.org/abs/2611.14898)|null|\n"
+    "2611.14898": "|**2026-11-11**|**From Pixels to Prompts: Physics-Guided Language Enhancement for AI-Generated Image Detection**|Mei Qiu et.al.|[2611.14898](http://arxiv.org/abs/2611.14898)|null|\n",
+    "2611.17324": "|**2026-11-12**|**K2V: Generative Keyframing For Physically Plausible Video Generation**|Felix O'Mahony et.al.|[2611.17324](http://arxiv.org/abs/2611.17324)|null|\n",
+    "2611.16995": "|**2026-11-12**|**Entire sig-jump-diffusions, their expected signature and applications to score-based generative modeling**|Christa Cuchiero et.al.|[2611.16995](http://arxiv.org/abs/2611.16995)|null|\n",
+    "2611.16714": "|**2026-11-12**|**Towards Green Text Generation: Memory-Based Speculative Decoding**|Antal van den Bosch et.al.|[2611.16714](http://arxiv.org/abs/2611.16714)|null|\n"
   }
 }
